@@ -1,64 +1,62 @@
 <section class="vf-mobile ws10-u--pt12x">
     <p class="ws10-u-heading--4 ws10-u--mb2x ws10-flex ws10-flex__direction--column">
-        <span><strong>Sin sorpresas.</strong></span>
-        <span><strong>No escondemos nada</strong></span>
+        <span><strong>{{ noSurprises.title.[0] }}</strong></span>
+        <span><strong>{{ noSurprises.title.[1] }}</strong></span>
     </p>
-    <p>Impuestos y cuota de línea incluidos.</p>
-    <p><strong>Permanencia 1 año</strong></p>
-    <p>¿Cuánto voy a pagar?</p>
-    <p><strong>Paquete Móvil + Fibra: 37,49€/mes durante 3 meses,
-        después <span>74,99€/mes</span></strong>
+    <p>{{ noSurprises.paragraphs.[0] }}</p>
+    <p><strong>{{ noSurprises.paragraphs.[1] }}</strong></p>
+    <p>{{ noSurprises.paragraphs.[2] }}</p>
+    <p><strong>{{ noSurprises.paragraphs.[3] }}<span>{{ noSurprises.paragraphs.[4] }}</span></strong>
     </p>
     <p class="ws10-flex ws10-flex__direction--column">
-        <span>Otras promociones:</span>
-        <span>Llévate el paquete de Fibra + Móvil al 50% dto. 3 meses.</span>
-        <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año, después con un 50% dto.
-            por solo 9,99€/mes (dto. ya aplicado).</span>
-        <span>Paquete de TV: GRATIS durante 1 año, después 10€/mes.</span>
+        <span>{{ noSurprises.otherPromotions.[0] }}</span>
+        <span>{{ noSurprises.otherPromotions.[1] }}</span>
+        <span data-js-vf="_portability">{{ noSurprises.otherPromotions.[2] }}</span>
+        <span>{{ noSurprises.otherPromotions.[3] }}</span>
     </p>
 
     <!----PRICE-TAB-->
     <div class="ws10-c-price-bar-group ws10-u--mt4x ws10-u--mb4x">
         <div class="ws10-c-price-bar">
             <span class="ws10-c-price-bar__text  ws10-u--mb4x">
-                Los primeros 3 meses
+                {{ noSurprises.priceTab.[0].[0] }}
             </span>
             <span
                 class="ws10-c-price-bar__hr ws10-c-price-bar__hr--start ws10-c-price-bar__hr--separator-end ws10-c-price-bar__hr--bg-aqua-blue"></span>
             <div
                 class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop">
-                <span class="ws10-c-price__amount">37,49</span>
-                <span class="ws10-c-price__currency">€</span>
-                <sub class="ws10-c-price__recurrence">/mes</sub>
+                <span class="ws10-c-price__amount">{{ noSurprises.priceTab.[0].[1] }}</span>
+                <span class="ws10-c-price__currency">{{ noSurprises.priceTab.[0].[2] }}</span>
+                <sub class="ws10-c-price__recurrence">{{ noSurprises.priceTab.[0].[3] }}</sub>
             </div>
         </div>
         <div class="ws10-c-price-bar">
-            <span class="ws10-c-price-bar__text ws10-u--mb4x">Del mes 4 al mes 12</span>
+            <span class="ws10-c-price-bar__text ws10-u--mb4x">{{ noSurprises.priceTab.[1].[0] }}</span>
             <span
                 class="ws10-c-price-bar__hr ws10-c-price-bar__hr--none ws10-c-price-bar__hr--bg-lemon-yellow"></span>
             <div
                 class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop">
-                <span class="ws10-c-price__amount">74,99</span>
-                <span class="ws10-c-price__currency">€</span>
-                <sub class="ws10-c-price__recurrence">/mes</sub>
+                <span class="ws10-c-price__amount">{{ noSurprises.priceTab.[1].[1] }}</span>
+                <span class="ws10-c-price__currency">{{ noSurprises.priceTab.[1].[2] }}</span>
+                <sub class="ws10-c-price__recurrence">{{ noSurprises.priceTab.[1].[3] }}</sub>
             </div>
         </div>
         <div class="ws10-c-price-bar">
             <span class="ws10-c-price-bar__text ws10-u--mb4x">
-                A partir del año
+                {{ noSurprises.priceTab.[2].[0] }}
             </span>
             <span
                 class="ws10-c-price-bar__hr ws10-c-price-bar__hr--end ws10-c-price-bar__hr--separator-start ws10-c-price-bar__hr--bg-dark-grey"></span>
             <div
                 class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop">
                 <div data-js-vf="_portability">
-                    <span class="ws10-c-price__amount">94,98</span>
+                    <span class="ws10-c-price__amount">{{ noSurprises.priceTab.[2].[1] }}</span>
                 </div>
                 <div class="ws10-u--hidden" data-js-vf="_newNumber">
-                    <span class="ws10-c-price__amount">84,99</span>
+                    <span class="ws10-c-price__amount">{{ noSurprises.priceTab.[2].[2] }}</span>
                 </div>
-                <span class="ws10-c-price__currency">€</span>
-                <sub class="ws10-c-price__recurrence">/mes</sub>
+                <span class="ws10-c-price__currency">{{ noSurprises.priceTab.[2].[3] }}</span>
+                <sub class="ws10-c-price__recurrence">{{ noSurprises.priceTab.[2].[4] }}</sub>
             </div>
         </div>
     </div>

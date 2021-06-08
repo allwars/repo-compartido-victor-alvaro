@@ -73,6 +73,30 @@
   },
   "mobile": {
       "title": ["Móvil", "Datos ilimitados para no perderte nada"]
+  },
+  "alsoIncluded": {
+      "title": "También incluido en Vodafone One Ilimitada Plus 600Mbps"
+  },
+  "noSurprises": {
+      "title": ["Sin sorpresas.", "No escondemos nada"],
+      "paragraphs": [
+          "Impuestos y cuota de línea incluidos.",
+          "Permanencia 1 año",
+          "¿Cuánto voy a pagar?",
+          "Paquete Móvil + Fibra: 37,49€/mes durante 3 meses, después ",
+          "74,99€/mes"
+      ],
+      "otherPromotions": [
+          "Otras promociones:",
+          "Llévate el paquete de Fibra + Móvil al 50% dto. 3 meses.",
+          "Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 9,99€/mes (dto. ya aplicado).",
+          "Paquete de TV: GRATIS durante 1 año, después 10€/mes."
+      ],
+      "priceTab": [
+          ["Los primeros 3 meses", "37,49", "€", "/mes"],
+          ["Del mes 4 al mes 12", "74,99", "€", "/mes"],
+          ["A partir del año", "94,98", "84,99", "€", "/mes"]
+      ]
   }
 
 }
