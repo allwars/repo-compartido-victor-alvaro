@@ -1,0 +1,105 @@
+<section class="vf-mobile ws10-u--pt12x">
+  <p
+    class="ws10-u-heading--4 ws10-u--mb2x ws10-flex ws10-flex__direction--column"
+  >
+    <span><strong>Sin sorpresas.</strong></span>
+    <span><strong>No escondemos nada</strong></span>
+  </p>
+  <p>Impuestos y cuota de línea incluidos.</p>
+  <p><strong>{{ permanencia }}</strong></p>
+  <p>¿Cuánto voy a pagar?</p>
+  <p><strong>Paquete {{ fibra-movil }}: {{ price.[0].precio_conpromo }}€/mes durante 3 meses, después {{ price.[0].precio_sinpromo }}€/mes</strong></p>
+  <p class="ws10-flex ws10-flex__direction--column">
+    <span>Otras promociones:</span>
+    <span>Llévate el paquete de {{ fibra-movil }} al {{ header-ticket.title-1 }}</span>
+    <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
+      después con un 50% dto. por solo 9,99€/mes (dto. ya aplicado).</span>
+  </p>
+
+  <!----PRICE-TAB-->
+
+  <div class="ws10-c-price-bar-group ws10-u--mt4x ws10-u--mb4x">
+    <div class="ws10-c-price-bar">
+      <span class="ws10-c-price-bar__text ws10-u--mb4x">
+        {{ bar.[0].bar1 }}
+      </span>
+      <span
+        class="ws10-c-price-bar__hr ws10-c-price-bar__hr--start ws10-c-price-bar__hr--separator-end ws10-c-price-bar__hr--bg-aqua-blue"
+      ></span>
+      <div
+        class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
+      >
+        <span class="ws10-c-price__amount">{{ price.[0].precio_conpromo }}</span>
+        <span class="ws10-c-price__currency">€</span>
+        <sub class="ws10-c-price__recurrence">/mes</sub>
+      </div>
+    </div>
+    <div class="ws10-c-price-bar">
+      <span
+        class="ws10-c-price-bar__text ws10-u--mb4x ws10-u--hidden"
+        data-js-vf="_portability"
+      >{{ bar.[0].bar2 }}</span>
+      <span
+        class="ws10-c-price-bar__text ws10-u--mb4x"
+        data-js-vf="_newNumber"
+      >{{ bar.[1].bar2 }}
+      </span>
+      <span
+        class="ws10-c-price-bar__hr ws10-c-price-bar__hr--none ws10-c-price-bar__hr--bg-lemon-yellow"
+      ></span>
+      <div
+        class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
+      >
+        <span
+          class="ws10-c-price__amount">{{ price.[0].precio_sinpromo }}</span>
+        <span class="ws10-c-price__currency">€</span>
+        <sub class="ws10-c-price__recurrence">/mes</sub>
+      </div>
+    </div>
+    <div class="ws10-c-price-bar" data-js-vf="_portability">
+      <span class="ws10-c-price-bar__text ws10-u--mb4x">
+        {{ bar.[0].bar3 }}
+      </span>
+      <span
+        class="ws10-c-price-bar__hr ws10-c-price-bar__hr--end ws10-c-price-bar__hr--separator-start ws10-c-price-bar__hr--bg-dark-grey"
+      ></span>
+      <div
+        class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
+      >
+        <span
+          class="ws10-c-price__amount">{{ price.[0].precio_depuespromo }}</span>
+        <span class="ws10-c-price__currency">€</span>
+        <sub class="ws10-c-price__recurrence">/mes</sub>
+      </div>
+    </div>
+  </div>
+
+  <!------------->
+  <p class="ws10-u--mb1x">La instalación del servicio de fibra, salvo que sea
+    autoinstalable, tiene un coste para el cliente de 150€.</p>
+  <p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
+    en el servicio durante, al menos, 1 año desde la fecha de instalación.</p>
+
+  <a
+    class="ws10-c-link-chevron ws10-c-link-chevron--primary"
+    target="_blank"
+    href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/"
+    data-analytics-element="modulo inferior"
+    data-analytics-context="condiciones legales"
+    data-analytics-category="cta"
+    data-analytics-id="-5460257368589"
+  >
+    Ver condiciones legales
+    <span class="ws10-u--hidden-visually"> color #E60000</span>
+    <svg
+      class="ws10-c-link-chevron__icon"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      width="24px"
+      height="24px"
+    >
+      <title>Flecha derecha</title>
+      <use class="icon-v3" xlink:href="#icon-chevron-right"></use>
+    </svg>
+  </a>
+</section>
