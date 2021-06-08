@@ -1,0 +1,86 @@
+<section class="ws10-c-card ws10-c-card-rate ws10-c-card--no-shadow" data-ws10-js="card-rate">
+    <div class="ws10-c-card-rate__w-rates">
+        <div class="ws10-c-card-rate__a-rate">
+           <div class="vfms-badge--container">
+                <b class="ws10-c-badge-text ws10-c-badge-text--turquoise vfms-badge1 ws10-u--mr1x">50% dto.</b>
+            </div>
+            <ul class="ws10-c-card-rate__product-info"
+                data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año"
+                data-vfes-seo-empathy-promoprice="{{ rates.fibra300.description.[0].dtoPrice }}"
+                data-vfes-seo-empathy-price="{{ rates.fibra300.description.[0].dtoFinalPrice }}">
+                <li class="ws10-c-card-rate__product-info-item">
+                    <svg class="ws10-c-card-rate__product-icon ws10-u-color--black"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <use xlink:href="#icon-mobile"></use>
+                    </svg>
+                    <div class="ws10-c-card-rate__product">
+                        <p class="ws10-c-card-rate__product-title">
+                            {{ rates.fibra600.description.[0].title }}
+                        </p>
+                        <p class="ws10-c-card-rate__product-txt ws10-c-card-rate__product-txt--primary">
+                            {{ rates.fibra600.description.[0].subtitle }}
+                            <svg class="ws10-c-card-rate__product-txt-icon"
+                                xmlns="http://www.w3.org/2000/svg"
+                                xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <use xlink:href="#icon-thunder-2grey"></use>
+                            </svg>
+                        </p>
+                    </div>
+                </li>
+                <li class="ws10-c-card-rate__product-info-item">
+                    <svg class="ws10-c-card-rate__product-icon ws10-u-color--black"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <use xlink:href="#icon-sim"></use>
+                    </svg>
+                    <div class="ws10-c-card-rate__product">
+                        <p class="ws10-c-card-rate__product-title">
+                            {{ rates.fibra600.description.[1].title }}
+                        </p>
+                        <p class="ws10-c-card-rate__product-txt">
+                            {{ rates.fibra600.description.[1].subtitle }}
+                        </p>
+                    </div>
+                </li>
+                <li class="ws10-c-card-rate__product-info-item">
+                    <svg class="ws10-c-card-rate__product-icon ws10-u-color--black"
+                        xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <use xlink:href="#icon-broadband-or-wifi"></use>
+                    </svg>
+                    <div class="ws10-c-card-rate__product">
+                        <p class="ws10-c-card-rate__product-title">
+                            {{ rates.fibra600.description.[2].title }}
+                        </p>
+                        <p class="ws10-c-card-rate__product-txt">
+                            {{ rates.fibra600.description.[2].subtitle }}
+                        </p>
+                    </div>
+                </li>
+            </ul>
+            <div class="ws10-c-card-rate__w-cta">
+                <div class="ws10-c-card-rate__w-offers">
+                    <div class="ws10-c-card-rate__offer" id="rate-2-offer-1">
+                        <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--percent">
+                            {{ rates.fibra600.offers.dtoPercent }}
+                        </p>
+                        <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label">
+                            {{ rates.fibra300.offers.dtoLabel }}
+                        </p>
+                        <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price">
+                            <del>{{ rates.fibra600.offers.dtoFinalPrice }}€/mes</del>
+                        </p>
+                        <p class="ws10-c-card-rate__price ws10-u-color--black">
+                            {{ rates.fibra600.offers.dtoPrice }}<sub>€/mes</sub>
+                        </p>
+                    </div>
+                </div>
+                <a href="{{ rates.fibra600.cta.url }}"
+                    target="_self" name="Más info" title="Más info"
+                    class="ws10-c-button ws10-c-button--auto vf-button--mobile" data-analytics-context="{{ rates.fibra600.cta.context }}"
+                    data-analytics-element="Más info" data-analytics-category="{{ rates.fibra600.cta.category }}"
+                    data-analytics-id="{{ rates.fibra600.cta.id }}">
+                    {{ rates.fibra600.cta.text }}
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
