@@ -1,6 +1,6 @@
 {
 "fibra-movil":"Fibra + Móvil",
-"velocidad":"300Mbps",
+"velocidad":"600Mbps",
 "permanencia": "Permanencia 1 año",
 
 
@@ -10,11 +10,11 @@
     "icono": "img/banner/icono-bestprice.svg",
     "icono-texto": "Mejor Precio Vodafone",
 
-    "title-ticket": "Vodafone One Ilimitada Avanzada 300Mbps",
+    "title-ticket": "Vodafone One Ilimitada Plus 600Mbps",
     "ticket": {
       "datos": "Datos y minutos ilimitados",
-      "velocidad": "velocidad alta",
-      "icon-velocidad": "#icon-thunder-2grey",
+      "velocidad": "velocidad máxima 5G",
+      "icon-velocidad": "#icon-thunder-3",
       "segundalinea": "4GB y 200 minutos GRATIS",
       "segundalinea_subtitle": "segunda línea GRATIS 1 año",
       "velocidad_fibra_subtitle": "+ llamadas ilimitadas en fijo"
@@ -25,9 +25,9 @@
   "price": [
     {
       "permanencia": "Permanencia 1 año",
-        "precio_sinpromo": "56,99",
-        "precio_conpromo": "28,49",
-        "precio_depuespromo": "66,98"
+        "precio_sinpromo": "74,99",
+        "precio_conpromo": "37,49",
+        "precio_depuespromo": "94,98"
     
     },
     {
@@ -49,13 +49,13 @@
   },
 
   "movil": {
-    "title": "Datos ilimitados para que no te pierdas nada",
-    "velocidad": "10"
+    "title": "Datos ilimitados en tu móvil para TODO",
+    "velocidad": "1Gbps"
   },
 
 
   "fibra":{
-    "dispositivos":"12"
+    "dispositivos":"25"
   },
 
   "bar":[
