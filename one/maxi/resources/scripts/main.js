@@ -30,7 +30,7 @@ tools.onStylesReady = () => {
   let isTablet = width <= 1024 && width >= 768;
 
 
- 
+
 
 
  // Line Selector
@@ -116,7 +116,6 @@ tools.onStylesReady = () => {
     }
   }
 
-
   function positionOfTicket() {
     let infoBanner = banner.getBoundingClientRect();
     console.log(infoBanner)
@@ -134,61 +133,6 @@ tools.onStylesReady = () => {
 * */
 tools.onFrameworkReady = () => {
   console.log("Site functionality ready");
-
- // Speed Selector
- const typeOfSpeedButton = document.querySelectorAll('[data-js-vf="_buttonSpeed"]');
- const infoRegular = document.querySelectorAll('[data-js-vf="_regularRate"]');
- const infoRecommended = document.querySelectorAll('[data-js-vf="_recommendedRate"]');
-
- const recommededCheck = document.querySelector('[data-js-vf="recommendedRateCheck"]');
- const regularCheck = document.querySelector('[data-js-vf="regularRateCheck"]');
-
- const queryString = window.location.search;
- console.log(queryString);
- if(queryString==="?300mbps" || queryString==="?300mbps=" ){
-   regularRate()
-   
- } else {
-   recommendedRate()   
- }
-
-
-   [...typeOfSpeedButton].forEach(label => {
-     label.addEventListener('click', () => typeSpeed(label));
-   });
-
-   function typeSpeed(label) {
-     const speedType = label.getAttribute("data-js-vf-value");
-     if(speedType==="recommendedRate"){
-       recommendedRate() 
-     } else {
-       regularRate()
-     }
-   }
-   function regularRate() {
-     [...infoRegular].forEach((infoRegular,index) => {
-       infoRegular.classList.remove('ws10-u--hidden');
-       infoRecommended[index].classList.add('ws10-u--hidden');
-       recommededCheck.removeAttribute("checked", "");
-       regularCheck.setAttribute("checked", "");
-
-       infoRegular.removeAttribute("aria-hidden", "true");
-       infoRecommended[index].setAttribute("aria-hidden", "true");
-       
-     });
-   }
-   function recommendedRate() {
-     [...infoRecommended].forEach((infoRecommended,index) => {
-       infoRecommended.classList.remove('ws10-u--hidden');
-       infoRegular[index].classList.add('ws10-u--hidden');
-       regularCheck.removeAttribute("checked", "");
-       recommededCheck.setAttribute("checked", "");
-
-       infoRecommended.removeAttribute("aria-hidden", "true");
-       infoRegular[index].setAttribute("aria-hidden", "true");
-     });
-   }
- 
   // DO SOMETHING
 
 };
