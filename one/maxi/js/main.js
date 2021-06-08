@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.11.4. Generation Date: 2021-05-17T14:08:30.850Z
+ * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-08T10:32:47.977Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -85,28 +85,28 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/fichas/t&p/maxi/resources/scripts/main.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/one/maxi/resources/scripts/main.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/fichas/t&p/maxi/resources/scripts/main.js":
-/*!**************************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/fichas/t&p/maxi/resources/scripts/main.js ***!
-  \**************************************************************************************************************************************************/
+/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/one/maxi/resources/scripts/main.js":
+/*!***************************************************************************************************!*\
+  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/one/maxi/resources/scripts/main.js ***!
+  \***************************************************************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/fichas/t&p/maxi/resources/scripts/tools.js");
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/one/maxi/resources/scripts/tools.js");
 function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
 
 function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
 
 function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
 
-function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter); }
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
 
 function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
 
@@ -240,68 +240,15 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
 
 
 _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
-  console.log("Site functionality ready"); // Speed Selector
-
-  var typeOfSpeedButton = document.querySelectorAll('[data-js-vf="_buttonSpeed"]');
-  var infoRegular = document.querySelectorAll('[data-js-vf="_regularRate"]');
-  var infoRecommended = document.querySelectorAll('[data-js-vf="_recommendedRate"]');
-  var recommededCheck = document.querySelector('[data-js-vf="recommendedRateCheck"]');
-  var regularCheck = document.querySelector('[data-js-vf="regularRateCheck"]');
-  var queryString = window.location.search;
-  console.log(queryString);
-
-  if (queryString === "?300mbps" || queryString === "?300mbps=") {
-    regularRate();
-  } else {
-    recommendedRate();
-  }
-
-  _toConsumableArray(typeOfSpeedButton).forEach(function (label) {
-    label.addEventListener('click', function () {
-      return typeSpeed(label);
-    });
-  });
-
-  function typeSpeed(label) {
-    var speedType = label.getAttribute("data-js-vf-value");
-
-    if (speedType === "recommendedRate") {
-      recommendedRate();
-    } else {
-      regularRate();
-    }
-  }
-
-  function regularRate() {
-    _toConsumableArray(infoRegular).forEach(function (infoRegular, index) {
-      infoRegular.classList.remove('ws10-u--hidden');
-      infoRecommended[index].classList.add('ws10-u--hidden');
-      recommededCheck.removeAttribute("checked", "");
-      regularCheck.setAttribute("checked", "");
-      infoRegular.removeAttribute("aria-hidden", "true");
-      infoRecommended[index].setAttribute("aria-hidden", "true");
-    });
-  }
-
-  function recommendedRate() {
-    _toConsumableArray(infoRecommended).forEach(function (infoRecommended, index) {
-      infoRecommended.classList.remove('ws10-u--hidden');
-      infoRegular[index].classList.add('ws10-u--hidden');
-      regularCheck.removeAttribute("checked", "");
-      recommededCheck.setAttribute("checked", "");
-      infoRecommended.removeAttribute("aria-hidden", "true");
-      infoRegular[index].setAttribute("aria-hidden", "true");
-    });
-  } // DO SOMETHING
-
+  console.log("Site functionality ready"); // DO SOMETHING
 };
 
 /***/ }),
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/fichas/t&p/maxi/resources/scripts/tools.js":
-/*!***************************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/fichas/t&p/maxi/resources/scripts/tools.js ***!
-  \***************************************************************************************************************************************************/
+/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/one/maxi/resources/scripts/tools.js":
+/*!****************************************************************************************************!*\
+  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/one/maxi/resources/scripts/tools.js ***!
+  \****************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
