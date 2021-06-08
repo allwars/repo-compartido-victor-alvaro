@@ -1,5 +1,46 @@
 {
   "mismakey": "Yo soy el JSON local del microsite",
   "title": "Ejemplo de contenido cargado desde el JSON",
-  "url": "microsite/[ruta_del_microsite]/resource/data/local.json"
+  "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
+
+  "header-ticket": {
+
+    "title-1": "50% dto. 3 meses",
+    "title-2": "Fibra y datos para ser ilimitable",
+    "icono": "img/banner/icono-bestprice.svg",
+    "icono-texto": "Mejor Precio Vodafone",
+
+
+    "avanzada300": {
+      "title-ticket": "Vodafone One Ilimitada Avanzada 300Mbps",
+
+      "discount": "50% dto.",
+      "description": [
+        {
+          "title": "Datos y minutos ilimitados",
+          "subtitle": "Velocidad alta"
+        },
+        {
+          "title": "4GB y 200 minutos GRATIS",
+          "subtitle": "segunda línea GRATIS 1 año"
+        },
+        {
+          "title": "300Mbps Fibra Óptica",
+          "subtitle": "+ llamadas ilimitadas en fijo"
+        }
+      ],
+      "offers": {
+        "dtoPercent": "50% dto. 3 meses",
+        "dtoLabel": "Permanencia 1 año",
+        "dtoPrice": "54,99€/mes",
+        "dtoFinalPrice": "28,49€"
+      },
+      "cta": {
+        "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-3/",
+        "context": "ilimitada",
+        "category": "cta",
+        "id": "-7498449761489"
+      }
+    }
+  }
 }
