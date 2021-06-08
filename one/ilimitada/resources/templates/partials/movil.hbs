@@ -1,7 +1,6 @@
 <section class="vf-mobile ws10-u--pt12x">
   <p class="ws10-u-heading--4 ws10-u--mb2x ws10-u-heading--4-lt">Móvil</p>
-  <p class="ws10-u-heading--3"><strong>Datos ilimitados para que no te pierdas
-      nada</strong></p>
+  <p class="ws10-u-heading--3"><strong>{{ movil.title }}</strong></p>
   <div class="vf-mobile__animation">
     <div class="vf-mobile__apps ws10-u--mt+">
     </div>
@@ -35,10 +34,10 @@
         height="24px"
       >
         <title>Icono Rayos</title>
-        <use class="icon-v3" xlink:href="#icon-thunder-1grey"></use>
+        <use class="icon-v3" xlink:href="{{ header-ticket.ticket.icon-velocidad }}"></use>
       </svg>
       <p class="ws10-c-product-detail__text">Datos ilimitados a
-        <strong>velocidad media (2Mbps de bajada y de subida).</strong></p>
+        <strong>{{ header-ticket.ticket.velocidad }} ({{ movil.velocidad }} de bajada y de subida).</strong></p>
     </div>
     <div
       class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x ws10-u--1/2@desktop"

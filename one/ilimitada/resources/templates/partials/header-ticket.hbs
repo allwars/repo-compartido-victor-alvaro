@@ -5,44 +5,38 @@
         class="vf-banner__textcontainer ws10-o-layout__item ws10-u--2/3@desktop ws10-u--3/5@tablet"
       >
         <!-- OFERTA TRY -->
-        <span class="ws10-u-heading--4" data-js-vf="_recommendedRate">Fibra + Móvil
+        <span class="ws10-u-heading--4" data-js-vf="_recommendedRate">Fibra +
+          Móvil
           <strong>{{ header-ticket.title-1 }}</strong></span>
-       
-        <h2 class="ws10-u--pt5x ws10-u--3/4@desktop">{{ header-ticket.title-2 }}</h2>
+
+        <h2
+          class="ws10-u--pt5x ws10-u--3/4@desktop"
+        >{{ header-ticket.title-2 }}</h2>
         <span
           class="ws10-u-color--primary ws10-flex ws10-flex__align-items--center ws10-u--hidden-visually-until@tablet"
-        ><img
+        >
+          <img
             class="ws10-u--pr1x"
             alt="icono mejor precio Vodafone"
             src="{{ header-ticket.icono }}"
           />
-          <span>{{ header-ticket.icono-texto }}</span></span>
+          <span>{{ header-ticket.icono-texto }}</span>
+        </span>
       </div>
       <div
         class="vf-ticket ws10-o-layout__item ws10-u--1/3@desktop ws10-u--2/5@tablet"
         data-js-vf="_ticket"
       >
         <div class="vf-ticket__floating">
-          <h2 class="ws10-u-heading--5 ws10-u-heading--5-lt"> {{ header-ticket.avanzada300.title-ticket }} </h2>
+          <h2 class="ws10-u-heading--5 ws10-u-heading--5-lt">
+            {{ header-ticket.title-ticket }}
+          </h2>
           <section
             class="ws10-c-card ws10-c-card-rate"
             data-ws10-js="card-rate"
           >
             <div class="ws10-c-card-rate__w-rates">
               <div class="ws10-c-card-rate__a-rate">
-                <div class="vfms-badge--container">
-                  <div data-js-vf="_recommendedRate">
-                    <b
-                      class="ws10-c-badge-text ws10-c-badge-text--turquoise vfms-badge1"
-                    >50% dto.</b>
-                  </div>
-                  <div data-js-vf="_regularRate" class="ws10-u--hidden">
-                    <b
-                      class="ws10-c-badge-text ws10-c-badge-text--turquoise vfms-badge1"
-                    >50% dto.</b>
-                    <b class="ws10-c-badge-text vfms-badge2">+ Fibra por menos</b>
-                  </div>
-                </div>
                 <ul
                   class="ws10-c-card-rate__product-info"
                   data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año"
@@ -60,18 +54,18 @@
 
                     <div class="ws10-c-card-rate__product">
                       <p class="ws10-c-card-rate__product-title">
-                        Datos y minutos ilimitados
+                       {{ header-ticket.ticket.datos }}
                       </p>
                       <p
                         class="ws10-c-card-rate__product-txt ws10-c-card-rate__product-txt--primary"
                       >
-                        velocidad media
+                        {{ header-ticket.ticket.velocidad }}
                         <svg
                           class="ws10-c-card-rate__product-txt-icon"
                           xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink"
                         >
-                          <use xlink:href="#icon-thunder-1grey"></use>
+                          <use xlink:href="{{ header-ticket.ticket.icon-velocidad }}"></use>
                         </svg>
                       </p>
                     </div>
@@ -89,10 +83,10 @@
                     </svg>
                     <div class="ws10-c-card-rate__product">
                       <p class="ws10-c-card-rate__product-title">
-                        4GB y 200 minutos GRATIS
+                        {{ header-ticket.ticket.segundalinea }}
                       </p>
                       <p class="ws10-c-card-rate__product-txt">
-                        segunda línea GRATIS 1 año
+                        {{ header-ticket.ticket.segundalinea_subtitle }}
                       </p>
                     </div>
                   </li>
@@ -107,66 +101,11 @@
                     </svg>
                     <div class="ws10-c-card-rate__product">
                       <p class="ws10-c-card-rate__product-title">
-                        Fibra Óptica<span>+ llamadas ilimitadas en fijo</span>
+                        {{ header-ticket.ticket.velocidad_fibra }}
                       </p>
-                      <form
-                        action=""
-                        method="get"
-                        class="ws10-u--1/1 vf-form ws10-c-card-rate__form ws10-c-form ws10-u--mt0"
-                        data-js-vf="_showOrHideSticky"
-                      >
-                        <fieldset class="ws10-u--pb0 ws10-u--mb1x">
-                          <div class="ws10-c-card-rate__w-form-select">
-                            <div
-                              class="vf-form__box ws10-c-form__box"
-                              data-analytics-category="cta"
-                              data-analytics-element="modulo tarifa:one ilimitada"
-                              data-analytics-context="300mbps"
-                              data-analytics-id="-6727639743211"
-                            >
-                              <input
-                                type="radio"
-                                name="rate-1-card-rate-speed"
-                                data-js-vf="recommendedRateCheck"
-                                id="rate-1-card-rate-speed-option-1"
-                                class="ws10-c-form__radio"
-                                data-analytics-category="cta"
-                                data-analytics-element="modulo tarifa:one ilimitada	"
-                                data-analytics-context="300mbps"
-                                checked
-                              />
-                              <label
-                                for="rate-1-card-rate-speed-option-1"
-                                class="ws10-c-card-rate__form-label ws10-c-form__label vf-active vf-bold"
-                                data-js-vf="_buttonSpeed"
-                                data-js-vf-value="recommendedRate"
-                              >
-                                300Mbps
-                              </label>
-                            </div>
-                            <div class="vf-form__box ws10-c-form__box">
-                              <input
-                                type="radio"
-                                name="rate-1-card-rate-speed"
-                                data-js-vf="regularRateCheck"
-                                id="rate-1-card-rate-speed-option-2"
-                                class="ws10-c-form__radio"
-                                data-analytics-element="modulo tarifa:one ilimitada	"
-                                data-analytics-context="600mbps"
-                                data-analytics-id="-6727641743211"
-                              />
-                              <label
-                                for="rate-1-card-rate-speed-option-2"
-                                class="ws10-c-card-rate__form-label ws10-c-form__label"
-                                data-js-vf="_buttonSpeed"
-                                data-js-vf-value="regularRate"
-                              >
-                                600Mbps
-                              </label>
-                            </div>
-                          </div>
-                        </fieldset>
-                      </form>
+                      <p class="ws10-c-card-rate__product-txt">
+                        {{ header-ticket.ticket.velocidad_fibra_subtitle }}
+                      </p>
                     </div>
                   </li>
 
@@ -221,7 +160,6 @@
                       </div>
                     </div>
                   </fieldset>
-                  <div data-js-vf="_recommendedRate">
                     <div
                       class="ws10-c-card-rate__w-cta"
                       data-js-vf="_portability"
@@ -234,38 +172,38 @@
                           <p
                             class="ws10-c-card-rate__dto ws10-c-card-rate__dto--percent"
                           >
-                            50% dto. 3 meses
+                            {{ price.[0].promocion }}
                           </p>
                           <p
                             class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label"
                           >
-                            Permanencia 1 año
+                           {{ price.[0].permanencia }}
                           </p>
                           <p
                             class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price"
                           >
-                            <del>54,99€/mes</del>
+                            <del>{{ price.[0].precio_sinpromo }}€/mes</del>
                           </p>
                           <p
                             class="ws10-c-card-rate__price ws10-u-color--black"
                           >
-                            26,99€<sub>/mes</sub>
+                            {{ price.[0].precio_conpromo }}€<sub>/mes</sub>
                           </p>
                         </div>
                       </div>
                       <a
-                        href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1"
+                        href="{{ cta.url }}"
                         type="submit"
                         name="cta"
-                        title="CTA"
+                        title="{{ cta.title }}"
                         onmousedown="addtocart(utag_data.plans_add2cart[0])"
                         class="ws10-c-button ws10-c-button--auto"
-                        data-analytics-element="modulo superior tarifa"
-                        data-analytics-context="lo quiero"
-                        data-analytics-category="cta"
+                        data-analytics-element="{{ cta.element }}"
+                        data-analytics-context="{{ cta.context }}"
+                        data-analytics-category="{{ cta.category }}"
                         data-analytics-id="-4725875160583"
                       >
-                        Lo quiero
+                        {{ cta.title }}
                       </a>
                     </div>
                     <div
@@ -277,135 +215,43 @@
                           class="ws10-c-card-rate__offer"
                           id="rate-1-offer-1"
                         >
-                          <p
+                                        <p
                             class="ws10-c-card-rate__dto ws10-c-card-rate__dto--percent"
                           >
-                            50% dto. 3 meses
+                            {{ price.[0].promocion }}
                           </p>
                           <p
                             class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label"
                           >
-                            Permanencia 1 año
+                           {{ price.[0].permanencia }}
                           </p>
                           <p
                             class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price"
                           >
-                            <del>54,99€/mes</del>
+                            <del>{{ price.[0].precio_sinpromo }}€/mes</del>
                           </p>
                           <p
                             class="ws10-c-card-rate__price ws10-u-color--black"
                           >
-                            26,99€<sub>/mes</sub>
+                            {{ price.[0].precio_conpromo }}€<sub>/mes</sub>
                           </p>
                         </div>
                       </div>
-                      <a
-                        href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250784&tcli=0&tta=1"
+                        <a
+                        href="{{ cta.url }}"
                         type="submit"
                         name="cta"
-                        title="CTA"
-                        class="ws10-c-button ws10-c-button--auto"
-                        data-analytics-element="modulo superior tarifa"
-                        data-analytics-context="lo quiero"
-                        data-analytics-category="cta"
-                        data-analytics-id="-4545656976521"
+                        title="{{ cta.title }}"
                         onmousedown="addtocart(utag_data.plans_add2cart[0])"
-                      >
-
-                        Lo quiero
-                      </a>
-                    </div>
-                  </div>
-                  <div class="ws10-u--hidden" data-js-vf="_regularRate">
-                    <p
-                      class="ws10-c-card-rate__dto ws10-c-card-rate__dto--percent ws10-u--m1x"
-                    >
-                      A precio de 300Mbps + 50% dto. 3 meses
-                    </p>
-                    <div
-                      class="ws10-c-card-rate__w-cta ws10-u--mt1x"
-                      data-js-vf="_portability"
-                    >
-                      <div class="ws10-c-card-rate__w-offers">
-                        <div
-                          class="ws10-c-card-rate__offer"
-                          id="rate-1-offer-1"
-                        >
-                          <p
-                            class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label"
-                          >
-                            Permanencia 1 año
-                          </p>
-                          <p
-                            class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price"
-                          >
-                            <del>64,99€/mes</del>
-                          </p>
-                          <p
-                            class="ws10-c-card-rate__price ws10-u-color--black"
-                          >
-                            26,99€<sub>/mes</sub>
-                          </p>
-                        </div>
-                      </div>
-                      <a
-                        href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=929043&tcli=0&tta=1 "
-                        type="submit"
-                        name="cta"
-                        title="CTA"
                         class="ws10-c-button ws10-c-button--auto"
-                        data-analytics-element="modulo superior tarifa"
-                        data-analytics-context="lo quiero"
-                        data-analytics-category="cta"
-                        data-analytics-id="-4725875100583"
-                        onmousedown="addtocart(utag_data.plans_add2cart[1])"
+                        data-analytics-element="{{ cta.element }}"
+                        data-analytics-context="{{ cta.context }}"
+                        data-analytics-category="{{ cta.category }}"
+                        data-analytics-id="-4725875160583"
                       >
-                        Lo quiero
+                        {{ cta.title }}
                       </a>
                     </div>
-                    <div
-                      class="ws10-c-card-rate__w-cta ws10-u--mt1x ws10-u--hidden"
-                      data-js-vf="_newNumber"
-                    >
-                      <div class="ws10-c-card-rate__w-offers">
-                        <div
-                          class="ws10-c-card-rate__offer"
-                          id="rate-1-offer-1"
-                        >
-
-                          <p
-                            class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label"
-                          >
-                            Permanencia 1 año
-                          </p>
-                          <p
-                            class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price"
-                          >
-                            <del>64,99€/mes</del>
-                          </p>
-                          <p
-                            class="ws10-c-card-rate__price ws10-u-color--black"
-                          >
-                            26,99€<sub>/mes</sub>
-                          </p>
-                        </div>
-                      </div>
-                      <a
-                        href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=929580&tcli=0&tta=1"
-                        type="submit"
-                        name="cta"
-                        title="CTA"
-                        class="ws10-c-button ws10-c-button--auto"
-                        data-analytics-element="modulo superior tarifa"
-                        data-analytics-context="lo quiero"
-                        data-analytics-category="cta"
-                        data-analytics-id="-4725602956266"
-                        onmousedown="addtocart(utag_data.plans_add2cart[1])"
-                      >
-                        Lo quiero
-                      </a>
-                    </div>
-                  </div>
 
                 </form>
               </div>
