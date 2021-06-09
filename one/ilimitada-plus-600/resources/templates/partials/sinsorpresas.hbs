@@ -20,8 +20,8 @@
       {{header-ticket.title-1}}</span>
     <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
       después con un 50% dto. por solo 9,99€/mes (dto. ya aplicado).</span>
+    <span>Paquete de TV: GRATIS durante 1 año, después 10€/mes.</span>
   </p>
-
   <!----PRICE-TAB-->
 
   <div class="ws10-c-price-bar-group ws10-u--mt4x ws10-u--mb4x">
@@ -35,18 +35,19 @@
       <div
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
       >
-        <span class="ws10-c-price__amount">{{price.0.precio_conpromo}}</span>
+        <span class="ws10-c-price__amount" data-js-vf="_portability">{{price.0.precio_conpromo}}</span>
+        <span class="ws10-c-price__amount ws10-u--hidden" data-js-vf="_newNumber">{{price.1.precio_conpromo}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
     <div class="ws10-c-price-bar">
       <span
-        class="ws10-c-price-bar__text ws10-u--mb4x ws10-u--hidden"
+        class="ws10-c-price-bar__text ws10-u--mb4x "
         data-js-vf="_portability"
       >{{bar.0.bar2}}</span>
       <span
-        class="ws10-c-price-bar__text ws10-u--mb4x"
+        class="ws10-c-price-bar__text ws10-u--mb4x ws10-u--hidden"
         data-js-vf="_newNumber"
       >{{bar.1.bar2}}
       </span>
@@ -56,12 +57,13 @@
       <div
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
       >
-        <span class="ws10-c-price__amount">{{price.0.precio_sinpromo}}</span>
+        <span class="ws10-c-price__amount" data-js-vf="_portability">{{price.0.precio_sinpromo}}</span>
+        <span class="ws10-c-price__amount ws10-u--hidden" data-js-vf="_newNumber">{{price.1.precio_sinpromo}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
-    <div class="ws10-c-price-bar" data-js-vf="_portability">
+    <div class="ws10-c-price-bar">
       <span class="ws10-c-price-bar__text ws10-u--mb4x">
         {{bar.0.bar3}}
       </span>
@@ -71,7 +73,8 @@
       <div
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
       >
-        <span class="ws10-c-price__amount">{{price.0.precio_depuespromo}}</span>
+        <span class="ws10-c-price__amount" data-js-vf="_portability">{{price.0.precio_despuespromo}}</span>
+        <span class="ws10-c-price__amount ws10-u--hidden" data-js-vf="_newNumber">{{price.1.precio_despuespromo}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
