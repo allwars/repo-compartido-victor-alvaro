@@ -1,35 +1,41 @@
-<p><strong>Si ya
-        eres cliente</strong>
-      y quieres beneficiarte de este descuento,
-      <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí</a></p><span data-js-vf="_recommendedRate">Fibra +
-            Móvil
+<p>
+        <strong>Si ya eres cliente</strong>
+        y quieres beneficiarte de este descuento,
+        <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí
+        </a>
+    </p><span data-js-vf="_recommendedRate">
+              Fibra + Móvil
             <strong>con 50% dto. 3 meses +<br>
               después 15% dto. 2 años</strong></span><span data-js-vf="_regularRate">Fibra + Móvil
             <strong>a precio de 300Mbps con 50% dto. 3 meses +<br>
-              después 15% dto. 2 años</strong></span><h2>Fibra y datos para ser
-            ilimitable</h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
+              después 15% dto. 2 años</strong></span><h2>
+              Fibra y datos para ser ilimitable
+          </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
             Volver a ver las ofertas
             <span> color #E60000</span>
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
               <title>Flecha derecha</title>
               <use xlink:href="#icon-chevron-right"></use>
             </svg>
-          </a><h2>Vodafone One
-              Ilimitada Avanzada
-              <span data-js-vf="_recommendedRate">300Mbps</span>
-              <span data-js-vf="_regularRate">600Mbps</span>
-            </h2><b>50% dto.</b><b>50% dto.</b><b>+ Fibra por menos</b><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="54,99">
+          </a><h2>
+                Vodafone One Ilimitada Avanzada 300Mbps
+              <!-- <span data-js-vf="_recommendedRate">300Mbps</span>
+              <span
+                class="ws10-u--hidden"
+                data-js-vf="_regularRate"
+              >600Mbps</span> -->
+            </h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="54,99">
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <use xlink:href="#icon-mobile"></use>
                       </svg>
-
+  
                       <div>
                         <p>
                           Datos y minutos ilimitados
                         </p>
                         <p>
-                          velocidad alta
+                          Velocidad alta
                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <use xlink:href="#icon-thunder-2grey"></use>
                           </svg>
@@ -50,35 +56,83 @@
                       </div>
                     </li>
                     <li>
-
+  
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <use xlink:href="#icon-broadband-or-wifi"></use>
                       </svg>
                       <div>
-                        <p>
-                          Fibra Óptica<span>+ llamadas ilimitadas en fijo</span>
-                        </p>
-                        <form action="" method="get" data-js-vf="_showOrHideSticky">
-                          <fieldset>
-                            <div>
-                              <div data-cta="300:vel:div" data-analytics-id="#">
-                                <input type="radio" name="rate-1-card-rate-speed" data-js-vf="recommendedRateCheck" checked="">
-                                <label for="rate-1-card-rate-speed-option-1" data-js-vf="_buttonSpeed" data-js-vf-value="recommendedRate">
+                          <p>
+                            300Mbps Fibra Óptica
+                          </p>
+                          <p>
+                            + llamadas ilimitadas en fijo
+                          </p>
+                        <!-- <form
+                          action=""
+                          method="get"
+                          class="ws10-u--1/1 vf-form ws10-c-card-rate__form ws10-c-form ws10-u--mt0"
+                          data-js-vf="_showOrHideSticky"
+                        >
+                          <fieldset class="ws10-u--pb0 ws10-u--mb1x">
+                            <div class="ws10-c-card-rate__w-form-select">
+                              <div
+                                data-cta="300:vel:div"
+                                class="vf-form__box ws10-c-form__box"
+                                data-analytics-category="cta"
+                                data-analytics-element="#"
+                                data-analytics-context="#"
+                                data-analytics-id="#"
+                              >
+                                <input
+                                  type="radio"
+                                  name="rate-1-card-rate-speed"
+                                  data-js-vf="recommendedRateCheck"
+                                  id="rate-1-card-rate-speed-option-1"
+                                  class="ws10-c-form__radio"
+                                  data-analytics-category="cta"
+                                  data-analytics-element="cardrate"
+                                  data-analytics-context="300mbps"
+                                  checked
+                                />
+                                <label
+                                  for="rate-1-card-rate-speed-option-1"
+                                  class="ws10-c-card-rate__form-label ws10-c-form__label vf-active vf-bold"
+                                  data-js-vf="_buttonSpeed"
+                                  data-js-vf-value="recommendedRate"
+                                >
                                   300Mbps
                                 </label>
                               </div>
-                              <div data-cta="600:vel:div">
-                                <input type="radio" name="rate-1-card-rate-speed" data-js-vf="regularRateCheck" data-analytics-id="-6727641743211">
-                                <label for="rate-1-card-rate-speed-option-2" data-js-vf="_buttonSpeed" data-js-vf-value="regularRate">
+                              <div
+                                data-cta="600:vel:div"
+                                class="vf-form__box ws10-c-form__box"
+                              >
+                                <input
+                                  type="radio"
+                                  name="rate-1-card-rate-speed"
+                                  data-js-vf="regularRateCheck"
+                                  id="rate-1-card-rate-speed-option-2"
+                                  class="ws10-c-form__radio"
+                                  data-analytics-element="modulo tarifa:one ilimitada	"
+                                  data-analytics-context="600mbps"
+                                  data-analytics-id="-6727641743211"
+                                />
+                                <label
+                                  for="rate-1-card-rate-speed-option-2"
+                                  class="ws10-c-card-rate__form-label ws10-c-form__label"
+                                  data-js-vf="_buttonSpeed"
+                                  data-js-vf-value="regularRate"
+                                >
                                   600Mbps
                                 </label>
                               </div>
                             </div>
                           </fieldset>
-                        </form>
+                      </form> -->
+  
                       </div>
                     </li>
-
+  
                   </ul><legend>
                         ¿Cómo quieres la línea móvil principal?
                       </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine" data-js-vf-value="portability">
@@ -472,7 +526,7 @@
           <li>Cámara Frontal 8 Mp, Trasera 48 Mp y Extras Triple cámara 48MP +
             5MP + 2MP</li>
           <li>Memoria Interna 64 GB</li>
-
+  
           <li>RAM 4 GB</li>
           <li>Batería con capacidad 4000 mA</li>
           <li>Medidas del dispositivo:
