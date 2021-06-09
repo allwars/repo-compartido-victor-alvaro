@@ -86,9 +86,9 @@
       "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra"
   },
   "fibra": {
-      "title": ["Fibra óptica simétrica", "600Mbps de velocidad para tu hogar"],
+      "title": ["Fibra óptica simétrica", "300Mbps de velocidad para tu hogar"],
       "details": [
-          ["600Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta 25 dispositivos a la vez."],
+          ["300Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta 25 dispositivos a la vez."],
           ["Fijo con llamadas ilimitadas a fijos y móviles."]
       ]
   }
