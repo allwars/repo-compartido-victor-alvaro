@@ -3,6 +3,9 @@
   .ws10-c-card-rate__product-title span{
     font-family: "VodafoneRegular",Helvetica,Arial,sans-serif;
   }
+  .vfms-addons-img{
+    padding-bottom: 0!important;
+  }
   .vfms-badge--container{
     display: flex;
     justify-content:baseline;
@@ -21,9 +24,7 @@
     margin-left:30px;
     margin-top:10px;
   }
-  .vfms-position-relative{
-    position: relative;
-  }
+
   // Breadcrumbs
   .vf-breadcrumbs{
     & li {
@@ -90,11 +91,13 @@
     }
 
   }
+
   // clase genérica arreglo radio buttons
 
   .ws10-c-form__radio:checked+.ws10-c-form__label::after {
     background-color: #007c92;
   }
+  
   .wfms__legal{
     font-size: 14px;
   }
@@ -104,11 +107,6 @@
       color:#E60000;
     }
   }
-  //banner terminal
-  .vfms__banner-terminal{
-    display: flex;
-  }
-
   // clase genérica
 
   .vf-banner{
@@ -132,24 +130,6 @@
         }
     }
   }
-
-  .vf-terminales{
-    &__container{
-      &--text{
-        font-size: 14px;
-      }
-      .ws10-c-button{
-        width: 100%;
-      }
-      .ws10-text--underline{
-        text-decoration: underline;
-      }
-    }
-    img{
-      max-width: 74px;
-    }
-  }
-
   .vf-mobile{
     &__animation{
       padding: 30px 0;
@@ -191,42 +171,14 @@
 
     }
   }
-  .vf-terminal {
-    border-radius: 6px;
-    overflow: hidden;
-    flex-direction: column;
-    @media screen and (min-width: 768px) {
-      flex-direction: row;
-    }
-    &__content {
-      order: 2;
-      text-align: center;
-      @media screen and (min-width: 768px) {
-        order: 1;
-        text-align: left;
+  .vf-form{
+    margin-top: 10px;
+    padding:0 0 0 0;
+    &__box{
+      width: initial;
+      &:first-child{
+        padding-right: 20px;
       }
-    }
-    &__imgdesktop {
-      display: none;
-      @media screen and (min-width: 768px) {
-        display: block;
-        order: 2;
-      }
-    }
-    &__imgmobile {
-      order: 1;
-      @media screen and (min-width: 768px) {
-        display: none;
-      }
-    }
-  }
-  .vf-tv{
-    &__flexdirection{
-      flex-direction: column;
-      @media screen and (min-width: 768px){
-        flex-direction: row;
-      }
-
     }
   }
   .vf-fiber{
@@ -238,28 +190,27 @@
 
     }
   }
-  .vf-superWifi{
-    &__flexdirection{
-      flex-direction: column;
-      @media screen and (min-width: 970px){
-        flex-direction: row-reverse;
+  .vf-terminales{
+    &__container{
+      &--text{
+        font-size: 14px;
+      }
+      .ws10-c-button{
+        width: 100%;
+      }
+      .ws10-text--underline{
+        text-decoration: underline;
       }
     }
-    &__img{
-      max-width: 300px;
-      @media screen and (min-width: 970px) {
-        max-width: 450px;
-      }
+    img{
+      max-width: 74px;
     }
   }
-  .vf-form{
-    margin-top: 10px;
-    padding:0 0 0 0;
-    &__box{
-      width: initial;
-      &:first-child{
-        padding-right: 20px;
-      }
+
+ 
+  .vf-superWifi{
+    &__img{
+      max-width: 350px;
     }
   }
   .vf-timeline{
@@ -276,7 +227,7 @@
     @media screen and (min-width: 768px){
       position: absolute;
       right: 1rem;
-      padding-top: 16px;
+      padding-top: 8px;
     }
 
     &__floating{
@@ -284,7 +235,7 @@
       width: inherit;
       width: 100%;
       max-width: 400px;
-      padding-top: 8px;
+      padding-top: 0;
     }
 
     &__opacity0{
@@ -294,9 +245,10 @@
   }
   .vf-sticky {
     position: fixed;
-    z-index: 1;
+    z-index: 100;
     bottom: 0;
     width: 100%;
+   
     @media screen and (min-width: 970px) {
       display: none;
     }

@@ -1,22 +1,23 @@
 <link href="css/ws10.css" rel="stylesheet" />
 <link href="css/styles.css" rel="stylesheet" data-ws10-microcss />
-<script>
+{{!-- <script>
+
 
     utag_data.plans_add2cart = [
         {
-            "product_name": "vodafone one ilimitada maxi",
+            "product_name": "vodafone one ilimitada",
             "product_category": "movil+fibra",
             "product_variant": "Datos y minutos ilimitados+300Mbps Fibra",
-            "promotion_price_name": "Promo 50% One Ilimitada Maxi (ADSL y 300Mbps)",
+            "promotion_price_name": "Promo 50% One Ilimitada (Fibra,NEBA y ADSL)",
             "promotion_gift_name": "",
-            "product_id": "168445730",
+            "product_id": "168445702",
             "product_detail": "",
             "product_sale_type": "yes:transactional",
 
             "product_additional_lines": [
                 {
                     "product_name": "tarifa movil mini",
-                    "product_variant": "4GB",
+                    "product variant": "4GB",
                     "product_category": "movil",
                     "promotion_price_name": "2 x 1 Mini",
                     "promotion_gift_name": "",
@@ -26,22 +27,22 @@
 
             "product_packs_tv": [
                 {
-                    "product_name": "pack seriefans",
-                    "product_category": "tv",
-                    "promotion_price_name": "Promo de -10€",
+                    "product_name": "",
+                    "product_category": "",
+                    "promotion_price_name": "",
                     "promotion_gift_name": "",
-                    "product_id": "268547964"
+                    "product_id": ""
                 }
             ]
         }
         ,
         {
-            "product_name": "vodafone one ilimitada maxi",
+            "product_name": "vodafone one ilimitada",
             "product_category": "movil+fibra",
             "product_variant": "Datos y minutos ilimitados+600Mbps Fibra",
-            "promotion_price_name": "Promo 50% + T&P One Ilimitada Maxi 600Mb",
+            "promotion_price_name": "Promo 50% + T&P One Ilimitada 600Mb",
             "promotion_gift_name": "",
-            "product_id": "168445333",
+            "product_id": "168445406",
             "product_detail": "",
             "product_sale_type": "yes:transactional",
 
@@ -51,58 +52,58 @@
                     "product_category": "movil",
                     "product variant": "4GB",
                     "promotion_price_name": "2 x 1 Mini",
-                    "promotion_gift_name": "268547964",
-                    "product_id": ""
+                    "promotion_gift_name": "",
+                    "product_id": "268547964"
                 }
             ],
 
             "product_packs_tv": [
                 {
-                    "product_name": "pack seriefans",
-                    "product_category": "tv",
-                    "promotion_price_name": "Promo de -10€",
+                    "product_name": "",
+                    "product_category": "",
+                    "promotion_price_name": "",
                     "promotion_gift_name": "",
-                    "product_id": "268547964"
+                    "product_id": ""
                 }
             ]
         }
     ]
-</script>
 
-<div class="vfes-ms-content ws10-u-color--bg-light-grey" id="maxi" style="visibility: hidden;opacity: 0">
+</script> --}}
+<div class="vfes-ms-content ws10-u-color--bg-light-grey" id="ilimitada" style="visibility: hidden;opacity: 0">
 
     <!-- BANNER & DIV TICKET QUE INYECTA WCS -->
-    {{> banner }}
-
+    {{> header-ticket }}
     <!-- CONTENIDO EN 2/3 DE LA PÁGINA -->
     <div class="ws10-o-wrapper">
         <div class="ws10-o-layout">
             <div class="ws10-o-layout__item ws10-u--2/3@desktop ws10-u--3/5@tablet">
                 <!-- MÓVIL -->
-                {{> mobile }}
+                {{> movil }}
                 <!-- SEGUNDA LÍNEA GRATIS -->
-                {{> secondLine }}
-                <!-- TELEVISIÓN -->
-                {{> television }}
+                {{> secondline }}
                 <!-- FIBRA -->
                 {{> fibra }}
                 <!-- TAMBIÉN INCLUIDO -->
                 {{> alsoincluded }}
+
+
                 <!-- SIN SORPRESAS -->
-                {{> noSurprises }}
+                {{> sinsorpresas }}
                 <!-- TIMELINE  -->
                 {{> timeline }}
-
             </div>
         </div>
     </div>
     <!-- STICKY BOTTOM -->
-    {{> stickyBottom }}
-    <!-- POPUPS -->
-    {{> popups }}
+
+
+    {{> sticky }}
+
     <!-- TERMINALES-->
-    {{> terminals }}
+    {{> terminales }}
 
 </div>
+
 <script src="js/ws10.js"></script>
 <script src="js/main.js"></script>

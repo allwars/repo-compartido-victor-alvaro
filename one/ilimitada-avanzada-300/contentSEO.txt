@@ -1,5 +1,4 @@
-<span>Fibra +
-              Móvil
+<span>Fibra + Móvil
               <strong>50% dto. 3 meses</strong></span><h2>Fibra y datos para ser ilimitable</h2><span>
               
               <span>Mejor Precio Vodafone</span>
@@ -13,7 +12,7 @@
     
                         <div>
                           <p>
-                           Datos y minutos ilimitados
+                            Datos y minutos ilimitados
                           </p>
                           <p>
                             velocidad alta
@@ -43,7 +42,8 @@
                         </svg>
                         <div>
                           <p>
-                            300Mbps Fibra Óptica
+                            300Mbps
+                            Fibra Óptica
                           </p>
                           <p>
                             + llamadas ilimitadas en fijo
@@ -56,26 +56,30 @@
                         </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
                               Portabilidad
                             </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">Nuevo Número</label><p>
-                                50% dto. 3 meses
-                              </p><p>
-                               Permanencia 1 año
-                              </p><p>
-                                <del>56,99€/mes</del>
-                              </p><p>
-                                28,49€<sub>/mes</sub>
-                              </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
-                            lo quiero
-                          </a><p>
-                                50% dto. 3 meses
-                              </p><p>
-                               Permanencia 1 año
-                              </p><p>
-                                <del>56,99€/mes</del>
-                              </p><p>
-                                28,49€<sub>/mes</sub>
-                              </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
-                            lo quiero
-                          </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
+                              50% dto. 3 meses
+                            </p><p>
+                              Permanencia 1 año
+                            </p><p>
+                              <del>56,99€/mes</del>
+                            </p><p>
+                              28,49€<sub>/mes</sub>
+                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-cta="300:port:card" data-analytics-id="#">
+                          lo quiero
+                          <span data-cta-a11y="">
+                          </span>
+                        </a><p>
+                              50% dto. 3 meses
+                            </p><p>
+                              Permanencia 1 año
+                            </p><p>
+                              <del>56,99€/mes</del>
+                            </p><p>
+                              28,49€<sub>/mes</sub>
+                            </p><a type="submit" name="cta" title="lo quiero" data-cta="300:port:card" href="#" onmousedown="#" data-analytics-id="#">
+                          lo quiero
+                          <span data-cta-a11y="">
+                          </span>
+                        </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
                     </div><p>Datos ilimitados a
                         <strong>alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con
                         una calidad extrema y sin cortes.</p><p>
@@ -93,9 +97,7 @@
                         en llamadas a fijos y móviles.
                       </p><p><strong>Chatea y usa tus redes
                           sociales</strong>
-                        con la conexión 5G.</p><p>(*)Podrás añadir más Líneas adicionales en
-                    el proceso de compra
-                  </p><h3>Fibra óptica
+                        con la conexión 5G.</p><h3>Fibra óptica
                     simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><div>
                           
                         </div><p><strong>300Mbps de fibra óptica
@@ -181,7 +183,7 @@
                   </p><span>
                         Los primeros 3 meses
                       </span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">A partir del mes 4
-                      </span><span></span><span>56,99</span><span>€</span><sub>/mes</sub><span>
+                      </span><span></span><span data-js-vf="_portability">56,99</span><span data-js-vf="_newNumber">56,99</span><span>€</span><sub>/mes</sub><span>
                         A partir del año
                       </span><span></span><span>66,98</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
                     autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
@@ -242,26 +244,18 @@
                       <p>Podrás registrarte y hacer
                         seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
                     </li>
-                  </ul><del>54,99€/mes</del><span>
-                <span>26,99€</span>
+                  </ul><del>56,99€/mes</del><span>
+                <span>28,49€</span>
                 <span>/mes</span>
-              </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="3155775530819" onmousedown="addtocart(utag_data.plans_add2cart)">
+              </span><a type="submit" data-cta="600:port:sticky" href="#" data-analytics-id="#" onmousedown="">
               Lo quiero
-            </a><del>54,99€/mes</del><span>
-                <span>26,99€</span>
+              <span data-cta-a11y=""> </span>
+            </a><del>56,99€/mes</del><span>
+                <span>28,49€</span>
                 <span>/mes</span>
-              </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250784&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="8399925331411">
+              </span><a type="submit" data-cta="600:new:sticky" href="#" data-analytics-id="#" onmousedown="">
               Lo quiero
-            </a><del>64,99€/mes</del><span>
-                <span>26,99€</span>
-                <span>/mes</span>
-              </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="3155775530818" onmousedown="addtocart(utag_data.plans_add2cart)">
-              Lo quiero
-            </a><del>64,99€/mes</del><span>
-                <span>26,99€</span>
-                <span>/mes</span>
-              </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250784&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="8399925331410">
-              Lo quiero
+              <span data-cta-a11y=""></span>
             </a><button aria-hidden="false">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>Close</title>
