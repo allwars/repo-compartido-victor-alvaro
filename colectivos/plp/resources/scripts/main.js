@@ -23,16 +23,16 @@ tools.onStylesReady = () => {
     })
     function typeOfRate() {
        const typeOfTotal = document.querySelectorAll('[data-js-vf="_priceTotal"]');
-       
+
 
        [...buttonsTypeTotal].forEach((button, index) =>{
-       
+
             if (button.classList.contains('vf-active')){
                 button.classList.remove('vf-active');
                 button.classList.remove('vf-bold');
                 typeOfTotal[index].classList.add('ws10-u--hidden');
                 badgeTotal.classList.add('ws10-u--hidden');
-                
+
             } else {
                 button.classList.add('vf-active');
                 button.classList.add('vf-bold');
@@ -42,7 +42,7 @@ tools.onStylesReady = () => {
         })
     }
 
-    
+
 
 
 
@@ -56,24 +56,24 @@ tools.onStylesReady = () => {
     })
     function typeOfRateMaxi() {
        const typeOfMaxi = document.querySelectorAll('[data-js-vf="_priceMaxi"]');
-      
+
 
        [...buttonsTypeMaxi].forEach((button, index) =>{
-        
+
             if (button.classList.contains('vf-active')){
                 button.classList.remove('vf-active');
                 button.classList.remove('vf-bold');
                 typeOfMaxi[index].classList.add('ws10-u--hidden');
-              
-                
-                
+
+
+
             } else {
                 button.classList.add('vf-active');
                 button.classList.add('vf-bold');
                 typeOfMaxi[index].classList.remove('ws10-u--hidden');
-                
-               
-                
+
+
+
             }
         })
     }
@@ -84,7 +84,7 @@ tools.onStylesReady = () => {
     const buttonsTypeIlimitada = document.querySelectorAll('[data-js-vf="_buttonVelocityIlimitada"]');
     const badgeIlimitada = document.querySelector('[data-js-vf="_badgeIlimitada"]');
 
-    // Función para elegir el tipo de Vodafone One ilimitada 
+    // Función para elegir el tipo de Vodafone One ilimitada
 
     [...buttonsTypeIlimitada].forEach(button =>{
         button.addEventListener("click", () => typeOfRateIlimitada());
@@ -175,9 +175,9 @@ tools.onFrameworkReady = () => {
   console.log(queryString);
   if(queryString==="?600mbps" || queryString==="?600mbps=" ){
     regularRate()
-    
+
   } else {
-    recommendedRate()   
+    recommendedRate()
   }
 
 
@@ -188,7 +188,7 @@ tools.onFrameworkReady = () => {
    function typeSpeed(label) {
      const speedType = label.getAttribute("data-js-vf-value");
      if(speedType==="recommendedRate"){
-       recommendedRate() 
+       recommendedRate()
      } else {
        regularRate()
      }
@@ -202,7 +202,7 @@ tools.onFrameworkReady = () => {
 
        infoRegular.removeAttribute("aria-hidden", "true");
        infoRecommended[index].setAttribute("aria-hidden", "true");
-       
+
      });
    }
    function recommendedRate() {
