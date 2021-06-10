@@ -2,6 +2,18 @@
   "mismakey": "Yo soy el JSON local del microsite",
   "title": "Ejemplo de contenido cargado desde el JSON",
   "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
+  "banner": {
+      "heading": ["Fibra + Móvil", "<strong>con 50% dto. 3 meses","después 15% dto. 2 años"],
+      "heading2": "Fibra y datos para ser ilimitable",
+      "cta": {
+          "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/",
+          "category": "cta",
+          "id": "-5460257368589",
+          "element": "modulo inferior",
+          "context": "condiciones legales",
+          "label": "Volver a ver las ofertas"
+      }
+  },
   "ticket": {
       "heading": "Vodafone One Ilimitada Avanzada 300Mbps",
       "description": [
@@ -37,8 +49,8 @@
           "portability": {
               "dtoPercent": "50% dto. 3 meses + después 15% dto. durante 2 años",
               "dtoLabel": "Permanencia 1 año",
-              "dtoFinalPrice": "74,99",
-              "dtoPrice": "37,49",
+              "dtoFinalPrice": "66,98",
+              "dtoPrice": "28,49",
               "cta": {
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&tcli=0&tta=1",
                   "category": "cta",
@@ -51,8 +63,8 @@
           "newNumber": {
               "dtoPercent": "50% dto. 3 meses + después 15% dto. durante 2 años",
               "dtoLabel": "Permanencia 1 año",
-              "dtoFinalPrice": "74,99",
-              "dtoPrice": "37,49",
+              "dtoFinalPrice": "66,98",
+              "dtoPrice": "28,49",
               "cta": {
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&tcli=0&tta=1",
                   "category": "cta",

@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-09T11:54:59.345Z
+ * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-10T07:04:42.315Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -280,30 +280,25 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
   var typeOfSpeedButton = document.querySelectorAll('[data-js-vf="_buttonSpeed"]');
   var typeOfLineButton = document.querySelectorAll('[data-js-vf="_buttonTypeLine"]'); // Bloques de información para mostrar y/o ocultar en el HTML
 
-  var infoRegular = document.querySelectorAll('[data-js-vf="_regularRate"]');
-  var infoRecommended = document.querySelectorAll('[data-js-vf="_recommendedRate"]');
   var infoPortability = document.querySelectorAll('[data-js-vf="_portability"]');
   var infoNewNumber = document.querySelectorAll('[data-js-vf="_newNumber"]');
   var secondLine = document.querySelectorAll('[data-js-vf="_secondLine"]');
   var secondLine2 = document.querySelectorAll('[data-js-vf="_secondLine2"]');
-  var recommededCheck = document.querySelector('[data-js-vf="recommendedRateCheck"]');
-  var regularCheck = document.querySelector('[data-js-vf="regularRateCheck"]');
   var showSticky = document.querySelector('[data-js-vf="_showOrHideSticky"]');
   var stickyRate = document.querySelector('[data-js-vf="_stickyRate"]');
   var banner = document.querySelector('[data-js="_banner"]');
   var ticket = document.querySelector('[data-js-vf="_ticket"]');
   var mddFooter = document.querySelector('.MDDfooter');
   var mddHeader = document.querySelector('.mdd-desktop');
-  var queryString = window.location.search;
   /**
-   * Declaración de las fucniones. 
+   * Declaración de las fucniones.
    */
 
   /**
-   * Función para mostrar u ocultar elementos dentro del HTML en función de la acción que se le pase. 
+   * Función para mostrar u ocultar elementos dentro del HTML en función de la acción que se le pase.
    * @param {string} action tipo de acción a ejecutar
-   * @param {array} listInfo Listado de elementos HTML sobre los que se ejecutará la acción 
-   * @returns 
+   * @param {array} listInfo Listado de elementos HTML sobre los que se ejecutará la acción
+   * @returns
    */
 
   var toggleInfo = function toggleInfo() {
@@ -328,20 +323,14 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
     return false;
   };
   /**
-   * Función que recibe un element HTML para ver que tipo de acción va a ejecutar. 
-   * @param {HTMLElement} label Elemento del HTML que deciditá la acción  
+   * Función que recibe un element HTML para ver que tipo de acción va a ejecutar.
+   * @param {HTMLElement} label Elemento del HTML que deciditá la acción
    */
 
 
   var actionsType = function actionsType(label) {
     var speedType = label.getAttribute('data-js-vf-value');
     var rate = {
-      "recommendedRate": function recommendedRate() {
-        return _recommendedRate();
-      },
-      "regularRate": function regularRate() {
-        return _regularRate();
-      },
       "newNumber": function newNumber() {
         return _newNumber();
       },
@@ -350,29 +339,6 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
       }
     };
     rate[speedType]();
-  };
-  /**
-   * Función que Oculta la información de la tarifa recomendad y muestra la información de la tarifa regular. 
-   * Marcar el checkbutton correspondiente 
-   */
-
-
-  var _regularRate = function _regularRate() {
-    toggleInfo('hide', infoRecommended);
-    toggleInfo('show', infoRegular);
-    regularCheck.setAttribute('checked', '');
-    recommededCheck.removeAttribute('checked', '');
-  };
-  /**
-   * Función que MUESTRA la información de la TARIFA RECOMENDA y OCULTA la información de la TARIFA REGULAR
-   */
-
-
-  var _recommendedRate = function _recommendedRate() {
-    toggleInfo('show', infoRecommended);
-    toggleInfo('hide', infoRegular);
-    regularCheck.removeAttribute('checked', '');
-    recommededCheck.setAttribute('checked', '');
   };
   /**
    * Función que MUESTRA la información de PORTABILIDAD y OCULTA la información de la NUEVO NUMERO
@@ -488,8 +454,6 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
       hideStickyRate();
     });
   }
-
-  queryString.includes('?600mbps') ? _regularRate() : _recommendedRate();
 
   _toConsumableArray(typeOfSpeedButton).forEach(function (label) {
     label.addEventListener('click', function () {

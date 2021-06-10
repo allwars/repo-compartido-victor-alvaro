@@ -28,16 +28,11 @@ tools.onFrameworkReady = () => {
   const typeOfLineButton = document.querySelectorAll('[data-js-vf="_buttonTypeLine"]');
 
   // Bloques de información para mostrar y/o ocultar en el HTML
-  const infoRegular = document.querySelectorAll('[data-js-vf="_regularRate"]');
-  const infoRecommended = document.querySelectorAll('[data-js-vf="_recommendedRate"]');
   const infoPortability = document.querySelectorAll('[data-js-vf="_portability"]');
   const infoNewNumber = document.querySelectorAll('[data-js-vf="_newNumber"]');
 
   const secondLine = document.querySelectorAll('[data-js-vf="_secondLine"]');
   const secondLine2 = document.querySelectorAll('[data-js-vf="_secondLine2"]');
-
-  const recommededCheck = document.querySelector('[data-js-vf="recommendedRateCheck"]');
-  const regularCheck = document.querySelector('[data-js-vf="regularRateCheck"]');
 
   const showSticky = document.querySelector('[data-js-vf="_showOrHideSticky"]');
   const stickyRate = document.querySelector('[data-js-vf="_stickyRate"]');
@@ -46,20 +41,17 @@ tools.onFrameworkReady = () => {
   const mddFooter = document.querySelector('.MDDfooter');
   const mddHeader = document.querySelector('.mdd-desktop');
 
-  const queryString = window.location.search;
-
-
 
   /**
-   * Declaración de las fucniones. 
+   * Declaración de las fucniones.
    */
 
 
   /**
-   * Función para mostrar u ocultar elementos dentro del HTML en función de la acción que se le pase. 
+   * Función para mostrar u ocultar elementos dentro del HTML en función de la acción que se le pase.
    * @param {string} action tipo de acción a ejecutar
-   * @param {array} listInfo Listado de elementos HTML sobre los que se ejecutará la acción 
-   * @returns 
+   * @param {array} listInfo Listado de elementos HTML sobre los que se ejecutará la acción
+   * @returns
    */
   const toggleInfo = (action = 'hide', listInfo = []) => {
     if (listInfo.length === 0) return console.error(`[Fn: toogleInfoRegular] The param listInfo is empty `)
@@ -82,42 +74,17 @@ tools.onFrameworkReady = () => {
   }
 
   /**
-   * Función que recibe un element HTML para ver que tipo de acción va a ejecutar. 
-   * @param {HTMLElement} label Elemento del HTML que deciditá la acción  
+   * Función que recibe un element HTML para ver que tipo de acción va a ejecutar.
+   * @param {HTMLElement} label Elemento del HTML que deciditá la acción
    */
   const actionsType = (label) => {
     const speedType = label.getAttribute('data-js-vf-value');
     const rate = {
-      "recommendedRate": () => recommendedRate(),
-      "regularRate": () => regularRate(),
       "newNumber": () => newNumber(),
       "portability": () => portability()
     }
     rate[speedType]();
   }
-
-  /**
-   * Función que Oculta la información de la tarifa recomendad y muestra la información de la tarifa regular. 
-   * Marcar el checkbutton correspondiente 
-   */
-  const regularRate = () => {
-    toggleInfo('hide', infoRecommended)
-    toggleInfo('show', infoRegular)
-    regularCheck.setAttribute('checked', '');
-    recommededCheck.removeAttribute('checked', '');
-  }
-
-  /**
-   * Función que MUESTRA la información de la TARIFA RECOMENDA y OCULTA la información de la TARIFA REGULAR
-   */
-
-  const recommendedRate = () => {
-    toggleInfo('show', infoRecommended)
-    toggleInfo('hide', infoRegular)
-    regularCheck.removeAttribute('checked', '');
-    recommededCheck.setAttribute('checked', '');
-  }
-
 
   /**
    * Función que MUESTRA la información de PORTABILIDAD y OCULTA la información de la NUEVO NUMERO
@@ -226,7 +193,6 @@ tools.onFrameworkReady = () => {
       hideStickyRate();
     });
   }
-  queryString.includes('?600mbps') ? regularRate() : recommendedRate();
 
   [...typeOfSpeedButton].forEach(label => {
     label.addEventListener('click', () => actionsType(label));

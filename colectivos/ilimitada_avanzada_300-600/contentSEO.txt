@@ -3,11 +3,9 @@
         y quieres beneficiarte de este descuento,
         <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí
         </a>
-    </p><span data-js-vf="_recommendedRate">
+    </p><span>
               Fibra + Móvil
             <strong>con 50% dto. 3 meses +<br>
-              después 15% dto. 2 años</strong></span><span data-js-vf="_regularRate">Fibra + Móvil
-            <strong>a precio de 300Mbps con 50% dto. 3 meses +<br>
               después 15% dto. 2 años</strong></span><h2>
               Fibra y datos para ser ilimitable
           </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
@@ -19,11 +17,6 @@
             </svg>
           </a><h2>
                 Vodafone One Ilimitada Avanzada 300Mbps
-              <!-- <span data-js-vf="_recommendedRate">300Mbps</span>
-              <span
-                class="ws10-u--hidden"
-                data-js-vf="_regularRate"
-              >600Mbps</span> -->
             </h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="54,99">
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -67,69 +60,6 @@
                           <p>
                             + llamadas ilimitadas en fijo
                           </p>
-                        <!-- <form
-                          action=""
-                          method="get"
-                          class="ws10-u--1/1 vf-form ws10-c-card-rate__form ws10-c-form ws10-u--mt0"
-                          data-js-vf="_showOrHideSticky"
-                        >
-                          <fieldset class="ws10-u--pb0 ws10-u--mb1x">
-                            <div class="ws10-c-card-rate__w-form-select">
-                              <div
-                                data-cta="300:vel:div"
-                                class="vf-form__box ws10-c-form__box"
-                                data-analytics-category="cta"
-                                data-analytics-element="#"
-                                data-analytics-context="#"
-                                data-analytics-id="#"
-                              >
-                                <input
-                                  type="radio"
-                                  name="rate-1-card-rate-speed"
-                                  data-js-vf="recommendedRateCheck"
-                                  id="rate-1-card-rate-speed-option-1"
-                                  class="ws10-c-form__radio"
-                                  data-analytics-category="cta"
-                                  data-analytics-element="cardrate"
-                                  data-analytics-context="300mbps"
-                                  checked
-                                />
-                                <label
-                                  for="rate-1-card-rate-speed-option-1"
-                                  class="ws10-c-card-rate__form-label ws10-c-form__label vf-active vf-bold"
-                                  data-js-vf="_buttonSpeed"
-                                  data-js-vf-value="recommendedRate"
-                                >
-                                  300Mbps
-                                </label>
-                              </div>
-                              <div
-                                data-cta="600:vel:div"
-                                class="vf-form__box ws10-c-form__box"
-                              >
-                                <input
-                                  type="radio"
-                                  name="rate-1-card-rate-speed"
-                                  data-js-vf="regularRateCheck"
-                                  id="rate-1-card-rate-speed-option-2"
-                                  class="ws10-c-form__radio"
-                                  data-analytics-element="modulo tarifa:one ilimitada	"
-                                  data-analytics-context="600mbps"
-                                  data-analytics-id="-6727641743211"
-                                />
-                                <label
-                                  for="rate-1-card-rate-speed-option-2"
-                                  class="ws10-c-card-rate__form-label ws10-c-form__label"
-                                  data-js-vf="_buttonSpeed"
-                                  data-js-vf-value="regularRate"
-                                >
-                                  600Mbps
-                                </label>
-                              </div>
-                            </div>
-                          </fieldset>
-                      </form> -->
-  
                       </div>
                     </li>
   
@@ -137,44 +67,29 @@
                         ¿Cómo quieres la línea móvil principal?
                       </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine" data-js-vf-value="portability">
                             Portabilidad
-                          </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">Nuevo Número</label><p data-js-vf="_portability">
-                        <strong>
-                          50% dto. 3 meses + después 15% dto. durante 2 años</strong>
+                          </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
+                          Nuevo Número
+                          </label><p data-js-vf="_portability">
+                        <strong>50% dto. 3 meses + después 15% dto. durante 2 años</strong>
                       </p><p data-js-vf="_newNumber">
-                        <strong>
-                          50% dto. 3 meses + después 15% dto. durante 2 años</strong>
+                        <strong>50% dto. 3 meses + después 15% dto. durante 2 años</strong>
                       </p><p>
-                              Permanencia 1 año</p><p>
+                                Permanencia 1 año
+                            </p><p>
                               28,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" href="#" onmousedown="#" data-analytics-id="">
+                            </p><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&amp;tcli=0&amp;tta=1" onmousedown="" data-analytics-id="-4725875100583">
                           Lo quiero
                           <span data-cta-a11y=""></span>
                         </a><p>
                               28,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" href="#" onmousedown="#" data-analytics-id="">
-                          Lo quiero
-                          <span data-cta-a11y=""></span>
-                        </a><p data-js-vf="_portability">
-                        <strong>
-                          A precio de 300Mbps + 50% dto. 3 meses + después 15%
-                          dto. durante 2 años</strong>
-                      </p><p data-js-vf="_newNumber">
-                        <strong>
-                          A precio de 300Mbps + 50% dto. 3 meses + después 15%
-                          dto. durante 2 años</strong>
-                      </p><p>
-                              Permanencia 1 año</p><p>
-                              28,49€<sub>/mes</sub>
-                            </p><a data-cta="600:port:card" type="submit" href="#" onmousedown="#" data-analytics-id="">
+                            </p><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&amp;tcli=0&amp;tta=1" onmousedown="" data-analytics-id="-4725602956266">
                           Lo quiero
                           <span data-cta-a11y=""></span>
                         </a><p>
-                              28,49€<sub>/mes</sub>
-                            </p><a data-cta="600:new:card" type="submit" href="#" onmousedown="#" data-analytics-id="">
-                          Lo quiero
-                          <span data-cta-a11y=""></span>
-                        </a><p>Móvil</p><p><strong>Datos ilimitados para que no te
-              pierdas nada</strong></p><div>
+              Móvil
+          </p><p>
+              Datos ilimitados para que no te pierdas nada
+          </p><div>
             </div><ul>
             <li>
               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
@@ -190,8 +105,7 @@
                 <use xlink:href="#icon-music-and-movies-mid"></use>
               </svg>
               <p>
-                Disfruta de música sin límites con una calidad extrema y sin
-                cortes.
+                  Disfruta de música sin límites con una calidad extrema y sin cortes.
               </p>
             </li>
             <li>
@@ -199,8 +113,7 @@
                 <use xlink:href="#icon-video-mid"></use>
               </svg>
               <p>
-                Consume vídeo en streaming en calidad 4K sin cortes ni
-                interrupciones.
+                Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.
               </p>
             </li>
             <li>
@@ -208,8 +121,7 @@
                 <use xlink:href="#icon-play-mid"></use>
               </svg>
               <p>
-                Disfruta de streaming sin necesidad de conectarte al WiFi, tú y
-                tus datos.
+                  Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
               </p>
             </li>
             <li>
@@ -217,49 +129,49 @@
                 <use xlink:href="#icon-unified-communication-mid"></use>
               </svg>
               <p>
-                <strong>Llamadas y SMS ilimitados</strong>
-                con cualquier operador nacional las 24 horas, establecimiento
-                incluido.
+                  <strong>Llamadas y SMS ilimitados</strong>
+                  con cualquier operador nacional las 24 horas, establecimiento incluido.
               </p>
             </li>
             <li>
               
               <p>
-                <strong>Roaming incluido en la Unión Europea, Reino Unido y
-                  EEUU.</strong>
-                Disfruta con las mismas condiciones de tu tarifa, sin
-                preocupaciones también en EEUU.
+                  <strong>Roaming incluido en la Unión Europea, Reino Unido y EEUU.</strong>
+                  Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.
               </p>
             </li>
             <li>
               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
                 <use xlink:href="#icon-5G_esp-mid"></use>
               </svg>
-              <p>Todo con la nueva red 5G.</p>
+              <p>
+                  Todo con la nueva red 5G.
+              </p>
             </li>
-          </ul><h3><strong>Llévate la 2ª Línea GRATIS</strong></h3><p><strong>4GB de datos</strong>
-                para navegar a la máxima velocidad.</p><p><strong>200 minutos</strong>
-                en llamadas a fijos y móviles
-              </p><p><strong>Chatea y usa tus
-                  redes sociales</strong>
-                con la conexión 5G.</p><p>(*)Podrás añadir más Líneas
-            adicionales en el proceso de compra
-          </p><h3>Fibra
-            óptica simétrica</h3><h3><strong>300Mbps de velocidad para tu
-              hogar</strong></h3><div>
+          </ul><h3>
+              <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
+          </h3><p>
+                  <strong>4GB de datos</strong>
+                  para navegar a la máxima velocidad.
+              </p><p>
+                  <strong>200 minutos</strong>
+                  en llamadas a fijos y móviles
+              </p><p>
+                  <strong>Chatea y usa tus redes sociales</strong>
+                  con la conexión 5G.
+              </p><p>
+              (*)Podrás añadir más Líneas adicionales en el proceso de compra
+          </p><h3>
+              Fibra óptica simétrica
+          </h3><h3>
+              <strong>300Mbps de velocidad para tu hogar</strong>
+          </h3><div>
                   
-                </div><p><strong>300Mbps de fibra
-                    óptica simétrica</strong>
-                  para tu hogar, podrás conectar hasta 12 dispositivos a la vez.</p><p><strong>Fijo con llamadas
-                    ilimitadas a fijos y móviles.</strong>
-                </p><h3>Fibra
-            óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu
-              hogar</strong></h3><div>
-                  
-                </div><p><strong>600Mbps de fibra
-                    óptica simétrica</strong>
-                  para tu hogar, podrás conectar hasta 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas
-                    ilimitadas a fijos y móviles.</strong>
+                </div><p>
+                    <strong>300Mbps de fibra óptica simétrica</strong>
+                    para tu hogar, podrás conectar hasta 25 dispositivos a la vez.
+                </p><p>
+                    <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
                 </p><h3><strong>También incluido en Vodafone One
               ilimitada Avanzada
               <span data-js-vf="_recommendedRate">300Mbps</span>
@@ -337,8 +249,8 @@
           </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?
             <br>
             <strong>Paquete Fibra + Móvil: 28,49€/mes durante 3 meses, después
-              <span data-js-vf="_recommendedRate">48,44€/mes</span><span data-js-vf="_regularRate">52,69€/mes</span>
-              durante 2 años.</strong>
+              <span data-js-vf="_recommendedRate">48,44€/mes</span>
+            </strong>
           </p><p>
             <span>Promociones:</span>
             <span>Llévate el paquete de Fibra + Móvil al 50% dto. 3 meses,
@@ -348,14 +260,14 @@
               aplicado).</span>
           </p><span data-js-vf="_portability">
                 Los primeros 3 meses</span><span data-js-vf="_newNumber">
-                Los primeros 3 meses</span><span></span><span data-js-vf="_recommendedRate">28,49</span><span data-js-vf="_regularRate">28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_recommendedRate">28,49</span><span data-js-vf="_regularRate">28,49</span><span>€</span><sub>/mes</sub><span>
+                Los primeros 3 meses</span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span>28,49</span><span>€</span><sub>/mes</sub><span>
                 Del mes 4 al
                 <span data-js-vf="_portability"> 12</span>
                 <!--                                <span class="ws10-u--hidden" data-js-vf="_newNumber"> 27</span>-->
-              </span><span></span><span data-js-vf="_recommendedRate">48,44</span><span data-js-vf="_regularRate">52,69</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 13 al 27</span><span data-js-vf="_newNumber">
-                Del mes 4 al 27</span><span></span><span data-js-vf="_recommendedRate">58,43</span><span data-js-vf="_regularRate">62,68</span><span>€</span><sub>/mes</sub><span data-js-vf="_recommendedRate">48,44</span><span data-js-vf="_regularRate">52,69</span><span>€</span><sub>/mes</sub><span>
+              </span><span></span><span>48,44</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 13 al 27</span><span data-js-vf="_newNumber">
+                Del mes 4 al 27</span><span></span><span>58,43</span><span>€</span><sub>/mes</sub><span>48,44</span><span>€</span><sub>/mes</sub><span>
                 Del mes 28 en adelante
-              </span><span></span><span data-js-vf="_recommendedRate">66,98</span><span data-js-vf="_regularRate">71,98</span><span>€</span><sub>/mes</sub><span data-js-vf="_recommendedRate">56,99</span><span data-js-vf="_regularRate">64,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo
+              </span><span></span><span>66,98</span><span>€</span><sub>/mes</sub><span>56,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo
             que sea autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene
             activo en el servicio durante, al menos, 1 año desde la fecha de
             instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/legales/" data-analytics-id="-5460257368590">
