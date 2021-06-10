@@ -1,12 +1,12 @@
 <p><strong>Si ya
         eres cliente</strong>
       y quieres beneficiarte de este descuento,
-      <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí</a></p><span data-js-vf="_regularRate">Fibra + Móvil
-            <strong>a precio de 300Mbps con 50% dto. 3 meses +<br> después 15% dto.
-              2 años</strong></span><span data-js-vf="_recommendedRate">Fibra +
-            Móvil
-            <strong>a precio de 600Mbps con 50% dto. 3 meses +<br>después 15%
-              dto. 2 años</strong></span><p><strong>Fibra y datos para ser<br>ilimitable</strong></p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
+      <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí</a></p><span>
+              Fibra + Móvil
+            <strong>con 50% dto. 3 meses +<br>
+              después 15% dto. 2 años</strong></span><h2>
+              Fibra y datos para ser ilimitable
+          </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
             Volver a ver las ofertas
             <span></span>
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
@@ -23,7 +23,7 @@
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <use xlink:href="#icon-mobile"></use>
                       </svg>
-
+  
                       <div>
                         <p>
                           Datos y minutos ilimitados
@@ -50,7 +50,7 @@
                       </div>
                     </li>
                     <li>
-
+  
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <use xlink:href="#icon-broadband-or-wifi"></use>
                       </svg>
@@ -78,7 +78,7 @@
                         </form>
                       </div>
                     </li>
-
+  
                   </ul><legend>
                         ¿Cómo quieres la línea móvil principal?
                       </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine" data-js-vf-value="portability">
@@ -220,7 +220,7 @@
                       virus (malware) y páginas fraudulentas (phishing).</p>
                     <p><strong>GRATIS</strong>
                       durante 3 meses, después 1€/mes por línea.</p>
-
+        
                   </div>
                 </div>
               </li>
@@ -241,7 +241,7 @@
                   </div>
                 </div>
               </li>
-
+        
               <li>
                 <div>
                   <div>
@@ -275,7 +275,7 @@
                   </div>
                 </div>
               </li>
-
+        
             </ul><span style="left: 0">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
             <span><strong>Sin sorpresas.</strong></span>
             <span><strong>No escondemos nada</strong></span>
@@ -294,7 +294,7 @@
             <span data-js-vf="_portability">
               Línea adicional: GRATIS durante 1 año, después con un 50% dto. por
               solo 9,99€/mes (dto. ya aplicado).</span>
-
+        
           </p><span>
                 Los primeros 3 meses</span><span></span><span data-js-vf="_recommendedRate">30,49</span><span data-js-vf="_regularRate">28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_recommendedRate">30,49</span><span data-js-vf="_regularRate">28,49</span><span>€</span><sub>/mes</sub><span>
                 Del mes 4 al
@@ -313,59 +313,7 @@
               <title>Flecha derecha</title>
               <use xlink:href="#icon-chevron-right"></use>
             </svg>
-          </a><h3><strong>¿Cómo contrato Vodafone One
-              Ilimitada Avanzada
-              <span data-js-vf="_recommendedRate">1Gbps</span><span data-js-vf="_regularRate">600Mbps</span>?</strong>
-          </h3><ul>
-            <li>
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                <title>Business</title>
-                <use xlink:href="#icon-shopping-trolley-mid"></use>
-              </svg>
-              <p>Compra online</p>
-              <p>Recibirás un email de
-                confirmación con el detalle de tu pedido y próximos pasos.</p>
-            </li>
-            <li>
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                <title>Business</title>
-                <use xlink:href="#icon-engineer-mid"></use>
-              </svg>
-              <p>Cita de instalación</p>
-              <p>Una vez contratado, un
-                experto se pondrá en contacto contigo para concretar la fecha de
-                instalación que más te convenga. ¡Tú eliges!.</p>
-            </li>
-            <li>
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                <title>Business</title>
-                <use xlink:href="#icon-calendar-mid"></use>
-              </svg>
-              <p>Día de instalación</p>
-              <p>El técnico llevará el
-                router y el decodificador si lo has contratado con TV. Lo
-                tendrás todo listo en unas 2h (WiFi y TV).</p>
-            </li>
-            <li>
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                <title>Business</title>
-                <use xlink:href="#icon-business-mid"></use>
-              </svg>
-              <p>Portabilidad</p>
-              <p>Recibirás un SMS con la
-                fecha y lugar de tu nueva SIM del móvil, así sabrás el día
-                exacto del cambio. Nos aseguramos de que no te quedas sin línea.</p>
-            </li>
-            <li>
-              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                <title>Business</title>
-                <use xlink:href="#icon-unified-communication-mid"></use>
-              </svg>
-              <p>Mi Vodafone</p>
-              <p>Podrás registrarte y hacer
-                seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
-            </li>
-          </ul><p>
+          </a><p>
             Si ya eres cliente...
           </p><button aria-hidden="false" data-analytics-id="-1083616303361">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -508,7 +456,7 @@
             
             <p>SOL Música</p>
           </li>
-
+  
           <li>
             
             <p>Eurosport 1</p>
@@ -628,7 +576,7 @@
           <li>Cámara Frontal 8 Mp, Trasera 48 Mp y Extras Triple cámara 48MP +
             5MP + 2MP</li>
           <li>Memoria Interna 64 GB</li>
-
+  
           <li>RAM 4 GB</li>
           <li>Batería con capacidad 4000 mA</li>
           <li>Medidas del dispositivo:

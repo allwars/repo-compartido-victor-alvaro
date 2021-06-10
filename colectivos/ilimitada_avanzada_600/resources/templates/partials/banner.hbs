@@ -4,33 +4,24 @@
       <div
         class="vf-banner__textcontainer ws10-o-layout__item ws10-u--2/3@desktop ws10-u--3/5@tablet"
       >
-        {{! OFERTA TRY }}
-        <span
-          class="ws10-u-heading--4 ws10-u--hidden"
-          data-js-vf="_regularRate"
-        >Fibra + Móvil
-          <strong>a precio de 300Mbps con 50% dto. 3 meses +<br /> después 15% dto.
-            2 años</strong></span>
-
-        <span class="ws10-u-heading--4" data-js-vf="_recommendedRate">Fibra +
-          Móvil
-          <strong>a precio de 600Mbps con 50% dto. 3 meses +<br />después 15%
-            dto. 2 años</strong></span>
-
-        <p
-          class="ws10-u-heading--2-lt ws10-u--pt5x ws10-u--4/5@desktop"
-        ><strong>Fibra y datos para ser<br />ilimitable</strong></p>
+        <span class="ws10-u-heading--4">
+            Fibra + Móvil
+          <strong>con 50% dto. 3 meses +<br />
+            después 15% dto. 2 años</strong></span>
+        <h2 class="ws10-u--pt5x ws10-u--3/4@desktop">
+            {{ banner.heading2 }}
+        </h2>
 
         <a
           class="ws10-c-link-chevron ws10-c-link-chevron--primary"
           target="_blank"
-          href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/"
-          data-analytics-element="modulo inferior"
-          data-analytics-context="condiciones legales"
-          data-analytics-category="cta"
-          data-analytics-id="-5460257368589"
+          href="{{ banner.cta.url }}"
+          data-analytics-element="{{ banner.cta.element }}"
+          data-analytics-context="{{ banner.cta.content }}"
+          data-analytics-category="{{ banner.cta.category }}"
+          data-analytics-id="{{ banner.cta.id }}"
         >
-          Volver a ver las ofertas
+          {{ banner.cta.label }}
           <span class="ws10-u--hidden-visually"></span>
           <svg
             class="ws10-c-link-chevron__icon"
@@ -44,36 +35,21 @@
           </svg>
         </a>
       </div>
+      <!-- Ticket -->
       <div
         class="vf-ticket ws10-o-layout__item ws10-u--1/3@desktop ws10-u--2/5@tablet"
         data-js-vf="_ticket"
       >
         <div class="vf-ticket__floating">
           <h2 class="ws10-u-heading--5 ws10-u-heading--5-lt">
-            Vodafone One Ilimitada Avanzada
-            <span data-js-vf="_recommendedRate"> 1Gbps</span>
-            <span class="ws10-u--hidden" data-js-vf="_regularRate">
-              600Mbps</span>
+            {{ ticket.heading }}
           </h2>
           <section
-            class="ws10-c-card ws10-c-card-rate"
+            class="ws10-c-card ws10-c-card-rate ws10-c-card--no-shadow"
             data-ws10-js="card-rate"
           >
             <div class="ws10-c-card-rate__w-rates">
               <div class="ws10-c-card-rate__a-rate">
-                <div class="vfms-badge--container">
-                  <div data-js-vf="_regularRate" class="ws10-u--hidden">
-                    <b
-                      class="ws10-c-badge-text ws10-c-badge-text--turquoise vfms-badge1"
-                    >50% dto.</b>
-                  </div>
-                  <div data-js-vf="_recommendedRate">
-                    <b
-                      class="ws10-c-badge-text ws10-c-badge-text--turquoise vfms-badge1"
-                    >50% dto.</b>
-                    <b class="ws10-c-badge-text vfms-badge2">+ Fibra por menos</b>
-                  </div>
-                </div>
                 <ul
                   class="ws10-c-card-rate__product-info"
                   data-vfes-seo-empathy-promoperiod=""
@@ -91,12 +67,12 @@
 
                     <div class="ws10-c-card-rate__product">
                       <p class="ws10-c-card-rate__product-title">
-                        Datos y minutos ilimitados
+                        {{ ticket.description.0.title }}
                       </p>
                       <p
                         class="ws10-c-card-rate__product-txt ws10-c-card-rate__product-txt--primary"
                       >
-                        Velocidad alta
+                        {{ ticket.description.0.subtitle }}
                         <svg
                           class="ws10-c-card-rate__product-txt-icon"
                           xmlns="http://www.w3.org/2000/svg"
@@ -119,12 +95,12 @@
                       <use xlink:href="#icon-sim"></use>
                     </svg>
                     <div class="ws10-c-card-rate__product">
-                      <p class="ws10-c-card-rate__product-title">
-                        4GB y 200 minutos GRATIS
-                      </p>
-                      <p class="ws10-c-card-rate__product-txt">
-                        segunda línea GRATIS 1 año
-                      </p>
+                        <p class="ws10-c-card-rate__product-title">
+                          {{ ticket.description.1.title }}
+                        </p>
+                        <p class="ws10-c-card-rate__product-txt">
+                          {{ ticket.description.1.subtitle }}
+                        </p>
                     </div>
                   </li>
                   <li class="ws10-c-card-rate__product-info-item">
@@ -137,68 +113,12 @@
                       <use xlink:href="#icon-broadband-or-wifi"></use>
                     </svg>
                     <div class="ws10-c-card-rate__product">
-                      <p class="ws10-c-card-rate__product-title">
-                        Fibra Óptica
-                        <span>+ llamadas ilimitadas en fijo</span>
-                      </p>
-                      <form
-                        action=""
-                        method="get"
-                        class="ws10-u--1/1 vf-form ws10-c-card-rate__form ws10-c-form ws10-u--mt0"
-                        data-js-vf="_showOrHideSticky"
-                      >
-                        <fieldset class="ws10-u--pb0 ws10-u--mb1x">
-                          <div class="ws10-c-card-rate__w-form-select">
-                            <div
-                              data-cta="600:vel:div"
-                              class="vf-form__box ws10-c-form__box"
-                              data-analytics-id="-6727639743211"
-                            >
-                              <input
-                                type="radio"
-                                name="rate-1-card-rate-speed"
-                                data-js-vf="regularRateCheck"
-                                id="rate-1-card-rate-speed-option-1"
-                                class="ws10-c-form__radio"
-                                data-analytics-category="cta"
-                                data-analytics-element="cardrate"
-                                data-analytics-context="600mbps"
-                              />
-                              <label
-                                for="rate-1-card-rate-speed-option-1"
-                                class="ws10-c-card-rate__form-label ws10-c-form__label"
-                                data-js-vf="_buttonSpeed"
-                                data-js-vf-value="regularRate"
-                              >
-                                600Mbps
-                              </label>
-                            </div>
-                            <div
-                              data-cta="1GB:vel:div"
-                              class="vf-form__box ws10-c-form__box"
-                            >
-                              <input
-                                type="radio"
-                                name="rate-1-card-rate-speed"
-                                data-js-vf="recommendedRateCheck"
-                                id="rate-1-card-rate-speed-option-2"
-                                class="ws10-c-form__radio"
-                                data-analytics-category="cta"
-                                data-analytics-element="cardrate"
-                                data-analytics-context="1Gbps"
-                                checked
-                              />
-                              <label
-                                for="rate-1-card-rate-speed-option-2"
-                                class="ws10-c-card-rate__form-label ws10-c-form__label vf-active vf-bold"
-                                data-js-vf="_buttonSpeed"
-                                data-js-vf-value="recommendedRate"
-                              >1Gbps
-                              </label>
-                            </div>
-                          </div>
-                        </fieldset>
-                      </form>
+                        <p class="ws10-c-card-rate__product-title">
+                          {{ ticket.description.2.title }}
+                        </p>
+                        <p class="ws10-c-card-rate__product-txt">
+                          {{ ticket.description.2.subtitle }}
+                        </p>
                     </div>
                   </li>
 
@@ -212,7 +132,7 @@
                 >
                   <fieldset>
                     <legend class="ws10-c-card-rate__form-title">
-                      ¿Cómo quieres la línea móvil principal?
+                      {{ ticket.form.legend }}
                     </legend>
                     <div class="ws10-c-card-rate__w-form-select">
                       <div
@@ -226,9 +146,9 @@
                           name="rate-1-card-rate"
                           id="rate-1-card-rate-option-1"
                           class="ws10-c-form__radio"
-                          data-analytics-element="modulo superior tarifa"
-                          data-analytics-context="portabilidad"
-                          data-analytics-category="cta"
+                          data-analytics-element="{{ ticket.form.portability.element }}"
+                          data-analytics-context="{{ ticket.form.portability.context }}"
+                          data-analytics-category="{{ ticket.form.portability.category }}"
                           checked
                         />
                         <label
@@ -237,7 +157,7 @@
                           data-js-vf="_buttonTypeLine"
                           data-js-vf-value="portability"
                         >
-                          Portabilidad
+                          {{ ticket.form.portability.label }}
                         </label>
                       </div>
                       <div
@@ -253,108 +173,32 @@
                           name="rate-1-card-rate"
                           id="rate-1-card-rate-option-2"
                           class="ws10-c-form__radio"
-                          data-analytics-element="modulo superior tarifa"
-                          data-analytics-context="alta nueva"
-                          data-analytics-category="cta"
+                          data-analytics-element="{{ ticket.form.newNumber.element }}"
+                          data-analytics-context="{{ ticket.form.newNumber.context }}"
+                          data-analytics-category="{{ ticket.form.newNumber.category }}"
                         />
                         <label
                           for="rate-1-card-rate-option-2"
                           class="ws10-c-card-rate__form-label ws10-c-form__label"
                           data-js-vf="_buttonTypeLine"
-                          data-js-vf-value="newNumber"
-                        >Nuevo Número</label>
+                          data-js-vf-value="newNumber">
+                            {{ ticket.form.newNumber.label }}
+                        </label>
                       </div>
                     </div>
                   </fieldset>
-                  <div data-js-vf="_regularRate" class="ws10-u--hidden">
+                  <div>
                     <p
                       class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price"
-                    >
-                     <strong>A precio de 300Mbps + 50% dto. 3 meses + después 15%
-                      dto. durante 2 años</strong>
-                    </p>
-                    <div
-                      class="ws10-c-card-rate__w-cta ws10-u--mt1x"
                       data-js-vf="_portability"
                     >
-                      <div class="ws10-c-card-rate__w-offers ">
-                        <div
-                          class="ws10-c-card-rate__offer"
-                          id="rate-1-offer-1"
-                        >
-                          <p class="ws10-c-card-rate__form-title">
-                            Permanencia 1 año
-                          </p>
-                          <p
-                            class="ws10-c-card-rate__price ws10-u-color--black"
-                          >
-                            28,49€<sub>/mes</sub>
-                          </p>
-                        </div>
-                      </div>
-                      <a
-                        data-cta="600:port:card"
-                        class="ws10-c-button ws10-c-button--auto"
-                        href="#"
-                        type="submit"
-                        onmousedown="#"
-                        data-analytics-context="#"
-                        data-analytics-element="#"
-                        data-analytics-category="#"
-                        data-analytics-id="#"
-                      >
-                        Lo quiero
-                        <span
-                          class="ws10-u--hidden-visually"
-                          data-cta-a11y
-                        ></span>
-                      </a>
-                    </div>
-                    <div
-                      class="ws10-c-card-rate__w-cta ws10-u--hidden ws10-u--mt1x"
+                      <strong>{{ ticket.offers.portability.dtoPercent }}</strong>
+                    </p>
+                    <p
+                      class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price ws10-u--hidden"
                       data-js-vf="_newNumber"
                     >
-                      <div class="ws10-c-card-rate__w-offers ">
-                        <div
-                          class="ws10-c-card-rate__offer"
-                          id="rate-1-offer-1"
-                        >
-                          <p class="ws10-c-card-rate__form-title">
-                            Permanencia 1 año
-                          </p>
-                          <p
-                            class="ws10-c-card-rate__price ws10-u-color--black"
-                          >
-                            28,49€<sub>/mes</sub>
-                          </p>
-                        </div>
-                      </div>
-                      <a
-                        data-cta="600:new:card"
-                        class="ws10-c-button ws10-c-button--auto"
-                        href="#"
-                        type="submit"
-                        onmousedown="#"
-                        data-analytics-context="#"
-                        data-analytics-element="#"
-                        data-analytics-category="#"
-                        data-analytics-id="-4725875160593"
-                      >
-                        Lo quiero
-                        <span
-                          class="ws10-u--hidden-visually"
-                          data-cta-a11y
-                        ></span>
-                      </a>
-                    </div>
-
-                  </div>
-                  <div data-js-vf="_recommendedRate">
-                    <p
-                      class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price"
-                    >
-                      <strong>A precio de 600Mbps + 50% dto. 3 meses + después 15%
-                      dto. durante 2 años</strong>
+                      <strong>{{ ticket.offers.newNumber.dtoPercent }}</strong>
                     </p>
                     <div
                       class="ws10-c-card-rate__w-cta ws10-u--mt1x"
@@ -366,27 +210,27 @@
                           id="rate-1-offer-1"
                         >
                           <p class="ws10-c-card-rate__form-title">
-                            Permanencia 1 año
+                            {{ ticket.offers.portability.dtoLabel }}
                           </p>
                           <p
                             class="ws10-c-card-rate__price ws10-u-color--black"
                           >
-                            30,49€<sub>/mes</sub>
+                            {{ ticket.offers.portability.dtoPrice }}€<sub>/mes</sub>
                           </p>
                         </div>
                       </div>
                       <a
-                        data-cta="1GB:port:card"
-                        class="ws10-c-button ws10-c-button--auto"
-                        href="#"
+                        data-cta="600:port:card"
                         type="submit"
-                        onmousedown="#"
-                        data-analytics-context="#"
-                        data-analytics-element="#"
-                        data-analytics-category="#"
-                        data-analytics-id="-4725875160593"
+                        class="ws10-c-button ws10-c-button--auto"
+                        href="{{ ticket.offers.portability.cta.url }}"
+                        onmousedown="{{ ticket.offers.portability.cta.ul }}"
+                        data-analytics-element="{{ ticket.offers.portability.cta.element }}"
+                        data-analytics-context="{{ ticket.offers.portability.cta.content }}"
+                        data-analytics-category="{{ ticket.offers.portability.cta.category }}"
+                        data-analytics-id="{{ ticket.offers.portability.cta.id }}"
                       >
-                        Lo quiero
+                        {{ ticket.offers.portability.cta.label }}
                         <span
                           class="ws10-u--hidden-visually"
                           data-cta-a11y
@@ -408,22 +252,23 @@
                           <p
                             class="ws10-c-card-rate__price ws10-u-color--black"
                           >
-                            30,49€<sub>/mes</sub>
+                            {{ ticket.offers.newNumber.dtoPrice }}€<sub>/mes</sub>
                           </p>
                         </div>
                       </div>
                       <a
-                        data-cta="1GB:new:card"
+                        data-cta="600:new:card"
+                        type="submit"
                         class="ws10-c-button ws10-c-button--auto"
                         href="#"
-                        type="submit"
-                        onmousedown="#"
-                        data-analytics-context="#"
-                        data-analytics-element="#"
-                        data-analytics-category="#"
-                        data-analytics-id="-4725875160593"
+                        href="{{ ticket.offers.newNumber.cta.url }}"
+                        onmousedown="{{ ticket.offers.newNumber.cta.ul }}"
+                        data-analytics-element="{{ ticket.offers.newNumber.cta.element }}"
+                        data-analytics-context="{{ ticket.offers.newNumber.cta.content }}"
+                        data-analytics-category="{{ ticket.offers.newNumber.cta.category }}"
+                        data-analytics-id="{{ ticket.offers.newNumber.cta.id }}"
                       >
-                        Lo quiero
+                        {{ ticket.offers.newNumber.cta.label }}
                         <span
                           class="ws10-u--hidden-visually"
                           data-cta-a11y

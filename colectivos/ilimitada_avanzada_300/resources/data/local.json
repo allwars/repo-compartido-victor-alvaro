@@ -103,5 +103,8 @@
           ["300Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta 25 dispositivos a la vez."],
           ["Fijo con llamadas ilimitadas a fijos y móviles."]
       ]
+  },
+  "alsoIncluded": {
+      "title": "También incluido en Vodafone One ilimitada Avanzada 600Mbps"
   }
 }

@@ -172,10 +172,7 @@
                     para tu hogar, podrás conectar hasta 25 dispositivos a la vez.
                 </p><p>
                     <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
-                </p><h3><strong>También incluido en Vodafone One
-              ilimitada Avanzada
-              <span data-js-vf="_recommendedRate">300Mbps</span>
-              <span data-js-vf="_regularRate">600Mbps</span></strong></h3><ul aria-labelledby="idList">
+                </p><h3><strong>También incluido en Vodafone One Ilimitada Avanzada 300Mbps</strong></h3><ul aria-labelledby="idList">
               <li>
                 <div>
                   <div>
@@ -183,13 +180,12 @@
                       
                       <h3><strong>Secure Net</strong></h3>
                     </div>
-                    <p>Para
-                      que
-                      <strong>navegues sin riesgos en Internet por la red móvil
-                        y de acceso fijo de Vodafone</strong>, protegiéndote de
-                      virus (malware) y páginas fraudulentas (phishing).</p>
+                    <p>Para que
+                      <strong>navegues sin riesgos en Internet por la red móvil y de
+                        acceso fijo de Vodafone</strong>, protegiéndote de virus
+                      (malware) y páginas fraudulentas (phishing).</p>
                     <p><strong>GRATIS</strong>
-                      durante 3 meses, después 1€/mes por línea.</p>
+                      durante 3 meses, después 1€/mes.</p>
                   </div>
                 </div>
               </li>
@@ -200,12 +196,12 @@
                       
                       <h3><strong>OneNumber</strong></h3>
                     </div>
-                    <p><strong>Mismo número de teléfono y misma tarifa de voz y
-                        datos en todos tus dispositivos</strong>
-                      sin necesidad de tener el móvil cerca y sin cambiar la
-                      SIM.</p>
+                    <p>Mismo número
+                      de teléfono y misma tarifa de voz y datos en todos tus
+                      dispositivos sin necesidad de tener el móvil cerca y sin cambiar
+                      la SIM.</p>
                     <p><strong>GRATIS</strong>
-                      1 mes, después 5€/mes para smartwatch, Tablet o teléfono
+                      durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono
                       secundario y 1€/mes para Smart speaker con Alexa.</p>
                   </div>
                 </div>
@@ -215,15 +211,15 @@
                   <div>
                     <div>
                       
-                      <h3><strong>Secure Net
-                          Family</strong>
+                      <h3><strong>Secure Net Family</strong>
                       </h3>
                     </div>
-                    <p><strong>Secure Net Family</strong>
+                    <p><strong>Secure
+                        Net Family</strong>
                       te protege de
                       <strong>virus (malware) y páginas fraudulentas (phishing)</strong>,
-                      permitiendo además aplicar políticas de control parental
-                      en todos los dispositivos de tu hogar.</p>
+                      permitiendo además aplicar políticas de control parental en todos
+                      los dispositivos de tu hogar.</p>
                     <p><strong>GRATIS</strong>
                       durante 3 meses, después 5€/mes (IVA incluido).</p>
                   </div>
@@ -236,8 +232,9 @@
                       
                       <h3><strong>TIDAL</strong></h3>
                     </div>
-                    <p>Plataforma de música en streaming para que disfrutes de tu
-                      música con la mejor calidad de audio.</p>
+                    <p>Plataforma de
+                      música en streaming para que disfrutes de tu música con la mejor
+                      calidad de audio.</p>
                     <p><strong>GRATIS</strong>
                       durante 3 meses, después 7,99€/mes.</p>
                   </div>
