@@ -104,7 +104,7 @@
   "fibra": {
       "title": ["Fibra óptica simétrica", "300Mbps de velocidad para tu hogar"],
       "details": [
-          ["300Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta 25 dispositivos a la vez."],
+          ["300Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta 12 dispositivos a la vez."],
           ["Fijo con llamadas ilimitadas a fijos y móviles."]
       ]
   },
@@ -117,6 +117,6 @@
       "heading2": "con más de 30 canales internacionales",
       "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
       "allChannels": "Ver todos los canales incluidos",
-      "info": "(*) Puedes añadir más pack de TV en el proceso de compra."
+      "info": "(*) Puedes añadir más packs de TV en el proceso de compra."
   }
 }

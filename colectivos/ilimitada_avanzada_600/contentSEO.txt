@@ -65,10 +65,10 @@
                       </svg>
                       <div>
                         <p>
-                          Pack TV Seriefans GRATIS 1 año
+                          Pack TV Universal GRATIS
                         </p>
                         <p>
-                          con HBO España y 60 canales más
+                          con más de 30 canales internacionales
                         </p>
                       </div>
                     </li>
@@ -173,6 +173,187 @@
               </p><p>
               (*)Podrás añadir más Líneas adicionales en el proceso de compra
           </p><h3>
+              <span>
+                  Televisión
+              </span>
+              <span>
+                  <strong>Pack TV Universal GRATIS</strong>
+              </span>
+            </h3><p>
+                con más de 30 canales internacionales
+            </p><ul>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+        
+            </ul><p>
+              El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
+          </p><ul>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+              <li>
+                
+              </li>
+            </ul><p>
+              <a data-backdrop="seriefans" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-6241792886380">
+                Ver todos los canales incluidos
+              </a>
+            </p><span style="left: 0; position:relative;">
+            (*) Puedes añadir más pack de TV en el proceso de compra.
+            </span><button aria-hidden="false">
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <title>Close</title>
+                    <use xlink:href="#icon-close"></use>
+                  </svg>
+                </button><p>Canales Pack Seriefans</p><ul>
+                  <li>
+                    
+                    <p>HBO España</p>
+                  </li>
+                  <li>
+                    
+                    <p>FOXNOW</p>
+                  </li>
+                  <li>
+                    
+                    <p>AXN Now</p>
+                  </li>
+                  <li>
+                    
+                    <p>TNT</p>
+                  </li>
+                  <li>
+                    
+                    <p>FOX</p>
+                  </li>
+                  <li>
+                    
+                    <p>AMC SELEKT Series</p>
+                  </li>
+                  <li>
+                    
+                    <p>SYFY</p>
+                  </li>
+                  <li>
+                    
+                    <p>Calle 13</p>
+                  </li>
+                  <li>
+                    
+                    <p>AXN</p>
+                  </li>
+                  <li>
+                    
+                    <p>AXN White</p>
+                  </li>
+                </ul><p>Y además todos los Packs
+                  incluyen estos canales:</p><ul>
+                  <li>
+                    
+                    <p>AMC</p>
+                  </li>
+                  <li>
+                    
+                    <p>FOX Life</p>
+                  </li>
+                  <li>
+                    
+                    <p>Cosmo</p>
+                  </li>
+                  <li>
+                    
+                    <p>Comedy Central</p>
+                  </li>
+                  <li>
+                    
+                    <p>XTRM</p>
+                  </li>
+                  <li>
+                    
+                    <p>TCM</p>
+                  </li>
+                  <li>
+                    
+                    <p>Sundance TV</p>
+                  </li>
+                  <li>
+                    
+                    <p>National Geographic</p>
+                  </li>
+                  <li>
+                    
+                    <p>National Geographic Now</p>
+                  </li>
+                  <li>
+                    
+                    <p>Cocina</p>
+                  </li>
+                  <li>
+                    
+                    <p>Decasa</p>
+                  </li>
+                  <li>
+                    
+                    <p>MTV</p>
+                  </li>
+                  <li>
+                    
+                    <p>MyMTV Music</p>
+                  </li>
+                  <li>
+                    
+                    <p>SOL Música</p>
+                  </li>
+        
+                  <li>
+                    
+                    <p>Eurosport 1</p>
+                  </li>
+                  <li>
+                    
+                    <p>Selekt</p>
+                  </li>
+                </ul><h3>
                 Fibra óptica simétrica
             </h3><h3>
                 <strong>600Mbps de velocidad para tu hogar</strong>
@@ -270,15 +451,15 @@
               después al 15% durante 2 años.</span>
             <span data-js-vf="_portability">
               Línea adicional: GRATIS durante 1 año, después con un 50% dto. por
-              solo 9,99€/mes (dto. ya aplicado).</span>
+              solo 17,50€/mes (dto. ya aplicado).</span>
           </p><span data-js-vf="_portability">
                   Los primeros 3 meses</span><span data-js-vf="_newNumber">
                   Los primeros 3 meses</span><span></span><span>30,49</span><span>€</span><sub>/mes</sub><span>30,49</span><span>€</span><sub>/mes</sub><span>
                 Del mes 4 al
                 <span data-js-vf="_portability"> 12</span>
-              </span><span></span><span>52,69</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 13 al 27</span><span data-js-vf="_newNumber">Del mes 4 al 27</span><span></span><span>62,68</span><span>€</span><sub>/mes</sub><span>52,69</span><span>€</span><sub>/mes</sub><span>
+              </span><span></span><span>52,69</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 13 al 27</span><span data-js-vf="_newNumber">Del mes 4 al 27</span><span></span><span>70,19</span><span>€</span><sub>/mes</sub><span>52,69</span><span>€</span><sub>/mes</sub><span>
                 Del mes 28 en adelante
-              </span><span></span><span>71,98</span><span>€</span><sub>/mes</sub><span>71,98</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo
+              </span><span></span><span>79,49</span><span>€</span><sub>/mes</sub><span>79,49</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo
             que sea autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene
             activo en el servicio durante, al menos, 1 año desde la fecha de
             instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/legales/" data-analytics-id="-5460257368590">
