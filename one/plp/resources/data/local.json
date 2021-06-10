@@ -2,6 +2,9 @@
   "mismakey": "Yo soy el JSON local del microsite",
   "title": "Ejemplo de contenido cargado desde el JSON",
   "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
+  "banner": {
+      "title": ["Disfruta", " 2 líneas ilimitadas", " y fibra al", " 50% dto. 3 meses"]
+  },
   "rates": {
       "fibra300": {
           "discount": "50% dto.",
@@ -10,11 +13,14 @@
                   "title": "Datos y minutos ilimitados",
                   "subtitle": "Velocidad alta"
               }, {
-                  "title": "4GB y 200 minutos GRATIS",
-                  "subtitle": "segunda línea GRATIS 1 año"
+                  "title": "Segunda línea GRATIS 1 año",
+                  "subtitle": "Datos y minutos ilimitados"
               }, {
                   "title": "300Mbps Fibra Óptica",
                   "subtitle": "+ llamadas ilimitadas en fijo"
+              }, {
+                  "title": "Pack TV Universal GRATIS",
+                  "subtitle": "con más de 30 canales internacionales"
               }
           ],
           "offers": {
@@ -38,11 +44,14 @@
                   "title": "Datos y minutos ilimitados",
                   "subtitle": "Velocidad alta"
               }, {
-                  "title": "4GB y 200 minutos GRATIS",
-                  "subtitle": "segunda línea GRATIS 1 año"
+                  "title": "Segunda línea GRATIS 1 año",
+                  "subtitle": "Datos y minutos ilimitados"
               }, {
                   "title": "600Mbps Fibra Óptica",
                   "subtitle": "+ llamadas ilimitadas en fijo"
+              }, {
+                  "title": "Pack TV Universal GRATIS",
+                  "subtitle": "con más de 30 canales internacionales"
               }
           ],
           "offers": {
@@ -66,8 +75,8 @@
                   "title": "Datos y minutos ilimitados",
                   "subtitle": "Velocidad máxima 5G"
               }, {
-                  "title": "4GB y 200 minutos GRATIS",
-                  "subtitle": "segunda línea GRATIS 1 año"
+                  "title": "Segunda línea GRATIS 1 año",
+                  "subtitle": "Datos y minutos ilimitados"
               }, {
                   "title": "600Mbps Fibra Óptica",
                   "subtitle": "+ llamadas ilimitadas en fijo"

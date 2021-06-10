@@ -3,7 +3,7 @@
       y quieres beneficiarte de este descuento,
       <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí</a></p><span>
               Fibra + Móvil
-              <strong>con 50% dto. 3 meses +<br>con 50% dto. 3 meses +</strong>
+              <strong>con 50% dto. 3 meses +<br>después 15% dto. 2 años</strong>
           </span><h2>
               Fibra y datos para ser ilimitable
           </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
@@ -100,7 +100,7 @@
                         </a><p>
             Móvil
           </p><p>
-            Datos ilimitados para no perderte nada
+            <strong>Datos ilimitados para no perderte nada</strong>
           </p><div>
             </div><ul>
             <li>
@@ -161,8 +161,8 @@
           </ul><h3>
               <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
           </h3><p>
-                  <strong>Datos ilimitados</strong>
-                   a media velocidad (2Mbps de bajada y de subida)
+                  Datos ilimitados
+                  <strong> a media velocidad (2Mbps de bajada y de subida)</strong>
               </p><p>
                     Consulta tus redes sociales y usa aplicaciones de mensajería instantánea
                 </p><p>
@@ -239,7 +239,7 @@
                 Ver todos los canales incluidos
               </a>
             </p><span style="left: 0; position:relative;">
-            (*) Puedes añadir más pack de TV en el proceso de compra.
+            (*) Puedes añadir más packs de TV en el proceso de compra.
             </span><button aria-hidden="false">
                   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <title>Close</title>
@@ -362,7 +362,7 @@
                 </div><p>
                     <strong>600Mbps de fibra óptica simétrica</strong>
                     para tu hogar, podrás conectar hasta 
-                    <strong>25</strong>
+                    25
                      dispositivos a la vez.
                 </p><p>
                     <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
@@ -452,6 +452,8 @@
             <span data-js-vf="_portability">
               Línea adicional: GRATIS durante 1 año, después con un 50% dto. por
               solo 17,50€/mes (dto. ya aplicado).</span>
+          </p><p>
+              Paquete de TV: GRATIS
           </p><span data-js-vf="_portability">
                   Los primeros 3 meses</span><span data-js-vf="_newNumber">
                   Los primeros 3 meses</span><span></span><span>30,49</span><span>€</span><sub>/mes</sub><span>30,49</span><span>€</span><sub>/mes</sub><span>
