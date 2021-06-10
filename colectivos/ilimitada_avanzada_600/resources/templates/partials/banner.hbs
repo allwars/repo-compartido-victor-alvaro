@@ -5,13 +5,12 @@
         class="vf-banner__textcontainer ws10-o-layout__item ws10-u--2/3@desktop ws10-u--3/5@tablet"
       >
         <span class="ws10-u-heading--4">
-            Fibra + Móvil
-          <strong>con 50% dto. 3 meses +<br />
-            después 15% dto. 2 años</strong></span>
+            {{ banner.heading.[0] }}
+            <strong>{{ banner.heading.[1] }}<br />{{ banner.heading.[1] }}</strong>
+        </span>
         <h2 class="ws10-u--pt5x ws10-u--3/4@desktop">
             {{ banner.heading2 }}
         </h2>
-
         <a
           class="ws10-c-link-chevron ws10-c-link-chevron--primary"
           target="_blank"
