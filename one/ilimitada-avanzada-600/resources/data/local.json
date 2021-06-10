@@ -11,14 +11,21 @@
     "icono-texto": "Mejor Precio Vodafone",
 
     "title-ticket": "Vodafone One Ilimitada Avanzada 600Mbps",
-    "ticket": {
-      "datos": "Datos y minutos ilimitados",
-      "velocidad": "velocidad alta",
-      "icon-velocidad": "#icon-thunder-2grey",
-      "segundalinea": "4GB y 200 minutos GRATIS",
-      "segundalinea_subtitle": "segunda línea GRATIS 1 año",
-      "velocidad_fibra_subtitle": "+ llamadas ilimitadas en fijo"
-    }
+    "description": [
+        {
+            "title": "Datos y minutos ilimitados",
+            "subtitle": "Velocidad alta"
+        }, {
+            "title": "Segunda línea GRATIS 1 año",
+            "subtitle": "Datos y minutos ilimitados"
+        }, {
+            "title": "300Mbps Fibra Óptica",
+            "subtitle": "+ llamadas ilimitadas en fijo"
+        }, {
+            "title": "Pack TV Universal GRATIS",
+            "subtitle": "con más de 30 canales internacionales"
+        }
+    ]
   },
 
 

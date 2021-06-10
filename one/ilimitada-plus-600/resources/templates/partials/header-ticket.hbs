@@ -55,20 +55,18 @@
 
                     <div class="ws10-c-card-rate__product">
                       <p class="ws10-c-card-rate__product-title">
-                        {{header-ticket.ticket.datos}}
+                        {{ header-ticket.description.0.title }}
                       </p>
                       <p
                         class="ws10-c-card-rate__product-txt ws10-c-card-rate__product-txt--primary"
                       >
-                        {{header-ticket.ticket.velocidad}}
+                        {{ header-ticket.description.0.subtitle }}
                         <svg
                           class="ws10-c-card-rate__product-txt-icon"
                           xmlns="http://www.w3.org/2000/svg"
                           xmlns:xlink="http://www.w3.org/1999/xlink"
                         >
-                          <use
-                            xlink:href="{{header-ticket.ticket.icon-velocidad}}"
-                          ></use>
+                          <use xlink:href="#icon-thunder-3"></use>
                         </svg>
                       </p>
                     </div>
@@ -86,10 +84,10 @@
                     </svg>
                     <div class="ws10-c-card-rate__product">
                       <p class="ws10-c-card-rate__product-title">
-                        {{header-ticket.ticket.segundalinea}}
+                        {{ header-ticket.description.1.title }}
                       </p>
                       <p class="ws10-c-card-rate__product-txt">
-                        {{header-ticket.ticket.segundalinea_subtitle}}
+                        {{ header-ticket.description.1.subtitle }}
                       </p>
                     </div>
                   </li>
@@ -104,11 +102,10 @@
                     </svg>
                     <div class="ws10-c-card-rate__product">
                       <p class="ws10-c-card-rate__product-title">
-                        {{velocidad}}
-                        Fibra Óptica
+                        {{ header-ticket.description.2.title }}
                       </p>
                       <p class="ws10-c-card-rate__product-txt">
-                        {{header-ticket.ticket.velocidad_fibra_subtitle}}
+                        {{ header-ticket.description.2.subtitle }}
                       </p>
                     </div>
                   </li>
@@ -121,15 +118,12 @@
                       <use xlink:href="#icon-tv"></use>
                     </svg>
                     <div class="ws10-c-card-rate__product">
-                      <p class="ws10-c-card-rate__product-title">
-                        {{header-ticket.ticket.tv}}
-                      </p>
-                      <p
-                        class="ws10-c-card-rate__product-txt"
-                        style="font-size: 17px;"
-                      >
-                        {{header-ticket.ticket.subitle-tv}}
-                      </p>
+                        <p class="ws10-c-card-rate__product-title">
+                          {{ header-ticket.description.3.title }}
+                        </p>
+                        <p class="ws10-c-card-rate__product-txt">
+                          {{ header-ticket.description.3.subtitle }}
+                        </p>
                     </div>
                   </li>
 
