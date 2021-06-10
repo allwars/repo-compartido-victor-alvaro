@@ -3,8 +3,8 @@
       y quieres beneficiarte de este descuento,
       <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí</a></p><span>
               Fibra + Móvil
-            <strong>con 50% dto. 3 meses +<br>
-              después 15% dto. 2 años</strong></span><h2>
+              <strong>con 50% dto. 3 meses +<br>con 50% dto. 3 meses +</strong>
+          </span><h2>
               Fibra y datos para ser ilimitable
           </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
             Volver a ver las ofertas
@@ -14,11 +14,8 @@
               <use xlink:href="#icon-chevron-right"></use>
             </svg>
           </a><h2>
-              Vodafone One Ilimitada Avanzada
-              <span data-js-vf="_recommendedRate"> 1Gbps</span>
-              <span data-js-vf="_regularRate">
-                600Mbps</span>
-            </h2><b>50% dto.</b><b>50% dto.</b><b>+ Fibra por menos</b><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
+              Vodafone One Ilimitada Avanzada 600Mbps
+            </h2><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <use xlink:href="#icon-mobile"></use>
@@ -41,41 +38,38 @@
                         <use xlink:href="#icon-sim"></use>
                       </svg>
                       <div>
-                        <p>
-                          4GB y 200 minutos GRATIS
-                        </p>
-                        <p>
-                          segunda línea GRATIS 1 año
-                        </p>
+                          <p>
+                            Segunda línea GRATIS 1 año
+                          </p>
+                          <p>
+                            Datos y minutos ilimitados
+                          </p>
                       </div>
                     </li>
                     <li>
-  
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <use xlink:href="#icon-broadband-or-wifi"></use>
                       </svg>
                       <div>
+                          <p>
+                            600Mbps Fibra Óptica
+                          </p>
+                          <p>
+                            + llamadas ilimitadas en fijo
+                          </p>
+                      </div>
+                    </li>
+                    <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                        <use xlink:href="#icon-tv"></use>
+                      </svg>
+                      <div>
                         <p>
-                          Fibra Óptica
-                          <span>+ llamadas ilimitadas en fijo</span>
+                          Pack TV Seriefans GRATIS 1 año
                         </p>
-                        <form action="" method="get" data-js-vf="_showOrHideSticky">
-                          <fieldset>
-                            <div>
-                              <div data-cta="600:vel:div" data-analytics-id="-6727639743211">
-                                <input type="radio" name="rate-1-card-rate-speed" data-js-vf="regularRateCheck">
-                                <label for="rate-1-card-rate-speed-option-1" data-js-vf="_buttonSpeed" data-js-vf-value="regularRate">
-                                  600Mbps
-                                </label>
-                              </div>
-                              <div data-cta="1GB:vel:div">
-                                <input type="radio" name="rate-1-card-rate-speed" data-js-vf="recommendedRateCheck" checked="">
-                                <label for="rate-1-card-rate-speed-option-2" data-js-vf="_buttonSpeed" data-js-vf-value="recommendedRate">1Gbps
-                                </label>
-                              </div>
-                            </div>
-                          </fieldset>
-                        </form>
+                        <p>
+                          con HBO España y 60 canales más
+                        </p>
                       </div>
                     </li>
   
@@ -83,50 +77,39 @@
                         ¿Cómo quieres la línea móvil principal?
                       </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine" data-js-vf-value="portability">
                             Portabilidad
-                          </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">Nuevo Número</label><p>
-                       <strong>A precio de 300Mbps + 50% dto. 3 meses + después 15%
-                        dto. durante 2 años</strong>
-                      </p><p>
-                              Permanencia 1 año
-                            </p><p>
-                              28,49€<sub>/mes</sub>
-                            </p><a data-cta="600:port:card" href="#" type="submit" onmousedown="#" data-analytics-id="#">
-                          Lo quiero
-                          <span data-cta-a11y=""></span>
-                        </a><p>
-                              Permanencia 1 año
-                            </p><p>
-                              28,49€<sub>/mes</sub>
-                            </p><a data-cta="600:new:card" href="#" type="submit" onmousedown="#" data-analytics-id="-4725875160593">
-                          Lo quiero
-                          <span data-cta-a11y=""></span>
-                        </a><p>
-                        <strong>A precio de 600Mbps + 50% dto. 3 meses + después 15%
-                        dto. durante 2 años</strong>
+                          </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
+                              Nuevo Número
+                          </label><p data-js-vf="_portability">
+                        <strong>50% dto. 3 meses + después 15% dto. durante 2 años</strong>
+                      </p><p data-js-vf="_newNumber">
+                        <strong>50% dto. 3 meses + después 15% dto. durante 2 años</strong>
                       </p><p>
                               Permanencia 1 año
                             </p><p>
                               30,49€<sub>/mes</sub>
-                            </p><a data-cta="1GB:port:card" href="#" type="submit" onmousedown="#" data-analytics-id="-4725875160593">
+                            </p><a data-cta="600:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&amp;tcli=0&amp;tta=1" onmousedown="" data-analytics-id="-4725875160593">
                           Lo quiero
                           <span data-cta-a11y=""></span>
                         </a><p>
                               Permanencia 1 año
                             </p><p>
                               30,49€<sub>/mes</sub>
-                            </p><a data-cta="1GB:new:card" href="#" type="submit" onmousedown="#" data-analytics-id="-4725875160593">
+                            </p><a data-cta="600:new:card" type="submit" href="#" onmousedown="" data-analytics-id="-4725602956266">
                           Lo quiero
                           <span data-cta-a11y=""></span>
-                        </a><p>Móvil</p><p><strong>Datos ilimitados para no perderte
-              nada</strong></p><div>
+                        </a><p>
+            Móvil
+          </p><p>
+            Datos ilimitados para no perderte nada
+          </p><div>
             </div><ul>
             <li>
               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
                 <use xlink:href="#icon-thunder-2grey"></use>
               </svg>
               <p>
-                <strong>Datos ilimitados</strong>
-                a alta velocidad (10Mbps de bajada y de subida).
+                Datos ilimitados
+                <strong>a alta velocidad (10Mbps de bajada y de subida).</strong>
               </p>
             </li>
             <li>
@@ -134,8 +117,7 @@
                 <use xlink:href="#icon-music-and-movies-mid"></use>
               </svg>
               <p>
-                Disfruta de música sin límites con una calidad extrema y sin
-                cortes.
+                  Disfruta de música sin límites con una calidad extrema y sin cortes.
               </p>
             </li>
             <li>
@@ -143,8 +125,7 @@
                 <use xlink:href="#icon-video-mid"></use>
               </svg>
               <p>
-                Consume vídeo en streaming en calidad 4K sin cortes ni
-                interrupciones.
+                Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.
               </p>
             </li>
             <li>
@@ -152,8 +133,7 @@
                 <use xlink:href="#icon-play-mid"></use>
               </svg>
               <p>
-                Disfruta de streaming sin necesidad de conectarte al WiFi, tú y
-                tus datos.
+                Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
               </p>
             </li>
             <li>
@@ -161,18 +141,15 @@
                 <use xlink:href="#icon-unified-communication-mid"></use>
               </svg>
               <p>
-                <strong>Llamadas y SMS ilimitados</strong>
-                con cualquier operador nacional las 24 horas, establecimiento
-                incluido.
+                  <strong>Llamadas y SMS ilimitados</strong>
+                  con cualquier operador nacional las 24 horas, establecimiento incluido.
               </p>
             </li>
             <li>
               
               <p>
-                <strong>Roaming incluido en la Unión Europea, Reino Unido y
-                  EEUU.</strong>
-                Disfruta con las mismas condiciones de tu tarifa, sin
-                preocupaciones también en EEUU.
+                  <strong>Roaming incluido en la Unión Europea, Reino Unido y EEUU.</strong>
+                  Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.
               </p>
             </li>
             <li>
@@ -181,30 +158,35 @@
               </svg>
               <p>Todo con la nueva red 5G.</p>
             </li>
-          </ul><p><strong>Llévate la 2ª Línea GRATIS 1</strong></p><p><strong>4GB de datos</strong>
-                para navegar a la máxima velocidad.</p><p><strong>200 minutos</strong>
-                en llamadas a fijos y móviles
-              </p><p><strong>Chatea y usa tus
-                  redes sociales</strong>
-                con la conexión 5G.</p><p>(*)Podrás añadir más Líneas
-            adicionales en el proceso de compra
-          </p><h3>Fibra
-            óptica simétrica</h3><h3><strong>1Gbps de velocidad para tu hogar</strong></h3><div>
+          </ul><h3>
+              <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
+          </h3><p>
+                  <strong>Datos ilimitados</strong>
+                   a media velocidad (2Mbps de bajada y de subida)
+              </p><p>
+                    Consulta tus redes sociales y usa aplicaciones de mensajería instantánea
+                </p><p>
+                  Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos
+              </p><p>
+                  <strong>Llamadas y SMS ilimitados</strong>
+                  con cualquier operador nacional las 24 horas, establecimiento incluido.
+              </p><p>
+              (*)Podrás añadir más Líneas adicionales en el proceso de compra
+          </p><h3>
+                Fibra óptica simétrica
+            </h3><h3>
+                <strong>600Mbps de velocidad para tu hogar</strong>
+            </h3><div>
                   
-                </div><p><strong>1Gbps de fibra
-                    óptica simétrica</strong>
-                  para tu hogar, podrás conectar más 35 dispositivos a la vez.</p><p><strong>Fijo con llamadas
-                    ilimitadas a fijos y móviles.</strong></p><h3>Fibra
-            óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu
-              hogar</strong></h3><div>
-                  
-                </div><p><strong>600Mbps de fibra
-                    óptica simétrica</strong>
-                  para tu hogar, podrás conectar más 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas
-                    ilimitadas a fijos y móviles.</strong></p><h3><strong>También incluido en Vodafone One
-              ilimitada Avanzada
-              <span data-js-vf="_recommendedRate">1Gbps</span>
-              <span data-js-vf="_regularRate">600Mbps</span></strong>
+                </div><p>
+                    <strong>600Mbps de fibra óptica simétrica</strong>
+                    para tu hogar, podrás conectar hasta 
+                    <strong>25</strong>
+                     dispositivos a la vez.
+                </p><p>
+                    <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
+                </p><h3>
+              <strong>También incluido en Vodafone One ilimitada Avanzada 600Mbps</strong>
           </h3><ul aria-labelledby="idList">
               <li>
                 <div>
@@ -279,31 +261,24 @@
             </ul><span style="left: 0">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
             <span><strong>Sin sorpresas.</strong></span>
             <span><strong>No escondemos nada</strong></span>
-          </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?<br>
-            <strong>
-              <span data-js-vf="_recommendedRate">Paquete Fibra + Móvil:
-                30,49€/mes durante 3 meses, después 61,19€/mes</span>
-              <span data-js-vf="_regularRate">
-                Paquete Fibra + Móvil: 28,49€/mes durante 3 meses, después
-                52,69€/mes</span>
-              durante 2 años.</strong>
+          </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?
+            <br>
+            <strong>Paquete Fibra + Móvil: 30,49€/mes durante 3 meses, después 52,69€/mes durante 2 años.</strong>
           </p><p>
             <span>Promociones:</span>
-            <span>Llévate la fibra superior por precio inferior y al 50% dto.
-              durante 3 meses, después al 15% dto. durante 2 años.</span>
+            <span>Llévate el paquete de Fibra + Móvil al 50% dto. 3 meses,
+              después al 15% durante 2 años.</span>
             <span data-js-vf="_portability">
               Línea adicional: GRATIS durante 1 año, después con un 50% dto. por
               solo 9,99€/mes (dto. ya aplicado).</span>
-        
-          </p><span>
-                Los primeros 3 meses</span><span></span><span data-js-vf="_recommendedRate">30,49</span><span data-js-vf="_regularRate">28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_recommendedRate">30,49</span><span data-js-vf="_regularRate">28,49</span><span>€</span><sub>/mes</sub><span>
+          </p><span data-js-vf="_portability">
+                  Los primeros 3 meses</span><span data-js-vf="_newNumber">
+                  Los primeros 3 meses</span><span></span><span>30,49</span><span>€</span><sub>/mes</sub><span>30,49</span><span>€</span><sub>/mes</sub><span>
                 Del mes 4 al
                 <span data-js-vf="_portability"> 12</span>
-                <!--                                <span class="ws10-u--hidden" data-js-vf="_newNumber"> 27</span>-->
-              </span><span></span><span data-js-vf="_recommendedRate">61,19</span><span data-js-vf="_regularRate">52,69</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 13 al 27</span><span data-js-vf="_newNumber">
-                Del mes 4 al 27</span><span></span><span data-js-vf="_recommendedRate">71,18</span><span data-js-vf="_regularRate">62,68</span><span>€</span><sub>/mes</sub><span data-js-vf="_recommendedRate">61,19</span><span data-js-vf="_regularRate">52,69</span><span>€</span><sub>/mes</sub><span>
+              </span><span></span><span>52,69</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 13 al 27</span><span data-js-vf="_newNumber">Del mes 4 al 27</span><span></span><span>62,68</span><span>€</span><sub>/mes</sub><span>52,69</span><span>€</span><sub>/mes</sub><span>
                 Del mes 28 en adelante
-              </span><span></span><span data-js-vf="_recommendedRate">81,98</span><span data-js-vf="_regularRate">71,98</span><span>€</span><sub>/mes</sub><span data-js-vf="_recommendedRate">71,99</span><span data-js-vf="_regularRate">61,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo
+              </span><span></span><span>71,98</span><span>€</span><sub>/mes</sub><span>71,98</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo
             que sea autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene
             activo en el servicio durante, al menos, 1 año desde la fecha de
             instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/legales/" data-analytics-id="-5460257368590">
@@ -313,7 +288,58 @@
               <title>Flecha derecha</title>
               <use xlink:href="#icon-chevron-right"></use>
             </svg>
-          </a><p>
+          </a><h3>
+              <strong>¿Cómo contrato Vodafone One Ilimitada Avanzada 600Mbps?</strong>
+          </h3><ul>
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                <title>Business</title>
+                <use xlink:href="#icon-shopping-trolley-mid"></use>
+              </svg>
+              <p>Compra online</p>
+              <p>Recibirás un email de
+                confirmación con el detalle de tu pedido y próximos pasos.</p>
+            </li>
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                <title>Business</title>
+                <use xlink:href="#icon-engineer-mid"></use>
+              </svg>
+              <p>Cita de instalación</p>
+              <p>Una vez contratado, un
+                experto se pondrá en contacto contigo para concretar la fecha de
+                instalación que más te convenga. ¡Tú eliges!</p>
+            </li>
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                <title>Business</title>
+                <use xlink:href="#icon-calendar-mid"></use>
+              </svg>
+              <p>Día de instalación</p>
+              <p>El técnico llevará el
+                router y el decodificador si lo has contratado con TV. Lo
+                tendrás todo listo en unas 2h (WiFi y TV).</p>
+            </li>
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                <title>Business</title>
+                <use xlink:href="#icon-business-mid"></use>
+              </svg>
+              <p>Portabilidad</p>
+              <p>Recibirás un SMS con la
+                fecha y lugar de tu nueva SIM del móvil, así sabrás el día
+                exacto del cambio. Nos aseguramos de que no te quedas sin línea.</p>
+            </li>
+            <li>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                <title>Business</title>
+                <use xlink:href="#icon-unified-communication-mid"></use>
+              </svg>
+              <p>Mi Vodafone</p>
+              <p>Podrás registrarte y hacer
+                seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
+            </li>
+          </ul><p>
             Si ya eres cliente...
           </p><button aria-hidden="false" data-analytics-id="-1083616303361">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -340,132 +366,7 @@
             </span><a data-cta="1GB:new:sticky" href="#" type="submit" onmousedown="#" data-analytics-id="#">
             Lo quiero
             <span data-cta-a11y=""></span>
-          </a><span>
-              <span>28,49€</span>
-              <span>/mes</span>
-            </span><a data-cta="600:new:sticky" href="#" type="submit" onmousedown="#" data-analytics-id="#">
-            Lo quiero
-            <span data-cta-a11y=""></span>
-          </a><span>
-              <span>28,49€</span>
-              <span>/mes</span>
-            </span><a data-cta="600:port:sticky" href="#" type="submit" onmousedown="#" data-analytics-id="#">
-            Lo quiero
-            <span data-cta-a11y=""></span>
           </a><button aria-hidden="false">
-          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-            <title>Close</title>
-            <use xlink:href="#icon-close"></use>
-          </svg>
-        </button><p>Canales Pack Seriefans</p><ul>
-          <li>
-            
-            <p>HBO España</p>
-          </li>
-          <li>
-            
-            <p>FOXNOW</p>
-          </li>
-          <li>
-            
-            <p>AXN Now</p>
-          </li>
-          <li>
-            
-            <p>TNT</p>
-          </li>
-          <li>
-            
-            <p>FOX</p>
-          </li>
-          <li>
-            
-            <p>AMC SELEKT Series</p>
-          </li>
-          <li>
-            
-            <p>SYFY</p>
-          </li>
-          <li>
-            
-            <p>Calle 13</p>
-          </li>
-          <li>
-            
-            <p>AXN</p>
-          </li>
-          <li>
-            
-            <p>AXN White</p>
-          </li>
-        </ul><p>Y además todos los Packs
-          incluyen estos canales:</p><ul>
-          <li>
-            
-            <p>AMC</p>
-          </li>
-          <li>
-            
-            <p>FOX Life</p>
-          </li>
-          <li>
-            
-            <p>Cosmo</p>
-          </li>
-          <li>
-            
-            <p>Comedy Central</p>
-          </li>
-          <li>
-            
-            <p>XTRM</p>
-          </li>
-          <li>
-            
-            <p>TCM</p>
-          </li>
-          <li>
-            
-            <p>Sundance TV</p>
-          </li>
-          <li>
-            
-            <p>National Geographic</p>
-          </li>
-          <li>
-            
-            <p>National Geographic Now</p>
-          </li>
-          <li>
-            
-            <p>Cocina</p>
-          </li>
-          <li>
-            
-            <p>Decasa</p>
-          </li>
-          <li>
-            
-            <p>MTV</p>
-          </li>
-          <li>
-            
-            <p>MyMTV Music</p>
-          </li>
-          <li>
-            
-            <p>SOL Música</p>
-          </li>
-  
-          <li>
-            
-            <p>Eurosport 1</p>
-          </li>
-          <li>
-            
-            <p>Selekt</p>
-          </li>
-        </ul><button aria-hidden="false">
           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
             <title>Close</title>
             <use xlink:href="#icon-close"></use>
