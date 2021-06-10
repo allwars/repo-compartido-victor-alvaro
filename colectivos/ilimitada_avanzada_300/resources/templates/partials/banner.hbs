@@ -4,11 +4,10 @@
       <div
         class="vf-banner__textcontainer ws10-o-layout__item ws10-u--2/3@desktop ws10-u--3/5@tablet"
       >
-        <!-- OFERTA TRY -->
         <span class="ws10-u-heading--4">
-            Fibra + Móvil
-          <strong>con 50% dto. 3 meses +<br />
-            después 15% dto. 2 años</strong></span>
+            {{ banner.heading.[0] }}
+            <strong>{{ banner.heading.[1] }}<br />{{ banner.heading.[1] }}</strong>
+        </span>
         <h2 class="ws10-u--pt5x ws10-u--3/4@desktop">
             {{ banner.heading2 }}
         </h2>
@@ -46,7 +45,7 @@
               {{ ticket.heading }}
           </h2>
           <section
-            class="ws10-c-card ws10-c-card-rate"
+            class="ws10-c-card ws10-c-card-rate ws10-c-card--no-shadow"
             data-ws10-js="card-rate"
           >
             <div class="ws10-c-card-rate__w-rates">
@@ -120,6 +119,23 @@
                         <p class="ws10-c-card-rate__product-txt">
                           {{ ticket.description.2.subtitle }}
                         </p>
+                    </div>
+                  </li>
+                  <li class="ws10-c-card-rate__product-info-item">
+                    <svg
+                      class="ws10-c-card-rate__product-icon ws10-u-color--black"
+                      xmlns="http://www.w3.org/2000/svg"
+                      xmlns:xlink="http://www.w3.org/1999/xlink"
+                    >
+                      <use xlink:href="#icon-tv"></use>
+                    </svg>
+                    <div class="ws10-c-card-rate__product">
+                      <p class="ws10-c-card-rate__product-title">
+                        {{ ticket.description.3.title }}
+                      </p>
+                      <p class="ws10-c-card-rate__product-txt">
+                        {{ ticket.description.3.subtitle }}
+                      </p>
                     </div>
                   </li>
 

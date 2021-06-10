@@ -3,7 +3,7 @@
   "title": "Ejemplo de contenido cargado desde el JSON",
   "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
   "banner": {
-      "heading": ["Fibra + Móvil", "<strong>con 50% dto. 3 meses","después 15% dto. 2 años"],
+      "heading": ["Fibra + Móvil", "con 50% dto. 3 meses +", "después 15% dto. 2 años"],
       "heading2": "Fibra y datos para ser ilimitable",
       "cta": {
           "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/",
@@ -21,11 +21,14 @@
               "title": "Datos y minutos ilimitados",
               "subtitle": "Velocidad alta"
           }, {
-              "title": "4GB y 200 minutos GRATIS",
-              "subtitle": "segunda línea GRATIS 1 año"
+              "title": "Segunda línea GRATIS 1 año",
+              "subtitle": "Datos y minutos ilimitados"
           }, {
               "title": "300Mbps Fibra Óptica",
               "subtitle": "+ llamadas ilimitadas en fijo"
+          }, {
+              "title": "Pack TV Universal GRATIS",
+              "subtitle": "con más de 30 canales internacionales"
           }
       ],
       "form": {
@@ -91,9 +94,10 @@
   "secondLine": {
       "title": "Llévate la 2ª Línea GRATIS 1 año",
       "details": [
-          ["4GB de datos", "para navegar a la máxima velocidad."],
-          ["200 minutos", "en llamadas a fijos y móviles"],
-          ["Chatea y usa tus redes sociales", "con la conexión 5G."]
+          ["Datos ilimitados", " a media velocidad (2Mbps de bajada y de subida)"],
+          ["Consulta tus redes sociales y usa aplicaciones de mensajería instantánea"],
+          ["Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos"],
+          ["Llamadas y SMS ilimitados", "con cualquier operador nacional las 24 horas, establecimiento incluido."]
       ],
       "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra"
   },
@@ -103,5 +107,16 @@
           ["300Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta 25 dispositivos a la vez."],
           ["Fijo con llamadas ilimitadas a fijos y móviles."]
       ]
+  },
+  "alsoIncluded": {
+      "title": "También incluido en Vodafone One ilimitada Avanzada 600Mbps"
+  },
+  "tv": {
+      "title": "Televisión",
+      "heading": "Pack TV Universal GRATIS",
+      "heading2": "con más de 30 canales internacionales",
+      "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+      "allChannels": "Ver todos los canales incluidos",
+      "info": "(*) Puedes añadir más pack de TV en el proceso de compra."
   }
 }

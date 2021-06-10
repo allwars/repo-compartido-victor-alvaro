@@ -1,9 +1,10 @@
 <section class="vf-mobile ws10-u--pt12x">
-  <p
-    class="ws10-u-heading--4 ws10-u--mb2x ws10-u-heading--4-lt"
-  >Móvil</p>
-  <p class="ws10-u-heading--3"><strong>Datos ilimitados para no perderte
-      nada</strong></p>
+  <p class="ws10-u-heading--4 ws10-u--mb2x ws10-u-heading--4-lt">
+    {{ mobile.title.[0] }}
+  </p>
+  <p class="ws10-u-heading--3">
+    {{ mobile.title.[1] }}
+  </p>
   <div class="vf-mobile__animation">
     <div class="vf-mobile__apps ws10-u--mt+">
     </div>
@@ -21,7 +22,7 @@
       <img
         class="vf-mobile__animation--img"
         src="img/section-mobile/mobile-apps.png"
-        alt="Algunas de las aplicaciones que podrás usar con tu móvil si tienes Vodafone One Ilimitada Maxi"
+        alt="Algunas de las aplicaciones que podrás usar con tu móvil si tienes Vodafone One Ilimitada"
       />
     </picture>
   </div>
@@ -39,8 +40,8 @@
         <use class="icon-v3" xlink:href="#icon-thunder-2grey"></use>
       </svg>
       <p class="ws10-c-product-detail__text">
-        <strong>Datos ilimitados</strong>
-        a alta velocidad (10Mbps de bajada y de subida).
+        {{ mobile.details.0.[0] }}
+        <strong>{{ mobile.details.0.[1] }}</strong>
       </p>
     </li>
     <li
@@ -59,8 +60,7 @@
         ></use>
       </svg>
       <p class="ws10-c-product-detail__text">
-        Disfruta de música sin límites con una calidad extrema y sin
-        cortes.
+          {{ mobile.details.1.[0] }}
       </p>
     </li>
     <li
@@ -76,8 +76,7 @@
         <use class="icon-v3" xlink:href="#icon-video-mid"></use>
       </svg>
       <p class="ws10-c-product-detail__text">
-        Consume vídeo en streaming en calidad 4K sin cortes ni
-        interrupciones.
+        {{ mobile.details.2.[0] }}
       </p>
     </li>
     <li
@@ -93,8 +92,7 @@
         <use class="icon-v3" xlink:href="#icon-play-mid"></use>
       </svg>
       <p class="ws10-c-product-detail__text">
-        Disfruta de streaming sin necesidad de conectarte al WiFi, tú y
-        tus datos.
+        {{ mobile.details.3.[0] }}
       </p>
     </li>
     <li
@@ -113,9 +111,8 @@
         ></use>
       </svg>
       <p class="ws10-c-product-detail__text">
-        <strong>Llamadas y SMS ilimitados</strong>
-        con cualquier operador nacional las 24 horas, establecimiento
-        incluido.
+          <strong>{{ mobile.details.4.[0] }}</strong>
+          {{ mobile.details.4.[1] }}
       </p>
     </li>
     <li
@@ -128,10 +125,8 @@
         style="padding: 0.8rem;"
       />
       <p class="ws10-c-product-detail__text">
-        <strong>Roaming incluido en la Unión Europea, Reino Unido y
-          EEUU.</strong>
-        Disfruta con las mismas condiciones de tu tarifa, sin
-        preocupaciones también en EEUU.
+          <strong>{{ mobile.details.5.[0] }}</strong>
+          {{ mobile.details.5.[1] }}
       </p>
     </li>
     <li
@@ -146,7 +141,7 @@
       >
         <use class="icon-v3" xlink:href="#icon-5G_esp-mid"></use>
       </svg>
-      <p class="ws10-c-product-detail__text">Todo con la nueva red 5G.</p>
+      <p class="ws10-c-product-detail__text">{{ mobile.details.6.[0] }}</p>
     </li>
   </ul>
 </section>
