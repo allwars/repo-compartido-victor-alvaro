@@ -30,16 +30,14 @@ tools.onFrameworkReady = () => {
   const typeOfLineButton = document.querySelectorAll('[data-js-vf="_buttonTypeLine"]');
 
   // Bloques de información para mostrar y/o ocultar en el HTML
-  const infoRegular = document.querySelectorAll('[data-js-vf="_regularRate"]');
-  const infoRecommended = document.querySelectorAll('[data-js-vf="_recommendedRate"]');
+  
+
   const infoPortability = document.querySelectorAll('[data-js-vf="_portability"]');
   const infoNewNumber = document.querySelectorAll('[data-js-vf="_newNumber"]');
 
   const secondLine = document.querySelectorAll('[data-js-vf="_secondLine"]');
   const secondLine2 = document.querySelectorAll('[data-js-vf="_secondLine2"]');
 
-  const recommededCheck = document.querySelector('[data-js-vf="recommendedRateCheck"]');
-  const regularCheck = document.querySelector('[data-js-vf="regularRateCheck"]');
 
   const showSticky = document.querySelector('[data-js-vf="_showOrHideSticky"]');
   const stickyRate = document.querySelector('[data-js-vf="_stickyRate"]');
@@ -88,8 +86,6 @@ tools.onFrameworkReady = () => {
   const actionsType = (label) => {
     const speedType = label.getAttribute('data-js-vf-value');
     const rate = {
-      "recommendedRate": () => recommendedRate(),
-      "regularRate": () => regularRate(),
       "newNumber": () => newNumber(),
       "portability": () => portability()
     }
@@ -100,23 +96,13 @@ tools.onFrameworkReady = () => {
    * Función que Oculta la información de la tarifa recomendad y muestra la información de la tarifa regular. 
    * Marcar el checkbutton correspondiente 
    */
-  const regularRate = () => {
-    toggleInfo('hide', infoRecommended)
-    toggleInfo('show', infoRegular)
-    regularCheck.setAttribute('checked', '');
-    recommededCheck.removeAttribute('checked', '');
-  }
+
 
   /**
    * Función que MUESTRA la información de la TARIFA RECOMENDA y OCULTA la información de la TARIFA REGULAR
    */
 
-  const recommendedRate = () => {
-    toggleInfo('show', infoRecommended)
-    toggleInfo('hide', infoRegular)
-    regularCheck.removeAttribute('checked', '');
-    recommededCheck.setAttribute('checked', '');
-  }
+
 
 
   /**
@@ -226,7 +212,7 @@ tools.onFrameworkReady = () => {
       hideStickyRate();
     });
   }
-  queryString.includes('?600mbps') ? regularRate() : recommendedRate();
+
 
   [...typeOfSpeedButton].forEach(label => {
     label.addEventListener('click', () => actionsType(label));
