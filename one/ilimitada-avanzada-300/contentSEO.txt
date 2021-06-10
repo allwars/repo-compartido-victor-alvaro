@@ -15,7 +15,7 @@
                             Datos y minutos ilimitados
                           </p>
                           <p>
-                            velocidad alta
+                            Velocidad alta
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                               <use xlink:href="#icon-thunder-2grey"></use>
                             </svg>
@@ -28,10 +28,10 @@
                         </svg>
                         <div>
                           <p>
-                            4GB y 200 minutos GRATIS
+                            Segunda línea GRATIS 1 año
                           </p>
                           <p>
-                            segunda línea GRATIS 1 año
+                            Datos y minutos ilimitados
                           </p>
                         </div>
                       </li>
@@ -42,13 +42,25 @@
                         </svg>
                         <div>
                           <p>
-                            300Mbps
-                            Fibra Óptica
+                            300Mbps Fibra Óptica
                           </p>
                           <p>
                             + llamadas ilimitadas en fijo
                           </p>
                         </div>
+                      </li>
+                      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                              <use xlink:href="#icon-tv"></use>
+                          </svg>
+                          <div>
+                              <p>
+                                  Pack TV Universal GRATIS
+                              </p>
+                              <p>
+                                  con más de 30 canales internacionales
+                              </p>
+                          </div>
                       </li>
     
                     </ul><legend>
@@ -63,7 +75,7 @@
                               <del>56,99€/mes</del>
                             </p><p>
                               28,49€<sub>/mes</sub>
-                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-cta="300:port:card" data-analytics-id="#">
+                            </p><a type="submit" name="cta" title="lo quiero" data-cta="300:port:card" href="#" onmousedown="#" data-analytics-id="#">
                           lo quiero
                           <span data-cta-a11y="">
                           </span>
@@ -245,18 +257,20 @@
                         seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
                     </li>
                   </ul><del>56,99€/mes</del><span>
-                <span>28,49€</span>
-                <span>/mes</span>
-              </span><a type="submit" data-cta="600:port:sticky" href="#" data-analytics-id="#" onmousedown="">
-              Lo quiero
-              <span data-cta-a11y=""> </span>
-            </a><del>56,99€/mes</del><span>
-                <span>28,49€</span>
-                <span>/mes</span>
-              </span><a type="submit" data-cta="600:new:sticky" href="#" data-analytics-id="#" onmousedown="">
-              Lo quiero
-              <span data-cta-a11y=""></span>
-            </a><button aria-hidden="false">
+              <span>28,49€</span>
+              <span>/mes</span>
+            </span><a type="submit" name="cta" title="lo quiero" data-cta="300:port:sticky" href="#" onmousedown="#" data-analytics-id="#">
+            lo quiero
+            <span data-cta-a11y="">
+            </span>
+          </a><del>56,99€/mes</del><span>
+              <span>28,49€</span>
+              <span>/mes</span>
+            </span><a type="submit" name="cta" title="lo quiero" data-cta="300:port:sticky" href="#" onmousedown="#" data-analytics-id="#">
+            lo quiero
+            <span data-cta-a11y="">
+            </span>
+          </a><button aria-hidden="false">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>Close</title>
               <use xlink:href="#icon-close"></use>
