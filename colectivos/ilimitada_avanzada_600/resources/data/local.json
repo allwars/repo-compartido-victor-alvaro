@@ -77,7 +77,7 @@
       }
   },
   "mobile": {
-      "title": ["Móvil", "Datos ilimitados para que no te pierdas nada"],
+      "title": ["Móvil", "Datos ilimitados para no perderte nada"],
       "details": [
           ["Datos ilimitados", "a alta velocidad (10Mbps de bajada y de subida)."],
           ["Disfruta de música sin límites con una calidad extrema y sin cortes."],
@@ -100,7 +100,7 @@
   "fibra": {
       "title": ["Fibra óptica simétrica", "600Mbps de velocidad para tu hogar"],
       "details": [
-          ["600Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta 25 dispositivos a la vez."],
+          ["600Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta ", "25", " dispositivos a la vez."],
           ["Fijo con llamadas ilimitadas a fijos y móviles."]
       ]
   },
