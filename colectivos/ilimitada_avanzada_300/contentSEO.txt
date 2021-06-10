@@ -5,7 +5,7 @@
         </a>
     </p><span>
               Fibra + Móvil
-              <strong>con 50% dto. 3 meses +<br>con 50% dto. 3 meses +</strong>
+              <strong>con 50% dto. 3 meses +<br>después 15% dto. 2 años</strong>
           </span><h2>
               Fibra y datos para ser ilimitable
           </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
@@ -240,121 +240,121 @@
                 Ver todos los canales incluidos
               </a>
             </p><span style="left: 0; position:relative;">
-            (*) Puedes añadir más pack de TV en el proceso de compra.
+            (*) Puedes añadir más packs de TV en el proceso de compra.
             </span><button aria-hidden="false">
-                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                  <title>Close</title>
-                  <use xlink:href="#icon-close"></use>
-                </svg>
-              </button><p>Canales Pack Seriefans</p><ul>
-                <li>
-                  
-                  <p>HBO España</p>
-                </li>
-                <li>
-                  
-                  <p>FOXNOW</p>
-                </li>
-                <li>
-                  
-                  <p>AXN Now</p>
-                </li>
-                <li>
-                  
-                  <p>TNT</p>
-                </li>
-                <li>
-                  
-                  <p>FOX</p>
-                </li>
-                <li>
-                  
-                  <p>AMC SELEKT Series</p>
-                </li>
-                <li>
-                  
-                  <p>SYFY</p>
-                </li>
-                <li>
-                  
-                  <p>Calle 13</p>
-                </li>
-                <li>
-                  
-                  <p>AXN</p>
-                </li>
-                <li>
-                  
-                  <p>AXN White</p>
-                </li>
-              </ul><p>Y además todos los Packs
-                incluyen estos canales:</p><ul>
-                <li>
-                  
-                  <p>AMC</p>
-                </li>
-                <li>
-                  
-                  <p>FOX Life</p>
-                </li>
-                <li>
-                  
-                  <p>Cosmo</p>
-                </li>
-                <li>
-                  
-                  <p>Comedy Central</p>
-                </li>
-                <li>
-                  
-                  <p>XTRM</p>
-                </li>
-                <li>
-                  
-                  <p>TCM</p>
-                </li>
-                <li>
-                  
-                  <p>Sundance TV</p>
-                </li>
-                <li>
-                  
-                  <p>National Geographic</p>
-                </li>
-                <li>
-                  
-                  <p>National Geographic Now</p>
-                </li>
-                <li>
-                  
-                  <p>Cocina</p>
-                </li>
-                <li>
-                  
-                  <p>Decasa</p>
-                </li>
-                <li>
-                  
-                  <p>MTV</p>
-                </li>
-                <li>
-                  
-                  <p>MyMTV Music</p>
-                </li>
-                <li>
-                  
-                  <p>SOL Música</p>
-                </li>
+                  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <title>Close</title>
+                    <use xlink:href="#icon-close"></use>
+                  </svg>
+                </button><p>Canales Pack Seriefans</p><ul>
+                  <li>
+                    
+                    <p>HBO España</p>
+                  </li>
+                  <li>
+                    
+                    <p>FOXNOW</p>
+                  </li>
+                  <li>
+                    
+                    <p>AXN Now</p>
+                  </li>
+                  <li>
+                    
+                    <p>TNT</p>
+                  </li>
+                  <li>
+                    
+                    <p>FOX</p>
+                  </li>
+                  <li>
+                    
+                    <p>AMC SELEKT Series</p>
+                  </li>
+                  <li>
+                    
+                    <p>SYFY</p>
+                  </li>
+                  <li>
+                    
+                    <p>Calle 13</p>
+                  </li>
+                  <li>
+                    
+                    <p>AXN</p>
+                  </li>
+                  <li>
+                    
+                    <p>AXN White</p>
+                  </li>
+                </ul><p>Y además todos los Packs
+                  incluyen estos canales:</p><ul>
+                  <li>
+                    
+                    <p>AMC</p>
+                  </li>
+                  <li>
+                    
+                    <p>FOX Life</p>
+                  </li>
+                  <li>
+                    
+                    <p>Cosmo</p>
+                  </li>
+                  <li>
+                    
+                    <p>Comedy Central</p>
+                  </li>
+                  <li>
+                    
+                    <p>XTRM</p>
+                  </li>
+                  <li>
+                    
+                    <p>TCM</p>
+                  </li>
+                  <li>
+                    
+                    <p>Sundance TV</p>
+                  </li>
+                  <li>
+                    
+                    <p>National Geographic</p>
+                  </li>
+                  <li>
+                    
+                    <p>National Geographic Now</p>
+                  </li>
+                  <li>
+                    
+                    <p>Cocina</p>
+                  </li>
+                  <li>
+                    
+                    <p>Decasa</p>
+                  </li>
+                  <li>
+                    
+                    <p>MTV</p>
+                  </li>
+                  <li>
+                    
+                    <p>MyMTV Music</p>
+                  </li>
+                  <li>
+                    
+                    <p>SOL Música</p>
+                  </li>
         
-                <li>
-                  
-                  <p>Eurosport 1</p>
-                </li>
-                <li>
-                  
-                  <p>Selekt</p>
-                </li>
-              </ul><h3>
+                  <li>
+                    
+                    <p>Eurosport 1</p>
+                  </li>
+                  <li>
+                    
+                    <p>Selekt</p>
+                  </li>
+                </ul><h3>
               Fibra óptica simétrica
           </h3><h3>
               <strong>300Mbps de velocidad para tu hogar</strong>
@@ -448,6 +448,8 @@
             <span data-js-vf="_portability">
               Línea adicional: GRATIS durante 1 año, después con un 50% dto. por
               solo 17,50€/mes (dto. ya aplicado).</span>
+          </p><p>
+              Paquete de TV: GRATIS
           </p><span data-js-vf="_portability">
                 Los primeros 3 meses</span><span data-js-vf="_newNumber">
                 Los primeros 3 meses</span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span>28,49</span><span>€</span><sub>/mes</sub><span>
