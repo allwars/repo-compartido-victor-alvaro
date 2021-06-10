@@ -244,6 +244,8 @@ $border-radius: 6px;
   }
   .vf-banner {
     background-color: #F4F4F4;
+    background-size: cover;
+    position: relative;
 
     &__container {
       position: relative;

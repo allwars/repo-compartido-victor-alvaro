@@ -18,9 +18,9 @@
                             Datos y minutos ilimitados
                           </p>
                           <p>
-                            velocidad alta
+                            velocidad máxima 5G
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                              <use xlink:href="#icon-thunder-2grey"></use>
+                              <use xlink:href="#icon-thunder-3"></use>
                             </svg>
                           </p>
                         </div>
@@ -80,7 +80,7 @@
                           lo quiero
                         </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
                     </div><p>Datos ilimitados a
-                        <strong>alta velocidad (1Gbps de bajada y de subida).</strong></p><p><strong>Juega sin límites con una calidad extrema y sin cortes de los juegos online.</strong></p><p>Descarga y sube todos los archivos
+                        <strong>máxima velocidad (1Gbps de bajada y de subida).</strong></p><p><strong>Juega sin límites con una calidad extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos
                         que quieras.</p><p>Disfruta de streaming sin necesidad
                         de conectarte al WiFi, tú y tus datos.</p><p>
                         <strong>Llamadas y SMS ilimitados</strong>

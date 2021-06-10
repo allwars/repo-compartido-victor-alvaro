@@ -189,11 +189,9 @@
                       </div>
                     </div>
                     <a
-                      href="{{cta.url}}"
-                      type="submit"
+                     type="submit"
                       name="cta"
                       title="{{cta.title}}"
-                      onmousedown="addtocart(utag_data.plans_add2cart[0])"
                       class="ws10-c-button ws10-c-button--auto"
                       data-cta="300:port:card"
                       href="#"
@@ -222,15 +220,15 @@
                         <p
                           class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label"
                         >
-                          {{price.0.permanencia}}
+                          {{price.1.permanencia}}
                         </p>
                         <p
                           class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price"
                         >
-                          <del>{{price.0.precio_sinpromo}}€/mes</del>
+                          <del>{{price.1.precio_sinpromo}}€/mes</del>
                         </p>
                         <p class="ws10-c-card-rate__price ws10-u-color--black">
-                          {{price.0.precio_conpromo}}€<sub>/mes</sub>
+                          {{price.1.precio_conpromo}}€<sub>/mes</sub>
                         </p>
                       </div>
                     </div>
