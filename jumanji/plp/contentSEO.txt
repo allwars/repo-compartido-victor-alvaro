@@ -1,11 +1,14 @@
 <h2>Fibra + Móvil</h2><p>
-              <span>Disfruta de
-                <strong>2 líneas</strong>
-                y la fibra más rápida
-                <strong>con 50% dto. 3 meses.</strong></span>
-            </p><div>
-            
-          </div><b>50% dto.</b><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
+              <span>Llévate
+                <strong>2 líneas ilimitadas + fibra</strong>
+                con hasta
+                <strong> 30% dto. durante 1 año</strong></span>
+            </p><picture>
+              <source media="(min-width:768px)" srcset="img/bodegon-desktop.webp" type="image/webp">
+              <source media="(min-width:768px)" srcset="img/bodegon-desktop.png" type="image/png">
+              <source srcset="img/bodegon-desktop.webp" type="image/webp">
+              
+            </picture><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                     <li>
                                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                             <use xlink:href="#icon-mobile"></use>
@@ -28,10 +31,10 @@
                                         </svg>
                                         <div>
                                             <p>
-                                                4GB y 200 minutos GRATIS
+                                                Segunda línea GRATIS 1 año
                                             </p>
                                             <p>
-                                                segunda línea GRATIS 1 año
+                                                Datos y minutos ilimitados
                                             </p>
                                         </div>
                                     </li>
@@ -48,70 +51,30 @@
                                             </p>
                                         </div>
                                     </li>
+                                       <li>
+                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                            <use xlink:href="#icon-tv"></use>
+                                        </svg>
+                                        <div>
+                                            <p>
+                                                Pack TV Universal GRATIS
+                                            </p>
+                                            <p>
+                                                con más de 30 canales internacionales y deco incl.
+                                            </p>
+                                        </div>
+                                    </li>
                                 </ul><p>
-                                                50% dto. 3 meses
+                                                21% dto. 1 año
                                             </p><p>
                                                 Permanencia 1 año
                                             </p><p>
-                                                <del>54,99€/mes</del>
+                                                <del>77,49€/mes</del>
                                             </p><p>
-                                                28,49<sub>€/mes</sub>
+                                                62,99<sub>€/mes</sub>
                                             </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-3/" target="_self" name="Más info" title="Más info" data-analytics-id="-7498449761489">
                                         Más info
-                                    </a><b>50% dto.</b><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
-                                    <li>
-                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                            <use xlink:href="#icon-mobile"></use>
-                                        </svg>
-                                        <div>
-                                            <p>
-                                                Datos y minutos ilimitados
-                                            </p>
-                                            <p>
-                                                Velocidad alta
-                                                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                    <use xlink:href="#icon-thunder-2grey"></use>
-                                                </svg>
-                                            </p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                            <use xlink:href="#icon-sim"></use>
-                                        </svg>
-                                        <div>
-                                            <p>
-                                                4GB y 200 minutos GRATIS
-                                            </p>
-                                            <p>
-                                                segunda línea GRATIS 1 año
-                                            </p>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                            <use xlink:href="#icon-broadband-or-wifi"></use>
-                                        </svg>
-                                        <div>
-                                            <p>
-                                                600Mbps Fibra Óptica
-                                            </p>
-                                            <p>
-                                                + llamadas ilimitadas en fijo
-                                            </p>
-                                        </div>
-                                    </li>
-                                </ul><p>
-                                                50% dto. 3 meses
-                                            </p><p>
-                                                Permanencia 1 año
-                                            </p><p>
-                                                <del>61,99€/mes</del>
-                                            </p><p>
-                                                30,49<sub>€/mes</sub>
-                                            </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-4/" target="_self" name="Más info" title="Más info" data-analytics-id="-3827639703071">
-                                        Más info
-                                    </a><b>50% dto.</b><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
+                                    </a><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                     <li>
                                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                             <use xlink:href="#icon-mobile"></use>
@@ -134,10 +97,10 @@
                                         </svg>
                                         <div>
                                             <p>
-                                                4GB y 200 minutos GRATIS
+                                                Segunda línea GRATIS 1 año
                                             </p>
                                             <p>
-                                                segunda línea GRATIS 1 año
+                                                Datos y minutos ilimitados
                                             </p>
                                         </div>
                                     </li>
@@ -147,7 +110,7 @@
                                         </svg>
                                         <div>
                                             <p>
-                                                600Mbps Fibra Óptica
+                                                300Mbps Fibra Óptica
                                             </p>
                                             <p>
                                                 + llamadas ilimitadas en fijo
@@ -163,26 +126,26 @@
                                                 Pack TV Seriefans GRATIS 1 año
                                             </p>
                                             <p>
-                                                con HBO España y 60 canales más
+                                                con HBO España y 60 canales más con deco incl.
                                             </p>
                                         </div>
                                     </li>
                                 </ul><p>
-                                                50% dto. 3 meses
+                                                30% dto. 1 año
                                             </p><p>
                                                 Permanencia 1 año
                                             </p><p>
-                                                <del>74,99€/mes</del>
+                                                <del>100,49€/mes</del>
                                             </p><p>
-                                                37,49<sub>€/mes</sub>
+                                                64,49<sub>€/mes</sub>
                                             </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/" target="_self" name="Más info" title="Más info" data-analytics-id="-8477551683805">
                                         Más info
-                                    </a><b>¡Nuevo!</b><h4>¿Necesitas más líneas?
-                    Ahora llegan las tarifas para familias</h4><p>Descubre las tarifas de Hogar ilimitable y
-                    disfruta de datos y minutos ilimitados en todas tus líneas de móvil
-                    con 5G, la mejor fibra de Vodafone, máxima conexión WiFi con Super
-                    WiFi, una extensa selección de cine y series con HBO España y Amazon
-                    Prime y la seguridad que necesita tu familia.</p><a data-analytics-id="-5349132379100" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/tarifas-familiares/" target="_self">
+                                    </a><picture>
+                  <source media="(min-width:1024px)" srcset="img/section-addons/cabecera-desktop.webp">
+                  <source media="(min-width:768px)" srcset="img/section-addons/cabecera-tablet.webp">
+                  
+                </picture><b>¡Nuevo!</b><h4>¿Necesitas más líneas?
+                    Ahora llegan las tarifas para familias</h4><p>Descubre las tarifas de Hogar ilimitable y disfruta de datos y minutos ilimitados en todas tus líneas de móvil con 5G, la mejor fibra de Vodafone, máxima conexión WiFi con Super WiFi, una extensa selección de cine y series con HBO España y Amazon Prime y la seguridad que necesita tu familia.</p><a data-analytics-id="-5349132379100" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/tarifas-familiares/" target="_self">
                     Más info
                     <span> color #E60000</span>
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
@@ -207,7 +170,7 @@
                 </p><div>
                 
               </div><h3>Tarifas de
-                  <strong>fibra y móviles</strong>
+                  fibra y móviles
                   para jóvenes
                   <strong>Vodafone YU!</strong>
                   Hazte yuser.
@@ -260,9 +223,11 @@
                         <p>Navega a máxima velocidad con 5G. Descarga una serie en segundos, juega online a tiempo real y disfruta de una calidad mayor de vídeo y voz.</p>
                     </article>
                 </li>
-            </ul><div>
-                
-            </div><h2>
+            </ul><picture>
+                    <source srcset="img/section-vodafone-one/mama-hija.webp" type="image/webp">
+                    <source srcset="img/section-vodafone-one/mama-hija.jpg" type="image/jpg">
+                    
+                </picture><h2>
                     <strong>¡Con Vodafone One</strong> tendrás acceso a las mejores <strong>ofertas de tarifas de fibra y móvil!</strong>
                 </h2><p>
                     Habla, navega o disfruta de vídeos en streaming sin ataduras y a la máxima velocidad con nuestras tarifas de <strong>datos ilimitados</strong>. Con la instalación de nuestro módem, gratuita y rápida, podrás conectar varios dispositivos al mismo tiempo. En Vodafone hemos incluido el <strong>5G en todas nuestras tarifas</strong> para que toda la familia pueda disfrutar del mejor entretenimiento con la máxima velocidad y estabilidad.
