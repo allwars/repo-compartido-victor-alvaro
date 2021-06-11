@@ -162,8 +162,8 @@
           </ul><h3>
               <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
           </h3><p>
-                  <strong>Datos ilimitados</strong>
-                   a media velocidad (2Mbps de bajada y de subida)
+                  Datos ilimitados
+                  <strong> a media velocidad (2Mbps de bajada y de subida)</strong>
               </p><p>
                     Consulta tus redes sociales y usa aplicaciones de mensajería instantánea
                 </p><p>
@@ -182,48 +182,7 @@
             </span>
           </h3><p>
               con más de 30 canales internacionales
-          </p><ul>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-        
-            </ul><p>
+          </p><p>
               El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
           </p><ul>
               <li>
@@ -246,115 +205,211 @@
                     <title>Close</title>
                     <use xlink:href="#icon-close"></use>
                   </svg>
-                </button><p>Canales Pack Seriefans</p><ul>
-                  <li>
-                    
-                    <p>HBO España</p>
-                  </li>
-                  <li>
-                    
-                    <p>FOXNOW</p>
-                  </li>
-                  <li>
-                    
-                    <p>AXN Now</p>
-                  </li>
-                  <li>
-                    
-                    <p>TNT</p>
-                  </li>
-                  <li>
-                    
-                    <p>FOX</p>
-                  </li>
-                  <li>
-                    
-                    <p>AMC SELEKT Series</p>
-                  </li>
-                  <li>
-                    
-                    <p>SYFY</p>
-                  </li>
-                  <li>
-                    
-                    <p>Calle 13</p>
-                  </li>
-                  <li>
-                    
-                    <p>AXN</p>
-                  </li>
-                  <li>
-                    
-                    <p>AXN White</p>
-                  </li>
-                </ul><p>Y además todos los Packs
-                  incluyen estos canales:</p><ul>
-                  <li>
-                    
-                    <p>AMC</p>
-                  </li>
-                  <li>
-                    
-                    <p>FOX Life</p>
-                  </li>
-                  <li>
-                    
-                    <p>Cosmo</p>
-                  </li>
-                  <li>
-                    
-                    <p>Comedy Central</p>
-                  </li>
-                  <li>
-                    
-                    <p>XTRM</p>
-                  </li>
-                  <li>
-                    
-                    <p>TCM</p>
-                  </li>
-                  <li>
-                    
-                    <p>Sundance TV</p>
-                  </li>
-                  <li>
-                    
-                    <p>National Geographic</p>
-                  </li>
-                  <li>
-                    
-                    <p>National Geographic Now</p>
-                  </li>
-                  <li>
-                    
-                    <p>Cocina</p>
-                  </li>
-                  <li>
-                    
-                    <p>Decasa</p>
-                  </li>
-                  <li>
-                    
-                    <p>MTV</p>
-                  </li>
-                  <li>
-                    
-                    <p>MyMTV Music</p>
-                  </li>
-                  <li>
-                    
-                    <p>SOL Música</p>
-                  </li>
-        
-                  <li>
-                    
-                    <p>Eurosport 1</p>
-                  </li>
-                  <li>
-                    
-                    <p>Selekt</p>
-                  </li>
-                </ul><h3>
+                </button><p>
+                    ¿Qué incluye el Pack Universal?
+                </p><p>El Pack Universal incluye programas, magazines, películas, informativos… todo el entretenimiento de una selección de canales internacionales (CNN, BBC World, France 24, Deutsche Welle…) y latinos (TV Chile, Cubavisión y más).</p><p>Contenidos incluidos:</p><ul>
+                    <li>
+                        
+                        <p>AMC</p>
+                    </li>
+                    <li>
+                        
+                        <p>FOX Life</p>
+                    </li>
+                    <li>
+                        
+                        <p>COSMO Life</p>
+                    </li>
+                    <li>
+                        
+                        <p>Comedy Central</p>
+                    </li>
+                    <li>
+                        
+                        <p>XTRM</p>
+                    </li>
+                    <li>
+                        
+                        <p>TCM</p>
+                    </li>
+                    <li>
+                        
+                        <p>Sundance TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>National Geographic</p>
+                    </li>
+                    <li>
+                        
+                        <p>National Geographic Now</p>
+                    </li>
+                    <li>
+                        
+                        <p>Cocina</p>
+                    </li>
+                    <li>
+                        
+                        <p>Decasa</p>
+                    </li>
+                    <li>
+                        
+                        <p>MTV</p>
+                    </li>
+                    <li>
+                        
+                        <p>MyMTV Music</p>
+                    </li>
+                    <li>
+                        
+                        <p>SOL Música</p>
+                    </li>
+                    <li>
+                        
+                        <p>Eurosport 1</p>
+                    </li>
+                    <li>
+                        
+                        <p>SELEKT</p>
+                    </li>
+                    <li>
+                        
+                        <p>Euronews</p>
+                    </li>
+                    <li>
+                        
+                        <p>CNN International</p>
+                    </li>
+                    <li>
+                        
+                        <p>Az Corazón</p>
+                    </li>
+                    <li>
+                        
+                        <p>CNBC</p>
+                    </li>
+                    <li>
+                        
+                        <p>El Trece TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>Cubavisión Internacional</p>
+                    </li>
+                    <li>
+                        
+                        <p>BBC HD</p>
+                    </li>
+                    <li>
+                        
+                        <p>BLOOMERANG</p>
+                    </li>
+                    <li>
+                        
+                        <p>Ve Plus TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>TV Chile</p>
+                    </li>
+                    <li>
+                        
+                        <p>Caracol</p>
+                    </li>
+                    <li>
+                        
+                        <p>Aljazeera</p>
+                    </li>
+                    <li>
+                        
+                        <p>CGTN</p>
+                    </li>
+                    <li>
+                        
+                        <p>RT</p>
+                    </li>
+                    <li>
+                        
+                        <p>Canal Parlamento</p>
+                    </li>
+                    <li>
+                        
+                        <p>France 24</p>
+                    </li>
+                    <li>
+                        
+                        <p>PRO TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>TV5 Monde</p>
+                    </li>
+                    <li>
+                        
+                        <p>EWTN</p>
+                    </li>
+                    <li>
+                        
+                        <p>DW</p>
+                    </li>
+                    <li>
+                        
+                        <p>TVP</p>
+                    </li>
+                </ul><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
+                dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
+                una experiencia online.
+                Consultar dispositivos compatibles
+            </p><p>
+                    <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
+                        Consultar dispositivos compatibles
+                    </a>
+                </p><p>Más de <strong>50.000 contenidos disponibles</strong>
+                        bajo demanda.</p><p>No te pierdas nada, todo el <strong>contenido desde
+                        el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong>
+                        con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>2 reproducciones simultáneas</strong> en
+                        diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos
+                        estés donde estés y cuando quieras.</p><button aria-hidden="false">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <title>Close</title>
+                                <use xlink:href="#icon-close"></use>
+                            </svg>
+                        </button><p>
+                            Dispositivos compatibles</p><ul>
+                            <li>
+                                <svg style="width: 60px; height: 60px;">
+                                    <title>icon-tv-mid</title>
+                                    <use xlink:href="#icon-mobile-mid"></use>
+                                </svg>
+                                <p>Móvil / Tablet iOS y Android.</p>
+                            </li>
+                            <li>
+                                <svg style="width: 60px; height: 60px;">
+                                    <title>icon-tv-mid</title>
+                                    <use xlink:href="#icon-tv-mid"></use>
+                                </svg>
+                                <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
+                                </p>
+                            </li>
+                            <li>
+                                <svg style="width: 60px; height: 60px;">
+                                    <title>icon-connected-devices-mid</title>
+                                    <use xlink:href="#icon-connected-devices-mid"></use>
+                                </svg>
+                                <p>Chromecast.</p>
+                            </li>
+                            <li>
+                                <svg style="width: 60px;">
+                                    <title>icon-desktop-mid</title>
+                                    <use xlink:href="#icon-desktop-mid"></use>
+                                </svg>
+                                <p>PC/Mac.</p>
+                            </li>
+                            <li>
+                                
+                                <p>Fire TV Stick.</p>
+                            </li>
+                        </ul><h3>
               Fibra óptica simétrica
           </h3><h3>
               <strong>300Mbps de velocidad para tu hogar</strong>
@@ -362,7 +417,7 @@
                   
                 </div><p>
                     <strong>300Mbps de fibra óptica simétrica</strong>
-                    para tu hogar, podrás conectar hasta 25 dispositivos a la vez.
+                    para tu hogar, podrás conectar hasta 12 dispositivos a la vez.
                 </p><p>
                     <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
                 </p><h3>
@@ -448,6 +503,7 @@
             <span data-js-vf="_portability">
               Línea adicional: GRATIS durante 1 año, después con un 50% dto. por
               solo 17,50€/mes (dto. ya aplicado).</span>
+            <span>Paquete de TV: GRATIS</span>
           </p><p>
               Paquete de TV: GRATIS
           </p><span data-js-vf="_portability">
