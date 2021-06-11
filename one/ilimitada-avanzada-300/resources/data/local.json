@@ -70,6 +70,19 @@
       ],
       "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra"
   },
+  "tv": {
+      "title": "Televisión",
+      "heading": "Pack TV Universal GRATIS",
+      "heading2": "con más de 30 canales internacionales",
+      "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+      "allChannels": "Ver todos los canales incluidos",
+      "info": "(*) Puedes añadir más packs de TV en el proceso de compra.",
+      "popup": {
+          "title": "¿Qué incluye el Pack Universal?",
+          "description": "El Pack Universal incluye programas, magazines, películas, informativos… todo el entretenimiento de una selección de canales internacionales (CNN, BBC World, France 24, Deutsche Welle…) y latinos (TV Chile, Cubavisión y más).",
+          "included": "Contenidos incluidos:"
+      }
+  },
 
   "bar":[
 

@@ -119,50 +119,12 @@
                       (*)Podrás añadir más Líneas adicionales en el proceso de compra
                   </p><h3>
                     <span>Televisión</span>
-                    <span><strong>Pack TV Seriefans GRATIS</strong></span>
-                  </h3><p>incluye HBO y 60 canales más
-                  </p><ul>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                
-                    </ul><p>
+                    <span>
+                        <strong>Pack TV Seriefans GRATIS</strong>
+                    </span>
+                  </h3><p>
+                      incluye HBO y 60 canales más
+                  </p><p>
                 
                     <strong>Pack Seriefans GRATIS</strong>, este Pack incluye todas las
                     temporadas de las series de
@@ -437,14 +399,14 @@
                       al
                       50% dto. 3 meses</span>
                     <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
-                      después con un 50% dto. por solo 9,99€/mes (dto. ya aplicado).</span>
+                      después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span>
                     <span>Paquete de TV: GRATIS durante 1 año, después 10€/mes.</span>
                   </p><span>
                         Los primeros 3 meses
                       </span><span></span><span data-js-vf="_portability">37,49</span><span data-js-vf="_newNumber">34,99</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">Del mes 4 al mes 12
                       </span><span></span><span data-js-vf="_portability">74,99</span><span data-js-vf="_newNumber">74,99</span><span>€</span><sub>/mes</sub><span>
                         A partir del año
-                      </span><span></span><span data-js-vf="_portability">94,98</span><span data-js-vf="_newNumber">84,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
+                      </span><span></span><span data-js-vf="_portability">102,49</span><span data-js-vf="_newNumber">84,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
                     autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
                     en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-analytics-id="-5460257368589">
                     Ver condiciones legales
