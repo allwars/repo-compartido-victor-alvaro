@@ -1,1 +1,20 @@
-<svg width="38" height="37" viewBox="0 0 38 37" xmlns="http://www.w3.org/2000/svg"><g id="PDP-Vodafone-One-ilimitada-Total-WS10-600mbps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Plus-600" transform="translate(-33 -1119)"><g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20 572)"><g id="Product-detail-/-Desktop-Tablet-/-2-lines" transform="translate(0 533)"><g id="cloud-download-mid" transform="translate(10 10)"><path d="M9.529 13.592c-3.186.953-5.404 4.081-5.404 7.606 0 4.24 3.667 7.677 7.906 7.677h19.136a8.591 8.591 0 008.593-8.58c0-4.74-2.915-8.837-9.093-8.837-.501 0-1.002.048-1.494.142" id="Path" stroke="#666" stroke-linecap="round" stroke-linejoin="round"/><path d="M29.161 11.6c-1.608-4.037-5.655-7.017-9.975-7.017-5.007 0-8.92 4.018-9.671 9.009" id="Path" stroke="#666" stroke-linecap="round" stroke-linejoin="round"/><path id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" d="M22 19.708v20.167"/><path id="Rectangle" d="M0 0h44v44H0z"/><path id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" d="M27.958 33.458L22 39.875l-5.958-6.417"/></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="37px" viewBox="0 0 38 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons+Indicators / System-Icons / thunder-3</title>
+    <g id="PDP-Vodafone-One-ilimitada-Total-WS10-600mbps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Plus-600" transform="translate(-33.000000, -1119.000000)">
+            <g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20.000000, 572.000000)">
+                <g id="Product-detail-/-Desktop-Tablet-/-2-lines" transform="translate(0.000000, 533.000000)">
+                    <g id="cloud-download-mid" transform="translate(10.000000, 10.000000)">
+                        <path d="M9.52875,13.591875 C6.34333333,14.5452083 4.125,17.6733333 4.125,21.1979167 C4.125,25.4375 7.79166667,28.8750003 12.03125,28.8750003 L31.1666667,28.8750003 C35.9080216,28.8762689 39.7540933,25.0363509 39.7604167,20.295 C39.7604167,15.5558333 36.8454167,11.4583333 30.6670833,11.4583333 C30.1656745,11.4587398 29.6654154,11.5063104 29.1729167,11.6004167" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M29.1614583,11.6004167 C27.5527083,7.5625 23.505625,4.58333333 19.1858333,4.58333333 C14.1785417,4.58333333 10.2666667,8.600625 9.515,13.591875" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="22" y1="19.7083333" x2="22" y2="39.875" id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+                        <polyline id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" points="27.9583333 33.4583333 22 39.875 16.0416667 33.4583333"></polyline>
+                        <g id="Group" stroke-linecap="round" stroke-linejoin="round"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

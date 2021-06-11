@@ -1,4 +1,6 @@
-<span>Fibra + Móvil <strong>50% dto. 6 meses</strong></span><p><strong>Fibra y datos para ser<br> ilimitable</strong></p><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><span><span>Mejor Precio Vodafone</span></span><h2>Vodafone One Ilimitada Avanzada 300Mbps</h2><b>50% dto.</b><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="61,99">
+<span>Fibra + Móvil <strong>50% dto. 6 meses</strong></span><p><strong>Fibra y datos para ser<br>
+                            ilimitable</strong></p><b>Oferta
+                        para Navarra, Euskadi, Asturias y Galicia</b><span><span>Mejor Precio Vodafone</span></span><h2>Vodafone One Ilimitada Avanzada 300Mbps</h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="61,99">
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <use xlink:href="#icon-mobile"></use>
@@ -22,10 +24,10 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    4GB y 200 minutos GRATIS
+                                                    Segunda línea GRATIS 1 año
                                                 </p>
                                                 <p>
-                                                    segunda línea GRATIS 1 año
+                                                    Datos y minutos ilimitados
                                                 </p>
                                             </div>
                                         </li>
@@ -36,9 +38,22 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Fibra Óptica 300Mbps</p>
-                                                    <p>
+                                                    300Mbps Fibra Óptica</p>
+                                                <p>
                                                     + llamadas ilimitadas en fijo
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-tv"></use>
+                                            </svg>
+                                            <div>
+                                                <p>
+                                                    Pack TV Universal GRATIS
+                                                </p>
+                                                <p style="font-size: 17px;">
+                                                    con más de 30 canales internacionales
                                                 </p>
                                             </div>
                                         </li>
@@ -70,15 +85,51 @@
 
                                                     Lo quiero
                                                 </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
-        </div><p>Datos ilimitados a <strong>alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad extrema y sin cortes.</p><p> Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.</p><p> Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.</p><p> Todo con la nueva red 5G.</p><p><strong>Llévate la 2ª Línea GRATIS 1 año</strong></p><p><strong>4GB de datos</strong> para navegar a la
-                                máxima velocidad.</p><p><strong>200 minutos</strong> en llamadas a fijos y
-                                móviles. </p><p><strong>Chatea y usa tus redes sociales</strong> con
-                                la conexión 5G.</p><h3>Fibra óptica simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><div>
+                        </div><picture>
+                            <source srcset="img/section-mobile/mobile-apps.webp" type="image/webp">
+                            <source srcset="img/section-mobile/mobile-apps.webp" type="image/png">
+                            
+                        </picture><p>Datos ilimitados <strong>a alta velocidad (10Mbps de
+                                    bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad
+                                extrema y sin cortes.</p><p> Consume vídeo en streaming en calidad 4K sin cortes
+                                ni interrupciones.</p><p> Disfruta de streaming sin necesidad de conectarte al
+                                WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con
+                                cualquier operador nacional las 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Unión Europea, Reino
+                                    Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin
+                                preocupaciones también en EEUU.</p><p> Todo con la nueva red 5G.</p><p><strong>Llévate la 2ª Línea GRATIS 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (2Mbps de
+                                    bajada y de subida).</strong></p><p>Consulta tus redes sociales y usa aplicaciones de
+                                mensajería instantánea.</p><p> Disfruta de streaming sin necesidad de conectarte al
+                                WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con
+                                cualquier operador nacional las 24 horas, establecimiento incluido.</p><p>(*) Podrás añadir más Líneas adicionales en el proceso de compra
+                    </p><h3>
+                        <span>Televisión</span>
+                        <span><strong>Pack de TV Universal
+                                GRATIS</strong></span>
+                    </h3><p>con más de 30 canales</p><p>El <strong>Pack Universal</strong> incluye programas, magazines, películas, series, música, documentales, informativos... todo el entretenimiento de una selección de canales internacionales.</p><ul>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                            <li>
+                                
+                            </li>
+                        </ul><p>
+                            <a data-backdrop="TvUniversal300" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-0003391249299">
+                                Ver todos los canales incluidos
+                            </a>
+                        </p><p style="left: 0">(*) Puedes añadir más packs de TV en el proceso de compra.</p><h3>Fibra óptica simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><picture>
+                            <source srcset="img/section-fiber/fiber-vf.webp" type="image/webp">
+                            <source srcset="img/section-fiber/fiber-vf.png" type="image/png">
+                            
+                        </picture><div>
                                     
                                 </div><p><strong>300Mbps de fibra óptica
                                         simétrica</strong> para tu hogar, podrás conectar más 12 dispositivos a la
                                     vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y
-                                        móviles.</strong> </p><h3><strong>También incluido en Vodafone One ilimitada Avanzada 300Mbps</strong></h3><ul aria-labelledby="idList">
+                                        móviles.</strong> </p><h3><strong>También incluido en Vodafone One ilimitada Avanzada
+                            300Mbps</strong></h3><ul aria-labelledby="idList">
                             <li>
                                 <div>
                                     <div>
@@ -156,13 +207,16 @@
                         <span>Llévate el paquete de Fibra + Móvil al 50% dto. 6 meses</span>
                         <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año, después con un 50% dto.
                             por
-                            solo 9,99€/mes (dto. ya
+                            solo <strong>17,50€</strong>/mes (dto. ya
                             aplicado).</span>
+                        <span>Paquete de TV: GRATIS</span>
                     </p><span>
                                 Los primeros 6 meses
-                            </span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 7 al mes 12</span><span data-js-vf="_newNumber">A partir del mes 7</span><span></span><span>56,99</span><span>€</span><sub>/mes</sub><span>
+                            </span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 7 al mes
+                                12</span><span data-js-vf="_newNumber">A
+                                partir del mes 7</span><span></span><span>56,99</span><span>€</span><sub>/mes</sub><span>
                                 A partir del año
-                            </span><span></span><span>66,98</span><span>66,98</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un
+                            </span><span></span><span>74,49</span><span>66,98</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un
                         coste para el
                         cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el
                         servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-analytics-id="-5460257368589">
@@ -171,7 +225,8 @@
                             <title>Flecha derecha</title>
                             <use xlink:href="#icon-chevron-right"></use>
                         </svg>
-                    </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Avanzada 300Mbps?</strong></h3><ul>
+                    </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Avanzada
+                            300Mbps?</strong></h3><ul>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                                 <title>Business</title>
@@ -234,49 +289,7 @@
                         <title>Close</title>
                         <use xlink:href="#icon-close"></use>
                     </svg>
-                </button><p>Canales
-                    Pack Seriefans</p><ul>
-                    <li>
-                        
-                        <p>HBO España</p>
-                    </li>
-                    <li>
-                        
-                        <p>FOXNOW</p>
-                    </li>
-                    <li>
-                        
-                        <p>AXN Now</p>
-                    </li>
-                    <li>
-                        
-                        <p>TNT</p>
-                    </li>
-                    <li>
-                        
-                        <p>FOX</p>
-                    </li>
-                    <li>
-                        
-                        <p>AMC SELEKT Series</p>
-                    </li>
-                    <li>
-                        
-                        <p>SYFY</p>
-                    </li>
-                    <li>
-                        
-                        <p>Calle 13</p>
-                    </li>
-                    <li>
-                        
-                        <p>AXN</p>
-                    </li>
-                    <li>
-                        
-                        <p>AXN White</p>
-                    </li>
-                </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                </button><p>¿Qué incluye el Pack Universal?</p><p>El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos... todo el entretenimiento de una selección de canales internacionales.</p><p>Contenidos incluidos:</p><ul>
                     <li>
                         
                         <p>AMC</p>
@@ -287,7 +300,7 @@
                     </li>
                     <li>
                         
-                        <p>Cosmo</p>
+                        <p>COSMO</p>
                     </li>
                     <li>
                         
@@ -333,14 +346,98 @@
                         
                         <p>SOL Música</p>
                     </li>
-
                     <li>
                         
                         <p>Eurosport 1</p>
                     </li>
                     <li>
                         
-                        <p>Selekt</p>
+                        <p>SELEKT</p>
+                    </li>
+                     <li>
+                        
+                        <p>Euronews</p>
+                    </li>
+                     <li>
+                        
+                        <p>CNN International</p>
+                    </li>
+                    <li>
+                        
+                        <p>Az Corazón</p>
+                    </li>
+                       <li>
+                        
+                        <p>CNBC</p>
+                    </li>
+                        <li>
+                        
+                        <p>El Trece TV</p>
+                    </li>
+                      <li>
+                        
+                        <p>Cubavisión Internacional</p>
+                    </li>
+                    <li>
+                        
+                        <p>BBC HD</p>
+                    </li>
+                     <li>
+                        
+                        <p>BLOOMBERG</p>
+                    </li>
+                     <li>
+                        
+                        <p>Ve Plus TV</p>
+                    </li>
+                       <li>
+                        
+                        <p>TV Chile</p>
+                    </li>
+                     <li>
+                        
+                        <p>Caracol</p>
+                    </li>
+                     <li>
+                        
+                        <p>Aljazeera</p>
+                    </li>
+                      <li>
+                        
+                        <p>CGTN</p>
+                    </li>
+                     <li>
+                        
+                        <p>RT</p>
+                    </li>
+                    <li>
+                        
+                        <p>Canal Parlamento</p>
+                    </li>
+                    <li>
+                        
+                        <p>France 24</p>
+                    </li>
+                    <li>
+                        
+                        <p>PRO TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>TV5 Monde</p>
+                    </li>
+                    
+                      <li>
+                        
+                        <p>EWTN</p>
+                    </li>
+                    <li>
+                        
+                        <p>DW</p>
+                    </li>
+                     <li>
+                        
+                        <p>TVP</p>
                     </li>
                 </ul><button aria-hidden="false">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
