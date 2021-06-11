@@ -1,0 +1,74 @@
+{
+"fibra-movil":"Fibra + Móvil",
+"velocidad":"300Mbps",
+"permanencia": "Permanencia 1 año",
+
+
+  "header-ticket": {
+    "title-1": "50% dto. 3 meses",
+    "title-2": "Fibra y datos para ser ilimitable",
+    "icono": "img/banner/icono-bestprice.svg",
+    "icono-texto": "Mejor Precio Vodafone",
+
+    "title-ticket": "Vodafone One Ilimitada Avanzada 300Mbps",
+    "ticket": {
+      "datos": "Datos y minutos ilimitados",
+      "velocidad": "velocidad alta",
+      "icon-velocidad": "#icon-thunder-2grey",
+      "segundalinea": "4GB y 200 minutos GRATIS",
+      "segundalinea_subtitle": "segunda línea GRATIS 1 año",
+      "velocidad_fibra_subtitle": "+ llamadas ilimitadas en fijo"
+    }
+  },
+
+
+  "price": [
+    {
+      "permanencia": "Permanencia 1 año",
+        "precio_sinpromo": "56,99",
+        "precio_conpromo": "28,49",
+        "precio_depuespromo": "66,98"
+    
+    },
+    {
+      
+        "permanencia": "Permanencia 1 año",
+        "precio_sinpromo": "56,99",
+        "precio_conpromo": "28,49",
+        "precio_depuespromo": "66,98"
+    }
+  ],
+
+  
+  "cta": {
+    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1",
+    "context": "lo quiero",
+    "element": "modulo superior tarifa",
+    "category": "cta",
+    "title": "lo quiero"
+  },
+
+  "movil": {
+    "title": "Datos ilimitados para que no te pierdas nada",
+    "velocidad": "10"
+  },
+
+
+  "fibra":{
+    "dispositivos":"12"
+  },
+
+  "bar":[
+
+    {
+      "bar1":"Los primeros 3 meses",
+      "bar2":"Del mes 4 al mes 12",
+      "bar3":"A partir del año"
+    },
+    {
+      "bar1":"Los primeros 3 meses",
+      "bar2":"A partir del mes 4",
+      "bar3":"A partir del año"
+    }
+  ]
+}
