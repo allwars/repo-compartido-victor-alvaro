@@ -1,5 +1,6 @@
 <span>Fibra + Móvil <strong>50% dto. 6 meses</strong></span><h2><strong>Todo lo que
-                            necesitas</strong> para <strong>estar conectado fuera y <br>dentro</strong> de tu casa</h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><span><span>Mejor Precio Vodafone</span></span><h2>Vodafone One Ilimitada Plus 600Mbps</h2><b>50% dto.</b><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="37,49" data-vfes-seo-empathy-price="74,99">
+                            necesitas</strong> para <strong>estar conectado fuera y <br>dentro</strong> de tu casa</h2><b>Oferta
+                        para Navarra, Euskadi, Asturias y Galicia</b><span><span>Mejor Precio Vodafone</span></span><h2>Vodafone One Ilimitada Plus 600Mbps</h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="37,49" data-vfes-seo-empathy-price="74,99">
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <use xlink:href="#icon-mobile"></use>
@@ -23,10 +24,10 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    4GB y 200 minutos GRATIS
+                                                    Segunda línea GRATIS 1 año
                                                 </p>
                                                 <p>
-                                                    segunda línea GRATIS 1 año
+                                                    Datos y minutos ilimitados
                                                 </p>
                                             </div>
                                         </li>
@@ -37,13 +38,13 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Fibra Óptica 600Mbps</p>
-                                                    <p>
+                                                    600Mbps Fibra Óptica</p>
+                                                <p>
                                                     + llamadas ilimitadas en fijo
                                                 </p>
                                             </div>
                                         </li>
-<li>
+                                        <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <use xlink:href="#icon-tv"></use>
                                             </svg>
@@ -83,59 +84,119 @@
 
                                                     Lo quiero
                                                 </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
-        </div><p>Datos ilimitados <strong>a máxima velocidad (1Gbps de
-                                    bajada y de subida).</strong></p><p><strong>Juega sin límites los juegos online con una calidad
-                                extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos que quieras.</p><p>Disfruta de streaming sin necesidad de conectarte al
+                        </div><picture>
+                            <source srcset="img/section-mobile/mobile-apps.webp" type="image/webp">
+                            <source srcset="img/section-mobile/mobile-apps.webp" type="image/png">
+                            
+                        </picture><p>Datos ilimitados <strong>a máxima velocidad (1Gbps de
+                                    bajada y de subida).</strong></p><p><strong>Juega sin límites los juegos online con una
+                                    calidad
+                                    extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos que quieras.</p><p>Disfruta de streaming sin necesidad de conectarte al
                                 WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con
                                 cualquier operador nacional las 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en la Unión Europea, Reino
                                     Unido y
                                     EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones
-                                también en EEUU.</p><p> Todo con la <strong>nueva red 5G.</strong></p><p><strong>Llévate la 2ª Línea GRATIS 1 año</strong></p><p><strong>4GB de datos</strong> para navegar a la
-                                máxima velocidad.</p><p><strong>200 minutos</strong> en llamadas a fijos y
-                                móviles. </p><p><strong>Chatea y usa tus redes sociales</strong> con
-                                la conexión 5G.</p><h3>
+                                también en EEUU.</p><p> Todo con la <strong>nueva red 5G.</strong></p><p><strong>Llévate la 2ª Línea GRATIS 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (2Mbps de
+                                    bajada y de subida).</strong></p><p>Consulta tus redes sociales y usa aplicaciones de
+                                mensajería instantánea.</p><p> Disfruta de streaming sin necesidad de conectarte al
+                                WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con
+                                cualquier operador nacional las 24 horas, establecimiento incluido.</p><p>(*) Podrás añadir más Líneas adicionales en el proceso de
+                        compra
+                    </p><h3>
                         <span>Televisión</span>
                         <span><strong>Pack TV Seriefans GRATIS</strong></span>
                     </h3><p>incluye HBO y 60 canales más
                     </p><ul>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/01.webp" type="image/webp">
+                                    <source srcset="img/section-tv/01.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/02.webp" type="image/webp">
+                                    <source srcset="img/section-tv/02.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/03.webp" type="image/webp">
+                                    <source srcset="img/section-tv/03.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/04.webp" type="image/webp">
+                                    <source srcset="img/section-tv/04.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/05.webp" type="image/webp">
+                                    <source srcset="img/section-tv/05.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/06.webp" type="image/webp">
+                                    <source srcset="img/section-tv/06.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/07.webp" type="image/webp">
+                                    <source srcset="img/section-tv/07.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/08.webp" type="image/webp">
+                                    <source srcset="img/section-tv/08.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/09.webp" type="image/webp">
+                                    <source srcset="img/section-tv/09.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/10.webp" type="image/webp">
+                                    <source srcset="img/section-tv/10.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/11.webp" type="image/webp">
+                                    <source srcset="img/section-tv/11.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/12.webp" type="image/webp">
+                                    <source srcset="img/section-tv/12.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
                             <li>
-                                
+                                <picture>
+                                    <source srcset="img/section-tv/13.webp" type="image/webp">
+                                    <source srcset="img/section-tv/13.jpg" type="image/jpg">
+                                    
+                                </picture>
                             </li>
 
                         </ul><p>
@@ -159,7 +220,12 @@
                             <a data-backdrop="seriefans" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-6241792886380">
                                 Ver todos los canales incluidos
                             </a>
-                        </p><p style="left: 0">(*)Llévate GRATIS el Pack Seriefans, o elige el pack Serielovers con -10€/mes dto. durante 1 año por 4€/mes</p><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
+                        </p><p style="left: 0">(*)Llévate GRATIS el Pack Seriefans, o elige el pack Serielovers con
+                            -10€/mes dto. durante 1 año por 4€/mes</p><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><picture>
+                        <source srcset="img/section-deco/contenido-tv.webp" type="image/webp">
+                        <source srcset="img/section-deco/contenido-tv.png" type="image/png">
+                        
+                    </picture><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
                             dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
                         una experiencia online.
                         Consultar dispositivos compatibles
@@ -172,12 +238,17 @@
                                     el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong>
                                 con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>2 reproducciones simultáneas</strong> en
                                 diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos
-                                estés donde estés y cuando quieras.</p><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
+                                estés donde estés y cuando quieras.</p><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><picture>
+                            <source srcset="img/section-fiber/fiber-vf.webp" type="image/webp">
+                            <source srcset="img/section-fiber/fiber-vf.png" type="image/png">
+                            
+                        </picture><div>
                                     
                                 </div><p><strong>600Mbps de fibra óptica
                                         simétrica</strong> para tu hogar, podrás conectar más 25 dispositivos a la
                                     vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y
-                                        móviles.</strong> </p><h3><strong>También incluido en Vodafone One Ilimitada Plus 600Mbps</strong></h3><ul aria-labelledby="idList">
+                                        móviles.</strong> </p><h3><strong>También incluido en Vodafone One Ilimitada Plus
+                            600Mbps</strong></h3><ul aria-labelledby="idList">
                             <li>
                                 <div>
                                     <div>
@@ -255,14 +326,14 @@
                         <span>Llévate el paquete de Fibra + Móvil al 50% dto. 6 meses</span>
                         <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año, después con un 50% dto.
                             por
-                            solo 9,99€/mes (dto. ya
+                            solo <strong>17,50€</strong>/mes (dto. ya
                             aplicado).</span>
                         <span>Paquete de TV: GRATIS durante 1 año, después 10€/mes.</span>
                     </p><span>
                                 Los primeros 6 meses
                             </span><span></span><span>37,49</span><span>€</span><sub>/mes</sub><span>Del mes 7 al mes 12</span><span></span><span>74,99</span><span>€</span><sub>/mes</sub><span>
                                 A partir del año
-                            </span><span></span><span>94,98</span><span>84,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un
+                            </span><span></span><span>102,49</span><span>84,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un
                         coste para el
                         cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el
                         servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-analytics-id="-5460257368589">
@@ -271,7 +342,8 @@
                             <title>Flecha derecha</title>
                             <use xlink:href="#icon-chevron-right"></use>
                         </svg>
-                    </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Plus 600Mbps?</strong></h3><ul>
+                    </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Plus 600Mbps?</strong>
+                    </h3><ul>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                                 <title>Business</title>

@@ -1,10 +1,13 @@
 <h2>Fibra + Móvil</h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><p>
     
-            <span>Llévate <strong> datos ilimitados + fibra óptica al 50% dto. 6 meses</strong></span>
+            <span>Llévate <strong> 2 líneas ilimitadas</strong> y fibra <strong> al 50% dto. 6 meses</strong></span>
               
-            </p><div>
-            
-          </div><b>50% dto.</b><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="61,99">
+            </p><picture>
+              <source media="(min-width:768px)" srcset="img/bodegon-desktop.webp" type="image/webp">
+              <source media="(min-width:768px)" srcset="img/bodegon-desktop.png" type="image/png">
+              <source srcset="img/bodegon-mobile.webp" type="image/webp">
+              
+            </picture><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="61,99">
                       <li>
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                           <use xlink:href="#icon-mobile"></use>
@@ -28,10 +31,10 @@
                         </svg>
                         <div>
                           <p>
-                            4GB y 200 minutos GRATIS
+                            Segunda línea GRATIS 1 año
                           </p>
                           <p>
-                            segunda línea GRATIS 1 año
+                            Datos y minutos ilimitados
                           </p>
                         </div>
                       </li>
@@ -42,12 +45,25 @@
                         </svg>
                         <div>
                           <p>
-                            Fibra Óptica 300Mbps</p>
+                            300Mbps Fibra Óptica</p>
                           <p>
                             + llamadas ilimitadas en fijo
                           </p>
                         </div>
                       </li>
+                       <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <use xlink:href="#icon-tv"></use>
+                          </svg>
+                          <div>
+                            <p>
+                              Pack TV Universal GRATIS
+                            </p>
+                            <p style="font-size: 17px;">
+                              con más de 30 canales internacionales
+                            </p>
+                          </div>
+                        </li>
         
                     </ul><p>
                               50% dto. 6 meses
@@ -59,7 +75,7 @@
                               28,49€<sub>/mes</sub>
                             </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-1/" type="submit" name="cta" title="más info" data-analytics-id="-4725875160583">
                           Más info
-                        </a><b>50% dto.</b><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="30,49" data-vfes-seo-empathy-price="61,99">
+                        </a><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="30,49" data-vfes-seo-empathy-price="61,99">
                       <li>
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                           <use xlink:href="#icon-mobile"></use>
@@ -83,10 +99,10 @@
                         </svg>
                         <div>
                           <p>
-                            4GB y 200 minutos GRATIS
+                            Segunda línea GRATIS 1 año
                           </p>
                           <p>
-                            segunda línea GRATIS 1 año
+                            Datos y minutos ilimitados
                           </p>
                         </div>
                       </li>
@@ -97,12 +113,25 @@
                         </svg>
                         <div>
                           <p>
-                            Fibra Óptica 600Mbps</p>
+                            600Mbps Fibra Óptica</p>
                           <p>
                             + llamadas ilimitadas en fijo
                           </p>
                         </div>
                       </li>
+                       <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <use xlink:href="#icon-tv"></use>
+                          </svg>
+                          <div>
+                            <p>
+                              Pack TV Universal GRATIS
+                            </p>
+                            <p style="font-size: 17px;">
+                              con más de 30 canales internacionales
+                            </p>
+                          </div>
+                        </li>
         
                     </ul><p>
                               50% dto. 6 meses
@@ -114,7 +143,7 @@
                               30,49€<sub>/mes</sub>
                             </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-2/" type="submit" name="cta" title="más info" data-analytics-id="-4725875160583">
                           Más info
-                        </a><b>50% dto.</b><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="37,49" data-vfes-seo-empathy-price="74,99">
+                        </a><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="37,49" data-vfes-seo-empathy-price="74,99">
                       <li>
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                           <use xlink:href="#icon-mobile"></use>
@@ -138,10 +167,10 @@
                         </svg>
                         <div>
                           <p>
-                            4GB y 200 minutos GRATIS
+                            Segunda línea GRATIS 1 año
                           </p>
                           <p>
-                            segunda línea GRATIS 1 año
+                            Datos y minutos ilimitados
                           </p>
                         </div>
                       </li>
@@ -152,12 +181,11 @@
                         </svg>
                         <div>
                           <p>
-                            Fibra Óptica 600Mbps</p>
+                            600Mbps Fibra Óptica</p>
                           <p>
                             + llamadas ilimitadas en fijo
                           </p>
-                        </div>
-                      </li>
+                      </div></li>
                       <li>
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                           <use xlink:href="#icon-tv"></use>
@@ -218,9 +246,11 @@
                         <p>Navega a máxima velocidad con 5G. Descarga una serie en segundos, juega online a tiempo real y disfruta de una calidad mayor de vídeo y voz.</p>
                     </article>
                 </li>
-            </ul><div>
-                
-            </div><h2>
+            </ul><picture>
+                    <source srcset="img/section-vodafone-one/mama-hija.webp" type="image/webp">
+                    <source srcset="img/section-vodafone-one/mama-hija.jpg" type="image/jpg">
+                    
+                </picture><h2>
                     <strong>¡Con Vodafone One</strong> tendrás acceso a las mejores <strong>ofertas de tarifas de fibra y móvil!</strong>
                 </h2><p>
                     Habla, navega o disfruta de vídeos en streaming sin ataduras y a la máxima velocidad con nuestras tarifas de <strong>datos ilimitados</strong>. Con la instalación de nuestro módem, gratuita y rápida, podrás conectar varios dispositivos al mismo tiempo. En Vodafone hemos incluido el <strong>5G en todas nuestras tarifas</strong> para que toda la familia pueda disfrutar del mejor entretenimiento con la máxima velocidad y estabilidad.
