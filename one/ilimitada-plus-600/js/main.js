@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.7.1. Generation Date: 2021-06-11T07:09:34.995Z
+ * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-11T09:58:32.694Z
  */
 
 /******/ (function(modules) { // webpackBootstrap

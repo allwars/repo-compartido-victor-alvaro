@@ -123,102 +123,12 @@
                       (*)Podrás añadir más Líneas adicionales en el proceso de compra
                   </p><h3>
                     <span>Televisión</span>
-                    <span><strong>Pack TV Seriefans GRATIS</strong></span>
-                  </h3><p>incluye HBO y 60 canales más
-                  </p><ul>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/01.webp" type="image/webp">
-                          <source srcset="img/section-tv/01.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/02.webp" type="image/webp">
-                          <source srcset="img/section-tv/02.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/03.webp" type="image/webp">
-                          <source srcset="img/section-tv/03.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/04.webp" type="image/webp">
-                          <source srcset="img/section-tv/04.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/05.webp" type="image/webp">
-                          <source srcset="img/section-tv/05.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/06.webp" type="image/webp">
-                          <source srcset="img/section-tv/06.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/07.webp" type="image/webp">
-                          <source srcset="img/section-tv/07.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/08.webp" type="image/webp">
-                          <source srcset="img/section-tv/08.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/09.webp" type="image/webp">
-                          <source srcset="img/section-tv/09.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/10.webp" type="image/webp">
-                          <source srcset="img/section-tv/10.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/11.webp" type="image/webp">
-                          <source srcset="img/section-tv/11.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/12.webp" type="image/webp">
-                          <source srcset="img/section-tv/12.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                      <li>
-                        <picture>
-                          <source srcset="img/section-tv/13.webp" type="image/webp">
-                          <source srcset="img/section-tv/13.jpg" type="image/jpg">
-                          
-                        </picture>
-                      </li>
-                
-                    </ul><p>
+                    <span>
+                        <strong>Pack TV Seriefans GRATIS</strong>
+                    </span>
+                  </h3><p>
+                      incluye HBO y 60 canales más
+                  </p><p>
                 
                     <strong>Pack Seriefans GRATIS</strong>, este Pack incluye todas las
                     temporadas de las series de
