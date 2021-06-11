@@ -18,7 +18,7 @@
                             Datos y minutos ilimitados
                           </p>
                           <p>
-                            velocidad máxima 5G
+                            Velocidad alta
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                               <use xlink:href="#icon-thunder-3"></use>
                             </svg>
@@ -31,10 +31,10 @@
                         </svg>
                         <div>
                           <p>
-                            4GB y 200 minutos GRATIS
+                            Segunda línea GRATIS 1 año
                           </p>
                           <p>
-                            segunda línea GRATIS 1 año
+                            Datos y minutos ilimitados
                           </p>
                         </div>
                       </li>
@@ -45,12 +45,24 @@
                         </svg>
                         <div>
                           <p>
-                            600Mbps
-                            Fibra Óptica
+                            600Mbps Fibra Óptica
                           </p>
                           <p>
                             + llamadas ilimitadas en fijo
                           </p>
+                        </div>
+                      </li>
+                      <li>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <use xlink:href="#icon-tv"></use>
+                        </svg>
+                        <div>
+                            <p>
+                              Pack TV Seriefans GRATIS 1 año
+                            </p>
+                            <p>
+                              con HBO España y 60 canales más
+                            </p>
                         </div>
                       </li>
     
@@ -66,8 +78,10 @@
                               <del>74,99€/mes</del>
                             </p><p>
                               37,49€<sub>/mes</sub>
-                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
+                            </p><a type="submit" name="cta" title="lo quiero" data-cta="600:port:card" href="#" onmousedown="#" data-analytics-id="#">
                           lo quiero
+                          <span data-cta-a11y="">
+                          </span>
                         </a><p>
                               50% dto. 3 meses
                             </p><p>
@@ -75,9 +89,11 @@
                             </p><p>
                               <del>74,99€/mes</del>
                             </p><p>
-                              37,49€<sub>/mes</sub>
-                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
+                              34,99€<sub>/mes</sub>
+                            </p><a type="submit" name="cta" title="lo quiero" data-cta="600:port:card" href="#" onmousedown="#" data-analytics-id="#">
                           lo quiero
+                          <span data-cta-a11y="">
+                          </span>
                         </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
                     </div><p>Datos ilimitados a
                         <strong>máxima velocidad (1Gbps de bajada y de subida).</strong></p><p><strong>Juega sin límites con una calidad extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos
@@ -87,13 +103,20 @@
                         con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p>
                         <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong>
                         Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones
-                        también en EEUU.</p><p> Todo con la <strong> nueva red 5G.</strong></p><h3><strong>Llévate la 2ª Línea GRATIS 1 año</strong></h3><p><strong>4GB de datos</strong>
-                        para navegar a la máxima velocidad.</p><p><strong>200 minutos</strong>
-                        en llamadas a fijos y móviles.
-                      </p><p><strong>Chatea y usa tus redes
-                          sociales</strong>
-                        con la conexión 5G.</p><p>(*)Podrás añadir más Líneas adicionales en
-                    el proceso de compra
+                        también en EEUU.</p><p> Todo con la <strong> nueva red 5G.</strong></p><h3>
+                      <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
+                  </h3><p>
+                          Datos ilimitados
+                          <strong> a media velocidad (2Mbps de bajada y de subida)</strong>
+                      </p><p>
+                            Consulta tus redes sociales y usa aplicaciones de mensajería instantánea
+                        </p><p>
+                          Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos
+                      </p><p>
+                          <strong>Llamadas y SMS ilimitados</strong>
+                          con cualquier operador nacional las 24 horas, establecimiento incluido.
+                      </p><p>
+                      (*)Podrás añadir más Líneas adicionales en el proceso de compra
                   </p><h3>
                     <span>Televisión</span>
                     <span><strong>Pack TV Seriefans GRATIS</strong></span>
@@ -415,12 +438,13 @@
                       50% dto. 3 meses</span>
                     <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
                       después con un 50% dto. por solo 9,99€/mes (dto. ya aplicado).</span>
+                    <span>Paquete de TV: GRATIS durante 1 año, después 10€/mes.</span>
                   </p><span>
                         Los primeros 3 meses
-                      </span><span></span><span>37,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">A partir del mes 4
-                      </span><span></span><span>74,99</span><span>€</span><sub>/mes</sub><span>
+                      </span><span></span><span data-js-vf="_portability">37,49</span><span data-js-vf="_newNumber">34,99</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">Del mes 4 al mes 12
+                      </span><span></span><span data-js-vf="_portability">74,99</span><span data-js-vf="_newNumber">74,99</span><span>€</span><sub>/mes</sub><span>
                         A partir del año
-                      </span><span></span><span>94,98</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
+                      </span><span></span><span data-js-vf="_portability">94,98</span><span data-js-vf="_newNumber">84,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
                     autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
                     en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-analytics-id="-5460257368589">
                     Ver condiciones legales
@@ -479,27 +503,21 @@
                       <p>Podrás registrarte y hacer
                         seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
                     </li>
-                  </ul><del>54,99€/mes</del><span>
-                <span>26,99€</span>
-                <span>/mes</span>
-              </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="3155775530819" onmousedown="addtocart(utag_data.plans_add2cart)">
-              Lo quiero
-            </a><del>54,99€/mes</del><span>
-                <span>26,99€</span>
-                <span>/mes</span>
-              </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250784&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="8399925331411">
-              Lo quiero
-            </a><del>64,99€/mes</del><span>
-                <span>26,99€</span>
-                <span>/mes</span>
-              </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="3155775530818" onmousedown="addtocart(utag_data.plans_add2cart)">
-              Lo quiero
-            </a><del>64,99€/mes</del><span>
-                <span>26,99€</span>
-                <span>/mes</span>
-              </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1250784&amp;tcli=0&amp;tta=1" name="cta" title="CTA" data-analytics-id="8399925331410">
-              Lo quiero
-            </a><button aria-hidden="false">
+                  </ul><del>74,99€/mes</del><span>
+              <span>37,49€</span>
+              <span>/mes</span>
+            </span><a type="submit" name="cta" title="lo quiero" data-cta="600:port:sticky" href="#" onmousedown="#" data-analytics-id="#">
+            lo quiero
+            <span data-cta-a11y="">
+            </span>
+          </a><del>74,99€/mes</del><span>
+              <span>34,99€</span>
+              <span>/mes</span>
+            </span><a type="submit" name="cta" title="lo quiero" data-cta="600:port:sticky" href="#" onmousedown="#" data-analytics-id="#">
+            lo quiero
+            <span data-cta-a11y="">
+            </span>
+          </a><button aria-hidden="false">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>Close</title>
               <use xlink:href="#icon-close"></use>

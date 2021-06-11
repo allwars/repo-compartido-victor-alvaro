@@ -11,14 +11,21 @@
     "icono-texto": "Mejor Precio Vodafone",
 
     "title-ticket": "Vodafone One Ilimitada Avanzada 600Mbps",
-    "ticket": {
-      "datos": "Datos y minutos ilimitados",
-      "velocidad": "velocidad alta",
-      "icon-velocidad": "#icon-thunder-2grey",
-      "segundalinea": "4GB y 200 minutos GRATIS",
-      "segundalinea_subtitle": "segunda línea GRATIS 1 año",
-      "velocidad_fibra_subtitle": "+ llamadas ilimitadas en fijo"
-    }
+    "description": [
+        {
+            "title": "Datos y minutos ilimitados",
+            "subtitle": "Velocidad alta"
+        }, {
+            "title": "Segunda línea GRATIS 1 año",
+            "subtitle": "Datos y minutos ilimitados"
+        }, {
+            "title": "300Mbps Fibra Óptica",
+            "subtitle": "+ llamadas ilimitadas en fijo"
+        }, {
+            "title": "Pack TV Universal GRATIS",
+            "subtitle": "con más de 30 canales internacionales"
+        }
+    ]
   },
 
 
@@ -28,10 +35,7 @@
         "precio_sinpromo": "61,99",
         "precio_conpromo": "30,49",
         "precio_depuespromo": "71,98"
-    
-    },
-    {
-      
+    }, {
         "permanencia": "Permanencia 1 año",
         "precio_sinpromo": "61,99",
         "precio_conpromo": "28,49",
@@ -39,7 +43,7 @@
     }
   ],
 
-  
+
   "cta": {
     "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1",
     "context": "lo quiero",
@@ -52,10 +56,19 @@
     "title": "Datos ilimitados para que no te pierdas nada",
     "velocidad": "10Mbps"
   },
-
-
   "fibra":{
     "dispositivos":"25"
+  },
+
+  "secondLine": {
+      "title": "Llévate la 2ª Línea GRATIS 1 año",
+      "details": [
+          ["Datos ilimitados", " a media velocidad (2Mbps de bajada y de subida)"],
+          ["Consulta tus redes sociales y usa aplicaciones de mensajería instantánea"],
+          ["Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos"],
+          ["Llamadas y SMS ilimitados", "con cualquier operador nacional las 24 horas, establecimiento incluido."]
+      ],
+      "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra"
   },
 
   "bar":[

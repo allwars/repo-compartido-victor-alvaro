@@ -15,7 +15,7 @@
                             Datos y minutos ilimitados
                           </p>
                           <p>
-                            velocidad alta
+                            Velocidad alta
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                               <use xlink:href="#icon-thunder-2grey"></use>
                             </svg>
@@ -28,10 +28,10 @@
                         </svg>
                         <div>
                           <p>
-                            4GB y 200 minutos GRATIS
+                            Segunda línea GRATIS 1 año
                           </p>
                           <p>
-                            segunda línea GRATIS 1 año
+                            Datos y minutos ilimitados
                           </p>
                         </div>
                       </li>
@@ -42,13 +42,25 @@
                         </svg>
                         <div>
                           <p>
-                            300Mbps
-                            Fibra Óptica
+                            300Mbps Fibra Óptica
                           </p>
                           <p>
                             + llamadas ilimitadas en fijo
                           </p>
                         </div>
+                      </li>
+                      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                              <use xlink:href="#icon-tv"></use>
+                          </svg>
+                          <div>
+                              <p>
+                                  Pack TV Universal GRATIS
+                              </p>
+                              <p>
+                                  con más de 30 canales internacionales
+                              </p>
+                          </div>
                       </li>
     
                     </ul><legend>
@@ -63,7 +75,7 @@
                               <del>56,99€/mes</del>
                             </p><p>
                               28,49€<sub>/mes</sub>
-                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-cta="300:port:card" data-analytics-id="#">
+                            </p><a type="submit" name="cta" title="lo quiero" data-cta="300:port:card" href="#" onmousedown="#" data-analytics-id="#">
                           lo quiero
                           <span data-cta-a11y="">
                           </span>
@@ -92,12 +104,21 @@
                         Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones
                         también en EEUU.</p><p>
                         Todo con la
-                        <strong> nueva red 5G.</strong></p><h3><strong>Llévate la 2ª Línea GRATIS 1 año</strong></h3><p><strong>4GB de datos</strong>
-                        para navegar a la máxima velocidad.</p><p><strong>200 minutos</strong>
-                        en llamadas a fijos y móviles.
-                      </p><p><strong>Chatea y usa tus redes
-                          sociales</strong>
-                        con la conexión 5G.</p><h3>Fibra óptica
+                        <strong> nueva red 5G.</strong></p><h3>
+                      <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
+                  </h3><p>
+                          Datos ilimitados
+                          <strong> a media velocidad (2Mbps de bajada y de subida)</strong>
+                      </p><p>
+                            Consulta tus redes sociales y usa aplicaciones de mensajería instantánea
+                        </p><p>
+                          Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos
+                      </p><p>
+                          <strong>Llamadas y SMS ilimitados</strong>
+                          con cualquier operador nacional las 24 horas, establecimiento incluido.
+                      </p><p>
+                      (*)Podrás añadir más Líneas adicionales en el proceso de compra
+                  </p><h3>Fibra óptica
                     simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><div>
                           
                         </div><p><strong>300Mbps de fibra óptica
@@ -179,13 +200,15 @@
                     <span>Otras promociones:</span>
                     <span>Llévate el paquete de Fibra + Móvil al 50% dto. 3 meses</span>
                     <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
-                      después con un 50% dto. por solo 9,99€/mes (dto. ya aplicado).</span>
+                      después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span>
+                  </p><p>
+                      Paquete de TV: GRATIS
                   </p><span>
                         Los primeros 3 meses
                       </span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">A partir del mes 4
                       </span><span></span><span data-js-vf="_portability">56,99</span><span data-js-vf="_newNumber">56,99</span><span>€</span><sub>/mes</sub><span>
                         A partir del año
-                      </span><span></span><span>66,98</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
+                      </span><span></span><span>74,49</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
                     autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
                     en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-analytics-id="-5460257368589">
                     Ver condiciones legales
@@ -245,18 +268,20 @@
                         seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
                     </li>
                   </ul><del>56,99€/mes</del><span>
-                <span>28,49€</span>
-                <span>/mes</span>
-              </span><a type="submit" data-cta="600:port:sticky" href="#" data-analytics-id="#" onmousedown="">
-              Lo quiero
-              <span data-cta-a11y=""> </span>
-            </a><del>56,99€/mes</del><span>
-                <span>28,49€</span>
-                <span>/mes</span>
-              </span><a type="submit" data-cta="600:new:sticky" href="#" data-analytics-id="#" onmousedown="">
-              Lo quiero
-              <span data-cta-a11y=""></span>
-            </a><button aria-hidden="false">
+              <span>28,49€</span>
+              <span>/mes</span>
+            </span><a type="submit" name="cta" title="lo quiero" data-cta="300:port:sticky" href="#" onmousedown="#" data-analytics-id="#">
+            lo quiero
+            <span data-cta-a11y="">
+            </span>
+          </a><del>56,99€/mes</del><span>
+              <span>28,49€</span>
+              <span>/mes</span>
+            </span><a type="submit" name="cta" title="lo quiero" data-cta="300:port:sticky" href="#" onmousedown="#" data-analytics-id="#">
+            lo quiero
+            <span data-cta-a11y="">
+            </span>
+          </a><button aria-hidden="false">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>Close</title>
               <use xlink:href="#icon-close"></use>
