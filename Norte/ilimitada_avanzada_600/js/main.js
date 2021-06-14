@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.7.1. Generation Date: 2021-06-14T08:03:57.119Z
+ * Vodafone Reboot Framework: Version 2.7.1. Generation Date: 2021-06-14T09:58:04.358Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -136,7 +136,33 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
   var mddHeader = document.querySelector('.mdd-desktop');
   var width = document.documentElement.clientWidth;
   var isDesktop = width > 1024;
-  var isTablet = width <= 1024 && width >= 768; // Line Selector
+  var isTablet = width <= 1024 && width >= 768;
+  /**
+   * Bloque de inicialización de la página
+   */
+
+  if (window.matchMedia('(min-width: 768px)').matches) {
+    debugger;
+    positionOfTicket();
+    document.addEventListener('scroll', function () {
+      positionOfTicket();
+      ticketOpacity();
+      showStickyRate();
+      hideStickyRate();
+    });
+  } else {
+    document.addEventListener('scroll', function () {
+      showStickyRate();
+      hideStickyRate();
+    });
+  }
+
+  _toConsumableArray(typeOfLineButton).forEach(function (label) {
+    label.addEventListener('click', function () {
+      return actionsType(label);
+    });
+  }); // Line Selector
+
 
   _toConsumableArray(typeOfLineButton).forEach(function (label) {
     label.addEventListener('click', function () {
@@ -227,9 +253,9 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
     console.log(infoBanner);
 
     if (infoBanner.top < 0) {
-      ticket.setAttribute('style', 'position:fixed; top: 50px;');
+      ticket.setAttribute('style', 'position:fixed; top: 70px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;');
+      ticket.setAttribute('style', 'position:absolute;  top: 40px;');
     }
   }
 };

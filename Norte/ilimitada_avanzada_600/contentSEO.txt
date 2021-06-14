@@ -4,8 +4,7 @@
             <strong>hogar<br> ilimitable</strong>
           </h2><b>Oferta para
             Navarra, Euskadi, Asturias y Galicia</b><span><span>Mejor
-              Precio Vodafone</span></span><h2>Vodafone One
-              Ilimitada Avanzada 600Mbps</h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="30,49" data-vfes-seo-empathy-price="61,99">
+              Precio Vodafone</span></span><h2>Vodafone One Ilimitada Avanzada 600Mbps</h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="30,49" data-vfes-seo-empathy-price="61,99">
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <use xlink:href="#icon-mobile"></use>
