@@ -11,7 +11,7 @@
                 <use xlink:href="#icon-chevron-right"></use>
               </svg>
             </a><h2>
-              Vodafone One ilimitada Plus 600Mbps!!!
+              Vodafone One ilimitada Plus 600Mbps
           </h2><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                       <li>
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
