@@ -1,5 +1,5 @@
 <span>Fibra + Móvil
-              <strong>21% dto. 1 año</strong></span><h2>Fibra, dos líneas de datos y TV para ser ilimitable</h2><span>
+              <strong>21% dto. 1 año</strong></span><h2>Fibra Óptica, dos líneas de datos y TV para ser ilimitable</h2><span>
               
               <span>Mejor Precio Vodafone</span>
             </span><h2>
@@ -43,7 +43,7 @@
                         <div>
                           <p>
                             300Mbps
-                            Fibra
+                            Fibra Óptica
                           </p>
                           <p>
                             + llamadas ilimitadas en fijo
@@ -76,7 +76,7 @@
                               <del>77,49€/mes</del>
                             </p><p>
                               62,99€<sub>/mes</sub>
-                            </p><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="#" data-analytics-id="#">
+                            </p><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="#">
                           Lo quiero
                           <span data-cta-a11y="">
                           </span>
@@ -88,7 +88,7 @@
                               <del>77,49€/mes</del>
                             </p><p>
                               62,99€<sub>/mes</sub>
-                            </p><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="#" data-analytics-id="#">
+                            </p><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="#">
                           Lo quiero
                           <span data-cta-a11y="">
                           </span>
@@ -108,11 +108,11 @@
                               <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
                           </h3><p>
                                   Datos ilimitados
-                                  <strong> a media velocidad (2Mbps de bajada y de subida)</strong>
+                                  <strong> a media velocidad (2Mbps de bajada y de subida).</strong>
                               </p><p>
-                                    Consulta tus redes sociales y usa aplicaciones de mensajería instantánea
+                                    Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.
                                 </p><p>
-                                  Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos
+                                  Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
                               </p><p>
                                   <strong>Llamadas y SMS ilimitados</strong>
                                   con cualquier operador nacional las 24 horas, establecimiento incluido.
@@ -321,7 +321,7 @@
                         con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>3 reproducciones
                           simultáneas</strong>
                         (2 dispositivos + decodificador)</p><p><strong>HBO España, Amazon Prime Video, Filmin, Netflix,
-                        Youtube, National Geographic+, Tidal, Modo niños</strong> y más apps desde el
+                        Youtube, National Geographic+, TIDAL, Modo niños</strong> y más apps desde el
                         menú y búsquedas <strong>desde tu decodificador.</strong></p><button aria-hidden="false">
                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <title>Close</title>
@@ -510,18 +510,18 @@
                   </ul><del>77,49€/mes</del><span>
               <span>62,99€</span>
               <span>/mes</span>
-            </span><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:sticky" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="#" data-analytics-id="#">
-            Lo quiero
-            <span data-cta-a11y="">
-            </span>
-          </a><del>77,49€/mes</del><span>
+            </span><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="#">
+                          Lo quiero
+                          <span data-cta-a11y="">
+                          </span>
+                        </a><del>77,49€/mes</del><span>
               <span>62,99€</span>
               <span>/mes</span>
-            </span><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:sticky" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="#" data-analytics-id="#">
-            Lo quiero
-            <span data-cta-a11y="">
-            </span>
-          </a><button aria-hidden="false">
+            </span><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="#">
+                          Lo quiero
+                          <span data-cta-a11y="">
+                          </span>
+                        </a><button aria-hidden="false">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>Close</title>
               <use xlink:href="#icon-close"></use>

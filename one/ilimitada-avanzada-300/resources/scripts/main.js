@@ -125,7 +125,7 @@ tools.onStylesReady = () => {
     if(infoBanner.top < 0){
       ticket.setAttribute('style', 'position:fixed; top: 70px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;');
+      ticket.setAttribute('style', 'position:absolute;  top: 40px;');
     }
   }
 };

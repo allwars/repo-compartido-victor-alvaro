@@ -125,7 +125,7 @@ tools.onStylesReady = () => {
     if(infoBanner.top < 0){
       ticket.setAttribute('style', 'position:fixed; top: 70px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;');
+      ticket.setAttribute('style', 'position:absolute;  top: 40px;');
     }
   }
 };
@@ -190,7 +190,27 @@ tools.onFrameworkReady = () => {
        infoRegular[index].setAttribute("aria-hidden", "true");
      });
    }
+
+   
  
   // DO SOMETHING
 
 };
+/**
+   * Bloque de inicialización de la página
+   */
+
+ if (window.matchMedia('(min-width: 768px)').matches) {
+  positionOfTicket();
+  document.addEventListener('scroll', () => {
+    positionOfTicket();
+    ticketOpacity();
+    showStickyRate();
+    hideStickyRate();
+  });
+} else {
+  document.addEventListener('scroll', () => {
+    showStickyRate();
+    hideStickyRate();
+  });
+}
