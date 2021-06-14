@@ -1,6 +1,6 @@
 <span>
             Fibra + Móvil
-            <strong>con 50% dto. 3 meses +<br>después 15% dto. 2 años</strong>
+            <strong>50% dto. 3 meses + después 15% dto. 2 años</strong>
           </span><h2>
             Fibra y datos para ser ilimitable
           </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
@@ -85,14 +85,14 @@
                               Permanencia 1 año
                             </p><p>
                               28,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875100583">
+                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&amp;tcli=0&amp;tta=2" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875100583">
                           Lo quiero
                           <span></span>
                         </a><p>
                               Permanencia 1 año
                             </p><p>
                               28,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285867&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
+                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285867&amp;tcli=0&amp;tta=2" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
                           Lo quiero
                           <span></span>
                         </a><p>
@@ -588,13 +588,13 @@
         </a><del>54,99€/mes</del><span>
               <span>28,49€</span>
               <span>/mes</span>
-            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875100583">
+            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&amp;tcli=0&amp;tta=2" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875100583">
             Lo quiero
             <span data-cta-a11y=""></span>
           </a><del>54,99€/mes</del><span>
               <span>28,49€</span>
               <span>/mes</span>
-            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
+            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&amp;tcli=0&amp;tta=2" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
             Lo quiero
             <span data-cta-a11y=""></span>
           </a><button aria-hidden="false">
