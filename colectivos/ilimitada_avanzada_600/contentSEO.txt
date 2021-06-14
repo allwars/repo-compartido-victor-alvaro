@@ -87,16 +87,16 @@
                               Permanencia 1 año
                             </p><p>
                               30,49€<sub>/mes</sub>
-                            </p><a data-cta="600:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&amp;tcli=0&amp;tta=1" onmousedown="" data-analytics-id="-4725875160593">
+                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285869&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160593">
                           Lo quiero
-                          <span data-cta-a11y=""></span>
+                          <span></span>
                         </a><p>
                               Permanencia 1 año
                             </p><p>
                               30,49€<sub>/mes</sub>
-                            </p><a data-cta="600:new:card" type="submit" href="#" onmousedown="" data-analytics-id="-4725602956266">
+                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285873&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
                           Lo quiero
-                          <span data-cta-a11y=""></span>
+                          <span></span>
                         </a><p>
             Móvil
           </p><p>
@@ -181,60 +181,19 @@
               </span>
             </h3><p>
                 con más de 30 canales internacionales
-            </p><ul>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-        
-            </ul><p>
+            </p><p>
               El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
           </p><ul>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-              <li>
-                
-              </li>
-            </ul><p>
+                <li>
+                  
+                </li>
+                <li>
+                  
+                </li>
+                <li>
+                  
+                </li>
+              </ul><p>
               <a data-backdrop="seriefans" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-6241792886380">
                 Ver todos los canales incluidos
               </a>
@@ -245,115 +204,211 @@
                     <title>Close</title>
                     <use xlink:href="#icon-close"></use>
                   </svg>
-                </button><p>Canales Pack Seriefans</p><ul>
-                  <li>
-                    
-                    <p>HBO España</p>
-                  </li>
-                  <li>
-                    
-                    <p>FOXNOW</p>
-                  </li>
-                  <li>
-                    
-                    <p>AXN Now</p>
-                  </li>
-                  <li>
-                    
-                    <p>TNT</p>
-                  </li>
-                  <li>
-                    
-                    <p>FOX</p>
-                  </li>
-                  <li>
-                    
-                    <p>AMC SELEKT Series</p>
-                  </li>
-                  <li>
-                    
-                    <p>SYFY</p>
-                  </li>
-                  <li>
-                    
-                    <p>Calle 13</p>
-                  </li>
-                  <li>
-                    
-                    <p>AXN</p>
-                  </li>
-                  <li>
-                    
-                    <p>AXN White</p>
-                  </li>
-                </ul><p>Y además todos los Packs
-                  incluyen estos canales:</p><ul>
-                  <li>
-                    
-                    <p>AMC</p>
-                  </li>
-                  <li>
-                    
-                    <p>FOX Life</p>
-                  </li>
-                  <li>
-                    
-                    <p>Cosmo</p>
-                  </li>
-                  <li>
-                    
-                    <p>Comedy Central</p>
-                  </li>
-                  <li>
-                    
-                    <p>XTRM</p>
-                  </li>
-                  <li>
-                    
-                    <p>TCM</p>
-                  </li>
-                  <li>
-                    
-                    <p>Sundance TV</p>
-                  </li>
-                  <li>
-                    
-                    <p>National Geographic</p>
-                  </li>
-                  <li>
-                    
-                    <p>National Geographic Now</p>
-                  </li>
-                  <li>
-                    
-                    <p>Cocina</p>
-                  </li>
-                  <li>
-                    
-                    <p>Decasa</p>
-                  </li>
-                  <li>
-                    
-                    <p>MTV</p>
-                  </li>
-                  <li>
-                    
-                    <p>MyMTV Music</p>
-                  </li>
-                  <li>
-                    
-                    <p>SOL Música</p>
-                  </li>
-        
-                  <li>
-                    
-                    <p>Eurosport 1</p>
-                  </li>
-                  <li>
-                    
-                    <p>Selekt</p>
-                  </li>
-                </ul><h3>
+                </button><p>
+                    ¿Qué incluye el Pack Universal?
+                </p><p>El Pack Universal incluye programas, magazines, películas, informativos… todo el entretenimiento de una selección de canales internacionales (CNN, BBC World, France 24, Deutsche Welle…) y latinos (TV Chile, Cubavisión y más).</p><p>Contenidos incluidos:</p><ul>
+                    <li>
+                        
+                        <p>AMC</p>
+                    </li>
+                    <li>
+                        
+                        <p>FOX Life</p>
+                    </li>
+                    <li>
+                        
+                        <p>COSMO Life</p>
+                    </li>
+                    <li>
+                        
+                        <p>Comedy Central</p>
+                    </li>
+                    <li>
+                        
+                        <p>XTRM</p>
+                    </li>
+                    <li>
+                        
+                        <p>TCM</p>
+                    </li>
+                    <li>
+                        
+                        <p>Sundance TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>National Geographic</p>
+                    </li>
+                    <li>
+                        
+                        <p>National Geographic Now</p>
+                    </li>
+                    <li>
+                        
+                        <p>Cocina</p>
+                    </li>
+                    <li>
+                        
+                        <p>Decasa</p>
+                    </li>
+                    <li>
+                        
+                        <p>MTV</p>
+                    </li>
+                    <li>
+                        
+                        <p>MyMTV Music</p>
+                    </li>
+                    <li>
+                        
+                        <p>SOL Música</p>
+                    </li>
+                    <li>
+                        
+                        <p>Eurosport 1</p>
+                    </li>
+                    <li>
+                        
+                        <p>SELEKT</p>
+                    </li>
+                    <li>
+                        
+                        <p>Euronews</p>
+                    </li>
+                    <li>
+                        
+                        <p>CNN International</p>
+                    </li>
+                    <li>
+                        
+                        <p>Az Corazón</p>
+                    </li>
+                    <li>
+                        
+                        <p>CNBC</p>
+                    </li>
+                    <li>
+                        
+                        <p>El Trece TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>Cubavisión Internacional</p>
+                    </li>
+                    <li>
+                        
+                        <p>BBC HD</p>
+                    </li>
+                    <li>
+                        
+                        <p>BLOOMERANG</p>
+                    </li>
+                    <li>
+                        
+                        <p>Ve Plus TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>TV Chile</p>
+                    </li>
+                    <li>
+                        
+                        <p>Caracol</p>
+                    </li>
+                    <li>
+                        
+                        <p>Aljazeera</p>
+                    </li>
+                    <li>
+                        
+                        <p>CGTN</p>
+                    </li>
+                    <li>
+                        
+                        <p>RT</p>
+                    </li>
+                    <li>
+                        
+                        <p>Canal Parlamento</p>
+                    </li>
+                    <li>
+                        
+                        <p>France 24</p>
+                    </li>
+                    <li>
+                        
+                        <p>PRO TV</p>
+                    </li>
+                    <li>
+                        
+                        <p>TV5 Monde</p>
+                    </li>
+                    <li>
+                        
+                        <p>EWTN</p>
+                    </li>
+                    <li>
+                        
+                        <p>DW</p>
+                    </li>
+                    <li>
+                        
+                        <p>TVP</p>
+                    </li>
+                </ul><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
+                dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
+                una experiencia online.
+                Consultar dispositivos compatibles
+            </p><p>
+                    <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
+                        Consultar dispositivos compatibles
+                    </a>
+                </p><p>Más de <strong>50.000 contenidos disponibles</strong>
+                        bajo demanda.</p><p>No te pierdas nada, todo el <strong>contenido desde
+                        el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong>
+                        con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>2 reproducciones simultáneas</strong> en
+                        diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos
+                        estés donde estés y cuando quieras.</p><button aria-hidden="false">
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                <title>Close</title>
+                                <use xlink:href="#icon-close"></use>
+                            </svg>
+                        </button><p>
+                            Dispositivos compatibles</p><ul>
+                            <li>
+                                <svg style="width: 60px; height: 60px;">
+                                    <title>icon-tv-mid</title>
+                                    <use xlink:href="#icon-mobile-mid"></use>
+                                </svg>
+                                <p>Móvil / Tablet iOS y Android.</p>
+                            </li>
+                            <li>
+                                <svg style="width: 60px; height: 60px;">
+                                    <title>icon-tv-mid</title>
+                                    <use xlink:href="#icon-tv-mid"></use>
+                                </svg>
+                                <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
+                                </p>
+                            </li>
+                            <li>
+                                <svg style="width: 60px; height: 60px;">
+                                    <title>icon-connected-devices-mid</title>
+                                    <use xlink:href="#icon-connected-devices-mid"></use>
+                                </svg>
+                                <p>Chromecast.</p>
+                            </li>
+                            <li>
+                                <svg style="width: 60px;">
+                                    <title>icon-desktop-mid</title>
+                                    <use xlink:href="#icon-desktop-mid"></use>
+                                </svg>
+                                <p>PC/Mac.</p>
+                            </li>
+                            <li>
+                                
+                                <p>Fire TV Stick.</p>
+                            </li>
+                        </ul><h3>
                 Fibra óptica simétrica
             </h3><h3>
                 <strong>600Mbps de velocidad para tu hogar</strong>
@@ -367,8 +422,8 @@
                 </p><p>
                     <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
                 </p><h3>
-              <strong>También incluido en Vodafone One ilimitada Avanzada 600Mbps</strong>
-          </h3><ul aria-labelledby="idList">
+                <strong>También incluido en Vodafone One ilimitada Avanzada 600Mbps</strong>
+            </h3><ul aria-labelledby="idList">
               <li>
                 <div>
                   <div>
@@ -376,14 +431,12 @@
                       
                       <h3><strong>Secure Net</strong></h3>
                     </div>
-                    <p>Para
-                      que
-                      <strong>navegues sin riesgos en Internet por la red móvil
-                        y de acceso fijo de Vodafone</strong>, protegiéndote de
-                      virus (malware) y páginas fraudulentas (phishing).</p>
+                    <p>Para que
+                      <strong>navegues sin riesgos en Internet por la red móvil y de
+                        acceso fijo de Vodafone</strong>, protegiéndote de virus
+                      (malware) y páginas fraudulentas (phishing).</p>
                     <p><strong>GRATIS</strong>
-                      durante 3 meses, después 1€/mes por línea.</p>
-        
+                      durante 3 meses, después 1€/mes.</p>
                   </div>
                 </div>
               </li>
@@ -394,31 +447,30 @@
                       
                       <h3><strong>OneNumber</strong></h3>
                     </div>
-                    <p><strong>Mismo número de teléfono y misma tarifa de voz y
-                        datos en todos tus dispositivos</strong>
-                      sin necesidad de tener el móvil cerca y sin cambiar la
-                      SIM.</p>
+                    <p>Mismo número
+                      de teléfono y misma tarifa de voz y datos en todos tus
+                      dispositivos sin necesidad de tener el móvil cerca y sin cambiar
+                      la SIM.</p>
                     <p><strong>GRATIS</strong>
-                      1 mes, después 5€/mes para smartwatch, Tablet o teléfono
+                      durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono
                       secundario y 1€/mes para Smart speaker con Alexa.</p>
                   </div>
                 </div>
               </li>
-        
               <li>
                 <div>
                   <div>
                     <div>
                       
-                      <h3><strong>Secure Net
-                          Family</strong>
+                      <h3><strong>Secure Net Family</strong>
                       </h3>
                     </div>
-                    <p><strong>Secure Net Family</strong>
+                    <p><strong>Secure
+                        Net Family</strong>
                       te protege de
                       <strong>virus (malware) y páginas fraudulentas (phishing)</strong>,
-                      permitiendo además aplicar políticas de control parental
-                      en todos los dispositivos de tu hogar.</p>
+                      permitiendo además aplicar políticas de control parental en todos
+                      los dispositivos de tu hogar.</p>
                     <p><strong>GRATIS</strong>
                       durante 3 meses, después 5€/mes (IVA incluido).</p>
                   </div>
@@ -431,15 +483,15 @@
                       
                       <h3><strong>TIDAL</strong></h3>
                     </div>
-                    <p>Plataforma de música en streaming para que disfrutes de tu
-                      música con la mejor calidad de audio.</p>
+                    <p>Plataforma de
+                      música en streaming para que disfrutes de tu música con la mejor
+                      calidad de audio.</p>
                     <p><strong>GRATIS</strong>
                       durante 3 meses, después 7,99€/mes.</p>
                   </div>
                 </div>
               </li>
-        
-            </ul><span style="left: 0">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
+            </ul><span style="left: 0;">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
             <span><strong>Sin sorpresas.</strong></span>
             <span><strong>No escondemos nada</strong></span>
           </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?
@@ -540,15 +592,15 @@
         </a><span>
               <span>30,49€</span>
               <span>/mes</span>
-            </span><a data-cta="1GB:port:sticky" href="#" type="submit" onmousedown="#" data-analytics-id="">
+            </span><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285869&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160593">
             Lo quiero
-            <span data-cta-a11y=""></span>
+            <span></span>
           </a><span>
               <span>28,49€</span>
               <span>/mes</span>
-            </span><a data-cta="1GB:new:sticky" href="#" type="submit" onmousedown="#" data-analytics-id="#">
+            </span><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285873&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
             Lo quiero
-            <span data-cta-a11y=""></span>
+            <span></span>
           </a><button aria-hidden="false">
           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
             <title>Close</title>

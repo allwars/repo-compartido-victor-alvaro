@@ -14,7 +14,7 @@
     "description": [
         {
             "title": "Datos y minutos ilimitados",
-            "subtitle": "Velocidad alta"
+            "subtitle": "Velocidad máxima 5G"
         }, {
             "title": "Segunda línea GRATIS 1 año",
             "subtitle": "Datos y minutos ilimitados"
@@ -38,19 +38,22 @@
     }, {
         "permanencia": "Permanencia 1 año",
         "precio_sinpromo": "74,99",
-        "precio_conpromo": "34,99",
+        "precio_conpromo": "37,49",
         "precio_despuespromo": "84,99"
     }
   ],
 
 
   "cta": {
+    "title": "Lo quiero",
+    "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
     "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1",
-    "context": "lo quiero",
     "element": "modulo superior tarifa",
+    "context": "Lo quiero",
     "category": "cta",
-    "title": "lo quiero"
+    "loquiero": [ "1285784", "1285831" ]
   },
+  
 
   "movil": {
     "title": "Datos ilimitados en tu móvil para TODO",

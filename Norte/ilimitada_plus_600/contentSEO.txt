@@ -70,7 +70,7 @@
                                                             <del>74,99€/mes</del>
                                                         </p><p>
                                                             37,49€<sub>/mes</sub>
-                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1223624&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="CTA" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
+                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285761&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="CTA" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
                                                     Lo quiero
                                                 </a><p>
                                                             50% dto. 6 meses
@@ -84,11 +84,7 @@
 
                                                     Lo quiero
                                                 </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
-                        </div><picture>
-                            <source srcset="img/section-mobile/mobile-apps.webp" type="image/webp">
-                            <source srcset="img/section-mobile/mobile-apps.webp" type="image/png">
-                            
-                        </picture><p>Datos ilimitados <strong>a máxima velocidad (1Gbps de
+                        </div><p>Datos ilimitados <strong>a máxima velocidad (1Gbps de
                                     bajada y de subida).</strong></p><p><strong>Juega sin límites los juegos online con una
                                     calidad
                                     extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos que quieras.</p><p>Disfruta de streaming sin necesidad de conectarte al
@@ -108,95 +104,43 @@
                     </h3><p>incluye HBO y 60 canales más
                     </p><ul>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/01.webp" type="image/webp">
-                                    <source srcset="img/section-tv/01.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/02.webp" type="image/webp">
-                                    <source srcset="img/section-tv/02.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/03.webp" type="image/webp">
-                                    <source srcset="img/section-tv/03.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/04.webp" type="image/webp">
-                                    <source srcset="img/section-tv/04.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/05.webp" type="image/webp">
-                                    <source srcset="img/section-tv/05.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/06.webp" type="image/webp">
-                                    <source srcset="img/section-tv/06.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/07.webp" type="image/webp">
-                                    <source srcset="img/section-tv/07.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/08.webp" type="image/webp">
-                                    <source srcset="img/section-tv/08.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/09.webp" type="image/webp">
-                                    <source srcset="img/section-tv/09.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/10.webp" type="image/webp">
-                                    <source srcset="img/section-tv/10.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/11.webp" type="image/webp">
-                                    <source srcset="img/section-tv/11.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/12.webp" type="image/webp">
-                                    <source srcset="img/section-tv/12.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
                             <li>
-                                <picture>
-                                    <source srcset="img/section-tv/13.webp" type="image/webp">
-                                    <source srcset="img/section-tv/13.jpg" type="image/jpg">
-                                    
-                                </picture>
+                                
                             </li>
 
                         </ul><p>
@@ -221,11 +165,7 @@
                                 Ver todos los canales incluidos
                             </a>
                         </p><p style="left: 0">(*)Llévate GRATIS el Pack Seriefans, o elige el pack Serielovers con
-                            -10€/mes dto. durante 1 año por 4€/mes</p><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><picture>
-                        <source srcset="img/section-deco/contenido-tv.webp" type="image/webp">
-                        <source srcset="img/section-deco/contenido-tv.png" type="image/png">
-                        
-                    </picture><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
+                            -10€/mes dto. durante 1 año por 4€/mes</p><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
                             dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
                         una experiencia online.
                         Consultar dispositivos compatibles
@@ -238,11 +178,7 @@
                                     el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong>
                                 con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>2 reproducciones simultáneas</strong> en
                                 diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos
-                                estés donde estés y cuando quieras.</p><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><picture>
-                            <source srcset="img/section-fiber/fiber-vf.webp" type="image/webp">
-                            <source srcset="img/section-fiber/fiber-vf.png" type="image/png">
-                            
-                        </picture><div>
+                                estés donde estés y cuando quieras.</p><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
                                     
                                 </div><p><strong>600Mbps de fibra óptica
                                         simétrica</strong> para tu hogar, podrás conectar más 25 dispositivos a la
@@ -393,12 +329,12 @@
                     </ul><del>74,99€/mes</del><span>
                             <span>37,49€</span>
                             <span>/mes</span>
-                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1223624&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="CTA" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160585">
+                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285761&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="CTA" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160585">
                         Lo quiero
                     </a><del>74,99€/mes</del><span>
                             <span>37,49€</span>
                             <span>/mes</span>
-                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=929577&amp;tcli=0&amp;tta=1 " type="submit" name="cta" title="CTA" data-analytics-id="-4545656976523" onmousedown="addtocart(utag_data.plans_add2cart[1])">
+                        </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1223947&amp;tcli=0&amp;tta=1 " type="submit" name="cta" title="CTA" data-analytics-id="-4545656976523" onmousedown="addtocart(utag_data.plans_add2cart[1])">
 
                         Lo quiero
                     </a><button aria-hidden="false">

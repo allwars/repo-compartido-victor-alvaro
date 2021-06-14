@@ -234,21 +234,22 @@
                           </p>
                         </div>
                       </div>
-                      <a
-                        data-cta="600:port:card"
+                     <a
+                        data-cta="300:port:card"
                         type="submit"
+                        title="{{cta.title}}"
                         class="ws10-c-button ws10-c-button--auto"
-                        href="{{ ticket.offers.portability.cta.url }}"
-                        onmousedown="{{ ticket.offers.portability.cta.ul }}"
-                        data-analytics-element="{{ ticket.offers.portability.cta.element }}"
-                        data-analytics-context="{{ ticket.offers.portability.cta.content }}"
-                        data-analytics-category="{{ ticket.offers.portability.cta.category }}"
-                        data-analytics-id="{{ ticket.offers.portability.cta.id }}"
+                        href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id={{ cta.loquiero.[0] }}&tcli=0&tta=1"
+                        onmousedown="addtocart(utag_data.plans_add2cart[0])"
+                        data-analytics-element="{{ticket.offers.portability.cta.element}}"
+                        data-analytics-context="{{ticket.offers.portability.cta.content}}"
+                        data-analytics-category="{{ticket.offers.portability.cta.category}}"
+                        data-analytics-id="{{ticket.offers.portability.cta.id}}"
                       >
-                        {{ ticket.offers.portability.cta.label }}
+                        {{cta.title}}
                         <span
                           class="ws10-u--hidden-visually"
-                          data-cta-a11y
+
                         ></span>
                       </a>
                     </div>
@@ -271,22 +272,22 @@
                           </p>
                         </div>
                       </div>
-                      <a
-                        data-cta="600:new:card"
+                     <a
+                        data-cta="300:port:card"
                         type="submit"
+                        title="{{cta.title}}"
                         class="ws10-c-button ws10-c-button--auto"
-                        href="#"
-                        href="{{ ticket.offers.newNumber.cta.url }}"
-                        onmousedown="{{ ticket.offers.newNumber.cta.ul }}"
-                        data-analytics-element="{{ ticket.offers.newNumber.cta.element }}"
-                        data-analytics-context="{{ ticket.offers.newNumber.cta.content }}"
-                        data-analytics-category="{{ ticket.offers.newNumber.cta.category }}"
-                        data-analytics-id="{{ ticket.offers.newNumber.cta.id }}"
+                        href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id={{ cta.loquiero.[1] }}&tcli=0&tta=1"
+                        onmousedown="addtocart(utag_data.plans_add2cart[1])"
+                        data-analytics-element="{{ticket.offers.newNumber.cta.element}}"
+                        data-analytics-context="{{ticket.offers.newNumber.cta.content}}"
+                        data-analytics-category="{{ticket.offers.newNumber.cta.category}}"
+                        data-analytics-id="{{ticket.offers.newNumber.cta.id}}"
                       >
-                        {{ ticket.offers.newNumber.cta.label }}
+                        {{cta.title}}
                         <span
                           class="ws10-u--hidden-visually"
-                          data-cta-a11y
+
                         ></span>
                       </a>
                     </div>

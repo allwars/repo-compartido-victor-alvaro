@@ -1,13 +1,8 @@
-<p>
-        <strong>Si ya eres cliente</strong>
-        y quieres beneficiarte de este descuento,
-        <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí
-        </a>
-    </p><span>
-              Fibra + Móvil
-              <strong>con 50% dto. 3 meses +<br>después 15% dto. 2 años</strong>
+<span>
+            Fibra + Móvil
+            <strong>con 50% dto. 3 meses +<br>después 15% dto. 2 años</strong>
           </span><h2>
-              Fibra y datos para ser ilimitable
+            Fibra y datos para ser ilimitable
           </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
             Volver a ver las ofertas
             <span> color #E60000</span>
@@ -16,7 +11,7 @@
               <use xlink:href="#icon-chevron-right"></use>
             </svg>
           </a><h2>
-                Vodafone One Ilimitada Avanzada 300Mbps
+              Vodafone One Ilimitada Avanzada 300Mbps
             </h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="54,99">
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -54,12 +49,12 @@
                         <use xlink:href="#icon-broadband-or-wifi"></use>
                       </svg>
                       <div>
-                          <p>
-                            300Mbps Fibra Óptica
-                          </p>
-                          <p>
-                            + llamadas ilimitadas en fijo
-                          </p>
+                        <p>
+                          300Mbps Fibra Óptica
+                        </p>
+                        <p>
+                          + llamadas ilimitadas en fijo
+                        </p>
                       </div>
                     </li>
                     <li>
@@ -81,27 +76,29 @@
                       </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine" data-js-vf-value="portability">
                             Portabilidad
                           </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
-                          Nuevo Número
+                            Nuevo Número
                           </label><p data-js-vf="_portability">
                         <strong>50% dto. 3 meses + después 15% dto. durante 2 años</strong>
                       </p><p data-js-vf="_newNumber">
                         <strong>50% dto. 3 meses + después 15% dto. durante 2 años</strong>
                       </p><p>
-                                Permanencia 1 año
+                              Permanencia 1 año
                             </p><p>
                               28,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&amp;tcli=0&amp;tta=1" onmousedown="" data-analytics-id="-4725875100583">
+                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875100583">
                           Lo quiero
-                          <span data-cta-a11y=""></span>
+                          <span></span>
                         </a><p>
+                              Permanencia 1 año
+                            </p><p>
                               28,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&amp;tcli=0&amp;tta=1" onmousedown="" data-analytics-id="-4725602956266">
+                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285867&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
                           Lo quiero
-                          <span data-cta-a11y=""></span>
+                          <span></span>
                         </a><p>
               Móvil
           </p><p>
-              Datos ilimitados para que no te pierdas nada
+              <strong>Datos ilimitados para que no te pierdas nada</strong>
           </p><div>
             </div><ul>
             <li>
@@ -421,7 +418,7 @@
                 </p><p>
                     <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
                 </p><h3>
-                <strong>También incluido en Vodafone One ilimitada Avanzada 600Mbps</strong>
+                <strong>También incluido en Vodafone One ilimitada Avanzada 300Mbps</strong>
             </h3><ul aria-labelledby="idList">
               <li>
                 <div>
@@ -504,8 +501,6 @@
               Línea adicional: GRATIS durante 1 año, después con un 50% dto. por
               solo 17,50€/mes (dto. ya aplicado).</span>
             <span>Paquete de TV: GRATIS</span>
-          </p><p>
-              Paquete de TV: GRATIS
           </p><span data-js-vf="_portability">
                 Los primeros 3 meses</span><span data-js-vf="_newNumber">
                 Los primeros 3 meses</span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span>28,49</span><span>€</span><sub>/mes</sub><span>
@@ -513,7 +508,7 @@
                 <span data-js-vf="_portability"> 12</span>
               </span><span></span><span>48,44</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 13 al 27</span><span data-js-vf="_newNumber">Del mes 4 al 27</span><span></span><span>65,94</span><span>€</span><sub>/mes</sub><span>48,44</span><span>€</span><sub>/mes</sub><span>
                 Del mes 28 en adelante
-              </span><span></span><span>74,99</span><span>€</span><sub>/mes</sub><span>74,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo
+              </span><span></span><span>74,49</span><span>€</span><sub>/mes</sub><span>74,49</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo
             que sea autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene
             activo en el servicio durante, al menos, 1 año desde la fecha de
             instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/legales/" data-analytics-id="-5460257368590">
@@ -524,9 +519,7 @@
               <use xlink:href="#icon-chevron-right"></use>
             </svg>
           </a><h3><strong>¿Cómo contrato Vodafone One
-              Ilimitada Avanzada
-              <span data-js-vf="_recommendedRate">300Mbps</span>
-              <span data-js-vf="_regularRate">600Mbps</span>?</strong></h3><ul>
+              Ilimitada Avanzada 300Mbps?</strong></h3><ul>
             <li>
               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                 <title>Business</title>
@@ -595,13 +588,13 @@
         </a><del>54,99€/mes</del><span>
               <span>28,49€</span>
               <span>/mes</span>
-            </span><a data-cta="300:port:sticky" type="submit" href="#" onmousedown="#" data-analytics-id="">
+            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875100583">
             Lo quiero
             <span data-cta-a11y=""></span>
           </a><del>54,99€/mes</del><span>
               <span>28,49€</span>
               <span>/mes</span>
-            </span><a data-cta="300:new:sticky" type="submit" href="#" onmousedown="#" data-analytics-id="">
+            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
             Lo quiero
             <span data-cta-a11y=""></span>
           </a><button aria-hidden="false">

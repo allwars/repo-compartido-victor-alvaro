@@ -12,24 +12,23 @@
             <span
               class="ws10-c-card-rate-sticky__final-price-value"
             >30,49€</span>
-            <span
-              class="ws10-c-card-rate-sticky__final-price-date"
-            >/mes</span>
+            <span class="ws10-c-card-rate-sticky__final-price-date">/mes</span>
           </span>
         </div>
         <a
-          data-cta="1GB:port:sticky"
-          class="ws10-c-button ws10-c-button--auto"
-          href="#"
+          data-cta="300:port:card"
           type="submit"
-          onmousedown="#"
-          data-analytics-context="#"
-          data-analytics-element="#"
-          data-analytics-category="#"
-          data-analytics-id=""
+          title="{{cta.title}}"
+          class="ws10-c-button ws10-c-button--auto"
+          href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id={{cta.loquiero.[0]}}&tcli=0&tta=1"
+          onmousedown="addtocart(utag_data.plans_add2cart[0])"
+          data-analytics-element="{{ticket.offers.portability.cta.element}}"
+          data-analytics-context="{{ticket.offers.portability.cta.content}}"
+          data-analytics-category="{{ticket.offers.portability.cta.category}}"
+          data-analytics-id="{{ticket.offers.portability.cta.id}}"
         >
-          Lo quiero
-          <span class="ws10-u--hidden-visually" data-cta-a11y></span>
+          {{cta.title}}
+          <span class="ws10-u--hidden-visually"></span>
         </a>
       </div>
     </div>
@@ -43,26 +42,25 @@
             <span
               class="ws10-c-card-rate-sticky__final-price-value"
             >28,49€</span>
-            <span
-              class="ws10-c-card-rate-sticky__final-price-date"
-            >/mes</span>
+            <span class="ws10-c-card-rate-sticky__final-price-date">/mes</span>
           </span>
         </div>
         <a
-          data-cta="1GB:new:sticky"
-          class="ws10-c-button ws10-c-button--auto"
-          href="#"
+          data-cta="300:port:card"
           type="submit"
-          onmousedown="#"
-          data-analytics-context="#"
-          data-analytics-element="#"
-          data-analytics-category="#"
-          data-analytics-id="#"
+          title="{{cta.title}}"
+          class="ws10-c-button ws10-c-button--auto"
+          href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id={{cta.loquiero.[1]}}&tcli=0&tta=1"
+          onmousedown="addtocart(utag_data.plans_add2cart[1])"
+          data-analytics-element="{{ticket.offers.newNumber.cta.element}}"
+          data-analytics-context="{{ticket.offers.newNumber.cta.content}}"
+          data-analytics-category="{{ticket.offers.newNumber.cta.category}}"
+          data-analytics-id="{{ticket.offers.newNumber.cta.id}}"
         >
-          Lo quiero
-          <span class="ws10-u--hidden-visually" data-cta-a11y></span>
+          {{cta.title}}
+          <span class="ws10-u--hidden-visually"></span>
         </a>
       </div>
     </div>
   </div>
- </section>
+</section>

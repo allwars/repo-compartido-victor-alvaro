@@ -15,22 +15,20 @@
         </span>
       </div>
       <a
-        type="submit"
-        name="cta"
-        title="{{cta}}"
-        class="ws10-c-button ws10-c-button--auto"
-        data-cta="600:port:sticky"
-        href="#"
-        onmousedown="#"
-        data-analytics-context="#"
-        data-analytics-element="#"
-        data-analytics-category="#"
-        data-analytics-id="#"
-      >
-        {{cta}}
-        <span class="ws10-u--hidden-visually" data-cta-a11y>
-        </span>
-      </a>
+          data-cta="300:port:card"
+          type="submit"
+          title="{{cta.title}}"
+          class="ws10-c-button ws10-c-button--auto"
+          href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id={{cta.loquiero.[0]}}&tcli=0&tta=1"
+          onmousedown="addtocart(utag_data.plans_add2cart[0])"
+          data-analytics-element="{{ticket.offers.portability.cta.element}}"
+          data-analytics-context="{{ticket.offers.portability.cta.content}}"
+          data-analytics-category="{{ticket.offers.portability.cta.category}}"
+          data-analytics-id="{{ticket.offers.portability.cta.id}}"
+        >
+          {{cta.title}}
+          <span class="ws10-u--hidden-visually"></span>
+        </a>
     </div>
     <div
       class="ws10-c-card-rate-sticky__w-cta ws10-u--hidden"
@@ -47,22 +45,20 @@
         </span>
       </div>
       <a
-        type="submit"
-        name="cta"
-        title="{{cta}}"
-        class="ws10-c-button ws10-c-button--auto"
-        data-cta="600:port:sticky"
-        href="#"
-        onmousedown="#"
-        data-analytics-context="#"
-        data-analytics-element="#"
-        data-analytics-category="#"
-        data-analytics-id="#"
-      >
-        {{cta}}
-        <span class="ws10-u--hidden-visually" data-cta-a11y>
-        </span>
-      </a>
+          data-cta="300:port:card"
+          type="submit"
+          title="{{cta.title}}"
+          class="ws10-c-button ws10-c-button--auto"
+          href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id={{cta.loquiero.[1]}}&tcli=0&tta=1"
+          onmousedown="addtocart(utag_data.plans_add2cart[1])"
+          data-analytics-element="{{ticket.offers.newNumber.cta.element}}"
+          data-analytics-context="{{ticket.offers.newNumber.cta.content}}"
+          data-analytics-category="{{ticket.offers.newNumber.cta.category}}"
+          data-analytics-id="{{ticket.offers.newNumber.cta.id}}"
+        >
+          {{cta.title}}
+          <span class="ws10-u--hidden-visually"></span>
+        </a>
     </div>
   </div>
 </section>

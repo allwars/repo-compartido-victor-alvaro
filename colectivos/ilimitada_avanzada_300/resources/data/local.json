@@ -1,7 +1,12 @@
 {
-  "mismakey": "Yo soy el JSON local del microsite",
-  "title": "Ejemplo de contenido cargado desde el JSON",
-  "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
+
+  "cta": {
+    "title": "Lo quiero",
+    "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
+
+    "loquiero": [ "1285850", "1285867" ]
+
+  },
   "banner": {
       "heading": ["Fibra + Móvil", "con 50% dto. 3 meses +", "después 15% dto. 2 años"],
       "heading2": "Fibra y datos para ser ilimitable",
@@ -50,12 +55,12 @@
       },
       "offers": {
           "portability": {
-              "dtoPercent": "50% dto. 3 meses + después 15% dto. durante 2 años",
+            "dtoPercent": "50% dto. 3 meses + después 15% dto. durante 2 años",
               "dtoLabel": "Permanencia 1 año",
               "dtoFinalPrice": "66,98",
               "dtoPrice": "28,49",
               "cta": {
-                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&tcli=0&tta=1",
+                  "url": "1071017",
                   "category": "cta",
                   "id": "-4725875100583",
                   "element": "modulo superior tarifa",
@@ -69,7 +74,7 @@
               "dtoFinalPrice": "66,98",
               "dtoPrice": "28,49",
               "cta": {
-                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&tcli=0&tta=1",
+                  "url": "910427",
                   "category": "cta",
                   "id": "-4725602956266",
                   "element": "modulo superior tarifa",
@@ -109,7 +114,7 @@
       ]
   },
   "alsoIncluded": {
-      "title": "También incluido en Vodafone One ilimitada Avanzada 600Mbps"
+      "title": "También incluido en Vodafone One ilimitada Avanzada 300Mbps"
   },
   "tv": {
       "title": "Televisión",

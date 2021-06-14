@@ -1,11 +1,16 @@
 {
+    "cta": {
+        "title": "Lo quiero",
+        "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
+    
+        "loquiero": [ "1286189", "1286171" ]
+    },
 "permanencia": "Permanencia 1 año",
-"cta": "lo quiero",
 "dispositivos":"25",
 "velocidad":"600Mbps",
 "price_secondline":"17,50",
   "banner": {
-      "heading": ["Fibra + Móvil", "50% dto. 3 meses + después 15% dto. 2 años"],
+      "heading": ["Fibra + Móvil", "50% dto. 3 meses + después 15% dto. durante 2 años"],
       "heading2": "Fibra y datos para ser ilimitable",
       "cta": {
           "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/",
@@ -17,7 +22,7 @@
       }
   },
   "ticket": {
-      "heading": "Vodafone One Ilimitada Plus 600Mbps",
+      "heading": "Vodafone One ilimitada Plus 600Mbps",
       "description": [
           {
               "title": "Datos y minutos ilimitados",
@@ -64,7 +69,7 @@
                   "category": "cta",
                   "id": "-4725875100583",
                   "element": "modulo superior tarifa",
-                  "context": "lo quiero",
+                  "context": "Lo quiero",
                   "label": "Lo quiero"
               }
           },
@@ -72,15 +77,15 @@
               "dtoPercent": "50% dto. 3 meses + después 15% dto. durante 2 años",
               "dtoLabel": "Permanencia 1 año",
               "dtoFinalPrice": "63,74",
-              "dtoPrice": "34,99",
-              "dtobar3": "79,48",
-              "dtobar4": "89,98",
+              "dtoPrice": "37,49",
+              "dtobar3": "73,74",
+              "dtobar4": "84,99",
               "cta": {
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&tcli=0&tta=1",
                   "category": "cta",
                   "id": "-4725602956266",
                   "element": "modulo superior tarifa",
-                  "context": "lo quiero",
+                  "context": "Lo quiero",
                   "label": "Lo quiero"
               }
           }

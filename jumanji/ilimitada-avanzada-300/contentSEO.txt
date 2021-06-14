@@ -1,10 +1,10 @@
 <span>Fibra + Móvil
-              <strong>50% dto. 3 meses</strong></span><h2>Fibra y datos para ser ilimitable</h2><span>
+              <strong>21% dto. 1 año</strong></span><h2>Fibra, dos líneas de datos y TV para ser ilimitable</h2><span>
               
               <span>Mejor Precio Vodafone</span>
             </span><h2>
                 Vodafone One Ilimitada Avanzada 300Mbps
-              </h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="56,99">
+              </h2><ul data-vfes-seo-empathy-promoperiod="21% dto. 1 año Permanencia 1 año" data-vfes-seo-empathy-promoprice="62,99" data-vfes-seo-empathy-price="77,49">
                       <li>
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                           <use xlink:href="#icon-mobile"></use>
@@ -28,10 +28,10 @@
                         </svg>
                         <div>
                           <p>
-                            4GB y 200 minutos GRATIS
+                            Segunda línea GRATIS 1 año
                           </p>
                           <p>
-                            segunda línea GRATIS 1 año
+                            Datos y minutos ilimitados
                           </p>
                         </div>
                       </li>
@@ -43,10 +43,23 @@
                         <div>
                           <p>
                             300Mbps
-                            Fibra Óptica
+                            Fibra
                           </p>
                           <p>
                             + llamadas ilimitadas en fijo
+                          </p>
+                        </div>
+                      </li>
+                       <li>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <use xlink:href="#icon-tv"></use>
+                        </svg>
+                        <div>
+                          <p>
+                            Pack TV Universal GRATIS
+                          </p>
+                          <p style="font-size: 17px;">
+                            con más de 30 canales internacionales y deco incl.
                           </p>
                         </div>
                       </li>
@@ -56,27 +69,27 @@
                         </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
                               Portabilidad
                             </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">Nuevo Número</label><p>
-                              50% dto. 3 meses
+                              21% dto. 1 año
                             </p><p>
                               Permanencia 1 año
                             </p><p>
-                              <del>56,99€/mes</del>
+                              <del>77,49€/mes</del>
                             </p><p>
-                              28,49€<sub>/mes</sub>
-                            </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-cta="300:port:card" data-analytics-id="#">
-                          lo quiero
+                              62,99€<sub>/mes</sub>
+                            </p><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="#" data-analytics-id="#">
+                          Lo quiero
                           <span data-cta-a11y="">
                           </span>
                         </a><p>
-                              50% dto. 3 meses
+                              21% dto. 1 año
                             </p><p>
                               Permanencia 1 año
                             </p><p>
-                              <del>56,99€/mes</del>
+                              <del>77,49€/mes</del>
                             </p><p>
-                              28,49€<sub>/mes</sub>
-                            </p><a type="submit" name="cta" title="lo quiero" data-cta="300:port:card" href="#" onmousedown="#" data-analytics-id="#">
-                          lo quiero
+                              62,99€<sub>/mes</sub>
+                            </p><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="#" data-analytics-id="#">
+                          Lo quiero
                           <span data-cta-a11y="">
                           </span>
                         </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
@@ -91,13 +104,268 @@
                         <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong>
                         Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones
                         también en EEUU.</p><p>
-                        Todo con la
-                        <strong> nueva red 5G.</strong></p><h3><strong>Llévate la 2ª Línea GRATIS 1 año</strong></h3><p><strong>4GB de datos</strong>
-                        para navegar a la máxima velocidad.</p><p><strong>200 minutos</strong>
-                        en llamadas a fijos y móviles.
-                      </p><p><strong>Chatea y usa tus redes
-                          sociales</strong>
-                        con la conexión 5G.</p><h3>Fibra óptica
+                        Todo con la nueva red 5G.</p><h3>
+                              <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
+                          </h3><p>
+                                  Datos ilimitados
+                                  <strong> a media velocidad (2Mbps de bajada y de subida)</strong>
+                              </p><p>
+                                    Consulta tus redes sociales y usa aplicaciones de mensajería instantánea
+                                </p><p>
+                                  Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos
+                              </p><p>
+                                  <strong>Llamadas y SMS ilimitados</strong>
+                                  con cualquier operador nacional las 24 horas, establecimiento incluido.
+                              </p><p>
+                              (*)Podrás añadir más Líneas adicionales en el proceso de compra
+                          </p><h3>
+                    <span>Televisión</span>
+                    <span><strong>Pack TV Universal GRATIS</strong></span>
+                  </h3><p>con más de 30 canales
+                    internacionales
+                  </p><p>
+                
+                   
+                    El
+                    <strong>Pack Universal</strong>
+                    incluye programas, magazines, películas, series, música, documentales,
+                    informativos… todo el entretenimiento de una selección de canales
+                    internacionales.
+                
+                  </p><ul>
+                      <li>
+                        
+                      </li>
+                      <li>
+                        
+                      </li>
+                      <li>
+                        
+                      </li>
+                    </ul><p>
+                      <a data-backdrop="seriefans" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-6241792886380">
+                        Ver todos los canales incluidos
+                      </a>
+                    </p><span style="left: 0; position:relative;">(*) Puedes añadir más packs de TV en el proceso de compra.</span><button aria-hidden="false">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                          <title>Close</title>
+                          <use xlink:href="#icon-close"></use>
+                        </svg>
+                      </button><p>
+                        ¿Qué incluye el Pack Universal?
+                      </p><p>El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.</p><p>Contenidos incluidos:</p><ul>
+                        <li>
+                          
+                          <p>AMC</p>
+                        </li>
+                        <li>
+                          
+                          <p>FOX Life</p>
+                        </li>
+                        <li>
+                          
+                          <p>COSMO Life</p>
+                        </li>
+                        <li>
+                          
+                          <p>Comedy Central</p>
+                        </li>
+                        <li>
+                          
+                          <p>XTRM</p>
+                        </li>
+                        <li>
+                          
+                          <p>TCM</p>
+                        </li>
+                        <li>
+                          
+                          <p>Sundance TV</p>
+                        </li>
+                        <li>
+                          
+                          <p>National
+                            Geographic</p>
+                        </li>
+                        <li>
+                          
+                          <p>National
+                            Geographic Now</p>
+                        </li>
+                        <li>
+                          
+                          <p>Cocina</p>
+                        </li>
+                        <li>
+                          
+                          <p>Decasa</p>
+                        </li>
+                        <li>
+                          
+                          <p>MTV</p>
+                        </li>
+                        <li>
+                          
+                          <p>MyMTV Music</p>
+                        </li>
+                        <li>
+                          
+                          <p>SOL Música</p>
+                        </li>
+                        <li>
+                          
+                          <p>Eurosport 1</p>
+                        </li>
+                        <li>
+                          
+                          <p>SELEKT</p>
+                        </li>
+                        <li>
+                          
+                          <p>Euronews</p>
+                        </li>
+                        <li>
+                          
+                          <p>CNN International</p>
+                        </li>
+                        <li>
+                          
+                          <p>Az Corazón</p>
+                        </li>
+                        <li>
+                          
+                          <p>CNBC</p>
+                        </li>
+                        <li>
+                          
+                          <p>El Trece TV</p>
+                        </li>
+                        <li>
+                          
+                          <p>Cubavisión
+                            Internacional</p>
+                        </li>
+                        <li>
+                          
+                          <p>BBC HD</p>
+                        </li>
+                        <li>
+                          
+                          <p>BLOOMERANG</p>
+                        </li>
+                        <li>
+                          
+                          <p>Ve Plus TV</p>
+                        </li>
+                        <li>
+                          
+                          <p>TV Chile</p>
+                        </li>
+                        <li>
+                          
+                          <p>Caracol</p>
+                        </li>
+                        <li>
+                          
+                          <p>Aljazeera</p>
+                        </li>
+                        <li>
+                          
+                          <p>CGTN</p>
+                        </li>
+                        <li>
+                          
+                          <p>RT</p>
+                        </li>
+                        <li>
+                          
+                          <p>Canal Parlamento</p>
+                        </li>
+                        <li>
+                          
+                          <p>France 24</p>
+                        </li>
+                        <li>
+                          
+                          <p>PRO TV</p>
+                        </li>
+                        <li>
+                          
+                          <p>TV5 Monde</p>
+                        </li>
+                        <li>
+                          
+                          <p>EWTN</p>
+                        </li>
+                        <li>
+                          
+                          <p>DW</p>
+                        </li>
+                        <li>
+                          
+                          <p>TVP</p>
+                        </li>
+                      </ul><p><strong>¿Cómo es la experiencia de TV con decodificador HD y 4K?</strong></p><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong>
+                    (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia
+                    completa e integrada.</strong>
+                  </p><p>
+                      <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
+                        Consultar dispositivos compatibles
+                      </a>
+                    </p><p>Más de
+                        <strong>50.000 contenidos disponibles</strong>
+                        bajo demanda.</p><p>No te pierdas nada, todo el
+                        <strong>contenido desde el principio</strong>
+                        y con control del directo.</p><p>Los contenidos
+                        <strong>siempre disponibles</strong>
+                        con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>3 reproducciones
+                          simultáneas</strong>
+                        (2 dispositivos + decodificador)</p><p><strong>HBO España, Amazon Prime Video, Filmin, Netflix,
+                        Youtube, National Geographic+, Tidal, Modo niños</strong> y más apps desde el
+                        menú y búsquedas <strong>desde tu decodificador.</strong></p><button aria-hidden="false">
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                            <title>Close</title>
+                            <use xlink:href="#icon-close"></use>
+                          </svg>
+                        </button><p>
+                          Dispositivos compatibles</p><ul>
+                          <li>
+                            <svg style="width: 60px; height: 60px;">
+                              <title>icon-tv-mid</title>
+                              <use xlink:href="#icon-mobile-mid"></use>
+                            </svg>
+                            <p>Móvil / Tablet iOS y
+                              Android.</p>
+                          </li>
+                          <li>
+                            <svg style="width: 60px; height: 60px;">
+                              <title>icon-tv-mid</title>
+                              <use xlink:href="#icon-tv-mid"></use>
+                            </svg>
+                            <p>Modelos de smart
+                              TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde
+                              2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
+                            </p>
+                          </li>
+                          <li>
+                            <svg style="width: 60px; height: 60px;">
+                              <title>icon-connected-devices-mid</title>
+                              <use xlink:href="#icon-connected-devices-mid"></use>
+                            </svg>
+                            <p>Chromecast.</p>
+                          </li>
+                          <li>
+                            <svg style="width: 60px;">
+                              <title>icon-desktop-mid</title>
+                              <use xlink:href="#icon-desktop-mid"></use>
+                            </svg>
+                            <p>PC/Mac.</p>
+                          </li>
+                          <li>
+                            
+                            <p>Fire TV Stick.</p>
+                          </li>
+                        </ul><h3>Fibra óptica
                     simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><div>
                           
                         </div><p><strong>300Mbps de fibra óptica
@@ -175,19 +443,14 @@
                     </ul><span style="left: 0;">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
                     <span><strong>Sin sorpresas.</strong></span>
                     <span><strong>No escondemos nada</strong></span>
-                  </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: 28,49€/mes durante 3 meses, después 56,99€/mes</strong></p><p>
-                    <span>Otras promociones:</span>
-                    <span>Llévate el paquete de Fibra + Móvil al 50% dto. 3 meses</span>
+                  </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Fibra + Móvil (49,99€/mes) + decodificador (3€/mes): 62,99€/mes durante 1 año, después 77,49€/mes.</strong></p><p>
+                    <span>Promociones:</span>
                     <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
-                      después con un 50% dto. por solo 9,99€/mes (dto. ya aplicado).</span>
-                  </p><span>
-                        Los primeros 3 meses
-                      </span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">A partir del mes 4
-                      </span><span></span><span data-js-vf="_portability">56,99</span><span data-js-vf="_newNumber">56,99</span><span>€</span><sub>/mes</sub><span>
-                        A partir del año
-                      </span><span></span><span>66,98</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
+                      después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span>
+                    <span>Paquete de TV: GRATIS</span>
+                  </p><p>La instalación del servicio de fibra, salvo que sea
                     autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
-                    en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-analytics-id="-5460257368589">
+                    en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/" data-analytics-id="-5460257368589">
                     Ver condiciones legales
                     <span> color #E60000</span>
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
@@ -244,19 +507,21 @@
                       <p>Podrás registrarte y hacer
                         seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
                     </li>
-                  </ul><del>56,99€/mes</del><span>
-                <span>28,49€</span>
-                <span>/mes</span>
-              </span><a type="submit" data-cta="600:port:sticky" href="#" data-analytics-id="#" onmousedown="">
-              Lo quiero
-              <span data-cta-a11y=""> </span>
-            </a><del>56,99€/mes</del><span>
-                <span>28,49€</span>
-                <span>/mes</span>
-              </span><a type="submit" data-cta="600:new:sticky" href="#" data-analytics-id="#" onmousedown="">
-              Lo quiero
-              <span data-cta-a11y=""></span>
-            </a><button aria-hidden="false">
+                  </ul><del>77,49€/mes</del><span>
+              <span>62,99€</span>
+              <span>/mes</span>
+            </span><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:sticky" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="#" data-analytics-id="#">
+            Lo quiero
+            <span data-cta-a11y="">
+            </span>
+          </a><del>77,49€/mes</del><span>
+              <span>62,99€</span>
+              <span>/mes</span>
+            </span><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:sticky" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="#" data-analytics-id="#">
+            Lo quiero
+            <span data-cta-a11y="">
+            </span>
+          </a><button aria-hidden="false">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>Close</title>
               <use xlink:href="#icon-close"></use>

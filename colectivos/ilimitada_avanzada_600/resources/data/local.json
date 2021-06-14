@@ -1,7 +1,10 @@
 {
-  "mismakey": "Yo soy el JSON local del microsite",
-  "title": "Ejemplo de contenido cargado desde el JSON",
-  "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
+    "cta": {
+        "title": "Lo quiero",
+        "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
+    
+        "loquiero": [ "1285869", "1285873" ]
+    },
   "banner": {
       "heading": ["Fibra + Móvil", "con 50% dto. 3 meses +", "después 15% dto. 2 años"],
       "heading2": "Fibra y datos para ser ilimitable",

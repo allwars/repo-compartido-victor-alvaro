@@ -1,12 +1,11 @@
 {
-"fibra-movil":"Fibra + Móvil",
-"velocidad":"300Mbps",
-"permanencia": "Permanencia 1 año",
-
+  "fibra-movil": "Fibra + Móvil",
+  "velocidad": "300Mbps",
+  "permanencia": "Permanencia 1 año",
 
   "header-ticket": {
-    "title-1": "50% dto. 3 meses",
-    "title-2": "Fibra y datos para ser ilimitable",
+    "title-1": "21% dto. 1 año",
+    "title-2": "Fibra, dos líneas de datos y TV para ser ilimitable",
     "icono": "img/banner/icono-bestprice.svg",
     "icono-texto": "Mejor Precio Vodafone",
 
@@ -15,37 +14,39 @@
       "datos": "Datos y minutos ilimitados",
       "velocidad": "velocidad alta",
       "icon-velocidad": "#icon-thunder-2grey",
-      "segundalinea": "4GB y 200 minutos GRATIS",
-      "segundalinea_subtitle": "segunda línea GRATIS 1 año",
-      "velocidad_fibra_subtitle": "+ llamadas ilimitadas en fijo"
+      "segundalinea": "Segunda línea GRATIS 1 año",
+      "segundalinea_subtitle": "Datos y minutos ilimitados",
+      "velocidad_fibra_subtitle": "+ llamadas ilimitadas en fijo",
+      "tv": "Pack TV Universal GRATIS",
+      "subtitle-tv": "con más de 30 canales internacionales y deco incl."
     }
   },
-
 
   "price": [
     {
       "permanencia": "Permanencia 1 año",
-        "precio_sinpromo": "56,99",
-        "precio_conpromo": "28,49",
-        "precio_depuespromo": "66,98"
-    
+      "precio_sinpromo": "77,49",
+      "precio_conpromo": "62,99",
+      "precio_despuespromo": "77,49"
     },
     {
-      
-        "permanencia": "Permanencia 1 año",
-        "precio_sinpromo": "56,99",
-        "precio_conpromo": "28,49",
-        "precio_depuespromo": "66,98"
+      "permanencia": "Permanencia 1 año",
+      "precio_sinpromo": "77,49",
+      "precio_conpromo": "62,99",
+      "precio_despuespromo": "77,49"
+
     }
   ],
 
-  
   "cta": {
-    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1",
-    "context": "lo quiero",
+    "context": "Lo quiero",
     "element": "modulo superior tarifa",
     "category": "cta",
-    "title": "lo quiero"
+    "title": "Lo quiero",
+    "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
+
+    "loquiero": [ "1260377", "1260377" ]
+
   },
 
   "movil": {
@@ -53,22 +54,33 @@
     "velocidad": "10"
   },
 
-
-  "fibra":{
-    "dispositivos":"12"
+  "fibra": {
+    "dispositivos": "12"
   },
 
-  "bar":[
-
+  "bar": [
     {
-      "bar1":"Los primeros 3 meses",
-      "bar2":"Del mes 4 al mes 12",
-      "bar3":"A partir del año"
+      "bar1": "Los primeros 3 meses",
+      "bar2": "Del mes 4 al mes 12",
+      "bar3": "A partir del año"
     },
     {
-      "bar1":"Los primeros 3 meses",
-      "bar2":"A partir del mes 4",
-      "bar3":"A partir del año"
+      "bar1": "Los primeros 3 meses",
+      "bar2": "A partir del mes 4",
+      "bar3": "A partir del año"
     }
-  ]
+  ],
+  "tv": {
+    "title": "Televisión",
+    "heading": "Pack TV Universal GRATIS",
+    "heading2": "con más de 30 canales internacionales",
+    "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+    "allChannels": "Ver todos los canales incluidos",
+    "info": "(*) Puedes añadir más packs de TV en el proceso de compra.",
+    "popup": {
+      "title": "¿Qué incluye el Pack Universal?",
+      "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+      "included": "Contenidos incluidos:"
+    }
+  }
 }
