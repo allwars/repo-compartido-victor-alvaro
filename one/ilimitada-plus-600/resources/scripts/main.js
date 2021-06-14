@@ -119,13 +119,14 @@ tools.onStylesReady = () => {
   }
 
 
+
   function positionOfTicket() {
     let infoBanner = banner.getBoundingClientRect();
     console.log(infoBanner)
     if(infoBanner.top < 0){
       ticket.setAttribute('style', 'position:fixed; top: 70px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;');
+      ticket.setAttribute('style', 'position:absolute;  top: 40px;');
     }
   }
 };
@@ -191,6 +192,25 @@ tools.onFrameworkReady = () => {
      });
    }
  
+  
   // DO SOMETHING
 
 };
+/**
+   * Bloque de inicialización de la página
+   */
+
+ if (window.matchMedia('(min-width: 768px)').matches) {
+  positionOfTicket();
+  document.addEventListener('scroll', () => {
+    positionOfTicket();
+    ticketOpacity();
+    showStickyRate();
+    hideStickyRate();
+  });
+} else {
+  document.addEventListener('scroll', () => {
+    showStickyRate();
+    hideStickyRate();
+  });
+}
