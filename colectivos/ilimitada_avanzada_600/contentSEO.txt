@@ -3,7 +3,7 @@
       y quieres beneficiarte de este descuento,
       <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí</a></p><span>
               Fibra + Móvil
-              <strong>50% dto. 3 meses +<br>después 15% dto. 2 años</strong>
+              <strong>50% dto. 3 meses + después 15% dto. 2 años</strong>
           </span><h2>
               Fibra y datos para ser ilimitable
           </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
