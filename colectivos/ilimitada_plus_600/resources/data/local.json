@@ -2,7 +2,7 @@
     "cta": {
         "title": "Lo quiero",
         "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
-    
+
         "loquiero": [ "1286189", "1286171" ]
     },
 "permanencia": "Permanencia 1 año",
@@ -118,5 +118,8 @@
           ["600Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta 25 dispositivos a la vez."],
           ["Fijo con llamadas ilimitadas a fijos y móviles."]
       ]
+  },
+  "alsoIncluded": {
+      "title": "También incluido en Vodafone One ilimitada Plus 600Mbps"
   }
 }

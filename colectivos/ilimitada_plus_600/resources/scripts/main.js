@@ -30,7 +30,7 @@ tools.onFrameworkReady = () => {
   const typeOfLineButton = document.querySelectorAll('[data-js-vf="_buttonTypeLine"]');
 
   // Bloques de información para mostrar y/o ocultar en el HTML
-  
+
 
   const infoPortability = document.querySelectorAll('[data-js-vf="_portability"]');
   const infoNewNumber = document.querySelectorAll('[data-js-vf="_newNumber"]');
@@ -49,15 +49,15 @@ tools.onFrameworkReady = () => {
   const queryString = window.location.search;
 
   /**
-   * Declaración de las fucniones. 
+   * Declaración de las fucniones.
    */
 
 
   /**
-   * Función para mostrar u ocultar elementos dentro del HTML en función de la acción que se le pase. 
+   * Función para mostrar u ocultar elementos dentro del HTML en función de la acción que se le pase.
    * @param {string} action tipo de acción a ejecutar
-   * @param {array} listInfo Listado de elementos HTML sobre los que se ejecutará la acción 
-   * @returns 
+   * @param {array} listInfo Listado de elementos HTML sobre los que se ejecutará la acción
+   * @returns
    */
   const toggleInfo = (action = 'hide', listInfo = []) => {
     if (listInfo.length === 0) return console.error(`[Fn: toogleInfoRegular] The param listInfo is empty `)
@@ -80,8 +80,8 @@ tools.onFrameworkReady = () => {
   }
 
   /**
-   * Función que recibe un element HTML para ver que tipo de acción va a ejecutar. 
-   * @param {HTMLElement} label Elemento del HTML que deciditá la acción  
+   * Función que recibe un element HTML para ver que tipo de acción va a ejecutar.
+   * @param {HTMLElement} label Elemento del HTML que deciditá la acción
    */
   const actionsType = (label) => {
     const speedType = label.getAttribute('data-js-vf-value');
@@ -93,8 +93,8 @@ tools.onFrameworkReady = () => {
   }
 
   /**
-   * Función que Oculta la información de la tarifa recomendad y muestra la información de la tarifa regular. 
-   * Marcar el checkbutton correspondiente 
+   * Función que Oculta la información de la tarifa recomendad y muestra la información de la tarifa regular.
+   * Marcar el checkbutton correspondiente
    */
 
 
@@ -148,9 +148,9 @@ tools.onFrameworkReady = () => {
   const positionOfTicket = () => {
     let infoBanner = banner.getBoundingClientRect();
     if (infoBanner.top < 0) {
-      ticket.setAttribute('style', 'position:fixed; top: 50px;');
+      ticket.setAttribute('style', 'position:fixed; top: 70px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;');
+      ticket.setAttribute('style', 'position:absolute; top: 40px;');
     }
   }
 
@@ -200,6 +200,7 @@ tools.onFrameworkReady = () => {
    */
 
   if (window.matchMedia('(min-width: 768px)').matches) {
+    positionOfTicket();
     document.addEventListener('scroll', () => {
       positionOfTicket();
       ticketOpacity();

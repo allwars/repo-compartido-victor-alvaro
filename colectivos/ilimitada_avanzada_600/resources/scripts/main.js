@@ -128,9 +128,9 @@ tools.onFrameworkReady = () => {
   const positionOfTicket = () => {
     let infoBanner = banner.getBoundingClientRect();
     if (infoBanner.top < 0) {
-      ticket.setAttribute('style', 'position:fixed; top: 50px;');
+      ticket.setAttribute('style', 'position:fixed; top: 70px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;');
+      ticket.setAttribute('style', 'position:absolute; top: 40px;');
     }
   }
 
@@ -180,6 +180,7 @@ tools.onFrameworkReady = () => {
    */
 
   if (window.matchMedia('(min-width: 768px)').matches) {
+    positionOfTicket();
     document.addEventListener('scroll', () => {
       positionOfTicket();
       ticketOpacity();
