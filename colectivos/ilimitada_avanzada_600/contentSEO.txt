@@ -3,7 +3,7 @@
       y quieres beneficiarte de este descuento,
       <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí</a></p><span>
               Fibra + Móvil
-              <strong>con 50% dto. 3 meses +<br>después 15% dto. 2 años</strong>
+              <strong>50% dto. 3 meses +<br>después 15% dto. 2 años</strong>
           </span><h2>
               Fibra y datos para ser ilimitable
           </h2><a target="_blank" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-5460257368589">
@@ -14,8 +14,8 @@
               <use xlink:href="#icon-chevron-right"></use>
             </svg>
           </a><h2>
-              Vodafone One Ilimitada Avanzada 600Mbps
-            </h2><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
+            Vodafone One Ilimitada Avanzada 600Mbps
+        </h2><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <use xlink:href="#icon-mobile"></use>
