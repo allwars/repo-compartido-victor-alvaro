@@ -4,9 +4,12 @@
                  y fibra al
                 <strong> 50% dto. 3 meses</strong>
               </span>
-            </p><div>
-            
-          </div><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
+            </p><picture>
+              <source media="(min-width:768px)" srcset="img/bodegon-desktop.webp" type="image/webp">
+              <source media="(min-width:768px)" srcset="img/bodegon-desktop.png" type="image/png">
+              <source srcset="img/bodegon-mobile.webp" type="image/webp">
+              
+            </picture><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                     <li>
                                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                             <use xlink:href="#icon-mobile"></use>
@@ -204,7 +207,11 @@
                                                 37,49<sub>€/mes</sub>
                                             </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/" target="_self" name="Más info" title="Más info" data-analytics-id="-8477551683805">
                                         Más info
-                                    </a><b>¡Nuevo!</b><h4>¿Necesitas más líneas?
+                                    </a><picture>
+                  <source media="(min-width:1024px)" srcset="img/section-addons/cabecera-desktop.webp">
+                  <source media="(min-width:768px)" srcset="img/section-addons/cabecera-tablet.webp">
+                  
+                </picture><b>¡Nuevo!</b><h4>¿Necesitas más líneas?
                     Ahora llegan las tarifas para familias</h4><p>Descubre las tarifas de Hogar ilimitable y
                     disfruta de datos y minutos ilimitados en todas tus líneas de móvil
                     con 5G, la mejor fibra de Vodafone, máxima conexión WiFi con Super
@@ -287,9 +294,11 @@
                         <p>Navega a máxima velocidad con 5G. Descarga una serie en segundos, juega online a tiempo real y disfruta de una calidad mayor de vídeo y voz.</p>
                     </article>
                 </li>
-            </ul><div>
-                
-            </div><h2>
+            </ul><picture>
+                    <source srcset="img/section-vodafone-one/mama-hija.webp" type="image/webp">
+                    <source srcset="img/section-vodafone-one/mama-hija.jpg" type="image/jpg">
+                    
+                </picture><h2>
                     <strong>¡Con Vodafone One</strong> tendrás acceso a las mejores <strong>ofertas de tarifas de fibra y móvil!</strong>
                 </h2><p>
                     Habla, navega o disfruta de vídeos en streaming sin ataduras y a la máxima velocidad con nuestras tarifas de <strong>datos ilimitados</strong>. Con la instalación de nuestro módem, gratuita y rápida, podrás conectar varios dispositivos al mismo tiempo. En Vodafone hemos incluido el <strong>5G en todas nuestras tarifas</strong> para que toda la familia pueda disfrutar del mejor entretenimiento con la máxima velocidad y estabilidad.
