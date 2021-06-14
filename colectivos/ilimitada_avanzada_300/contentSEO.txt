@@ -11,8 +11,8 @@
               <use xlink:href="#icon-chevron-right"></use>
             </svg>
           </a><h2>
-              Vodafone One Ilimitada Avanzada 300Mbps
-            </h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="54,99">
+            Vodafone One Ilimitada Avanzada 300Mbps
+        </h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="54,99">
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <use xlink:href="#icon-mobile"></use>
