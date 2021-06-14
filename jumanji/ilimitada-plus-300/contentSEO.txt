@@ -64,11 +64,7 @@
                         </div>
                       </li>
     
-                    </ul><legend>
-                          ¿Cómo quieres la línea móvil principal?
-                        </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
-                              Portabilidad
-                            </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">Nuevo Número</label><p>
+                    </ul><p>
                               30% dto. 1 año
                             </p><p>
                               Permanencia 1 año
@@ -93,7 +89,11 @@
                           <span data-cta-a11y="">
                           </span>
                         </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
-                    </div><p>Datos ilimitados a
+                    </div><picture>
+                      <source srcset="img/section-mobile/mobile-apps.webp" type="image/webp">
+                      <source srcset="img/section-mobile/mobile-apps.png" type="image/png">
+                      
+                    </picture><p>Datos ilimitados a
                         <strong>máxima velocidad (1Gbps de bajada y de subida).</strong></p><p><strong>Juega sin límites con una calidad extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos
                         que quieras.</p><p>Disfruta de streaming sin necesidad
                         de conectarte al WiFi, tú y tus datos.</p><p>
@@ -122,31 +122,67 @@
                   </h3><p>incluye HBO y 60 canales más
                   </p><ul>
                       <li>
-                        
+                        <picture>
+                          <source srcset="img/section-tv/01.webp" type="image/webp">
+                          <source srcset="img/section-tv/01.jpg" type="image/jpg">
+                          
+                        </picture>
                       </li>
                       <li>
-                        
+                        <picture>
+                          <source srcset="img/section-tv/02.webp" type="image/webp">
+                          <source srcset="img/section-tv/02.jpg" type="image/jpg">
+                          
+                        </picture>
                       </li>
                       <li>
-                        
+                        <picture>
+                          <source srcset="img/section-tv/03.webp" type="image/webp">
+                          <source srcset="img/section-tv/03.jpg" type="image/jpg">
+                          
+                        </picture>
                       </li>
                       <li>
-                        
+                        <picture>
+                          <source srcset="img/section-tv/04.webp" type="image/webp">
+                          <source srcset="img/section-tv/04.jpg" type="image/jpg">
+                          
+                        </picture>
                       </li>
                       <li>
-                        
+                        <picture>
+                          <source srcset="img/section-tv/05.webp" type="image/webp">
+                          <source srcset="img/section-tv/05.jpg" type="image/jpg">
+                          
+                        </picture>
                       </li>
                       <li>
-                        
+                        <picture>
+                          <source srcset="img/section-tv/06.webp" type="image/webp">
+                          <source srcset="img/section-tv/06.jpg" type="image/jpg">
+                          
+                        </picture>
                       </li>
                       <li>
-                        
+                        <picture>
+                          <source srcset="img/section-tv/07.webp" type="image/webp">
+                          <source srcset="img/section-tv/07.jpg" type="image/jpg">
+                          
+                        </picture>
                       </li>
                       <li>
-                        
+                        <picture>
+                          <source srcset="img/section-tv/08.webp" type="image/webp">
+                          <source srcset="img/section-tv/08.jpg" type="image/jpg">
+                          
+                        </picture>
                       </li>
                       <li>
-                        
+                        <picture>
+                          <source srcset="img/section-tv/09.webp" type="image/webp">
+                          <source srcset="img/section-tv/09.jpg" type="image/jpg">
+                          
+                        </picture>
                       </li>
                     </ul><p>
                     <strong>Pack Seriefans GRATIS</strong>, este Pack incluye todas las
@@ -167,7 +203,11 @@
                       <a data-backdrop="Seriefans" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-0003391249299">
                         Ver todos los canales incluidos
                       </a>
-                    </p><p><strong>¿Cómo es la experiencia de TV con decodificador HD y 4K?</strong></p><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong>
+                    </p><p><strong>¿Cómo es la experiencia de TV con decodificador HD y 4K?</strong></p><picture>
+                    <source srcset="img/section-deco/contenido-tv.webp" type="image/webp">
+                    <source srcset="img/section-deco/contenido-tv.png" type="image/png">
+                    
+                  </picture><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong>
                     (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia
                     completa e integrada.</strong>
                   </p><p>
@@ -228,7 +268,11 @@
                             <p>Fire TV Stick.</p>
                           </li>
                         </ul><h3>Fibra óptica
-                    simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><div>
+                    simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><picture>
+                      <source srcset="img/section-fiber/fiber-vf.webp" type="image/webp">
+                      <source srcset="img/section-fiber/fiber-vf.png" type="image/png">
+                      
+                    </picture><div>
                           
                         </div><p><strong>300Mbps de fibra óptica
                             simétrica</strong>
