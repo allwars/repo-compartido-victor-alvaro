@@ -2,7 +2,7 @@
 									<span>
 										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 											<title>Tarifa fijo</title>
-											<use xlink:href="#icon-landline-or-call-mid"></use>
+											<use xlink:href="#icon-unified-communication-mid"></use>
 										</svg>
 									</span>
 									<p>
@@ -22,7 +22,7 @@
 									<span>
 										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 											<title>Localizador GPS</title>
-											<use xlink:href="#icon-location-mid"></use>
+											<use xlink:href="#icon-find-and-ring-your-device-mid"></use>
 										</svg>
 									</span>
 									<p>
