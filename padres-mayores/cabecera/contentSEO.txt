@@ -1,12 +1,12 @@
 <h2>Productos para mayores</h2><p>Descubre nuestros <strong> productos para tus padres</strong> y disfruta con ellos</p><article>
 									<span>
 										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-											<title>Tarifa fijo</title>
+											<title>Teléfono fijo</title>
 											<use xlink:href="#icon-unified-communication-mid"></use>
 										</svg>
 									</span>
 									<p>
-										Tarifa fijo
+										<strong>Teléfono fijo</strong>
 									</p>
 								</article><article>
 									<span>
@@ -16,16 +16,16 @@
 										</svg>
 									</span>
 									<p>
-										Tarifa móvil
+										<strong>Tarifa móvil</strong>
 									</p>
 								</article><article>
 									<span>
 										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-											<title>Localizador GPS</title>
+											<title>GPS y tarifa móvil</title>
 											<use xlink:href="#icon-find-and-ring-your-device-mid"></use>
 										</svg>
 									</span>
 									<p>
-										Localizador GPS
+										<strong>GPS y tarifa móvil</strong>
 									</p>
 								</article><p>Disfruta de teléfono fijo, tarifa móvil y localizador GPS</p><div></div>
