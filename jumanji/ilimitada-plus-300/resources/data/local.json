@@ -40,7 +40,7 @@
   "cta": {
     "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1",
     "context": "Lo quiero",
-    "element": "modulo superior tarifa",
+    "element": "cardrate",
     "category": "cta",
     "title": "Lo quiero",
     "condicioneslegales": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",

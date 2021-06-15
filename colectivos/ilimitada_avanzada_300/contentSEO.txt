@@ -1,4 +1,9 @@
-<span>
+<p>
+        <strong>Si ya eres cliente</strong>
+        y quieres beneficiarte de este descuento,
+        <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí
+        </a>
+    </p><span>
             Fibra + Móvil
             <strong>50% dto. 3 meses + después 15% dto. 2 años</strong>
           </span><h2>
@@ -85,14 +90,14 @@
                               Permanencia 1 año
                             </p><p>
                               28,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&amp;tcli=0&amp;tta=2" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875100583">
+                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875100583">
                           Lo quiero
                           <span></span>
                         </a><p>
                               Permanencia 1 año
                             </p><p>
                               28,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285867&amp;tcli=0&amp;tta=2" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
+                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285867&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725602956266">
                           Lo quiero
                           <span></span>
                         </a><p>

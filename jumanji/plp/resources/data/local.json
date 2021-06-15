@@ -29,7 +29,7 @@
           },
           "cta": {
               "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-3/",
-              "context": "ilimitada",
+              "context": "300mbps",
               "category": "cta",
               "id": "-7498449761489",
               "text": "Más info"
@@ -57,7 +57,7 @@
           },
           "cta": {
               "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-4/",
-              "context": "maxi",
+              "context": "300mbps",
               "category": "cta",
               "id": "-3827639703071",
               "text": "Más info"
@@ -88,7 +88,7 @@
           },
           "cta": {
               "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-4/",
-              "context": "total600mb",
+              "context": "300mbps",
               "category": "cta",
               "id": "-8477551683805",
               "text": "Más info"

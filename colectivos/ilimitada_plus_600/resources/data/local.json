@@ -16,7 +16,7 @@
           "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/",
           "category": "cta",
           "id": "-5460257368589",
-          "element": "modulo inferior",
+          "element": "cardaddons",
           "context": "condiciones legales",
           "label": "Volver a ver las ofertas"
       }
@@ -44,14 +44,14 @@
           "portability": {
               "category": "cta",
               "id": "",
-              "element": "modulo superior tarifa",
+              "element": "cardrate",
               "context": "portabilidad",
               "label": "Portabilidad"
           },
           "newNumber": {
               "category": "cta",
               "id": "-6727909503211",
-              "element": "modulo superior ilimitada maxi",
+              "element": "cardrate",
               "context": "alta nueva",
               "label": "Nuevo Número"
           }
@@ -68,7 +68,7 @@
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&tcli=0&tta=2",
                   "category": "cta",
                   "id": "-4725875100583",
-                  "element": "modulo superior tarifa",
+                  "element": "cardrate",
                   "context": "Lo quiero",
                   "label": "Lo quiero"
               }
@@ -84,7 +84,7 @@
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&tcli=0&tta=2",
                   "category": "cta",
                   "id": "-4725602956266",
-                  "element": "modulo superior tarifa",
+                  "element": "cardrate",
                   "context": "Lo quiero",
                   "label": "Lo quiero"
               }

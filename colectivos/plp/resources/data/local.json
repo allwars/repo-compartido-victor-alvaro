@@ -28,8 +28,8 @@
               },
               "cta": {
                   "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-3/",
-                  "context": "mas info: vodafone one ilimitada",
-                  "element": "card de tarifa",
+                  "context": "300mbps",
+                  "element": "cardrate:one ilimitada avanzada ",
                   "category": "cta",
                   "id": "-7498449761489",
                   "text": "Más info"
@@ -59,8 +59,8 @@
               },
               "cta": {
                   "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-4/",
-                  "context": "mas info: vodafone one ilimitada maxi",
-                  "element": "card de tarifa",
+                  "context": "600mbps",
+                  "element": "cardrate:one ilimitada avanzada",
                   "category": "cta",
                   "id": "-3827639708071",
                   "text": "Más info"
@@ -90,8 +90,8 @@
               },
               "cta": {
                   "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-5/",
-                  "context": "mas info: vodafone one ilimitada total",
-                  "element": "card de tarifa",
+                  "context": "600mbps",
+                  "element": "cardrate:one ilimitada plus",
                   "category": "cta",
                   "id": "-8477551683805",
                   "text": "Más info"
