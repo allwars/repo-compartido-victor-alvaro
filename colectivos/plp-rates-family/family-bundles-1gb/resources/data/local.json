@@ -1,0 +1,190 @@
+{
+  "tarifasFamiliares600mbps": [
+    {
+      "nombre": "Hogar ilimitable 2.0",
+      "lineas": "2",
+      "precio": "47,50",
+      "precioProvisional":"80,75",
+      "precioAntes": "95",
+      "descuento": "50% dto. 3 meses + después 15% dto. 2 años",
+      "permanencia": "Permanencia 1 año",
+      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1117540&tcli=0&tta=13",
+      "features": [
+        {
+          "titulo": "Conectividad",
+          "conectividad1": "2 líneas con datos y minutos ilimitados",
+          "conectividad2": "Fibra simétrica 600Mbps",
+          "conectividad3": "Super WiFi"
+        },
+        {
+          "titulo": "Cine y Series",
+          "entretenimiento1": "TV con decodificador 4K",
+          "entretenimiento2": "HBO España",
+          "entretenimiento3": "Amazon Prime Video"
+        },
+        {
+          "titulo": "Hogar inteligente",
+          "hogarInteligente1": "Secure Net Family"
+        }
+
+      ]
+    },
+    {
+      "nombre": "Hogar ilimitable 3.0",
+      "lineas": "3",
+      "precio": "55",
+      "precioAntes": "110",
+      "precioProvisional":"93,50",
+      "descuento": "50% dto. 3 meses + después 15% dto. 2 años",
+      "permanencia": "Permanencia 1 año",
+      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1120472&tcli=0&tta=13",
+      "features": [
+        {
+          "titulo": "Conectividad",
+          "conectividad1": "3 líneas con datos y minutos ilimitados",
+          "conectividad2": "Fibra simétrica 600Mbps",
+          "conectividad4": "OneNumber",
+          "conectividad3": "Super WiFi"
+        },
+        {
+          "titulo": "Cine y Series",
+          "entretenimiento1": "TV con decodificador 4K",
+          "entretenimiento2": "HBO España",
+          "entretenimiento3": "Amazon Prime Video"
+        },
+        {
+          "titulo": "Hogar inteligente",
+          "hogarInteligente1": "Secure Net Family",
+          "hogarInteligente2": "V-Home Mini"
+        }
+
+      ]
+    },
+    {
+      "nombre": "Hogar ilimitable 4.0",
+      "lineas": "4",
+      "precio": "62,50",
+      "precioProvisional":"106,25",
+      "precioAntes": "125",
+      "descuento": "50% dto. 3 meses + después 15% dto. 2 años",
+      "permanencia": "Permanencia 1 año",
+      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1120463&tcli=0&tta=13",
+      "features": [
+        {
+          "titulo": "Conectividad",
+          "conectividad1": "4 líneas con datos y minutos ilimitados",
+          "conectividad2": "Fibra simétrica 600Mbps",
+          "conectividad4": "OneNumber",
+          "conectividad3": "Super WiFi"
+        },
+        {
+          "titulo": "Cine y Series",
+          "entretenimiento1": "TV con decodificador 4K",
+          "entretenimiento2": "HBO España",
+          "entretenimiento3": "Amazon Prime Video"
+        },
+        {
+          "titulo": "Hogar inteligente",
+          "hogarInteligente1": "Secure Net Family",
+          "hogarInteligente2": "V-Home Mini",
+          "hogarInteligente3": "CarConnect"
+        }
+
+      ]
+    }
+  ],
+  "tarifasFamiliares1gbps": [
+    {
+      "nombre": "Hogar ilimitable 2.0",
+      "lineas": "2",
+      "precio": "52,50",
+      "precioProvisional":"89,25",
+      "precioAntes": "105",
+      "descuento": "50% dto. 3 meses + después 15% dto. 2 años",
+      "permanencia": "Permanencia 1 año",
+      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1116763&tcli=0&tta=13",
+      "features": [
+        {
+          "titulo": "Conectividad",
+          "conectividad1": "2 líneas con datos y minutos ilimitados",
+          "conectividad2": "Fibra simétrica 1Gbps",
+          "conectividad3": "Super WiFi"
+        },
+        {
+          "titulo": "Cine y Series",
+          "entretenimiento1": "TV con decodificador 4K",
+          "entretenimiento2": "HBO España",
+          "entretenimiento3": "Amazon Prime Video"
+        },
+        {
+          "titulo": "Hogar inteligente",
+          "hogarInteligente1": "Secure Net Family"
+        }
+
+      ]
+    },
+    {
+      "nombre": "Hogar ilimitable 3.0",
+      "lineas": "3",
+      "precio": "60",
+      "precioProvisional":"102",
+      "precioAntes": "120",
+      "descuento": "50% dto. 3 meses + después 15% dto. 2 años",
+      "permanencia": "Permanencia 1 año",
+      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1120456&tcli=0&tta=13",
+      "features": [
+        {
+          "titulo": "Conectividad",
+          "conectividad1": "3 líneas con datos y minutos ilimitados",
+          "conectividad2": "Fibra simétrica 1Gbps",
+          "conectividad4": "OneNumber",
+          "conectividad3": "Super WiFi"
+        },
+        {
+          "titulo": "Cine y Series",
+          "entretenimiento1": "TV con decodificador 4K",
+          "entretenimiento2": "HBO España",
+          "entretenimiento3": "Amazon Prime Video"
+        },
+        {
+          "titulo": "Hogar inteligente",
+          "hogarInteligente1": "Secure Net Family",
+          "hogarInteligente2": "V-Home Mini"
+        }
+
+      ]
+    },
+    {
+      "nombre": "Hogar ilimitable 4.0",
+      "lineas": "4",
+      "precio": "67,50",
+      "precioProvisional":"114,75",
+      "precioAntes": "135",
+      "descuento": "50% dto. 3 meses + después 15% dto. 2 años",
+      "permanencia": "Permanencia 1 año",
+      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1120478&tcli=0&tta=13",
+      "features": [
+        {
+          "titulo": "Conectividad",
+          "conectividad1": "4 líneas con datos y minutos ilimitados",
+          "conectividad2": "Fibra simétrica 1Gbps",
+          "conectividad4": "OneNumber",
+          "conectividad3": "Super WiFi"
+        },
+        {
+          "titulo": "Cine y Series",
+          "entretenimiento1": "TV con decodificador 4K",
+          "entretenimiento2": "HBO España",
+          "entretenimiento3": "Amazon Prime Video"
+        },
+        {
+          "titulo": "Hogar inteligente",
+          "hogarInteligente1": "Secure Net Family",
+          "hogarInteligente2": "V-Home Mini",
+          "hogarInteligente3": "CarConnect"
+        }
+
+      ]
+    }
+  ]
+}

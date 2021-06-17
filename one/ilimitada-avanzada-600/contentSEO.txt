@@ -139,7 +139,7 @@
                           
                         </li>
                       </ul><p>
-                      <a data-backdrop="seriefans" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-6241792886380">
+                      <a aria-haspopup="dialog" data-analytics-id="-6241792886380">
                         Ver todos los canales incluidos
                       </a>
                     </p><span style="left: 0; position:relative;">
@@ -504,18 +504,16 @@
                   </ul><del>61,99€/mes</del><span>
               <span>30,49€</span>
               <span>/mes</span>
-            </span><a type="submit" name="cta" title="Lo quiero" data-cta="600:port:sticky" href="#" onmousedown="#" data-analytics-id="#">
-            Lo quiero
-            <span data-cta-a11y="">
-            </span>
-          </a><del>61,99€/mes</del><span>
+            </span><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285769&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="">
+                            Lo quiero
+                            <span></span>
+                          </a><del>61,99€/mes</del><span>
               <span>30,49€</span>
               <span>/mes</span>
-            </span><a type="submit" name="cta" title="Lo quiero" data-cta="600:port:sticky" href="#" onmousedown="#" data-analytics-id="#">
-            Lo quiero
-            <span data-cta-a11y="">
-            </span>
-          </a><button aria-hidden="false">
+            </span><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285751&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="">
+                            Lo quiero
+                            <span></span>
+                          </a><button aria-hidden="false">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
               <title>Close</title>
               <use xlink:href="#icon-close"></use>

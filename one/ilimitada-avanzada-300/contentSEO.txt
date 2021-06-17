@@ -138,7 +138,7 @@
                           
                         </li>
                       </ul><p>
-                      <a data-backdrop="seriefans" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-6241792886380">
+                      <a aria-haspopup="dialog" data-analytics-id="-6241792886380">
                         Ver todos los canales incluidos
                       </a>
                     </p><span style="left: 0; position:relative;">

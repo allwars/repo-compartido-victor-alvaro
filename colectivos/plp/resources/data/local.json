@@ -60,7 +60,7 @@
               "cta": {
                   "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-4/",
                   "context": "600mbps",
-                  "element": "cardrate:one ilimitada avanzada",
+                  "element": "cardrate:one ilimitada avanzada 600 mbps",
                   "category": "cta",
                   "id": "-3827639708071",
                   "text": "Más info"

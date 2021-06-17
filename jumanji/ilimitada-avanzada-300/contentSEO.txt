@@ -76,18 +76,6 @@
                           Lo quiero
                           <span data-cta-a11y="">
                           </span>
-                        </a><p>
-                              21% dto. 1 año
-                            </p><p>
-                              Permanencia 1 año
-                            </p><p>
-                              <del>77,49€/mes</del>
-                            </p><p>
-                              52,99€<sub>/mes</sub>
-                            </p><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="#">
-                          Lo quiero
-                          <span data-cta-a11y="">
-                          </span>
                         </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
                     </div><p>Datos ilimitados a
                         <strong>alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con
@@ -507,13 +495,6 @@
               <span>52,99€</span>
               <span>/mes</span>
             </span><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="#">
-                          Lo quiero
-                          <span data-cta-a11y="">
-                          </span>
-                        </a><del>77,49€/mes</del><span>
-              <span>52,99€</span>
-              <span>/mes</span>
-            </span><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="#">
                           Lo quiero
                           <span data-cta-a11y="">
                           </span>
