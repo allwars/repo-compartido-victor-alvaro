@@ -1,1 +1,26 @@
-<svg width="29" height="35" viewBox="0 0 29 35" xmlns="http://www.w3.org/2000/svg"><g id="PDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Avanzada-300" transform="translate(-459 -1034)"><g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20 572)"><g id="Product-detail-/-Desktop-Tablet-/-2-lines-Copy" transform="translate(420 445)"><g id="music-and-movies-mid" transform="translate(10 10)"><path id="Rectangle" d="M0 0h48v48H0z"/><path id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" d="M29.475 37.875l.012-15.375 5.078 4.043"/><ellipse id="Oval" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" transform="rotate(-22.82 25.896 38.487)" cx="25.896" cy="38.487" rx="3.655" ry="2.877"/><path d="M26.515 32.5H11.947a1.433 1.433 0 01-1.447-1.425V15.5h27v15.575a1.433 1.433 0 01-1.447 1.418h-3.578M10.54 19.492H37.5M35.35 7.5l-23.975 3.89a1.518 1.518 0 00-1.25 1.75l.375 2.36 26.97-4.38-.383-2.37A1.515 1.515 0 0035.35 7.5zM14.01 19.457l3.98-3.967m4.085 3.967l3.977-3.967m3.958 3.967l3.98-3.967m-20.66-4.418l4.553 3.223m3.41-4.512l4.555 3.225m3.282-4.493l4.555 3.223" id="Path" stroke="#666" stroke-linecap="round" stroke-linejoin="round"/></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="29px" height="35px" viewBox="0 0 29 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons+Indicators / System-Icons / thunder-3</title>
+    <g id="PDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Avanzada-300" transform="translate(-459.000000, -1034.000000)">
+            <g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20.000000, 572.000000)">
+                <g id="Product-detail-/-Desktop-Tablet-/-2-lines-Copy" transform="translate(420.000000, 445.000000)">
+                    <g id="music-and-movies-mid" transform="translate(10.000000, 10.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="48" height="48"></rect>
+                        <polyline id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" points="29.475 37.875 29.4875 22.5 34.565 26.5425"></polyline>
+                        <ellipse id="Oval" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" transform="translate(25.896002, 38.486756) rotate(-22.820000) translate(-25.896002, -38.486756) " cx="25.8960018" cy="38.4867558" rx="3.655" ry="2.8775"></ellipse>
+                        <path d="M26.515,32.5000788 L11.9475,32.5000788 C11.5662817,32.5039972 11.1991954,32.3558692 10.9275153,32.0884121 C10.6558352,31.820955 10.5019751,31.4562342 10.5,31.075 L10.5,15.5 L37.5,15.5 L37.5,31.075 C37.4960425,31.4549292 37.3413101,31.817723 37.0698466,32.0835603 C36.7983832,32.3493976 36.4324288,32.4964991 36.0525,32.4925 L32.475,32.4925" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="10.54" y1="19.4925" x2="37.5" y2="19.4925" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <path d="M35.35,7.5 L11.375,11.39 C10.9767794,11.455509 10.6210558,11.6769448 10.3864838,12.0053456 C10.1519118,12.3337464 10.0578153,12.7420586 10.125,13.14 L10.5,15.5 L37.47,11.12 L37.0875,8.75 C36.9521232,7.92549392 36.1747712,7.36624786 35.35,7.5 Z" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <line x1="14.01" y1="19.4575" x2="17.99" y2="15.49" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="22.075" y1="19.4575" x2="26.0525" y2="15.49" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="30.01" y1="19.4575" x2="33.99" y2="15.49" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="13.33" y1="11.0725" x2="17.8825" y2="14.295" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="21.2925" y1="9.7825" x2="25.8475" y2="13.0075" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <line x1="29.13" y1="8.515" x2="33.685" y2="11.7375" id="Path" stroke="#666666" stroke-linecap="round" stroke-linejoin="round"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
