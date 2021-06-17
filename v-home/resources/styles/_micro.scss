@@ -1,0 +1,207 @@
+// CSS del microsite
+.vfes-ms-content{
+  .vf-banner {
+    background-image: url("../img/banner/bg-mobile.jpg");
+    background-size: cover;
+    @media screen and (min-width: 764px) {
+      background-image: url("../img/banner/bg-tablet.jpg");
+      min-height: 370px;
+    } 
+    @media screen and (min-width: 970px) {
+      background-image: url("../img/banner/bg-desktop.jpg");
+      min-height: 400px;
+    }
+  }
+  // Ticket
+  .vf-block {
+    display: block;
+  }
+  .vf-ticket{
+    position: relative;
+
+    @media screen and (min-width: 768px){
+      position: absolute;
+      right: 1rem;
+    }
+
+    &__floating{
+      position: sticky;
+      width: inherit;
+      width: 100%;
+      max-width: 400px;
+      padding-top: 10px;
+    }
+
+    &__opacity0{
+      opacity: 0;
+    }
+
+  }
+  .vf-sticky {
+    position: fixed;
+    z-index: 3;
+    bottom: 0;
+    width: 100%;
+    @media screen and (min-width: 970px) {
+      display: none;
+    }
+  }
+  .vf-form{
+    margin-top: 10px;
+    padding:0 0 0 0;
+    &__box{
+      width: initial;
+      &:first-child{
+        padding-right: 20px;
+      }
+    }
+  }
+  // Arreglo radio buttons
+  .ws10-c-form__radio:checked+.ws10-c-form__label::after {
+    background-color: #007c92;
+  }
+  .wfms__legal{
+    font-size: 14px;
+  }
+  .vfms-link{
+    color:#E60000;
+  }
+  // Objetos conectados
+  .vf-card{
+    &--image{
+      width: 100%;
+      min-height: 0;
+      &-height {
+        height: auto;
+      }
+    } 
+    &--align {
+      text-align: left;
+    }
+  } 
+  // Backdrop
+  .vf-tray-quick-action{
+    &--buton {
+      width: 100px;
+      padding: 0;
+      border: none;
+      border-radius: .375rem;
+      &:focus{
+        outline: none;
+      }
+    } 
+    &--content{
+      width: 100%;
+    }
+  }
+  .vf-tray-quick-action--buton.ws10-o-tabs__tab--active {
+    border: 2px solid #007c92;
+    padding: 0;
+    border-radius: .375rem;
+  }
+  .vf-backdrop{
+    width: 100%;
+    background-color: #ffffff;
+    max-height: 90vh;
+  
+    @media screen and (min-width: 970px){
+      min-height: initial;
+      border-radius: 6px;
+      min-height: 520px;
+    }
+    &--head-bg {
+      background-image: url('../img/safety-kit/backdrop/cabecera-modal-movil.jpg');
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      padding: 10px 30px;
+      @media screen and (min-width: 640px) {
+        background-image: url('../img/safety-kit/backdrop/cabecera-modal-tablet.jpg');
+        padding: auto;
+      }
+      @media screen and (min-width: 970px) {
+        background-image: url('../img/safety-kit/backdrop/cabecera-modal-desktop.jpg');
+      }
+    }
+    &--content {
+      margin-top: -100px;
+      background: none;
+      padding: 0;
+    }
+    &--container {
+      background-color: transparent;
+    }
+    &--item {
+      background: #fff;
+      @media screen and (min-width: 640px) {
+        border-radius: 7px;
+      }
+    }
+    &--panels {
+      @media screen and (min-width: 640px) {
+        padding: 0;
+      }
+      :focus {
+        outline: none;
+      }
+    }
+    &--tabs {
+      overflow: hidden;
+    }
+  }
+  
+  // Ajustes TABS
+.vf-tabs{
+  overflow: hidden;
+  &-container-buttons{
+    padding-bottom: 20px;
+    @media screen and (max-width: 640px) {
+      position: relative;
+      left: 0;
+      top:0;
+      display: block;
+      white-space: nowrap;
+      transform: translate3d(0px, 0px, 0px);
+    }
+      &__scrollX{
+        @media screen and (max-width: 640px) {
+          overflow-x: scroll;
+        }
+    }
+
+    &__image{
+      @media screen and (min-width: 767px){
+        width: 104px;
+        height: auto;
+      }
+      &-logos{
+        width: 80px;
+        background: white;
+        border-radius: 6px;
+        filter: drop-shadow(2px 4px 6px #dedede);
+      }
+    }
+  }
+  &-button{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    @media screen and (min-width: 970px) {
+      width: 136px;
+      height: 136px;
+    }
+
+    &__active{
+      border: 2px solid #007C92;
+    }
+  }
+
+}
+.ws10-c-picker.vf-tabs-button__active{
+  border: none;
+}
+  // General
+  .vf-image {
+    width: 100%;
+  }
+}
