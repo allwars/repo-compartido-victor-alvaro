@@ -91,11 +91,7 @@
                             Lo quiero
                             <span></span>
                           </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
-                    </div><picture>
-                      <source srcset="img/section-mobile/mobile-apps.webp" type="image/webp">
-                      <source srcset="img/section-mobile/mobile-apps.png" type="image/png">
-                      
-                    </picture><p>Datos ilimitados a
+                    </div><p>Datos ilimitados a
                         <strong>alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con
                         una calidad extrema y sin cortes.</p><p>
                         Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.</p><p>
@@ -134,25 +130,13 @@
                       El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
                   </p><ul>
                         <li>
-                          <picture>
-                            <source srcset="img/section-tv/amc-desktop.webp" type="image/webp">
-                            <source srcset="img/section-tv/amc-desktop.png" type="image/jpg">
-                            
-                          </picture>
+                          
                         </li>
                         <li>
-                          <picture>
-                            <source srcset="img/section-tv/eurosport-desktop.webp" type="image/webp">
-                            <source srcset="img/section-tv/eurosport-desktop.png" type="image/jpg">
-                            
-                          </picture>
+                          
                         </li>
                         <li>
-                          <picture>
-                            <source srcset="img/section-tv/tcm-desktop.webp" type="image/webp">
-                            <source srcset="img/section-tv/tcm-desktop.png" type="image/jpg">
-                            
-                          </picture>
+                          
                         </li>
                       </ul><p>
                       <a data-backdrop="seriefans" aria-haspopup="dialog" data-analytics-id="-6241792886380">
@@ -169,306 +153,154 @@
                             ¿Qué incluye el Pack Universal?
                         </p><p>El Pack Universal incluye programas, magazines, películas, informativos… todo el entretenimiento de una selección de canales internacionales (CNN, BBC World, France 24, Deutsche Welle…) y latinos (TV Chile, Cubavisión y más).</p><p>Contenidos incluidos:</p><ul>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/amc-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/amc-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>AMC</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/foxlife-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/foxlife-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>FOX Life</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/cosmo-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/cosmo-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>COSMO Life</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/comedy-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/comedy-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Comedy Central</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/xtrm-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/xtrm-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>XTRM</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/tcm-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/tcm-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>TCM</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/sundance-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/sundance-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Sundance TV</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/natgeo-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/natgeo-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>National Geographic</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/natgeoplus-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/natgeoplus-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>National Geographic Now</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/cocina-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/cocina-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Cocina</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/decasa-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/decasa-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Decasa</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/mtv-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/mtv-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>MTV</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/mymtv-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/mymtv-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>MyMTV Music</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/solmusica-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/solmusica-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>SOL Música</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/eurosport-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/eurosport-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Eurosport 1</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/selekt-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/selekt-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>SELEKT</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/euronews-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/euronews-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Euronews</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/cnn-international-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/cnn-international-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>CNN International</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/comedy-central-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/comedy-central-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Az Corazón</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/cnbc-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/cnbc-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>CNBC</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/el-trece-tv-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/el-trece-tv-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>El Trece TV</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/cubavisio-n-internacional-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/cubavisio-n-internacional-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Cubavisión Internacional</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/bbc-hd-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/bbc-hd-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>BBC HD</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/bloomberg-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/bloomberg-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>BLOOMERANG</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/ve-plus-tv-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/ve-plus-tv-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Ve Plus TV</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/tv-chile-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/tv-chile-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>TV Chile</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/caracol-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/caracol-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Caracol</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/aljazeera-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/aljazeera-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>Aljazeera</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/cgtn-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/cgtn-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>CGTN</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/rt-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/rt-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>RT</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/canal-parlamento-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/canal-parlamento-desktop.png" type="image/jpg">
-                                 
-                                </picture>
+                                
                                 <p>Canal Parlamento</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/france-24-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/france-24-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>France 24</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/pro-tv-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/pro-tv-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>PRO TV</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/tv-5-monde-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/tv-5-monde-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>TV5 Monde</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/ewtn-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/ewtn-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>EWTN</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/dw-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/dw-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>DW</p>
                             </li>
                             <li>
-                                <picture>
-                                  <source srcset="img/section-tv/popup/universal/tvp-desktop.webp" type="image/webp">
-                                  <source srcset="img/section-tv/popup/universal/tvp-desktop.png" type="image/jpg">
-                                  
-                                </picture>
+                                
                                 <p>TVP</p>
                             </li>
-                        </ul><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><picture>
-                        <source srcset="img/section-deco/contenido-tv.webp" type="image/webp">
-                        <source srcset="img/section-deco/contenido-tv.png" type="image/png">
-                        
-                    </picture><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
+                        </ul><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
                         dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
                         una experiencia online.
                         Consultar dispositivos compatibles
@@ -522,11 +354,7 @@
                                         <p>Fire TV Stick.</p>
                                     </li>
                                 </ul><h3>Fibra óptica
-                    simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><picture>
-                      <source srcset="img/section-fiber/fiber-vf.webp" type="image/webp">
-                      <source srcset="img/section-fiber/fiber-vf.png" type="image/png">
-                      
-                    </picture><div>
+                    simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
                           
                         </div><p><strong>600Mbps de fibra óptica
                             simétrica</strong>
