@@ -1,23 +1,23 @@
 <section class="vf-timeline ws10-u--pt12x">
-  <h3 class="ws10-u-heading--4">
-      <strong>{{ timeline.title }}</strong>
-  </h3>
-  <ul class="ws10-c-timeline-steps">
-      {{#each timeline.items }}
-        <li class="ws10-c-timeline-steps__item">
-          <svg
-            class="ws10-c-timeline-steps__icon"
-            xmlns="http://www.w3.org/2000/svg"
-            xmlns:xlink="http://www.w3.org/1999/xlink"
-            width="48px"
-            height="48px"
-          >
-            <title>Business</title>
-            <use xlink:href="#{{ icon }}"></use>
-          </svg>
-          <p class="ws10-c-timeline-steps__title">{{ title }}</p>
-          <p class="ws10-c-timeline-steps__text">{{ subtitle }}</p>
-        </li>
-      {{/each }}
-  </ul>
+    <h3 class="ws10-u-heading--4">
+        <strong>{{ timeline.title }}</strong>
+    </h3>
+    <ul class="ws10-c-timeline-steps">
+        {{#each timeline.items }}
+            <li class="ws10-c-timeline-steps__item">
+                <svg
+                    class="ws10-c-timeline-steps__icon"
+                    xmlns="http://www.w3.org/2000/svg"
+                    xmlns:xlink="http://www.w3.org/1999/xlink"
+                    width="48px"
+                    height="48px"
+                >
+                    <title>Business</title>
+                    <use xlink:href="#{{ icon }}"></use>
+                </svg>
+                <p class="ws10-c-timeline-steps__title">{{ title }}</p>
+                <p class="ws10-c-timeline-steps__text">{{ subtitle }}</p>
+            </li>
+        {{/each }}
+    </ul>
 </section>
