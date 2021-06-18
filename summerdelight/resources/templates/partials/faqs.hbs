@@ -1,0 +1,42 @@
+<!-- FAQS-->
+<div class="vfms-faqs vfes-layout__item vfes-pt- vfes-color-bg-vodafone-white ws10-u--pb12x">
+  <div class="vfes-layout__wrapper vfes-pb+">
+    <h3
+      class="vfes-title vfes-title--3 vfes-pt+ vfes-pt-mov vfes-align--center"
+    >{{faqs.header}}</h3>
+    <div class="vfes-mt0-mov">
+
+      <div data-vfes-js="_accordion" class="vfes-accordion js-accordion">
+        <div class="vfes-layout__item">
+
+          {{#each faqs.questions }}
+            <section
+              class="ws10-c-accordion ws10-c-accordion--dark ws10-u--mb3x"
+              data-ws10-js="accordion"
+            >
+              <div class="ws10-c-accordion__item ws10-o-collapse">
+                <a
+                  class="ws10-c-accordion__header"
+                  href="#{{ item }}"
+                  data-ws10-collapse="linked-accordion"
+                >
+                  <h3
+                    class="ws10-c-accordion__title"
+                  >{{ title }}</h3>
+                </a>
+                <div class="ws10-o-collapse__panel" id="{{ item }}" hidden>
+                  <div class="ws10-c-accordion__content">
+                    <p>{{ answer }}</p>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+          {{/each }}
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
