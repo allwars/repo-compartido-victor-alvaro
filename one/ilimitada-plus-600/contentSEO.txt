@@ -93,11 +93,7 @@
                             Lo quiero
                             <span></span>
                           </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
-                    </div><picture>
-                      <source srcset="img/section-mobile/mobile-apps.webp" type="image/webp">
-                      <source srcset="img/section-mobile/mobile-apps.png" type="image/png">
-                      
-                    </picture><p>Datos ilimitados a
+                    </div><p>Datos ilimitados a
                         <strong>máxima velocidad (1Gbps de bajada y de subida).</strong></p><p><strong>Juega sin límites con una calidad extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos
                         que quieras.</p><p>Disfruta de streaming sin necesidad
                         de conectarte al WiFi, tú y tus datos.</p><p>
@@ -125,95 +121,43 @@
                   </h3><p>incluye HBO y 60 canales más
                   </p><ul>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/01.webp" type="image/webp">
-                          <source srcset="img/section-tv/01.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/02.webp" type="image/webp">
-                          <source srcset="img/section-tv/02.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/03.webp" type="image/webp">
-                          <source srcset="img/section-tv/03.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/04.webp" type="image/webp">
-                          <source srcset="img/section-tv/04.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/05.webp" type="image/webp">
-                          <source srcset="img/section-tv/05.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/06.webp" type="image/webp">
-                          <source srcset="img/section-tv/06.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/07.webp" type="image/webp">
-                          <source srcset="img/section-tv/07.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/08.webp" type="image/webp">
-                          <source srcset="img/section-tv/08.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/09.webp" type="image/webp">
-                          <source srcset="img/section-tv/09.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/10.webp" type="image/webp">
-                          <source srcset="img/section-tv/10.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/11.webp" type="image/webp">
-                          <source srcset="img/section-tv/11.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/12.webp" type="image/webp">
-                          <source srcset="img/section-tv/12.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                       <li>
-                        <picture>
-                          <source srcset="img/section-tv/13.webp" type="image/webp">
-                          <source srcset="img/section-tv/13.jpg" type="image/jpg">
-                          
-                        </picture>
+                        
                       </li>
                 
                     </ul><p>
@@ -350,11 +294,7 @@
                           
                           <p>Selekt</p>
                         </li>
-                      </ul><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><picture>
-                        <source srcset="img/section-deco/contenido-tv.webp" type="image/webp">
-                        <source srcset="img/section-deco/contenido-tv.png" type="image/png">
-                        
-                    </picture><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
+                      </ul><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
                         dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
                         una experiencia online.
                         Consultar dispositivos compatibles
@@ -408,11 +348,7 @@
                                         <p>Fire TV Stick.</p>
                                     </li>
                                 </ul><h3>Fibra óptica
-                    simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><picture>
-                      <source srcset="img/section-fiber/fiber-vf.webp" type="image/webp">
-                      <source srcset="img/section-fiber/fiber-vf.png" type="image/png">
-                      
-                    </picture><div>
+                    simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
                           
                         </div><p><strong>600Mbps de fibra óptica
                             simétrica</strong>
