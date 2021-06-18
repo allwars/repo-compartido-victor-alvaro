@@ -98,13 +98,13 @@
                 "color": "peques"
             }, {
                 "header": {
-                    "mainImage": "accorn",
-                    "icon": "accorn-logo"
+                    "mainImage": "acorn",
+                    "icon": "acorn-logo"
                 },
                 "channels": [
                     {
-                        "src": "accorn-tv",
-                        "alt": "Logo Accorn TV"
+                        "src": "acorn-tv",
+                        "alt": "Logo Acorn TV"
                     }
                 ],
                 "title": "Acorn TV",

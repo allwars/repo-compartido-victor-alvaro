@@ -17,26 +17,12 @@
 		<div data-ws10-spritesheet="img/svg/sprite.mva10.svg" data-ws10-js="spritesheet-loader"></div>
 		<div data-ws10-spritesheet="img/svg/sprite.mid.svg" data-ws10-js="spritesheet-loader"></div>
 		<div class="ws10-o-wrapper">
-			<h2 class="ws10-c-title ws10-u-color--vodafone-red">Hello Vodafone summerdelight!</h2>
-			<h3 class="vfes-title">{{title}}</h3>
-			<p class="ws10-c-title">La ubicación del fichero JSON: {{url}}</p>
-		</div>
-		<div class="ws10-o-wrapper">
-			<h3 class="ws10-c-title">{{common.title}}</h3>
-			<p>La ubicación del fichero JSON: {{common.url}}</p>
-			<h4 class="ws10-c-title">Recuerda: </h4>
-			<p> Si la clave de tu JSON LOCAL coincide con la clave del JSON Global, priorizará el contenido del JSON local. </p>
-			<h4 class="ws10-c-title">Ejemplo</h4>
-			<ul>
-				<li>{{mismakey}}</li>
-			</ul>
-
-			{{> banner }}
-
+			<!-- HERO -->
+			{{> hero }}
+			<!-- CARDS TV -->
 			{{> cardsTV }}
-
+			<!-- TIMELINE -->
 			{{> timeline }}
-
 		</div>
 		<script src="js/ws10.js"></script>
 		<script src="js/main.js"></script>
