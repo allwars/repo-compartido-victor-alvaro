@@ -1,6 +1,11 @@
 {
-    "banner": {
-
+    "hero": {
+        "text": "Por ser cliente Vodafone…",
+        "title": ["Llévate", "GRATIS", "un", "Pack de Vodafone TV"],
+        "subtitle": "Elige el pack que quieras antes del 31/07/21 y disfrútalo hasta el 15/09/21",
+        "cta": {
+            "label": "Activar en Mi Vodafone"
+        }
     },
     "cardsTV": {
         "notFamily": [

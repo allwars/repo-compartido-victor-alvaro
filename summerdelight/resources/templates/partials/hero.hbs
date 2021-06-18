@@ -13,16 +13,16 @@
         <div class="ws10-o-wrapper ws10-c-hero-dmp__wrapper">
             <div class="ws10-o-layout">
                 <div class="ws10-o-layout__item ws10-u--8/12@tablet ws10-u--push-2/12@tablet ws10-u--4/12@desktop ws10-u--push-1/12@desktop">
-                    <p>Por ser cliente Vodafone…</p>
+                    <p>{{ hero.text }}</p>
                     <p class="ws10-c-hero-dmp__title ws10-u-heading--3-lt">
-                        Llévate <strong>GRATIS</strong> un <strong>Pack de Vodafone TV</strong>
+                        {{ hero.title.[0] }} <strong>{{ hero.title.[1] }}</strong> {{ hero.title.[2] }} <strong>{{ hero.title.[3] }}</strong>
                     </p>
-                    <p>Elige el pack que quieras antes del 31/07/21 y disfrútalo hasta el 15/09/21</p>
+                    <p>{{ hero.subtitle }}</p>
                     <div class="ws10-c-hero-dmp__w-btns">
                         <button class="ws10-c-hero-dmp__btn ws10-c-button"
                                 data-ws10-hero-dmp-first-btn
                                 type="button">
-                            Activar en Mi Vodafone
+                            {{ hero.cta.label }}
                         </button>
                     </div>
                 </div>
