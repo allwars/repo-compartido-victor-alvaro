@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-18T11:38:41.845Z
+ * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-18T12:48:23.850Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -131,26 +131,37 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
   console.log("Site functionality ready"); // DO SOMETHING
 
   var familyCards = document.querySelectorAll('[data-js-vf="family"]');
-  var cardFilters = document.querySelectorAll('[data-js-vf="_filter"]');
-
-  _toConsumableArray(cardFilters).forEach(function (filter) {
-    filter.addEventListener('click', function () {
-      return changeFilter(filter);
-    });
+  var cardFilterOne = document.querySelector('.vf-filter-one');
+  var checkOne = cardFilterOne.querySelector('input');
+  var cardFilterTwo = document.querySelector('.vf-filter-two');
+  var checkTwo = cardFilterTwo.querySelector('input');
+  cardFilterOne.addEventListener('click', function (e) {
+    return filterOne(e);
+  });
+  cardFilterTwo.addEventListener('click', function (e) {
+    return filterTwo(e);
   });
 
-  function changeFilter(filter) {
-    if (filter.classList.contains('vf-filter-one')) {
-      _toConsumableArray(familyCards).forEach(function (filter) {
-        filter.classList.remove("ws10-u--hidden");
-      });
-    } else {
-      _toConsumableArray(familyCards).forEach(function (filter) {
-        filter.classList.add("ws10-u--hidden");
-      });
-    }
+  function filterOne(e) {
+    _toConsumableArray(familyCards).forEach(function (filter) {
+      filter.classList.remove("ws10-u--hidden");
+    });
 
-    console.log(filter); // familyCards.classList.remove("ws10-u--hidden");
+    e.currentTarget.classList.add("ws10-c-filter--white");
+    cardFilterTwo.classList.remove("ws10-c-filter--white");
+    checkOne.checked = true;
+    checkTwo.checked = false;
+  }
+
+  function filterTwo(e) {
+    _toConsumableArray(familyCards).forEach(function (filter) {
+      filter.classList.add("ws10-u--hidden");
+    });
+
+    e.currentTarget.classList.add("ws10-c-filter--white");
+    cardFilterOne.classList.remove("ws10-c-filter--white");
+    checkOne.checked = false;
+    checkTwo.checked = true;
   }
 };
 
