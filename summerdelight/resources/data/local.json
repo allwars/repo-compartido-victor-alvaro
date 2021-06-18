@@ -8,309 +8,198 @@
         }
     },
     "filters": ["Clientes de móvil, solo fibra o móvil + fibra", "Y si tu tarifa es familiar…"],
-    "cardsTV": {
-        "notFamily": [
-            {
-                "header": {
-                    "mainImage": "deportes",
-                    "mainImageAlt": "Deportes",
-                    "icon": "eurosport-1",
-                    "iconAlt": "Logo Eurosport 1"
-                },
-                "channels": [
-                    {
-                        "src": "eurosport-player",
-                        "alt": "Logo Eurosport Player"
-                    }, {
-                        "src": "eurosport-1",
-                        "alt": "Logo Eurosport 1"
-                    }, {
-                        "src": "eurosport-2",
-                        "alt": "Logo Eurosport 2"
-                    }, {
-                        "src": "garage-tv",
-                        "alt": "Logo Garage TV"
-                    }, {
-                        "src": "fight-sports",
-                        "alt": "Logo Fight Sports"
-                    }
-                ],
-                "title": "Pack Deportes",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": "deportes"
-            }, {
-                "header": {
-                    "mainImage": "documentales",
-                    "icon": "historia-hd"
-                },
-                "channels": [
-                    {
-                        "src": "national-geographic",
-                        "alt": "Logo National Geographic"
-                    }, {
-                        "src": "historia-hd",
-                        "alt": "Logo Historia HD"
-                    }, {
-                        "src": "discovery",
-                        "alt": "Logo Discovery Channel"
-                    }, {
-                        "src": "odisea-hd",
-                        "alt": "Logo Odisea HD"
-                    }, {
-                        "src": "blaze-hd",
-                        "alt": "Logo Blaze HD"
-                    }
-                ],
-                "title": "Pack Documentales",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": "documentales"
-            }, {
-                "header": {
-                    "mainImage": "peques",
-                    "icon": "nickelodeon"
-                },
-                "channels": [
-                    {
-                        "src": "disney-junior",
-                        "alt": "Logo Disney Junior"
-                    }, {
-                        "src": "nick-jr",
-                        "alt": "Logo Nick JR"
-                    }, {
-                        "src": "nickelodeon",
-                        "alt": "Logo Nickelodeon"
-                    }, {
-                        "src": "canal-panda",
-                        "alt": "Logo Canal Panda"
-                    }, {
-                        "src": "baby-tv",
-                        "alt": "Logo Baby YV"
-                    }
-                ],
-                "title": "Pack Peques",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": "peques"
-            }, {
-                "header": {
-                    "mainImage": "acorn",
-                    "icon": "acorn-logo"
-                },
-                "channels": [
-                    {
-                        "src": "acorn",
-                        "alt": "Logo Acorn TV"
-                    }
-                ],
-                "title": "Acorn TV",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": ""
-            }, {
-                "header": {
-                    "mainImage": "horror",
-                    "icon": "planet-horror"
-                },
-                "channels": [
-                    {
-                        "src": "planet-horror",
-                        "alt": "Logo Planet Horror"
-                    }
-                ],
-                "title": "Planet Horror",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": ""
-            }, {
-                "header": {
-                    "mainImage": "caza",
-                    "icon": ""
-                },
-                "channels": [
-                    {
-                        "src": "cazavision",
-                        "alt": "Logo Cazavisión"
-                    }, {
-                        "src": "iberalia-tv",
-                        "alt": "Logo Iberalia TV"
-                    }
-                ],
-                "title": "Pack Caza",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": "caza-pesca"
-            }, {
-                "header": {
-                    "mainImage": "musica",
-                    "icon": "mezzo-hd"
-                },
-                "channels": [
-                    {
-                        "src": "mtv",
-                        "alt": "Logo MTV"
-                    }, {
-                        "src": "mtv-music",
-                        "alt": "Logo MTV Music"
-                    }, {
-                        "src": "sol-musica",
-                        "alt": "Logo Sol Música"
-                    }
-                ],
-                "title": "Pack Música",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": "musica"
-            }
-        ],
-        "family": [
-            {
-                "header": {
-                    "mainImage": "deportes",
-                    "mainImageAlt": "Deportes",
-                    "icon": "eurosport-1",
-                    "iconAlt": "Logo Eurosport 1"
-                },
-                "channels": [
-                    {
-                        "src": "eurosport-player",
-                        "alt": "Logo Eurosport Player"
-                    }, {
-                        "src": "eurosport-1",
-                        "alt": "Logo Eurosport 1"
-                    }, {
-                        "src": "eurosport-2",
-                        "alt": "Logo Eurosport 2"
-                    }, {
-                        "src": "garage-tv",
-                        "alt": "Logo Garage TV"
-                    }, {
-                        "src": "fight-sports",
-                        "alt": "Logo Fight Sports"
-                    }
-                ],
-                "title": "Pack Deportes",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": "deportes"
-            }, {
-                "header": {
-                    "mainImage": "acorn",
-                    "icon": "acorn-logo"
-                },
-                "channels": [
-                    {
-                        "src": "acorn",
-                        "alt": "Logo Acorn TV"
-                    }
-                ],
-                "title": "Acorn TV",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": ""
-            }, {
-                "header": {
-                    "mainImage": "horror",
-                    "icon": "planet-horror"
-                },
-                "channels": [
-                    {
-                        "src": "planet-horror",
-                        "alt": "Logo Planet Horror"
-                    }
-                ],
-                "title": "Planet Horror",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": ""
-            }, {
-                "header": {
-                    "mainImage": "caza",
-                    "icon": ""
-                },
-                "channels": [
-                    {
-                        "src": "cazavision",
-                        "alt": "Logo Cazavisión"
-                    }, {
-                        "src": "iberalia-tv",
-                        "alt": "Logo Iberalia TV"
-                    }
-                ],
-                "title": "Pack Caza",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": "caza-pesca"
-            }, {
-                "header": {
-                    "mainImage": "musica",
-                    "icon": "mezzo-hd"
-                },
-                "channels": [
-                    {
-                        "src": "mtv",
-                        "alt": "Logo MTV"
-                    }, {
-                        "src": "mtv-music",
-                        "alt": "Logo MTV Music"
-                    }, {
-                        "src": "sol-musica",
-                        "alt": "Logo Sol Música"
-                    }
-                ],
-                "title": "Pack Música",
-                "prize": "GRATIS",
-                "link": {
-                    "label": "Activar en Mi Vodafone",
-                    "url": ""
-                },
-                "color": "musica"
-            }
-        ]
-    },
+    "cardsTV": [
+        {
+            "header": {
+                "mainImage": "deportes",
+                "mainImageAlt": "Deportes",
+                "icon": "eurosport-1",
+                "iconAlt": "Logo Eurosport 1"
+            },
+            "channels": [
+                {
+                    "src": "eurosport-player",
+                    "alt": "Logo Eurosport Player"
+                }, {
+                    "src": "eurosport-1",
+                    "alt": "Logo Eurosport 1"
+                }, {
+                    "src": "eurosport-2",
+                    "alt": "Logo Eurosport 2"
+                }, {
+                    "src": "garage-tv",
+                    "alt": "Logo Garage TV"
+                }, {
+                    "src": "fight-sports",
+                    "alt": "Logo Fight Sports"
+                }
+            ],
+            "title": "Pack Deportes",
+            "prize": "GRATIS",
+            "link": {
+                "label": "Activar en Mi Vodafone",
+                "url": ""
+            },
+            "color": "deportes",
+            "filter": "all"
+        }, {
+            "header": {
+                "mainImage": "documentales",
+                "icon": "historia-hd"
+            },
+            "channels": [
+                {
+                    "src": "national-geographic",
+                    "alt": "Logo National Geographic"
+                }, {
+                    "src": "historia-hd",
+                    "alt": "Logo Historia HD"
+                }, {
+                    "src": "discovery",
+                    "alt": "Logo Discovery Channel"
+                }, {
+                    "src": "odisea-hd",
+                    "alt": "Logo Odisea HD"
+                }, {
+                    "src": "blaze-hd",
+                    "alt": "Logo Blaze HD"
+                }
+            ],
+            "title": "Pack Documentales",
+            "prize": "GRATIS",
+            "link": {
+                "label": "Activar en Mi Vodafone",
+                "url": ""
+            },
+            "color": "documentales",
+            "filter": "family"
+        }, {
+            "header": {
+                "mainImage": "peques",
+                "icon": "nickelodeon"
+            },
+            "channels": [
+                {
+                    "src": "disney-junior",
+                    "alt": "Logo Disney Junior"
+                }, {
+                    "src": "nick-jr",
+                    "alt": "Logo Nick JR"
+                }, {
+                    "src": "nickelodeon",
+                    "alt": "Logo Nickelodeon"
+                }, {
+                    "src": "canal-panda",
+                    "alt": "Logo Canal Panda"
+                }, {
+                    "src": "baby-tv",
+                    "alt": "Logo Baby YV"
+                }
+            ],
+            "title": "Pack Peques",
+            "prize": "GRATIS",
+            "link": {
+                "label": "Activar en Mi Vodafone",
+                "url": ""
+            },
+            "color": "peques",
+            "filter": "family"
+        }, {
+            "header": {
+                "mainImage": "acorn",
+                "icon": "acorn-logo"
+            },
+            "channels": [
+                {
+                    "src": "acorn",
+                    "alt": "Logo Acorn TV"
+                }
+            ],
+            "title": "Acorn TV",
+            "prize": "GRATIS",
+            "link": {
+                "label": "Activar en Mi Vodafone",
+                "url": ""
+            },
+            "color": "",
+            "filter": ""
+        }, {
+            "header": {
+                "mainImage": "horror",
+                "icon": "planet-horror"
+            },
+            "channels": [
+                {
+                    "src": "planet-horror",
+                    "alt": "Logo Planet Horror"
+                }
+            ],
+            "title": "Planet Horror",
+            "prize": "GRATIS",
+            "link": {
+                "label": "Activar en Mi Vodafone",
+                "url": ""
+            },
+            "color": "",
+            "filter": "all"
+        }, {
+            "header": {
+                "mainImage": "caza",
+                "icon": ""
+            },
+            "channels": [
+                {
+                    "src": "cazavision",
+                    "alt": "Logo Cazavisión"
+                }, {
+                    "src": "iberalia-tv",
+                    "alt": "Logo Iberalia TV"
+                }
+            ],
+            "title": "Pack Caza",
+            "prize": "GRATIS",
+            "link": {
+                "label": "Activar en Mi Vodafone",
+                "url": ""
+            },
+            "color": "caza-pesca",
+            "filter": "all"
+        }, {
+            "header": {
+                "mainImage": "musica",
+                "icon": "mezzo-hd"
+            },
+            "channels": [
+                {
+                    "src": "mtv",
+                    "alt": "Logo MTV"
+                }, {
+                    "src": "mtv-music",
+                    "alt": "Logo MTV Music"
+                }, {
+                    "src": "sol-musica",
+                    "alt": "Logo Sol Música"
+                }
+            ],
+            "title": "Pack Música",
+            "prize": "GRATIS",
+            "link": {
+                "label": "Activar en Mi Vodafone",
+                "url": ""
+            },
+            "color": "musica",
+            "filter": "all"
+        }
+    ],
     "timeline": {
         "title": "¿Cómo disfruto de esta oferta?",
         "items": [
             {
-                "icon": "icon-shopping-trolley-mid",
+                "icon": "icon-tv-everywhere-home",
                 "title": "¿Eres cliente de Vodafone?",
                 "subtitle": "Solo por ser cliente Vodafone tanto si eres cliente de móvil, solo fibra, móvil+fibra o si tienes una tarifa familiar."
             }, {
-                "icon": "icon-engineer-mid",
+                "icon": "icon-channel_variety",
                 "title": "Elige el pack de TV",
                 "subtitle": "Escoge uno de los packs que te mostramos."
             }, {
@@ -318,7 +207,7 @@
                 "title": "Accede a Mi Vodafone",
                 "subtitle": "Entra en la app Mi Vodafone, elige el pack de Vodafone TV que más te guste y actívalo."
             }, {
-                "icon": "icon-business-mid",
+                "icon": "icon-heart-tv",
                 "title": "Activa tu pack",
                 "subtitle": "Activa el Pack de TV que más encaje contigo."
             }, {

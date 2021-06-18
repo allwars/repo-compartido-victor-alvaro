@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-18T08:47:52.080Z
+ * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-18T11:38:41.845Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -100,6 +100,18 @@
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/summerdelight/resources/scripts/tools.js");
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
+
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
 
 /*
 *   Método que se dispara cuando el ws2r.vX.css
@@ -117,6 +129,29 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
 
 _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
   console.log("Site functionality ready"); // DO SOMETHING
+
+  var familyCards = document.querySelectorAll('[data-js-vf="family"]');
+  var cardFilters = document.querySelectorAll('[data-js-vf="_filter"]');
+
+  _toConsumableArray(cardFilters).forEach(function (filter) {
+    filter.addEventListener('click', function () {
+      return changeFilter(filter);
+    });
+  });
+
+  function changeFilter(filter) {
+    if (filter.classList.contains('vf-filter-one')) {
+      _toConsumableArray(familyCards).forEach(function (filter) {
+        filter.classList.remove("ws10-u--hidden");
+      });
+    } else {
+      _toConsumableArray(familyCards).forEach(function (filter) {
+        filter.classList.add("ws10-u--hidden");
+      });
+    }
+
+    console.log(filter); // familyCards.classList.remove("ws10-u--hidden");
+  }
 };
 
 /***/ }),

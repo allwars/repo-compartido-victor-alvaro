@@ -1,45 +1,26 @@
-<!-- <!DOCTYPE html>
-<html class="no-js" lang="es">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>summerdelight</title>
-		<link href="css/ws10.css" rel="stylesheet"/>
-		<link href="css/styles.css" rel="stylesheet"/>
-		<script>
-			(function () {
-				var html = document.documentElement;
-				html.className = html.className.replace('no-js', 'js');
-			})();
-		</script>
-	</head>
-	<body> -->
-		<!-- <div data-ws10-spritesheet="img/svg/sprite.mva10.svg" data-ws10-js="spritesheet-loader"></div>
-		<div data-ws10-spritesheet="img/svg/sprite.mid.svg" data-ws10-js="spritesheet-loader"></div> -->
+<!--
+<div class="vfes-ms-content ws10-u-color--bg-light-grey" id="" style="visibility: hidden;opacity: 0">
+-->
 
-		<!--
-		<div class="vfes-ms-content ws10-u-color--bg-light-grey" id="" style="visibility: hidden;opacity: 0">
-		-->
+<link href="css/ws10.css" rel="stylesheet"  />
+<link href="css/styles.css" rel="stylesheet" data-ws10-microcss  />
 
-		<link href="css/ws10.css" rel="stylesheet"  />
-		<link href="css/styles.css" rel="stylesheet" data-ws10-microcss  />
+<div class="ws10-u-color--white ws10-u-color--bg-midnight">
+	<!-- Section Hero -->
+	{{> hero }}
+	<div class="ws10-o-wrapper ws10-u--pt4x">
+		<!-- Filters -->
+		{{> filters }}
+		<!-- Section Cards TV -->
+		{{> cardsTV }}
+		<!-- Section Timeline -->
+		{{> timeline }}
+	</div>
+</div>
 
-		<!-- Section Hero -->
-		{{> hero }}
-		<div class="ws10-o-wrapper">
-			<!-- Filters -->
-			{{> filters }}
-			<!-- Section Cards TV -->
-			{{> cardsTV }}
-			<!-- Section Timeline -->
-			{{> timeline }}
-		</div>
+<!--
+</div>
+-->
 
-		<!--
-		</div>
-		-->
-
-		<script src="js/ws10.js"></script>
-		<script src="js/main.js"></script>
-	<!-- </body>
-</html> -->
+<script src="js/ws10.js"></script>
+<script src="js/main.js"></script>
