@@ -1,9 +1,14 @@
 // CSS del microsite
-.vfes-ms-content{
-    .vf-timeline{
+.vfes-ms-content {
+    .vf-timeline {
         & p {
             max-width: inherit;
             width: 85%;
+        }
+    }
+    .vf-cards-tv {
+        & img {
+            height: auto;
         }
     }
 }
