@@ -16,14 +16,29 @@
 	<body>
 		<div data-ws10-spritesheet="img/svg/sprite.mva10.svg" data-ws10-js="spritesheet-loader"></div>
 		<div data-ws10-spritesheet="img/svg/sprite.mid.svg" data-ws10-js="spritesheet-loader"></div>
-		<div class="ws10-o-wrapper">
+
+		<!--
+		<div class="vfes-ms-content ws10-u-color--bg-light-grey" id="" style="visibility: hidden;opacity: 0">
+		-->
+
 			<!-- HERO -->
 			{{> hero }}
-			<!-- CARDS TV -->
-			{{> cardsTV }}
-			<!-- TIMELINE -->
-			{{> timeline }}
+
+			<div class="ws10-o-wrapper">
+				<div class="ws10-o-layout">
+					<!-- <div class="ws10-o-layout__item ws10-u--1/1@desktop ws10-u--3/5@tablet"> -->
+						<!-- CARDS TV -->
+						{{> cardsTV }}
+						<!-- TIMELINE -->
+						{{> timeline }}
+					<!-- </div> -->
+				</div>
+			</div>
+
+		<!--
 		</div>
+		-->
+
 		<script src="js/ws10.js"></script>
 		<script src="js/main.js"></script>
 	</body>

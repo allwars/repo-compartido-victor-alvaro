@@ -103,7 +103,7 @@
                 },
                 "channels": [
                     {
-                        "src": "acorn-tv",
+                        "src": "acorn",
                         "alt": "Logo Acorn TV"
                     }
                 ],
@@ -214,13 +214,13 @@
                 "color": "deportes"
             }, {
                 "header": {
-                    "mainImage": "accorn",
-                    "icon": "accorn-logo"
+                    "mainImage": "acorn",
+                    "icon": "acorn-logo"
                 },
                 "channels": [
                     {
-                        "src": "accorn-tv",
-                        "alt": "Logo Accorn TV"
+                        "src": "acorn",
+                        "alt": "Logo Acorn TV"
                     }
                 ],
                 "title": "Acorn TV",
