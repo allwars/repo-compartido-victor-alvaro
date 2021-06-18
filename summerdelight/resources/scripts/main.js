@@ -22,24 +22,31 @@ tools.onFrameworkReady = () => {
     // DO SOMETHING
 
     const familyCards = document.querySelectorAll('[data-js-vf="family"]');
-    const cardFilters = document.querySelectorAll('[data-js-vf="_filter"]');
+    const cardFilterOne = document.querySelector('.vf-filter-one');
+    const checkOne = cardFilterOne.querySelector('input');
+    const cardFilterTwo = document.querySelector('.vf-filter-two');
+    const checkTwo = cardFilterTwo.querySelector('input');
 
-    [...cardFilters].forEach(filter => {
-        filter.addEventListener('click', () => changeFilter(filter));
-    });
+    cardFilterOne.addEventListener('click', (e) => filterOne(e));
+    cardFilterTwo.addEventListener('click', (e) => filterTwo(e));
 
-    function changeFilter(filter) {
-        if ( filter.classList.contains('vf-filter-one') ){
-            [...familyCards].forEach(filter => {
-                filter.classList.remove("ws10-u--hidden");
-            });
-        } else {
-            [...familyCards].forEach(filter => {
-                filter.classList.add("ws10-u--hidden");
-            });
-        }
-        console.log(filter);
-        // familyCards.classList.remove("ws10-u--hidden");
+    function filterOne(e) {
+        [...familyCards].forEach(filter => {
+            filter.classList.remove("ws10-u--hidden");
+        });
+        e.currentTarget.classList.add("ws10-c-filter--white");
+        cardFilterTwo.classList.remove("ws10-c-filter--white");
+        checkOne.checked = true;
+        checkTwo.checked = false;
     }
 
+    function filterTwo(e) {
+        [...familyCards].forEach(filter => {
+            filter.classList.add("ws10-u--hidden");
+        });
+        e.currentTarget.classList.add("ws10-c-filter--white");
+        cardFilterOne.classList.remove("ws10-c-filter--white");
+        checkOne.checked = false;
+        checkTwo.checked = true;
+    }
 };
