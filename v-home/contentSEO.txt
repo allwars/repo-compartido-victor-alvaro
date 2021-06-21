@@ -260,11 +260,11 @@
                                 <source srcset="img/iot/automation-kit.jpg" type="image/jpg">
                                 
                             </picture><h3>
-                                V-Home Automation Kit
+                                Domótica
                             </h3><p>
-                                Podrás configurar que las luces de tu casa se enciendan automáticamente si se detecta movimiento, aunque no estés cerca.
-                            </p><a href="https://eshop.v.vodafone.com/es/v-home-by-vodafone-automation-kit" data-analytics-id="1500108890064-8378296782069">
-                                    Más info <span> sobre V-Home Automation Kit</span>
+                                Saca el máximo rendimiento a V-Home con la gama de dispositivos inteligentes : Bombillas, termostatos, enchufes, sensores…
+                            </p><a href="https://eshop.v.vodafone.com/es/smart-home" data-analytics-id="1500108890064-8378296782069">
+                                    Más info <span> sobre Domótica</span>
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
                                         <title>Flecha derecha</title>
                                         <use xlink:href="#icon-chevron-right"></use>
