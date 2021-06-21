@@ -38,7 +38,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack deportes"
             },
             "color": "deportes",
             "filter": "all"
@@ -69,7 +70,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack documentales"
             },
             "color": "documentales",
             "filter": "family"
@@ -100,7 +102,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack peques"
             },
             "color": "peques",
             "filter": "family"
@@ -119,7 +122,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack acorntv"
             },
             "color": "",
             "filter": ""
@@ -138,7 +142,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack horror"
             },
             "color": "",
             "filter": "all"
@@ -160,7 +165,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack caza"
             },
             "color": "caza-pesca",
             "filter": "all"
@@ -185,7 +191,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack musica"
             },
             "color": "musica",
             "filter": "all"
@@ -229,11 +236,6 @@
             "title": "¿Cuánto tiempo puedo disfrutar de esta promoción?",
             "answer": "Podrás disfrutar de esta promoción gratis hasta el 15 de septiembre que se desactivará automáticamente sin ningún coste adicional para ti. Si deseas seguir disfrutando de tu pack podrás hacerlo contratándolo a través de Mi Vodafone.",
             "item": "item2"
-          },
-          {
-            "title": "¿Tengo que hacer algo para disfrutar de los servicios de streaming incluidos sin coste en mi pack? (Eurosport Player, TIDAL)",
-            "answer": "Una vez tengas activado tu Pack de Vodafone TV podrás activar Eurosport Player y/o TIDAL en vodafone.es/entretenimiento. Una vez termine la promoción dejarás de tener disponibles estos servicios de manera automática y sin coste adicional al igual que el pack de Vodafone TV.",
-            "item": "item3"
           }
         ]
       }
