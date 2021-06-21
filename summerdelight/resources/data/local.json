@@ -238,5 +238,12 @@
             "item": "item2"
           }
         ]
-      }
+    },
+    "cintilloFooter": {
+        "text": "Gestiona tus servicios y accede a productos personalizados desde la app Mi Vodafone",
+        "cta": {
+            "label": "Ir a la App Mi Vodafone",
+            "href": "https://m.vodafone.es/web-camp-ver-2021"
+        }
+    }
 }
