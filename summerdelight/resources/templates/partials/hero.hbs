@@ -1,30 +1,41 @@
-<div class="ws10-c-hero-dmp ws10-c-hero-dmp--dark"
-    data-ws10-js="hero-dmp">
-    <picture class="ws10-c-hero-dmp__w-img">
-        <source srcset="img/cabecera-desktop.webp" type="image/webp"/>
-        <source srcset="img/cabecera-desktop.png" type="image/png"/>
-        <img class="ws10-c-hero-dmp__img ws10-c-lazy-load ws10-c-lazy-load--skeleton-light"
-             src="img/cabecera-desktop.png"
-             data-ws10-js="lazy-load"
-             loading="lazy"
-             alt="Imagen de cabecera">
-    </picture>
-    <div class="ws10-o-wrapper ws10-c-hero-dmp__wrapper">
-        <div class="ws10-o-layout">
-            <div class="ws10-o-layout__item ws10-u--8/12@tablet ws10-u--push-2/12@tablet ws10-u--4/12@desktop ws10-u--push-1/12@desktop">
-                <p>{{ hero.text }}</p>
-                <p class="ws10-c-hero-dmp__title ws10-u-heading--3-lt">
-                    {{ hero.title.[0] }} <strong>{{ hero.title.[1] }}</strong> {{ hero.title.[2] }} <strong>{{ hero.title.[3] }}</strong>
-                </p>
-                <p>{{ hero.subtitle }}</p>
-                <div class="ws10-c-hero-dmp__w-btns">
-                    <button class="ws10-c-hero-dmp__btn ws10-c-button"
-                            data-ws10-hero-dmp-first-btn
-                            type="button">
-                        {{ hero.cta.label }}
-                    </button>
-                </div>
-            </div>
+<div class="ws10-c-hero-dmp ws10-c-hero-dmp--dark" data-ws10-js="hero-dmp">
+  <picture class="ws10-c-hero-dmp__w-img">
+    <source srcset="img/cabecera-desktop.webp" type="image/webp" />
+    <source srcset="img/cabecera-desktop.png" type="image/png" />
+    <img
+      class="ws10-c-hero-dmp__img ws10-c-lazy-load ws10-c-lazy-load--skeleton-light"
+      src="img/cabecera-desktop.png"
+      data-ws10-js="lazy-load"
+      loading="lazy"
+      alt="Imagen de cabecera"
+    />
+  </picture>
+  <div class="ws10-o-wrapper ws10-c-hero-dmp__wrapper">
+    <div class="ws10-o-layout">
+      <div
+        class="ws10-o-layout__item ws10-u--8/12@tablet ws10-u--push-2/12@tablet ws10-u--4/12@desktop ws10-u--push-1/12@desktop"
+      >
+        <p class="ws10-u-heading--4-lt">{{hero.text}}</p>
+        <p class="ws10-c-hero-dmp__title ws10-u-heading--3-lt">
+          {{hero.title.[0]}}
+          <strong>{{hero.title.[1]}}</strong>
+          {{hero.title.[2]}}<br />
+          <strong>{{hero.title.[3]}}</strong>
+        </p>
+        <p class="ws10-u-heading--5-lt">{{hero.subtitle}}</p>
+        <div class="ws10-c-hero-dmp__w-btns">
+          <button
+            class="ws10-u-heading--5-lt ws10-c-hero-dmp__btn ws10-c-button"
+            data-ws10-hero-dmp-first-btn
+            type="button"
+            data-analytics-category="cta"
+            data-analytics-element="nudge"
+            data-analytics-context="activar en mi vodafone"
+          >
+            {{hero.cta.label}}
+          </button>
         </div>
+      </div>
     </div>
+  </div>
 </div>
