@@ -38,7 +38,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack deportes"
             },
             "color": "deportes",
             "filter": "all"
@@ -69,7 +70,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack documentales"
             },
             "color": "documentales",
             "filter": "family"
@@ -100,7 +102,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack peques"
             },
             "color": "peques",
             "filter": "family"
@@ -119,7 +122,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack acorntv"
             },
             "color": "",
             "filter": ""
@@ -138,7 +142,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack horror"
             },
             "color": "",
             "filter": "all"
@@ -160,7 +165,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack caza"
             },
             "color": "caza-pesca",
             "filter": "all"
@@ -185,7 +191,8 @@
             "prize": "GRATIS",
             "link": {
                 "label": "Activar en Mi Vodafone",
-                "url": ""
+                "href": "https://m.vodafone.es/web-camp-ver-2021",
+                "context": "activar en mi vodafone:pack musica"
             },
             "color": "musica",
             "filter": "all"
