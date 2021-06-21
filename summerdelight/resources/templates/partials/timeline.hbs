@@ -1,0 +1,18 @@
+<section class="vf-timeline ws10-u--pt4x ws10-u--pb4x ws10-c-timeline-steps--dark">
+    <h4>
+        <strong>{{ timeline.title }}</strong>
+    </h4>
+    <ul class="ws10-c-timeline-steps">
+        {{#each timeline.items }}
+            <li class="ws10-c-timeline-steps__item">
+                <img class="ws10-c-lazy-load ws10-c-lazy-load--skeleton-light ws10-c-timeline-steps__icon"
+                     src="img/timeline/{{ icon }}.png"
+                     data-ws10-js="lazy-load"
+                     loading="lazy"
+                     alt="">
+                 <p class="ws10-c-timeline-steps__title">{{ title }}</p>
+                <p class=" ws10-u-heading--5-lt	ws10-c-timeline-steps__text">{{ subtitle }}</p>
+            </li>
+        {{/each }}
+    </ul>
+</section>

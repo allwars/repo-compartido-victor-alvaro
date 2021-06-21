@@ -1,0 +1,91 @@
+<section class="vf-cards-tv ws10-u--pt4x ws10-u--pb4x">
+  <div class="ws10-o-layout ws10-flex__align-items--end">
+    {{#each cardsTV}}
+      <div
+        class="ws10-o-layout__item ws10-u--1/3@desktop ws10-u--1/1"
+        data-js-vf="{{filter}}"
+      >
+        <div class="ws10-c-card-pack-tv ws10-c-card-pack-tv--{{color}}">
+          <div class="ws10-c-card-pack-tv__header">
+            <picture class="ws10-c-card-pack-tv">
+              <source
+                srcset="img/cards-tv/header/{{header.mainImage}}.webp"
+                type="image/webp"
+              />
+              <source
+                srcset="img/cards-tv/header/{{header.mainImage}}.png"
+                type="image/png"
+              />
+              <img
+                class="ws10-c-card-pack-tv__img ws10-c-lazy-load ws10-c-lazy-load--skeleton-dark"
+                src="img/cards-tv/header/{{header.mainImage}}.png"
+                alt="{{header.mainImageAlt}}"
+                data-ws10-js="lazy-load"
+                loading="lazy"
+              />
+            </picture>
+            {{#if header.icon}}
+              <div class="ws10-c-card-pack-tv__logos">
+                <b class="ws10-c-badge ws10-c-badge--medium"></b>
+                <img
+                  src="img/cards-tv/header/{{header.icon}}.png"
+                  alt="{{header.iconAlt}}"
+                  class="ws10-c-card-pack-tv__img-logo ws10-c-lazy-load ws10-c-lazy-load--skeleton-dark"
+                  data-ws10-js="lazy-load"
+                  loading="lazy"
+                />
+              </div>
+            {{/if}}
+          </div>
+          <div class="ws10-c-card-pack-tv__body">
+            <ul class="ws10-c-card-pack-tv__list">
+              {{#each channels}}
+                <li class="ws10-c-card-pack-tv__item">
+                  <img
+                    src="img/cards-tv/{{src}}.png"
+                    alt="{{alt}}"
+                    class="ws10-c-card-pack-tv__list-logo ws10-c-lazy-load ws10-c-lazy-load--skeleton-dark"
+                    data-ws10-js="lazy-load"
+                    loading="lazy"
+                  />
+                </li>
+              {{/each}}
+            </ul>
+            <p class="ws10-c-card-pack-tv__title">{{title}}</p>
+            <p
+              class="ws10-c-card-pack-tv__text ws10-u-ellipsis--multiline-2"
+            ></p>
+            <div class="ws10-c-card-pack-tv__info">
+              <span class="ws10-c-price ws10-c-price--regular">
+                <span class="ws10-c-price__amount">{{prize}}</span>
+                <span class="ws10-c-price__currency"></span>
+                <sub class="ws10-c-price__recurrence"></sub>
+              </span>
+              <a
+                class="ws10-c-link-chevron ws10-c-link-chevron--fresh-orange ws10-c-link-chevron--small"
+                href="https://m.vodafone.es/web-camp-ver-2021"
+                data-analytics-category="cta"
+                data-analytics-element="listado packs tv"
+                data-analytics-context="{{title}}"
+                data-analytics-id="-9332803914459"
+              >
+                {{link.label}}
+                <span class="ws10-u--hidden-visually"> color #EB9700</span>
+                <svg
+                  class="ws10-c-link-chevron__icon"
+                  xmlns="http://www.w3.org/2000/svg"
+                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                  width="24px"
+                  height="24px"
+                >
+                  <title>Flecha derecha</title>
+                  <use class="icon-v3" xlink:href="#icon-chevron-right"></use>
+                </svg>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    {{/each}}
+  </div>
+</section>
