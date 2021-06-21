@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.11.4. Generation Date: 2021-06-01T13:57:31.426Z
+ * Vodafone Reboot Framework: Version 2.7.1. Generation Date: 2021-06-21T08:16:56.413Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -85,22 +85,22 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/cinefans/resources/scripts/main.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/cinefans/resources/scripts/main.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/cinefans/resources/scripts/main.js":
-/*!*************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/cinefans/resources/scripts/main.js ***!
-  \*************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/cinefans/resources/scripts/main.js":
+/*!*********************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/cinefans/resources/scripts/main.js ***!
+  \*********************************************************************************************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/cinefans/resources/scripts/tools.js");
-/* harmony import */ var _materialize_min__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./materialize.min */ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/cinefans/resources/scripts/materialize.min.js");
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/cinefans/resources/scripts/tools.js");
+/* harmony import */ var _materialize_min__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./materialize.min */ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/cinefans/resources/scripts/materialize.min.js");
 /* harmony import */ var _materialize_min__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_materialize_min__WEBPACK_IMPORTED_MODULE_1__);
 
  // import TabGroupWs10 from './_tab-group.ws10';
@@ -170,10 +170,10 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
 
 /***/ }),
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/cinefans/resources/scripts/materialize.min.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/cinefans/resources/scripts/materialize.min.js ***!
-  \************************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/cinefans/resources/scripts/materialize.min.js":
+/*!********************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/cinefans/resources/scripts/materialize.min.js ***!
+  \********************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -6309,14 +6309,14 @@ M.anime = function () {
 
   M.Range = t, M.jQueryLoaded && M.initializeJqueryWrapper(t, "range", "M_Range"), t.init(s("input[type=range]"));
 }(cash, M.anime);
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../../../../../../../../../usr/local/lib/node_modules/@vodafone-es/resource-cli/node_modules/webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js")))
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! ./../../../../../../../../../../../usr/local/lib/node_modules/@vodafone-es/reboot-cli/node_modules/webpack/buildin/global.js */ "./node_modules/webpack/buildin/global.js")))
 
 /***/ }),
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/cinefans/resources/scripts/tools.js":
-/*!**************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/cinefans/resources/scripts/tools.js ***!
-  \**************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/cinefans/resources/scripts/tools.js":
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/cinefans/resources/scripts/tools.js ***!
+  \**********************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

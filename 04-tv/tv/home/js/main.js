@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.11.4. Generation Date: 2021-06-11T08:25:49.472Z
+ * Vodafone Reboot Framework: Version 2.7.1. Generation Date: 2021-06-21T08:54:07.174Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -85,15 +85,15 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/home/resources/scripts/main.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/home/resources/scripts/main.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/home/resources/scripts/_tab-group.ws10.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/home/resources/scripts/_tab-group.ws10.js ***!
-  \********************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/home/resources/scripts/_tab-group.ws10.js":
+/*!****************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/home/resources/scripts/_tab-group.ws10.js ***!
+  \****************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -106,7 +106,7 @@ function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread n
 
 function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
 
-function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter); }
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
 
 function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
 
@@ -225,17 +225,17 @@ var TabGroupWs10 = /*#__PURE__*/function () {
 
 /***/ }),
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/home/resources/scripts/main.js":
-/*!*********************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/home/resources/scripts/main.js ***!
-  \*********************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/home/resources/scripts/main.js":
+/*!*****************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/home/resources/scripts/main.js ***!
+  \*****************************************************************************************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/home/resources/scripts/tools.js");
-/* harmony import */ var _tab_group_ws10__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_tab-group.ws10 */ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/home/resources/scripts/_tab-group.ws10.js");
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/home/resources/scripts/tools.js");
+/* harmony import */ var _tab_group_ws10__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./_tab-group.ws10 */ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/home/resources/scripts/_tab-group.ws10.js");
 
 
 /*
@@ -284,10 +284,10 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {/
 
 /***/ }),
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/home/resources/scripts/tools.js":
-/*!**********************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/04-tv/tv/home/resources/scripts/tools.js ***!
-  \**********************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/home/resources/scripts/tools.js":
+/*!******************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/Proyectos/vODAFONE/repo-compartido-victor-alvaro/04-tv/tv/home/resources/scripts/tools.js ***!
+  \******************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
