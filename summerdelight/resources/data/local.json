@@ -239,6 +239,12 @@
           }
         ]
     },
+    "legales": {
+        "cta": {
+            "label": "Ver condiciones legales",
+            "href": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/promocion-verano-vodafone-clientes/legales/"
+        }
+    },
     "cintilloFooter": {
         "text": "Gestiona tus servicios y accede a productos personalizados desde la app Mi Vodafone",
         "cta": {
