@@ -3,7 +3,7 @@
                                 <p>Cine y Series</p>
                             </h2><span>Pack
                                     Seriefans GRATIS 1 año</span><p>
-                                        <span>GRATIS con las tarifas ilimitadas de Móvil + Fibra,</span><span> que incluye:</span>
+                                        <span>GRATIS con la tarifa Vodafone One ilimitada Plus, </span><span> que incluye:</span>
                                     </p><ul>
                                         <li>
                                             
@@ -13,7 +13,7 @@
                                             
                                         </li>
 
-                                    </ul><p>Precio Pack Seriefans sin promoción: 10€/mes</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/television/paquete-tv-1/" target="_parent" data-analytics-id="1500035767809-0002652769373">Más información</a><div></div><ul>
+                                    </ul><p>Precio Pack Seriefans sin promoción: 10€/mes</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/" target="_parent" data-analytics-id="1500035767809-0002652769373">Más información</a><div></div><ul>
                     <li><a title="Home" target="_self" href="https://www.vodafone.es/c/particulares/es/">
                             Home</a></li>
                     <li>Televisión</li>
@@ -25,7 +25,7 @@
                                 <button title="Textos" aria-label="Textos" data-analytics-id="">Móvil</button>
                             </li>
                         </ul><p style="background-color: #ba6abd;">
-                                            <span>GRATIS</span> con las tarifas ilimitadas de Móvil + Fibra
+                                            <span>GRATIS</span> con la tarifa Vodafone One ilimitada Plus
                                         </p><ul>
                                             <li>
                                                 <h4>Pack Seriefans</h4>
@@ -517,8 +517,6 @@
                                                                         sujeta al acuerdo de éste con Amazon.
                                                                     </li>
                                                                 </ul><p></p><p style="background-color: #ba6abd;">
-                                            GRATIS con la tarifa móvil Vodafone ilimitada Total
-
                                         </p><ul>
                                             <li>
                                                 <h4>Pack Seriefans</h4>
