@@ -1,14 +1,29 @@
 // CSS del microsite
 .vfes-ms-content {
-    .vf-timeline {
+    .vf-hero {
         & p {
-            max-width: inherit;
-            width: 85%;
+            text-align: center;
+            @media screen and (min-width: 970px) {
+                text-align: left;
+            }
+        }
+    }
+    .vf-filters {
+        & div {
+            @media screen and (min-width: 970px) {
+                justify-content: center;
+            }
         }
     }
     .vf-cards-tv {
         & img {
             height: auto;
+        }
+    }
+    .vf-timeline {
+        & p {
+            max-width: inherit;
+            width: 85%;
         }
     }
     .vfms-faqs {
