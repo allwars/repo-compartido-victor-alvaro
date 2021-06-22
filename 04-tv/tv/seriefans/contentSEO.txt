@@ -1,11 +1,11 @@
 <h1>Pack Seriefans
                     </h1><h3>Ya disponible en Vodafone TV</h3><div>
                      Pack Seriefans GRATIS 1 año
-                    </div><p>Llévate con <span>tarifas ilimitadas  de Móvil + Fibra</span> estos canales y muchos más...</p><div>
+                    </div><p>Llévate con la tarifa <span>Vodafone One ilimitada Plus </span> estos canales y muchos más…</p><div>
                                     
                                     
                                     
-                                </div><p>Precio sin promoción: 10€/mes</p><a href="#elige-tu-tarifa" target="" data-analytics-id="1500035799493-0008554868428">Ver oferta<span>Ver oferta</span>
+                                </div><p>Precio sin promoción: 10€/mes</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/" target="" data-analytics-id="1500035799493-0008554868428">Ver oferta<span>Ver oferta</span>
                         </a><div>
                 
             </div><div></div><ul>
@@ -41,7 +41,7 @@
                                 
                             </li>
 
-                        </ul><a data-overlay="seriefans" data-overlay-close="" aria-haspopup="dialog" data-analytics-id="1500035799493-0005862977062">Ver todos los canales incluidos</a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/television/condiciones-legales/" title="Ver condiciones legales" target="_blank" tabindex="0">Ver condiciones legales</a><h3>Llévate <span>el Pack Seriefans GRATIS </span> con las <span>tarifas de Móvil + Fibra</span></h3><p>Podrás añadir todos los packs de TV que quieras durante el proceso de compra</p><div>
+                        </ul><a data-overlay="seriefans" data-overlay-close="" aria-haspopup="dialog" data-analytics-id="1500035799493-0005862977062">Ver todos los canales incluidos</a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a></a><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/television/condiciones-legales/" title="Ver condiciones legales" target="_blank" tabindex="0">Ver condiciones legales</a><h3><span>Pack Seriefans </span>disponible para  <span>tarifas de Móvil y tarifas de Móvil + Fibra</span></h3><p>Podrás añadir todos los packs de TV que quieras durante el proceso de compra</p><div>
                         
                         
                     </div><p>Llévate el Pack de TV con una tarifa de Móvil + Fibra</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/" data-analytics-id="1500038915840-0946088219730">Elige tu tarifa</a><div>
@@ -354,8 +354,7 @@
                                                 <li>2.
                                                     Inicia sesión con tus credenciales de Vodafone TV
                                                 </li>
-                                            </ul><p>Pack Seriefans GRATIS con las tarifas ilimitadas de Móvil +
-                Fibra</p><a data-analytics-id="-1533105587020" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-4/">Más
+                                            </ul><p>Pack Seriefans GRATIS con la tarifa Vodafone One ilimitada Plus</p><a data-analytics-id="-1533105587020" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-4/">Más
                 información</a><button aria-hidden="false"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><title>Close</title><use xlink:href="#icon3-close"></use></svg></button><p>Canales Pack Seriefans</p><ul>
                     <li>
                         

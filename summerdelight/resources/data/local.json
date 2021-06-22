@@ -1,6 +1,6 @@
 {
     "hero": {
-        "text": "Por ser cliente Vodafone…",
+        "text": "Por ser cliente…",
         "title": ["Llévate", "GRATIS", "un", "Pack de Vodafone TV"],
         "subtitle": "Elige el pack que quieras antes del 31/07/21 y disfrútalo hasta el 15/09/21",
         "cta": {
@@ -238,5 +238,18 @@
             "item": "item2"
           }
         ]
-      }
+    },
+    "legales": {
+        "cta": {
+            "label": "Ver condiciones legales",
+            "href": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/promocion-verano-vodafone-clientes/legales/"
+        }
+    },
+    "cintilloFooter": {
+        "text": "Gestiona tus servicios y accede a productos personalizados desde la app Mi Vodafone",
+        "cta": {
+            "label": "Ir a la App Mi Vodafone",
+            "href": "https://m.vodafone.es/web-camp-ver-2021"
+        }
+    }
 }

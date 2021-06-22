@@ -1,4 +1,5 @@
-<link href="css/ws10.css" rel="stylesheet"><link href="css/styles.css" rel="stylesheet" data-ws10-microcss=""><p>Por ser cliente Vodafone…</p><p>
+<link href="css/ws10.css" rel="stylesheet"><link href="css/styles.css" rel="stylesheet" data-ws10-microcss=""><p>
+	          Por ser cliente…<br>
 	          Llévate
 	          <strong>GRATIS</strong>
 	          un<br>
@@ -214,8 +215,7 @@
 		        <use xlink:href="#icon-chevron-right"></use>
 		      </svg>
 		    </a><p>
-	        Gestiona tu servicios y accede a productos personalizados desde la app
-	        Mi Vodafone
+	        Gestiona tus servicios y accede a productos personalizados desde la app Mi Vodafone
 	      </p><a href="https://m.vodafone.es/web-camp-ver-2021" name="cta" title="Ir a la App Mi Vodafone" data-analytics-id="-9245507145161">
 	          Ir a la App Mi Vodafone
 	        </a><a href="https://m.vodafone.es/web-camp-ver-2021" name="cta" title="Ir a la App Mi Vodafone">

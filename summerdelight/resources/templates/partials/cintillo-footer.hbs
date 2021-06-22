@@ -2,29 +2,28 @@
   <div class="ws10-o-wrapper">
     <div class="ws10-c-call-to-action-app__container">
       <p class="ws10-u--body ws10-c-call-to-action-app__text">
-        Gestiona tu servicios y accede a productos personalizados desde la app
-        Mi Vodafone
+        {{ cintilloFooter.text }}
       </p>
       <div class="ws10-c-call-to-action-app__w-cta">
         <a
-          href="https://m.vodafone.es/web-camp-ver-2021"
+          href="{{ cintilloFooter.cta.href }}"
           name="cta"
-          title="Ir a la App Mi Vodafone"
+          title="{{ cintilloFooter.cta.label }}"
           class="ws10-u-heading--5-lt ws10-c-call-to-action-app__cta ws10-c-call-to-action-app__cta--webapp ws10-c-button ws10-c-button--tertiary ws10-c-button--dark"
           data-analytics-category="cta"
           data-analytics-element="call to action app"
           data-analytics-context="ir a la app mivodafone"
           data-analytics-id="-9245507145161"
         >
-          Ir a la App Mi Vodafone
+          {{ cintilloFooter.cta.label }}
         </a>
         <a
-          href="https://m.vodafone.es/web-camp-ver-2021"
+          href="{{ cintilloFooter.cta.href }}"
           name="cta"
-          title="Ir a la App Mi Vodafone"
+          title="{{ cintilloFooter.cta.label }}"
           class="ws10-u-heading--5-lt ws10-c-call-to-action-app__cta ws10-c-call-to-action-app__cta--store ws10-c-button ws10-c-button--tertiary ws10-c-button--dark"
         >
-          Ir a la App Mi Vodafone
+          {{ cintilloFooter.cta.label }}
         </a>
       </div>
     </div>
