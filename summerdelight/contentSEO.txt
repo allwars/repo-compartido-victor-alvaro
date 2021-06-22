@@ -1,4 +1,5 @@
-<link href="css/ws10.css" rel="stylesheet"><link href="css/styles.css" rel="stylesheet" data-ws10-microcss=""><p>Por ser cliente Vodafone…</p><p>
+<link href="css/ws10.css" rel="stylesheet"><link href="css/styles.css" rel="stylesheet" data-ws10-microcss=""><p>
+	          Por ser cliente…<br>
 	          Llévate
 	          <strong>GRATIS</strong>
 	          un<br>
