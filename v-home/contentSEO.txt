@@ -70,11 +70,7 @@
                         <p>
                            Controla las luces, la temperatura y otros dispositivos inteligentes compatibles con V- Home.
                         </p>
-                    </article><h3>Safety Starter Kit</h3><h4>V-Home pone a tu disposición el servicio de vigilancia y control más completo con el Safety Starter Kit</h4><picture>
-                    <source srcset="img/safety-kit/image.webp" type="image/webp">
-                    <source srcset="img/safety-kit/image.png" type="image/png">
-                    
-                </picture><p>Controla tu casa desde tu móvil con V-Home. Mediante este eficaz servicio de monitorización podrás estar conectado a tu hogar y saber lo que ocurre en todo momento desde tu smarthphone.</p><a data-backdrop="vf-backdrop-kit" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="1500108890064-4983571709576">Descubre el Kit
+                    </article><h3>Safety Starter Kit</h3><h4>V-Home pone a tu disposición el servicio de vigilancia y control más completo con el Safety Starter Kit</h4><p>Controla tu casa desde tu móvil con V-Home. Mediante este eficaz servicio de monitorización podrás estar conectado a tu hogar y saber lo que ocurre en todo momento desde tu smarthphone.</p><a data-backdrop="vf-backdrop-kit" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="1500108890064-4983571709576">Descubre el Kit
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
                         <title>Flecha derecha</title>
                         <use xlink:href="#icon-chevron-right"></use>
@@ -91,10 +87,7 @@
                                                     <p>Hub</p>
                                                     <p>V-Home</p>
                                                 </div>
-                                                <picture>
-                                                    <source srcset="img/safety-kit/backdrop/hub.webp" type="image/webp">
-                                                    
-                                                </picture>
+                                                
                                             </div>
                                         </div>
                                     </button><button role="tab" aria-controls="panel-2" type="button">
@@ -103,10 +96,7 @@
                                                         <div>
                                                             <p>Cámara</p>
                                                         </div>
-                                                        <picture>
-                                                            <source srcset="img/safety-kit/backdrop/camera.webp" type="image/webp">
-                                                            
-                                                        </picture>
+                                                        
                                                     </div>
                                                 </div>
                                     </button><button role="tab" aria-controls="panel-3" type="button">
@@ -117,10 +107,7 @@
             
                                                     <p>multifunción</p>
                                                 </div>
-                                                <picture>
-                                                    <source srcset="img/safety-kit/backdrop/sensor.webp" type="image/webp">
-                                                    
-                                                </picture>
+                                                
                                             </div>
                                         </div> 
                                     </button><button role="tab" aria-controls="panel-4" type="button">
@@ -131,10 +118,7 @@
             
                                                             <p>SmartThings</p>
                                                         </div>
-                                                        <picture>
-                                                            <source srcset="img/safety-kit/backdrop/alarm.webp" type="image/webp">
-                                                            
-                                                        </picture>
+                                                        
                                                     </div>
                                                 </div>
                                     </button><ul role="list">
@@ -237,15 +221,7 @@
                                                     <li>También, tiene una luz que se enciende si detecta movimiento.</li> 
                                                     <li>2 años de garantía.</li>		
                                             </ul>
-                                        </ul><h3>Servicio V-Home</h3><h4>Monitoriza y controla lo que ocurre en tu hogar desde tu smartphone</h4><picture>
-                    <source srcset="img/features/v-home.webp" type="image/webp">
-                    <source srcset="img/features/v-home.jpg" type="image/png">
-                    
-                </picture><p>Un nuevo servicio creado y gestionado por Vodafone que envía avisos a tu smartphone si se detecta movimiento inesperado en tu hogar.</p><p>Si no respondes a las notificaciones enviadas, el sistema te realizará una llamada automática para avisarte.</p><p>Un servicio que permite configurar fácilmente el sistema de monitorización del hogar desde tu smartphone.</p><p>V-Home te permite conectar distintos dispositivos como bombillas, enchufes, termostatos, altavoces inteligentes, etc para convertir tu casa en un hogar inteligente.</p><p>Podrás ver tu hogar en directo desde tu smartphone siempre que quieras y almacenar las grabaciones que realiza la cámara hasta 14 días (con un límite máximo de 10GB).</p><p>Visualiza ver desde el smartphone lo que está grabando la cámara de V-Home sin que consuma datos de tu tarifa móvil (si eres cliente móvil de Vodafone).</p><h2><strong> Descubre más dispositivos compatibles con V-Home</strong></h2><picture>
-                                <source srcset="img/iot/detection-kit.webp" type="image/webp">
-                                <source srcset="img/iot/detection-kit.jpg" type="image/jpg">
-                                
-                            </picture><h3>
+                                        </ul><h3>Servicio V-Home</h3><h4>Monitoriza y controla lo que ocurre en tu hogar desde tu smartphone</h4><p>Un nuevo servicio creado y gestionado por Vodafone que envía avisos a tu smartphone si se detecta movimiento inesperado en tu hogar.</p><p>Si no respondes a las notificaciones enviadas, el sistema te realizará una llamada automática para avisarte.</p><p>Un servicio que permite configurar fácilmente el sistema de monitorización del hogar desde tu smartphone.</p><p>V-Home te permite conectar distintos dispositivos como bombillas, enchufes, termostatos, altavoces inteligentes, etc para convertir tu casa en un hogar inteligente.</p><p>Podrás ver tu hogar en directo desde tu smartphone siempre que quieras y almacenar las grabaciones que realiza la cámara hasta 14 días (con un límite máximo de 10GB).</p><p>Visualiza desde el smartphone lo que está grabando la cámara de V-Home sin que consuma datos de tu tarifa móvil (si eres cliente móvil de Vodafone).</p><h2><strong> Descubre más dispositivos compatibles con V-Home</strong></h2><h3>
                                 V-Home Detection Kit
                             </h3><p>
                                 Recibe avisos cuanto haya algún exceso de humo, fuga de agua o cambio de temperatura en tu hogar.
@@ -255,11 +231,7 @@
                                         <title>Flecha derecha</title>
                                         <use xlink:href="#icon-chevron-right"></use>
                                     </svg>
-                                </a><picture>
-                                <source srcset="img/iot/automation-kit.webp" type="image/webp">
-                                <source srcset="img/iot/automation-kit.jpg" type="image/jpg">
-                                
-                            </picture><h3>
+                                </a><h3>
                                 Domótica
                             </h3><p>
                                 Saca el máximo rendimiento a V-Home con la gama de dispositivos inteligentes : Bombillas, termostatos, enchufes, sensores…
