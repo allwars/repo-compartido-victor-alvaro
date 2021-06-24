@@ -141,40 +141,26 @@
     "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra."
   },
 
-
   "fibra":{
     "title":"Fibra óptica simétrica",
     "subtitle":"<strong>300Mbps de velocidad para tu hogar</strong>",
+    "img": [
+      {
+        "imgJpg":"",
+        "imgPng":"img/section-fiber/fiber-vf",
+        "alt": "Router Vodafone"
+      }
+    ],
     "productDetail": [
       {
-        "icon": "#icon-thunder-2grey",
-        "description": "Datos ilimitados <strong>a alta velocidad (10Mbps de bajada y de subida).</strong>"
+        "thirdWidht":"ws10-u--2/3@desktop",
+        "icon": "#icon-minutes-sms-mid",
+        "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
       },
       {
-        "icon": "#icon-music-and-movies-mid",
-        "description": "Disfruta de música sin límites con una calidad extrema y sin cortes."
-      },
-      {
-        "icon": "#icon-video-mid",
-        "description": "Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones."
-      },
-      {
-        "icon": "#icon-play-mid",
-        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
-      },
-      {
-        "icon": "#icon-unified-communication-mid",
-        "description": [
-          "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
-        ]
-      },
-      {
-        "icon": "#icon-roaming-mid",
-        "description": "<strong>Roaming incluido en la Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU."
-      },
-      {
-        "icon": "#icon-5G_esp-mid",
-        "description": "Todo con la nueva red 5G."
+        "thirdWidht":"ws10-u--2/3@desktop",
+        "icon": "#icon-multiscreen-mid",
+        "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
       }
     ],
     "dispositivos":"12"
