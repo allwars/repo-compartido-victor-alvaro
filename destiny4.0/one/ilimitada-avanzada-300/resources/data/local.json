@@ -142,8 +142,8 @@
   },
 
   "fibra":{
-    "title":"Fibra óptica simétrica",
-    "subtitle":"<strong>300Mbps de velocidad para tu hogar</strong>",
+    "section":"Fibra óptica simétrica",
+    "title":"<strong>300Mbps de velocidad para tu hogar</strong>",
     "img": [
       {
         "imgJpg":"",
@@ -162,8 +162,7 @@
         "icon": "#icon-minutes-sms-mid",
         "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
       }
-    ],
-    "dispositivos":"12"
+    ]
   },
 
   "tv": {
