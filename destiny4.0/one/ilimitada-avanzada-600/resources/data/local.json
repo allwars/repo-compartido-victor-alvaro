@@ -1,0 +1,99 @@
+{
+"fibra-movil":"Fibra + Móvil",
+"velocidad":"600Mbps",
+"permanencia": "Permanencia 1 año",
+"cta": {
+  "title": "Lo quiero",
+  "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
+  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1",
+  "element": "cardrate",
+  "context": "lo quiero",
+  "category": "cta",
+  "loquiero": [ "1285769", "1285751" ]
+},
+
+  "header-ticket": {
+    "title-1": "50% dto. 3 meses",
+    "title-2": ["Todo lo que necesitas", "para conquistar tu", "hogar ilimitable"],
+    "icono": "img/banner/icono-bestprice.svg",
+    "icono-texto": "Mejor Precio Vodafone",
+
+    "title-ticket": "Vodafone One Ilimitada Avanzada 600Mbps",
+    "description": [
+        {
+            "title": "Datos y minutos ilimitados",
+            "subtitle": "Velocidad alta"
+        }, {
+            "title": "Segunda línea GRATIS 1 año",
+            "subtitle": "Datos y minutos ilimitados"
+        }, {
+            "title": "600Mbps Fibra Óptica",
+            "subtitle": "+ llamadas ilimitadas en fijo"
+        }, {
+            "title": "Pack TV Universal GRATIS",
+            "subtitle": "con más de 30 canales internacionales"
+        }
+    ]
+  },
+
+
+  "price": [
+    {
+      "permanencia": "Permanencia 1 año",
+        "precio_sinpromo": "61,99",
+        "precio_conpromo": "30,49",
+        "precio_depuespromo": "79,49"
+    }, {
+        "permanencia": "Permanencia 1 año",
+        "precio_sinpromo": "61,99",
+        "precio_conpromo": "30,49",
+        "precio_depuespromo": "66,98"
+    }
+  ],
+
+  "movil": {
+    "title": "Datos ilimitados para que no te pierdas nada",
+    "velocidad": "10Mbps"
+  },
+  "fibra":{
+    "dispositivos":"25"
+  },
+
+  "secondLine": {
+      "title": "Llévate la 2ª Línea GRATIS 1 año",
+      "details": [
+          ["Datos ilimitados", " a media velocidad (2Mbps de bajada y de subida)."],
+          ["Consulta tus redes sociales y usa aplicaciones de mensajería instantánea."],
+          ["Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."],
+          ["Llamadas y SMS ilimitados", "con cualquier operador nacional las 24 horas, establecimiento incluido."]
+      ],
+      "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra"
+  },
+  "tv": {
+      "title": "Televisión",
+      "heading": "Pack TV Universal GRATIS",
+      "heading2": "con más de 30 canales internacionales",
+      "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+      "allChannels": "Ver todos los canales incluidos",
+      "info": "(*) Puedes añadir más packs de TV en el proceso de compra.",
+      "popup": {
+          "title": "¿Qué incluye el Pack Universal?",
+          "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+          "included": "Contenidos incluidos:"
+      }
+  },
+
+  "bar":[
+
+    {
+      "bar1":"Los primeros 3 meses",
+      "bar2":"Del mes 4 al mes 12",
+      "bar3":"A partir del año"
+    },
+    {
+      "bar1":"Los primeros 3 meses",
+      "bar2":"A partir del mes 4",
+      "bar3":"A partir del año"
+    }
+  ]
+}

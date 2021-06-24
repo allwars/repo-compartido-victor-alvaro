@@ -1,29 +1,14 @@
 <section class="vf-mobile ws10-u--pt12x">
   <h3 class="ws10-u-heading--3">
-    <strong>{{secondline.title}}</strong>
+    <strong>{{secondLine.title}}</strong>
   </h3>
   <ul class="vf-mobile__details ws10-flex ws10-flex__wrap">
-    {{#each secondline.details}}
-      <li
-        class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x ws10-u--1/2@desktop"
-      >
-        <svg
-          class="ws10-c-product-detail__icon"
-          xmlns="http://www.w3.org/2000/svg"
-          xmlns:xlink="http://www.w3.org/1999/xlink"
-          width="24px"
-          height="24px"
-        >
-          <use class="icon-v3" xlink:href="{{icon}}"></use>
-        </svg>
-        <p class="ws10-c-product-detail__text">
-          {{{description}}}
-        </p>
-      </li>
+    {{#each secondLine.productDetail}}
+  {{> productDetail params=this}}
     {{/each}}
   </ul>
   <p class="ws10-u--pt4x wfms__legal">
-    {{secondline.legal}}
+    {{secondLine.legal}}
   </p>
-{{{secondline.test}}}
+{{{secondLine.test}}}
 </section>

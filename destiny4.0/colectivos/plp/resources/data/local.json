@@ -1,0 +1,102 @@
+{
+  "mismakey": "Yo soy el JSON local del microsite",
+  "title": "Ejemplo de contenido cargado desde el JSON",
+  "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
+  "rates": {
+      "fiber-mobile": {
+          "fibra300": {
+              "description": [
+                  {
+                      "title": "Datos y minutos ilimitados",
+                      "subtitle": "Velocidad alta"
+                  }, {
+                      "title": "Segunda línea GRATIS 1 año",
+                      "subtitle": "Datos y minutos ilimitados"
+                  }, {
+                      "title": "300Mbps Fibra Óptica",
+                      "subtitle": "+ llamadas ilimitadas en fijo"
+                  }, {
+                      "title": "Pack TV Universal GRATIS",
+                      "subtitle": "con más de 30 canales internacionales"
+                  }
+              ],
+              "offers": {
+                  "dtoPercent": "50% dto. 3 meses +  después 15% dto. durante 2 años.",
+                  "dtoLabel": "Permanencia 1 año",
+                  "dtoPrice": "28,49",
+                  "dtoFinalPrice": "56,99"
+              },
+              "cta": {
+                  "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-3/",
+                  "context": "300mbps",
+                  "element": "cardrate:one ilimitada avanzada ",
+                  "category": "cta",
+                  "id": "-7498449761489",
+                  "text": "Más info"
+              }
+          },
+          "fibra600": {
+              "description": [
+                  {
+                      "title": "Datos y minutos ilimitados",
+                      "subtitle": "Velocidad alta"
+                  }, {
+                      "title": "Segunda línea GRATIS 1 año",
+                      "subtitle": "Datos y minutos ilimitados"
+                  }, {
+                      "title": "600Mbps Fibra Óptica",
+                      "subtitle": "+ llamadas ilimitadas en fijo"
+                  }, {
+                      "title": "Pack TV Universal GRATIS",
+                      "subtitle": "con más de 30 canales internacionales"
+                  }
+              ],
+              "offers": {
+                  "dtoPercent": "50% dto. 3 meses +  después 15% dto. durante 2 años.",
+                  "dtoLabel": "Permanencia 1 año",
+                  "dtoPrice": "30,49",
+                  "dtoFinalPrice": "60,99"
+              },
+              "cta": {
+                  "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-4/",
+                  "context": "600mbps",
+                  "element": "cardrate:one ilimitada avanzada 600 mbps",
+                  "category": "cta",
+                  "id": "-3827639708071",
+                  "text": "Más info"
+              }
+          },
+          "fibra600SerieFans": {
+              "description": [
+                  {
+                      "title": "Datos y minutos ilimitados",
+                      "subtitle": "Velocidad máxima 5G"
+                  }, {
+                      "title": "Segunda línea GRATIS 1 año",
+                      "subtitle": "Datos y minutos ilimitados"
+                  }, {
+                      "title": "600Mbps Fibra Óptica",
+                      "subtitle": "+ llamadas ilimitadas en fijo"
+                  }, {
+                      "title": "Pack TV Seriefans GRATIS 1 año",
+                      "subtitle": "con HBO España y 60 canales más"
+                  }
+              ],
+              "offers": {
+                  "dtoPercent": "50% dto. 3 meses +  después 15% dto. durante 2 años.",
+                  "dtoLabel": "Permanencia 1 año",
+                  "dtoPrice": "37,49",
+                  "dtoFinalPrice": "74,99"
+              },
+              "cta": {
+                  "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-5/",
+                  "context": "600mbps",
+                  "element": "cardrate:one ilimitada plus",
+                  "category": "cta",
+                  "id": "-8477551683805",
+                  "text": "Más info"
+              }
+          }
+      }
+  }
+}

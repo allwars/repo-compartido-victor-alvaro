@@ -1,0 +1,101 @@
+<p><strong>Si ya eres cliente</strong> y quieres beneficiarte de este descuento, <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí </a></p><span>Si tu empresa trabaja con<br> Vodafone tenemos una
+							<strong>oferta<br> especial para ti</strong></span><h3>Introduce el <strong>código</strong> que te han facilitado en
+					tu empresa para <strong>disfrutar de descuentos</strong> en nuestros productos:</h3><input type="text" name="searchCode" value="" maxlength="16" aria-labelledby="labelinput1" placeholder=""><label for="searchCode">Introduce tu código
+											aquí</label><button type="button" title="Borrar" aria-hidden="true">
+											<span>Borrar contenido</span>
+											<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32px" height="32px">
+												<title>icono para borrar contenido</title>
+												<use xlink:href="#icon-close"></use>
+											</svg>
+										</button><span aria-labelledby="labelinput1" data-js-vf="error-text">Código inválido</span><button name="cta" title="CTA" data-analytics-id="-3539444400258">
+									Enviar
+								</button><button aria-hidden="false" data-analytics-id="-3539558800258">
+										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+											<title>Close</title>
+											<use xlink:href="#icon-close"></use>
+										</svg>
+									</button><span>
+
+										
+									</span><h4>¡Enhorabuena! Hemos comprobado que la empresa <span></span>
+											trabaja con Vodafone.
+										</h4><p>Si continúas entendemos que eres empleado y por tanto
+											puedes continuar
+											contratando con los beneficios especiales que te ofrece Vodafone.</p><a name="cta" title="CTA" href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/" data-analytics-id="-3539545411258">
+										Continuar
+									</a><button aria-hidden="false" data-analytics-id="-3539555400258" data-js-vf="vfms-close">
+										<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+											<title>Close</title>
+											<use xlink:href="#icon-close"></use>
+										</svg>
+									</button><span>
+
+										
+									</span><h4>Ups, parece que el código no es válido</h4><p>Inténtelo de nuevo o póngase en contacto con el
+											responsable de su
+											empresa si sigue fallando el código</p><button name="cta" title="CTA" data-analytics-id="-3549555400258">
+										Entendido
+									</button><h3><strong>¿Cómo conseguir mi descuento de
+								colectivo?</strong></h3><ul>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+									<title>Business</title>
+									<use xlink:href="#icon-shopping-trolley-mid"></use>
+								</svg>
+								<p>Compra online</p>
+								<p>Recibirás un email de confirmación con el detalle
+									de
+									tu pedido y próximos pasos.</p>
+							</li>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+									<title>Business</title>
+									<use xlink:href="#icon-engineer-mid"></use>
+								</svg>
+								<p>Cita de instalación</p>
+								<p>Una vez contratado, un experto se pondrá en
+									contacto
+									contigo para concretar la fecha de instalación que más te convenga. ¡Tú eliges!</p>
+							</li>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+									<title>Business</title>
+									<use xlink:href="#icon-calendar-mid"></use>
+								</svg>
+								<p>Día de instalación</p>
+								<p>El técnico llevará el router y el decodificador
+									si
+									has contratado TV. Lo tendrás todo listo en unas 2h (WiFi y TV).</p>
+							</li>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+									<title>Business</title>
+									<use xlink:href="#icon-business-mid"></use>
+								</svg>
+								<p>Portabilidad</p>
+								<p> Recibirás un SMS con la fecha y lugar de tu
+									nueva
+									SIM del móvil, así sabrás el día exacto del cambio. Nos aseguramos de que no te
+									quedas
+									sin línea.</p>
+							</li>
+							<li>
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+									<title>Business</title>
+									<use xlink:href="#icon-unified-communication-mid"></use>
+								</svg>
+								<p>Mi Vodafone</p>
+								<p>Podrás registrarte y hacer seguimiento de tu
+									pedido y
+									gestionar tus servicios de Vodafone.</p>
+							</li>
+						</ul><p>
+						Si ya eres cliente...
+					</p><button aria-hidden="false" data-analytics-id="-1083616303361">
+						<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+							<title>Close</title>
+							<use xlink:href="#icon-close"></use>
+						</svg>
+					</button><p>Si ya eres cliente de Vodafone y también empleado de una de las empresas a las que le ofrecemos nuestros servicios de telecomunicaciones, <strong>envía un correo a ofertaempleados@vodafone.com indicando tu DNI/NIF y el número de código que te ha facilitado tu empresa.</strong></p><p>Una vez recibido el correo, te responderemos a la mayor brevedad posible indicándote los siguientes pasos, ya que si aún no dispones de una de las nuevas tarifas tendrás que cambiarte a una de ellas.</p><a href="mailto:ofertaempleados@vodafone.com" data-analytics-id="-5504488699476">
+                    Enviar correo
+                </a>

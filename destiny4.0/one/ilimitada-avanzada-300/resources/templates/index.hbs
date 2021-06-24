@@ -1,0 +1,50 @@
+<link href="css/ws10.css" rel="stylesheet" />
+<link href="css/styles.css" rel="stylesheet" data-ws10-microcss />
+<script>
+
+utag_data.plans_add2cart = [{ "product_name": "vodafone one ilimitada avanzada 300mbps", "product_category": "movil+fibra", "product_variant": "datos y minutos ilimitados+300mbps fibra", "promotion_price_name": "promo 50% one Ilimitada avanzada 300Mbps", "promotion_gift_name": "", "product_id": "168446368", "product_detail": "", "product_sale_type": "yes:transactional", "product_additional_lines": [{ "product_name": "tarifa movil ilimitada esencial", "product_category": "movil", "promotion_variant": "datos ilimitados", "promotion_price_name": "2 x 1 ilimitada esencial gratis", "product_id": "268548230" }], "product_packs_tv": [{ "product_name": "pack universal", "product_category": "tv", "promotion_price_name": "universal gratis", "promotion_gift_name": "", "product_id":""}]},{"product_name": "vodafone one ilimitada avanzada 300mbps","product_category": "movil+fibra","product_variant": "datos y minutos ilimitados+300mbps fibra","promotion_price_name": "promo 50% one Ilimitada avanzada 300Mbps","promotion_gift_name": "","product_id": "168446368","product_detail": "","product_sale_type": "yes:transactional","product_packs_tv": [{"product_name": "pack universal","product_category": "tv","promotion_price_name": "universal gratis","promotion_gift_name": "","product_id": ""}]}]
+
+</script> 
+<div class="vfes-ms-content ws10-u-color--bg-light-grey" id="ilimitada" style="visibility: hidden;opacity: 0">
+
+    <!-- BANNER & DIV TICKET QUE INYECTA WCS -->
+    {{> header-ticket }}
+    <!-- CONTENIDO EN 2/3 DE LA PÁGINA -->
+    <div class="ws10-o-wrapper">
+        <div class="ws10-o-layout">
+            <div class="ws10-o-layout__item ws10-u--2/3@desktop ws10-u--3/5@tablet">
+                <!-- MÓVIL -->
+                {{> movil }}
+                <!-- SEGUNDA LÍNEA GRATIS -->
+                {{> secondline }}
+                {{!-- TV --}}
+                {{> tv }}
+                <!-- POPUP TV -->
+                {{> popup-tv }}
+                <!-- DECO -->
+                {{> deco }}
+                <!-- FIBRA -->
+                {{> fibra }}
+                <!-- TAMBIÉN INCLUIDO -->
+                {{> alsoincluded }}
+
+
+                <!-- SIN SORPRESAS -->
+                {{> sinsorpresas }}
+                <!-- TIMELINE  -->
+                {{> timeline }}
+            </div>
+        </div>
+    </div>
+    <!-- STICKY BOTTOM -->
+
+
+    {{> sticky }}
+
+    <!-- TERMINALES-->
+    {{> terminales }}
+
+</div>
+
+<script src="js/ws10.js"></script>
+<script src="js/main.js"></script>

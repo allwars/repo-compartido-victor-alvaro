@@ -1,0 +1,130 @@
+{
+    "cta": {
+        "title": "Lo quiero",
+        "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
+
+        "loquiero": [ "1285869", "1285873" ]
+    },
+  "banner": {
+      "heading": ["Fibra + Móvil", "50% dto. 3 meses +", "después 15% dto. 2 años"],
+      "heading2": "Fibra y datos para ser ilimitable",
+      "cta": {
+          "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/",
+          "category": "cta",
+          "id": "-5460257368589",
+          "element": "cardaddons",
+          "context": "condiciones legales",
+          "label": "Volver a ver las ofertas"
+      }
+  },
+  "ticket": {
+      "heading": "Vodafone One Ilimitada Avanzada 600Mbps",
+      "description": [
+          {
+              "title": "Datos y minutos ilimitados",
+              "subtitle": "Velocidad alta"
+          }, {
+              "title": "Segunda línea GRATIS 1 año",
+              "subtitle": "Datos y minutos ilimitados"
+          }, {
+              "title": "600Mbps Fibra Óptica",
+              "subtitle": "+ llamadas ilimitadas en fijo"
+          }, {
+              "title": "Pack TV Universal GRATIS",
+              "subtitle": "con más de 30 canales internacionales"
+          }
+      ],
+      "form": {
+          "legend": "¿Cómo quieres la línea móvil principal?",
+          "portability": {
+              "category": "cta",
+              "id": "-6727639503211",
+              "element": "cardrate",
+              "context": "portabilidad",
+              "label": "Portabilidad"
+          },
+          "newNumber": {
+              "category": "cta",
+              "id": "-6727909503211",
+              "element": "cardrate",
+              "context": "alta nueva",
+              "label": "Nuevo Número"
+          }
+      },
+      "offers": {
+          "portability": {
+              "dtoPercent": "50% dto. 3 meses + después 15% dto. durante 2 años",
+              "dtoLabel": "Permanencia 1 año",
+              "dtoFinalPrice": "71,98",
+              "dtoPrice": "30,49",
+              "cta": {
+                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&tcli=0&tta=1",
+                  "category": "cta",
+                  "id": "-4725875160593",
+                  "element": "cardrate",
+                  "context": "lo quiero",
+                  "label": "Lo quiero"
+              }
+          },
+          "newNumber": {
+              "dtoPercent": "50% dto. 3 meses + después 15% dto. durante 2 años",
+              "dtoLabel": "Permanencia 1 año",
+              "dtoFinalPrice": "71,98",
+              "dtoPrice": "30,49",
+              "cta": {
+                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&tcli=0&tta=1",
+                  "category": "cta",
+                  "id": "-4725602956266",
+                  "element": "cardrate",
+                  "context": "lo quiero",
+                  "label": "Lo quiero"
+              }
+          }
+      }
+  },
+  "mobile": {
+      "title": ["Móvil", "Datos ilimitados para no perderte nada"],
+      "details": [
+          ["Datos ilimitados", "a alta velocidad (10Mbps de bajada y de subida)."],
+          ["Disfruta de música sin límites con una calidad extrema y sin cortes."],
+          ["Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones."],
+          ["Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."],
+          ["Llamadas y SMS ilimitados", "con cualquier operador nacional las 24 horas, establecimiento incluido."],
+          ["Roaming incluido en la Unión Europea, Reino Unido y EEUU.", "Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU."],
+          ["Todo con la nueva red 5G."]
+      ]
+  },
+  "secondLine": {
+      "title": "Llévate la 2ª Línea GRATIS 1 año",
+      "details": [
+          ["Datos ilimitados", " a media velocidad (2Mbps de bajada y de subida)"],
+          ["Consulta tus redes sociales y usa aplicaciones de mensajería instantánea"],
+          ["Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos"],
+          ["Llamadas y SMS ilimitados", "con cualquier operador nacional las 24 horas, establecimiento incluido."]
+      ],
+      "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra"
+  },
+  "fibra": {
+      "title": ["Fibra óptica simétrica", "600Mbps de velocidad para tu hogar"],
+      "details": [
+          ["600Mbps de fibra óptica simétrica", "para tu hogar, podrás conectar hasta ", "25", " dispositivos a la vez."],
+          ["Fijo con llamadas ilimitadas a fijos y móviles."]
+      ]
+  },
+  "alsoIncluded": {
+      "title": "También incluido en Vodafone One ilimitada Avanzada 600Mbps"
+  },
+  "tv": {
+      "title": "Televisión",
+      "heading": "Pack TV Universal GRATIS",
+      "heading2": "con más de 30 canales internacionales",
+      "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+      "allChannels": "Ver todos los canales incluidos",
+      "info": "(*) Puedes añadir más packs de TV en el proceso de compra.",
+      "popup": {
+          "title": "¿Qué incluye el Pack Universal?",
+          "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+          "included": "Contenidos incluidos:"
+      }
+  }
+}
