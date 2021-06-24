@@ -3,57 +3,71 @@
 "velocidad":"300Mbps",
 "permanencia": "Permanencia 1 año",
 "cta": {
-  "title": "Lo quiero",
   "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
-  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1",
-  "element": "cardrate",
-  "context": "lo quiero",
-  "context-radio": ["alta nueva","portabilidad"],
-  "category": "cta",
-  "loquiero": [ "1285747", "1285767" ]
+  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1"
 },
 
-  "header-ticket": {
-    "title-1": "50% dto. 3 meses",
-    "title-2": "Fibra y datos para ser ilimitable",
-    "icono": "img/banner/icono-bestprice.svg",
-    "icono-texto": "Mejor Precio Vodafone",
-
-    "title-ticket": "Vodafone One Ilimitada Avanzada 300Mbps",
-    "description": [
-        {
-            "title": "Datos y minutos ilimitados",
-            "subtitle": "Velocidad alta"
-        }, {
-            "title": "Segunda línea GRATIS 1 año",
-            "subtitle": "Datos y minutos ilimitados"
-        }, {
-            "title": "300Mbps Fibra Óptica",
-            "subtitle": "+ llamadas ilimitadas en fijo"
-        }, {
-            "title": "Pack TV Universal GRATIS",
-            "subtitle": "con más de 30 canales internacionales"
-        }
-    ]
-  },
-
-
-  "price": [
-    {
-      "permanencia": "Permanencia 1 año",
-        "precio_sinpromo": "56,99",
-        "precio_conpromo": "28,49",
-        "precio_depuespromo": "74,49"
-    }, {
-        "permanencia": "Permanencia 1 año",
-        "precio_sinpromo": "56,99",
-        "precio_conpromo": "28,49",
-        "precio_depuespromo": "74,49"
-    }
-  ],
-
-
-
+    "cardRates": {
+        "description": [
+            {
+                "icon": "icon-mobile",
+                "title": "Datos y minutos ilimitados",
+                "subtitle": "Velocidad alta",
+                "secondIcon": "icon-thunder-2grey"
+            }, {
+                "icon": "icon-sim",
+                "title": "Segunda línea GRATIS 1 año",
+                "subtitle": "Datos y minutos ilimitados"
+            }, {
+                "icon": "icon-broadband-or-wifi",
+                "title": "300Mbps Fibra Óptica",
+                "subtitle": "+ llamadas ilimitadas en fijo"
+            }, {
+                "icon": "icon-tv",
+                "title": "Pack TV Universal GRATIS",
+                "subtitle": "con más de 30 canales internacionales"
+            }
+        ],
+        "prizes": [
+            {
+                "js-vf": "_newNumber",
+                "hidden": "ws10-u--hidden",
+                "offers": {
+                    "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+                    "discount": "50% dto. 3 meses",
+                    "label": "Permanencia 1 año",
+                    "discountPrice": "<del>28,49€/mes</del>",
+                    "finalPrice": "56,99€/<sub>mes</sub>"
+                },
+                "cta": {
+                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&tcli=0&tta=1",
+                    "context": "lo quiero",
+                    "element": "cardrate",
+                    "category": "cta",
+                    "id": "-7498449761489",
+                    "label": "Lo quiero"
+                }
+            }, {
+                "js-vf": "_portability",
+                "hidden": "",
+                "offers": {
+                    "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+                    "discount": "50% dto. 3 meses",
+                    "label": "Permanencia 1 año",
+                    "discountPrice": "<del>28,49€/mes</del>",
+                    "finalPrice": "56,99€/<sub>mes</sub>"
+                },
+                "cta": {
+                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&tcli=0&tta=1",
+                    "context": "lo quiero",
+                    "element": "cardrate",
+                    "category": "cta",
+                    "id": "-7498449761489",
+                    "label": "Lo quiero"
+                }
+            }
+        ]
+    },
 
   "movil": {
     "title": "Datos ilimitados para que no te pierdas nada",

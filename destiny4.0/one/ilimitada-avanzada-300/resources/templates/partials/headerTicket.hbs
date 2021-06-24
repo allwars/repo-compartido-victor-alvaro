@@ -25,7 +25,10 @@
           <h2 class="ws10-u-heading--5 ws10-u-heading--5-lt ws10-u--mb0 vf-ticket ws10-o-layout__item ws10-u--1/3@desktop ws10-u--2/5@tablet">
             {{header-ticket.title-ticket}}
           </h2>
-      <div
+
+          {{> cardRate cardRates }}
+
+      <!-- <div
         class="vf-ticket ws10-o-layout__item ws10-u--1/3@desktop ws10-u--2/5@tablet" style="top: 40px;"
         data-js-vf="_ticket"
       >
@@ -36,93 +39,6 @@
           >
             <div class="ws10-c-card-rate__w-rates">
               <div class="ws10-c-card-rate__a-rate">
-                <ul
-                  class="ws10-c-card-rate__product-info"
-                  data-vfes-seo-empathy-promoperiod="{{header-ticket.title-1}} {{permanencia}}"
-                  data-vfes-seo-empathy-promoprice="{{price.0.precio_conpromo}}"
-                  data-vfes-seo-empathy-price="{{price.0.precio_sinpromo}}"
-                >
-                  <li class="ws10-c-card-rate__product-info-item">
-                    <svg
-                      class="ws10-c-card-rate__product-icon ws10-u-color--black"
-                      xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink"
-                    >
-                      <use xlink:href="#icon-mobile"></use>
-                    </svg>
-
-                    <div class="ws10-c-card-rate__product">
-                      <p class="ws10-c-card-rate__product-title">
-                        {{ header-ticket.description.0.title }}
-                      </p>
-                      <p
-                        class="ws10-c-card-rate__product-txt ws10-c-card-rate__product-txt--primary"
-                      >
-                        {{ header-ticket.description.0.subtitle }}
-                        <svg
-                          class="ws10-c-card-rate__product-txt-icon"
-                          xmlns="http://www.w3.org/2000/svg"
-                          xmlns:xlink="http://www.w3.org/1999/xlink"
-                        >
-                          <use xlink:href="#icon-thunder-2grey"></use>
-                        </svg>
-                      </p>
-                    </div>
-                  </li>
-                  <li
-                    class="ws10-c-card-rate__product-info-item"
-                    data-js-vf="_secondLine"
-                  >
-                    <svg
-                      class="ws10-c-card-rate__product-icon ws10-u-color--black"
-                      xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink"
-                    >
-                      <use xlink:href="#icon-sim"></use>
-                    </svg>
-                    <div class="ws10-c-card-rate__product">
-                      <p class="ws10-c-card-rate__product-title">
-                        {{ header-ticket.description.1.title }}
-                      </p>
-                      <p class="ws10-c-card-rate__product-txt">
-                        {{ header-ticket.description.1.subtitle }}
-                      </p>
-                    </div>
-                  </li>
-                  <li class="ws10-c-card-rate__product-info-item">
-
-                    <svg
-                      class="ws10-c-card-rate__product-icon ws10-u-color--black"
-                      xmlns="http://www.w3.org/2000/svg"
-                      xmlns:xlink="http://www.w3.org/1999/xlink"
-                    >
-                      <use xlink:href="#icon-broadband-or-wifi"></use>
-                    </svg>
-                    <div class="ws10-c-card-rate__product">
-                      <p class="ws10-c-card-rate__product-title">
-                        {{ header-ticket.description.2.title }}
-                      </p>
-                      <p class="ws10-c-card-rate__product-txt">
-                        {{ header-ticket.description.2.subtitle }}
-                      </p>
-                    </div>
-                  </li>
-                  <li class="ws10-c-card-rate__product-info-item">
-                      <svg class="ws10-c-card-rate__product-icon ws10-u-color--black"
-                          xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                          <use xlink:href="#icon-tv"></use>
-                      </svg>
-                      <div class="ws10-c-card-rate__product">
-                          <p class="ws10-c-card-rate__product-title">
-                              {{ header-ticket.description.3.title }}
-                          </p>
-                          <p class="ws10-c-card-rate__product-txt">
-                              {{ header-ticket.description.3.subtitle }}
-                          </p>
-                      </div>
-                  </li>
-
-                </ul>
 
                 <form
                   action=""
@@ -269,7 +185,8 @@
             </div>
           </section>
         </div>
-      </div>
+    </div> -->
+
     </div>
   </div>
 </section>
