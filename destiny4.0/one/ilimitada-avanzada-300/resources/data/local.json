@@ -8,7 +8,7 @@
 },
 
     "header": {
-        "title": "Fibra + Móvil<strong>50% dto. 3 meses</strong>",
+        "title": "Fibra + Móvil <strong>50% dto. 3 meses</strong>",
         "title2": "Fibra y datos para ser ilimitable",
         "icon": "img/banner/icono-bestprice.svg",
         "label": "Mejor Precio Vodafone"
@@ -24,7 +24,8 @@
             }, {
                 "icon": "icon-sim",
                 "title": "Segunda línea GRATIS 1 año",
-                "subtitle": "Datos y minutos ilimitados"
+                "subtitle": "Datos y minutos ilimitados",
+                "js-vf": "_secondLine"
             }, {
                 "icon": "icon-broadband-or-wifi",
                 "title": "300Mbps Fibra Óptica",

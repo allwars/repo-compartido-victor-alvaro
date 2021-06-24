@@ -1,4 +1,4 @@
-<span>Fibra + Móvil<strong>50% dto. 3 meses</strong></span><h2>Fibra y datos para ser ilimitable</h2><span>
+<span>Fibra + Móvil <strong>50% dto. 3 meses</strong></span><h2>Fibra y datos para ser ilimitable</h2><span>
               
               <span>Mejor Precio Vodafone</span>
             </span><h2>
@@ -20,7 +20,7 @@
                                           </p>
                                       </div>
                                   </li>
-                                  <li>
+                                  <li data-js-vf="js-vf">
                                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                           <use xlink:href="#icon-sim"></use>
                                       </svg>
