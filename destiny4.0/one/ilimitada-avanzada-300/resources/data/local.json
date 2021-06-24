@@ -449,20 +449,28 @@
     ],
     "productDetail": [
       {
-        "icon": "#icon-thunder-1grey",
-        "description": "Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong>"
-      },
-      {
-        "icon": "#icon-chat-mid",
-        "description": "Consulta tus redes sociales y usa aplicaciones de mensajería instantánea."
+        "icon": "#icon-portals-for-videos-mid",
+        "description": "Más de <strong>50.000 contenidos disponibles</strong> bajo demanda."
       },
       {
         "icon": "#icon-play-mid",
-        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
+        "description": "No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo."
       },
       {
-        "icon": "#icon-unified-communication-mid",
-        "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+        "icon": "",
+        "url": "img/section-deco/icon-control",
+        "name": "control",
+        "description": "Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días, Grabación, Ver Ahora y Descarga."
+      },
+      {
+        "icon": "#icon-connected-devices-mid",
+        "description": "<strong>2 reproducciones simultáneas</strong> en diferentes dispositivos."
+      },
+      {
+        "url": "img/section-deco/icono-5-g",
+        "name": "5G",
+        "icon": "",
+        "description": "escarga tus contenidos</strong> para verlos estés donde estés y cuando quieras."
       }
     ]
 
