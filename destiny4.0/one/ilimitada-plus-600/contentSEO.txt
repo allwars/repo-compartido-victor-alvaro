@@ -1,13 +1,13 @@
 <span>Fibra + Móvil
-              <strong>50% dto. 3 meses</strong></span><p><strong>Todo lo que necesitas</strong>
+              <strong></strong></span><p><strong>Todo lo que necesitas</strong>
               para
               <strong>estar conectado fuera y <br>dentro</strong>
               de tu casa</p><span>
               
-              <span>Mejor Precio Vodafone</span>
+              <span></span>
             </span><h2>
-                Vodafone One Ilimitada Plus 600Mbps
-              </h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="37,49" data-vfes-seo-empathy-price="74,99">
+                
+              </h2><ul data-vfes-seo-empathy-promoperiod=" Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                       <li>
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                           <use xlink:href="#icon-mobile"></use>
@@ -15,10 +15,10 @@
     
                         <div>
                           <p>
-                            Datos y minutos ilimitados
+                            
                           </p>
                           <p>
-                            Velocidad máxima 5G
+                            
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                               <use xlink:href="#icon-thunder-3"></use>
                             </svg>
@@ -31,10 +31,10 @@
                         </svg>
                         <div>
                           <p>
-                            Segunda línea GRATIS 1 año
+                            
                           </p>
                           <p>
-                            Datos y minutos ilimitados
+                            
                           </p>
                         </div>
                       </li>
@@ -45,10 +45,10 @@
                         </svg>
                         <div>
                           <p>
-                            600Mbps Fibra Óptica
+                            
                           </p>
                           <p>
-                            + llamadas ilimitadas en fijo
+                            
                           </p>
                         </div>
                       </li>
@@ -58,10 +58,10 @@
                         </svg>
                         <div>
                             <p>
-                              Pack TV Seriefans GRATIS 1 año
+                              
                             </p>
                             <p>
-                              con HBO España y 60 canales más
+                              
                             </p>
                         </div>
                       </li>
@@ -71,26 +71,26 @@
                         </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
                               Portabilidad
                             </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">Nuevo Número</label><p>
-                              50% dto. 3 meses
+                              
                             </p><p>
-                              Permanencia 1 año
+                              
                             </p><p>
-                              <del>74,99€/mes</del>
+                              <del>€/mes</del>
                             </p><p>
-                              37,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="">
-                            Lo quiero
+                              €<sub>/mes</sub>
+                            </p><a data-cta="300:port:card" type="submit" title="" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="">
+                            
                             <span></span>
                           </a><p>
-                              50% dto. 3 meses
+                              
                             </p><p>
-                              Permanencia 1 año
+                              
                             </p><p>
-                              <del>74,99€/mes</del>
+                              <del>€/mes</del>
                             </p><p>
-                              37,49€<sub>/mes</sub>
-                            </p><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="">
-                            Lo quiero
+                              €<sub>/mes</sub>
+                            </p><a data-cta="300:port:card" type="submit" title="" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="">
+                            
                             <span></span>
                           </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
                     </div><p>Datos ilimitados a
@@ -354,7 +354,7 @@
                             simétrica</strong>
                           para tu hogar, podrás conectar hasta 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas
                             ilimitadas a fijos y móviles.</strong>
-                        </p><h3><strong>También incluido en Vodafone One Ilimitada Plus 600Mbps</strong></h3><ul aria-labelledby="idList">
+                        </p><h3><strong>También incluido en </strong></h3><ul aria-labelledby="idList">
                       <li>
                         <div>
                           <div>
@@ -427,22 +427,22 @@
                     <span><strong>No escondemos nada</strong></span>
                   </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Paquete
                       Fibra + Móvil:
-                      37,49€/mes durante 3 meses, después
-                      74,99€/mes</strong></p><p>
+                      €/mes durante 3 meses, después
+                      €/mes</strong></p><p>
                     <span>Otras promociones:</span>
                     <span>Llévate el paquete de
                       Fibra + Móvil
                       al
-                      50% dto. 3 meses</span>
+                      </span>
                     <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
                       después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span>
                     <span>Paquete de TV: GRATIS durante 1 año, después 10€/mes.</span>
                   </p><span>
                         Los primeros 3 meses
-                      </span><span></span><span data-js-vf="_portability">37,49</span><span data-js-vf="_newNumber">37,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">Del mes 4 al mes 12
-                      </span><span></span><span data-js-vf="_portability">74,99</span><span data-js-vf="_newNumber">74,99</span><span>€</span><sub>/mes</sub><span>
+                      </span><span></span><span data-js-vf="_portability"></span><span data-js-vf="_newNumber"></span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">Del mes 4 al mes 12
+                      </span><span></span><span data-js-vf="_portability"></span><span data-js-vf="_newNumber"></span><span>€</span><sub>/mes</sub><span>
                         A partir del año
-                      </span><span></span><span data-js-vf="_portability">102,49</span><span data-js-vf="_newNumber">84,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
+                      </span><span></span><span data-js-vf="_portability"></span><span data-js-vf="_newNumber"></span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
                     autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
                     en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-analytics-id="-5460257368589">
                     Ver condiciones legales
@@ -451,7 +451,7 @@
                       <title>Flecha derecha</title>
                       <use xlink:href="#icon-chevron-right"></use>
                     </svg>
-                  </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Plus 600Mbps?</strong></h3><ul>
+                  </a><h3><strong>¿Cómo contrato ?</strong></h3><ul>
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                         <title>Business</title>
@@ -501,17 +501,17 @@
                       <p>Podrás registrarte y hacer
                         seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
                     </li>
-                  </ul><del>74,99€/mes</del><span>
-              <span>37,49€</span>
+                  </ul><del>€/mes</del><span>
+              <span>€</span>
               <span>/mes</span>
-            </span><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="">
-                            Lo quiero
+            </span><a data-cta="300:port:card" type="submit" title="" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="">
+                            
                             <span></span>
-                          </a><del>74,99€/mes</del><span>
-              <span>37,49€</span>
+                          </a><del>€/mes</del><span>
+              <span>€</span>
               <span>/mes</span>
-            </span><a data-cta="300:port:card" type="submit" title="Lo quiero" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="">
-                            Lo quiero
+            </span><a data-cta="300:port:card" type="submit" title="" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="">
+                            
                             <span></span>
                           </a><button aria-hidden="false">
             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
