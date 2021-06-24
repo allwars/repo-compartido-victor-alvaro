@@ -56,11 +56,11 @@ tools.onFrameworkReady = () => {
 
                 company = json.company;
                 if (codes===true ){
+                    buttonSearch.setAttribute("data-analytics-code", inputCode);
                     companySelected.innerHTML = company;
                     // descomentar en producción
                     checkPopUp("valido");
                     const contentModal = document.querySelector("#modalok");
-                    contentModal.querySelector('a').setAttribute("data-analytics-code", inputCode);
                     ws10.utils.getInstanceForElement(contentModal).openBackdrop(contentModal.querySelector("#search-result"));
                 }
                 else{
