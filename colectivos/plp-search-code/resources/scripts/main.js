@@ -16,7 +16,7 @@ tools.onFrameworkReady = () => {
     const searchForm = document.querySelector('.js-form');
     const inputSearch = document.getElementById('searchCode');
     const buttonSearch = document.querySelector('.vfms-button__search');
-    const buttonUnderstood = document.querySelector('.vfms-button__understood'); 
+    const buttonUnderstood = document.querySelector('.vfms-button__understood');
     const modals = document.querySelector('[data-vfes-js="_modal"]');
     const modalFindCode = document.getElementById('codeFind');
     const modalNoFoundCode = document.getElementById('noFoundCode');
@@ -30,21 +30,20 @@ tools.onFrameworkReady = () => {
     buttonUnderstood.addEventListener("click", closeBackDropAndClean);
 
     function closeBackDropAndClean(e) {
-        e.preventDefault(); 
+        e.preventDefault();
         btnClose.click();
     }
 
     const  errorText= document.querySelector('[data-js-vf="error-text"]');
 
-   
-    
+
+
 
     function findCode(e) {
-        e.preventDefault(); 
+        e.preventDefault();
         let inputCode = inputSearch.value.toUpperCase();
-        
         fetch('https://www.vodafone.es/c/srv/vf-back-trastienda/api/urlCode/getInfoByCode', {
-            method: 'POST', 
+            method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
             },
@@ -55,22 +54,23 @@ tools.onFrameworkReady = () => {
                 console.log("json-", json.existsCode)
                 let codes = json.existsCode;
 
-                company = json.company; 
-                if (codes===true ){           
+                company = json.company;
+                if (codes===true ){
+                    buttonSearch.setAttribute("data-analytics-code", inputCode);
                     companySelected.innerHTML = company;
                     // descomentar en producción
                     checkPopUp("valido");
                     const contentModal = document.querySelector("#modalok");
-                    ws10.utils.getInstanceForElement(contentModal).openBackdrop(contentModal.querySelector("#search-result"));                  
+                    ws10.utils.getInstanceForElement(contentModal).openBackdrop(contentModal.querySelector("#search-result"));
                 }
-                else{ 
-                    // descomentar en producción               
+                else{
+                    // descomentar en producción
                     checkPopUp("invalido");
                     const contentModal = document.querySelector("#modalko");
-                    ws10.utils.getInstanceForElement(contentModal).openBackdrop(contentModal.querySelector("#search-result"));  
+                    ws10.utils.getInstanceForElement(contentModal).openBackdrop(contentModal.querySelector("#search-result"));
                 }
             });
-    }    
+    }
     let counterKeys = 0;
     const inputHandler = (currentText) => {
         const inputCurrentText = currentText;
@@ -85,23 +85,23 @@ tools.onFrameworkReady = () => {
         }
         else{
             hideError();
-        } 
+        }
         if (inputStr.length === 2 && inputCurrentText!="VF-"){
             showError();
         }
         else{
             hideError();
-        } 
+        }
         inputSearch.value.length === 16 ? buttonSearch.disabled = false : buttonSearch.disabled = true ;
     }
     function showError() {
-        errorText.classList.remove('ws10-u--hidden');  
-        inputSearch.classList.add('ws10-c-text-field__input--error');  
+        errorText.classList.remove('ws10-u--hidden');
+        inputSearch.classList.add('ws10-c-text-field__input--error');
     }
 
     function hideError() {
-        errorText.classList.add('ws10-u--hidden');  
-        inputSearch.classList.remove('ws10-c-text-field__input--error');  
+        errorText.classList.add('ws10-u--hidden');
+        inputSearch.classList.remove('ws10-c-text-field__input--error');
     }
 
     const checkValueLength = event => {
@@ -109,6 +109,6 @@ tools.onFrameworkReady = () => {
     }
     inputSearch.addEventListener('keypress', e => inputHandler(e.target.value + e.key));
     inputSearch.addEventListener('keyup', checkValueLength);
-  
-   
+
+
 };

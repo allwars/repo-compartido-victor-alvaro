@@ -1,5 +1,410 @@
 /**
- * Vodafone Reboot Framework: Version 2.11.4. Generation Date: 2021-06-17T15:36:17.356Z
+ * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-24T06:55:49.910Z
  */
 
-!function(e){var t={};function n(o){if(t[o])return t[o].exports;var r=t[o]={i:o,l:!1,exports:{}};return e[o].call(r.exports,r,r.exports,n),r.l=!0,r.exports}n.m=e,n.c=t,n.d=function(e,t,o){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:o})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var o=Object.create(null);if(n.r(o),Object.defineProperty(o,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var r in e)n.d(o,r,function(t){return e[t]}.bind(null,r));return o},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="",n(n.s=0)}([function(e,t,n){"use strict";n.r(t),performance&&performance.mark&&performance.mark("micro exec");var o,r,c=document.querySelector("link[data-ws10-microcss]"),a=function(e,t,n){var o=null;for(;e;){if(e.matches(t)){o=e;break}if(n&&e.matches(n))break;e=e.parentElement}return o}(document.querySelector("#plp-search-code"),"[data-ws10-microsite]"),s=a?a.dataset.pathmicrosite:"",l=document.documentElement.clientWidth,i=l>1024,d=l<=1024&&l>=768,u=l<768;function m(){y.cssLoaded||(document.querySelector("#plp-search-code")&&document.querySelector("#plp-search-code").removeAttribute("style"),y.cssLoaded=!0,y.onStylesReady(),performance&&performance.mark&&performance.mark("micro css ready"))}function f(){document.removeEventListener("ws10:frameworkReady",f),window.ws10.utils.init(document.querySelector("#plp-search-code")),y.onFrameworkReady(),performance&&performance.mark&&(performance.mark("micro js ready"),console.timeEnd("microsite instantiation"))}function p(){var e=document.styleSheets,t=0;return[].forEach.call(e,(function(e){var n=e.href||"";-1!==n.indexOf(s+"css/ws10")&&(console.log("WS10 CSS Loaded"),t++),-1!==n.indexOf(s+"css/styles.css")&&(console.log("MICRO CSS Loaded"),t++)})),2===t}p()?p()&&setTimeout(m,100):c?(o=setInterval((function(){c.sheet.rules&&c.sheet.rules.length>0&&(clearInterval(o),clearTimeout(r),m())}),100),r=setTimeout((function(){console.warn("Microsite visible by 3s timeout"),clearInterval(o),clearTimeout(r),m()}),3e3)):setTimeout(m,100),window.ws10?setTimeout(f,100):document.addEventListener("ws10:frameworkReady",f);var y={isDesktop:i,isTablet:d,isMobile:u,micrositeId:"#plp-search-code",micrositePath:s,init:function(){},cssLoaded:!1,onStylesReady:function(){return null},onFrameworkReady:function(){return null}},v=y;v.onStylesReady=function(){console.log("Site visually ready")},v.onFrameworkReady=function(){console.log("Site functionality ready");document.querySelector(".js-form");var e=document.getElementById("searchCode"),t=document.querySelector(".vfms-button__search"),n=document.querySelector(".vfms-button__understood"),o=document.querySelector('[data-vfes-js="_modal"]'),r=(document.getElementById("codeFind"),document.getElementById("noFoundCode"),new ws10.backdrop({$element:o}),document.querySelector(".vfms-text-clean")),c="",a=document.getElementById("company-selected"),s=document.querySelector('[data-js-vf="vfms-close"]');r.addEventListener("click",(function(){t.disabled=!0})),t.addEventListener("click",(function(t){t.preventDefault();var n=e.value.toUpperCase();fetch("https://www.vodafone.es/c/srv/vf-back-trastienda/api/urlCode/getInfoByCode",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({code:n})}).then((function(e){return e.json()})).then((function(e){console.log("json-",e.existsCode);var t=e.existsCode;if(c=e.company,!0===t){a.innerHTML=c,checkPopUp("valido");var n=document.querySelector("#modalok");ws10.utils.getInstanceForElement(n).openBackdrop(n.querySelector("#search-result"))}else{checkPopUp("invalido");var o=document.querySelector("#modalko");ws10.utils.getInstanceForElement(o).openBackdrop(o.querySelector("#search-result"))}}))})),n.addEventListener("click",(function(e){e.preventDefault(),s.click()}));var l=document.querySelector('[data-js-vf="error-text"]');function i(){l.classList.remove("ws10-u--hidden"),e.classList.add("ws10-c-text-field__input--error")}function d(){l.classList.add("ws10-u--hidden"),e.classList.remove("ws10-c-text-field__input--error")}e.addEventListener("keypress",(function(n){return o=n.target.value+n.key,r=o,c=e.value,a=c.charAt(11),console.log("hyphen",a),1,console.log("input-current",r),console.log("input",c.length),1===c.length&&"VF"!=r?i():d(),2===c.length&&"VF-"!=r?i():d(),void(16===e.value.length?t.disabled=!1:t.disabled=!0);var o,r,c,a})),e.addEventListener("keyup",(function(n){8===n.keyCode&&16===e.value.length||16===e.value.length?t.disabled=!1:t.disabled=!0}))}}]);
+/******/ (function(modules) { // webpackBootstrap
+/******/ 	// The module cache
+/******/ 	var installedModules = {};
+/******/
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/
+/******/ 		// Check if module is in cache
+/******/ 		if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = installedModules[moduleId] = {
+/******/ 			i: moduleId,
+/******/ 			l: false,
+/******/ 			exports: {}
+/******/ 		};
+/******/
+/******/ 		// Execute the module function
+/******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+/******/
+/******/ 		// Flag the module as loaded
+/******/ 		module.l = true;
+/******/
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/
+/******/
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = modules;
+/******/
+/******/ 	// expose the module cache
+/******/ 	__webpack_require__.c = installedModules;
+/******/
+/******/ 	// define getter function for harmony exports
+/******/ 	__webpack_require__.d = function(exports, name, getter) {
+/******/ 		if(!__webpack_require__.o(exports, name)) {
+/******/ 			Object.defineProperty(exports, name, { enumerable: true, get: getter });
+/******/ 		}
+/******/ 	};
+/******/
+/******/ 	// define __esModule on exports
+/******/ 	__webpack_require__.r = function(exports) {
+/******/ 		if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 			Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+/******/ 		}
+/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 	};
+/******/
+/******/ 	// create a fake namespace object
+/******/ 	// mode & 1: value is a module id, require it
+/******/ 	// mode & 2: merge all properties of value into the ns
+/******/ 	// mode & 4: return value when already ns object
+/******/ 	// mode & 8|1: behave like require
+/******/ 	__webpack_require__.t = function(value, mode) {
+/******/ 		if(mode & 1) value = __webpack_require__(value);
+/******/ 		if(mode & 8) return value;
+/******/ 		if((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
+/******/ 		var ns = Object.create(null);
+/******/ 		__webpack_require__.r(ns);
+/******/ 		Object.defineProperty(ns, 'default', { enumerable: true, value: value });
+/******/ 		if(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));
+/******/ 		return ns;
+/******/ 	};
+/******/
+/******/ 	// getDefaultExport function for compatibility with non-harmony modules
+/******/ 	__webpack_require__.n = function(module) {
+/******/ 		var getter = module && module.__esModule ?
+/******/ 			function getDefault() { return module['default']; } :
+/******/ 			function getModuleExports() { return module; };
+/******/ 		__webpack_require__.d(getter, 'a', getter);
+/******/ 		return getter;
+/******/ 	};
+/******/
+/******/ 	// Object.prototype.hasOwnProperty.call
+/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
+/******/
+/******/ 	// __webpack_public_path__
+/******/ 	__webpack_require__.p = "";
+/******/
+/******/
+/******/ 	// Load entry module and return exports
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/colectivos/plp-search-code/resources/scripts/main.js");
+/******/ })
+/************************************************************************/
+/******/ ({
+
+/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/colectivos/plp-search-code/resources/scripts/main.js":
+/*!*********************************************************************************************************************!*\
+  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/colectivos/plp-search-code/resources/scripts/main.js ***!
+  \*********************************************************************************************************************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/colectivos/plp-search-code/resources/scripts/tools.js");
+
+/*
+*   Método que se dispara cuando el ws2r.vX.css
+*   ya se ha cargado y ha pintado la web
+* */
+
+_tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
+  console.log("Site visually ready"); // DO SOMETHING
+};
+/*
+*   Método que se dispara cuando el ws2r.vX.js
+*   ya se ha cargado y está diponible.
+* */
+
+
+_tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
+  console.log("Site functionality ready");
+  var searchForm = document.querySelector('.js-form');
+  var inputSearch = document.getElementById('searchCode');
+  var buttonSearch = document.querySelector('.vfms-button__search');
+  var buttonUnderstood = document.querySelector('.vfms-button__understood');
+  var modals = document.querySelector('[data-vfes-js="_modal"]');
+  var modalFindCode = document.getElementById('codeFind');
+  var modalNoFoundCode = document.getElementById('noFoundCode');
+  var instanceModal = new ws10.backdrop({
+    $element: modals
+  });
+  var textClean = document.querySelector('.vfms-text-clean');
+  var company = "";
+  var companySelected = document.getElementById('company-selected');
+  var btnClose = document.querySelector('[data-js-vf="vfms-close"]');
+  textClean.addEventListener("click", function () {
+    buttonSearch.disabled = true;
+  });
+  buttonSearch.addEventListener("click", findCode);
+  buttonUnderstood.addEventListener("click", closeBackDropAndClean);
+
+  function closeBackDropAndClean(e) {
+    e.preventDefault();
+    btnClose.click();
+  }
+
+  var errorText = document.querySelector('[data-js-vf="error-text"]');
+
+  function findCode(e) {
+    e.preventDefault();
+    var inputCode = inputSearch.value.toUpperCase();
+    fetch('https://www.vodafone.es/c/srv/vf-back-trastienda/api/urlCode/getInfoByCode', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        code: inputCode
+      })
+    }).then(function (response) {
+      return response.json();
+    }).then(function (json) {
+      console.log("json-", json.existsCode);
+      var codes = json.existsCode;
+      company = json.company;
+
+      if (codes === true) {
+        buttonSearch.setAttribute("data-analytics-code", inputCode);
+        companySelected.innerHTML = company; // descomentar en producción
+
+        checkPopUp("valido");
+        var contentModal = document.querySelector("#modalok");
+        ws10.utils.getInstanceForElement(contentModal).openBackdrop(contentModal.querySelector("#search-result"));
+      } else {
+        // descomentar en producción
+        checkPopUp("invalido");
+
+        var _contentModal = document.querySelector("#modalko");
+
+        ws10.utils.getInstanceForElement(_contentModal).openBackdrop(_contentModal.querySelector("#search-result"));
+      }
+    });
+  }
+
+  var counterKeys = 0;
+
+  var inputHandler = function inputHandler(currentText) {
+    var inputCurrentText = currentText;
+    var inputStr = inputSearch.value;
+    var hyphen = inputStr.charAt(11);
+    console.log("hyphen", hyphen);
+    counterKeys += 1;
+    console.log("input-current", inputCurrentText);
+    console.log("input", inputStr.length);
+
+    if (inputStr.length === 1 && inputCurrentText != "VF") {
+      showError();
+    } else {
+      hideError();
+    }
+
+    if (inputStr.length === 2 && inputCurrentText != "VF-") {
+      showError();
+    } else {
+      hideError();
+    }
+
+    inputSearch.value.length === 16 ? buttonSearch.disabled = false : buttonSearch.disabled = true;
+  };
+
+  function showError() {
+    errorText.classList.remove('ws10-u--hidden');
+    inputSearch.classList.add('ws10-c-text-field__input--error');
+  }
+
+  function hideError() {
+    errorText.classList.add('ws10-u--hidden');
+    inputSearch.classList.remove('ws10-c-text-field__input--error');
+  }
+
+  var checkValueLength = function checkValueLength(event) {
+    event.keyCode === 8 && inputSearch.value.length === 16 || inputSearch.value.length === 16 ? buttonSearch.disabled = false : buttonSearch.disabled = true;
+  };
+
+  inputSearch.addEventListener('keypress', function (e) {
+    return inputHandler(e.target.value + e.key);
+  });
+  inputSearch.addEventListener('keyup', checkValueLength);
+};
+
+/***/ }),
+
+/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/colectivos/plp-search-code/resources/scripts/tools.js":
+/*!**********************************************************************************************************************!*\
+  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/colectivos/plp-search-code/resources/scripts/tools.js ***!
+  \**********************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/*
+ * Microsites tools js:
+ * Este fichero es una muestra de utilidades propias para los microsites.
+ * Se puede personalizar a tu gusto
+ *
+ */
+if (performance && performance.mark) {
+  performance.mark('micro exec');
+}
+
+var MICROSITE_ID = '#plp-search-code';
+var cssMain = document.querySelector('link[data-ws10-microcss]');
+var MICROSITE_SELECTION = closest(document.querySelector(MICROSITE_ID), '[data-ws10-microsite]');
+var PATH_MICROSITE = MICROSITE_SELECTION ? MICROSITE_SELECTION.dataset.pathmicrosite : '';
+var width = document.documentElement.clientWidth;
+var isDesktop = width > 1024;
+var isTablet = width <= 1024 && width >= 768;
+var isMobile = width < 768;
+/*
+ * Searches for the parent node closest to the element, which complies with the selector
+ * @param {} el - Description
+ * @param {} selector - Description
+ * @param {} stopSelector - Description
+ * */
+
+function closest(el, selector, stopSelector) {
+  var retval = null;
+
+  while (el) {
+    if (el.matches(selector)) {
+      retval = el;
+      break;
+    } else if (stopSelector && el.matches(stopSelector)) {
+      break;
+    }
+
+    el = el.parentElement;
+  }
+
+  return retval;
+}
+/*
+ * Removes the style attr, once the stylesheet have been loaded
+ * return undefined
+ * */
+
+
+function _internalCSSInit() {
+  if (!ex.cssLoaded) {
+    if (document.querySelector(MICROSITE_ID)) {
+      document.querySelector(MICROSITE_ID).removeAttribute("style");
+    }
+
+    ex.cssLoaded = true;
+    ex.onStylesReady();
+
+    if (performance && performance.mark) {
+      performance.mark('micro css ready');
+    }
+  }
+}
+/*
+ * Initializes functionality JS, and advices when JS is loaded.
+ * return undefined
+ * */
+
+
+function _internalJSInit() {
+  document.removeEventListener('ws10:frameworkReady', _internalJSInit);
+  window.ws10.utils.init(document.querySelector(MICROSITE_ID));
+  ex.onFrameworkReady();
+
+  if (performance && performance.mark) {
+    performance.mark('micro js ready'); // eslint-disable-next-line no-console
+
+    console.timeEnd("microsite instantiation");
+  }
+}
+/*
+ * Check if stylesheet CSS is loaded
+ * @return {boolean}
+ * */
+
+
+function isCSSMicroLoaded() {
+  var domStyles = document.styleSheets;
+  var countCSS = 0;
+  [].forEach.call(domStyles, function (item) {
+    var href = item.href || '';
+
+    if (href.indexOf(PATH_MICROSITE + 'css/ws10') !== -1) {
+      // eslint-disable-next-line no-console
+      console.log('WS10 CSS Loaded');
+      countCSS++;
+    }
+
+    if (href.indexOf(PATH_MICROSITE + 'css/styles.css') !== -1) {
+      // eslint-disable-next-line no-console
+      console.log('MICRO CSS Loaded');
+      countCSS++;
+    }
+  });
+  return countCSS === 2;
+}
+
+function init() {// DO SOMETHING
+}
+/*
+ * listen event, once have been loaded the files CSS
+ * */
+
+
+var checkInterval, checkTimeout;
+
+if (!isCSSMicroLoaded()) {
+  if (cssMain) {
+    checkInterval = setInterval(function () {
+      if (cssMain.sheet.rules && cssMain.sheet.rules.length > 0) {
+        clearInterval(checkInterval);
+        clearTimeout(checkTimeout);
+
+        _internalCSSInit();
+      }
+    }, 100); // Make sure microsite gets visible after 3 secs
+
+    checkTimeout = setTimeout(function () {
+      // eslint-disable-next-line no-console
+      console.warn("Microsite visible by 3s timeout");
+      clearInterval(checkInterval);
+      clearTimeout(checkTimeout);
+
+      _internalCSSInit();
+    }, 3000);
+  } else {
+    setTimeout(_internalCSSInit, 100);
+  }
+} else if (isCSSMicroLoaded()) {
+  setTimeout(_internalCSSInit, 100);
+}
+/*
+ * listen event, once have been loaded the files JS
+ * */
+
+
+if (window.ws10) {
+  setTimeout(_internalJSInit, 100);
+} else {
+  document.addEventListener('ws10:frameworkReady', _internalJSInit);
+}
+
+var ex = {
+  isDesktop: isDesktop,
+  isTablet: isTablet,
+  isMobile: isMobile,
+  micrositeId: MICROSITE_ID,
+  micrositePath: PATH_MICROSITE,
+  init: init,
+  cssLoaded: false,
+  onStylesReady: function onStylesReady() {
+    return null;
+  },
+  onFrameworkReady: function onFrameworkReady() {
+    return null;
+  }
+};
+/* harmony default export */ __webpack_exports__["default"] = (ex);
+
+/***/ })
+
+/******/ });
+//# sourceMappingURL=main.js.map
