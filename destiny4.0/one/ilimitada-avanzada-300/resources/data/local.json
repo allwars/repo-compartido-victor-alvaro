@@ -154,12 +154,12 @@
     "productDetail": [
       {
         "thirdWidht":"ws10-u--2/3@desktop",
-        "icon": "#icon-minutes-sms-mid",
+        "icon": "#icon-multiscreen-mid",
         "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
       },
       {
         "thirdWidht":"ws10-u--2/3@desktop",
-        "icon": "#icon-multiscreen-mid",
+        "icon": "#icon-minutes-sms-mid",
         "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
       }
     ],
