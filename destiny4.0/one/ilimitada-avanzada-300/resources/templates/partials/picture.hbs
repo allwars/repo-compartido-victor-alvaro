@@ -1,11 +1,11 @@
 <picture>
   {{#if imgPng}}
-    <source class="ws10-u--pr1x" srcset="{{imgPng}}.webp" type="image/webp" />
-    <source class="ws10-u--pr1x" srcset="{{imgPng}}.png" type="image/png" />
+    <source class="{{class}}" srcset="{{imgPng}}.webp" type="image/webp" />
+    <source class="{{class}}" srcset="{{imgPng}}.png" type="image/png" />
     <img src="{{imgPng}}" alt="{{alt}}" />
   {{else}}
-    <source class="ws10-u--pr1x" srcset="{{imgJpg}}.webp" type="image/webp" />
-    <source class="ws10-u--pr1x" srcset="{{imgJpg}}.jpg" type="image/jpg" />
+    <source class="{{class}}" srcset="{{imgJpg}}.webp" type="image/webp" />
+    <source class="{{class}}" srcset="{{imgJpg}}.jpg" type="image/jpg" />
     <img src="{{imgJpg}}" alt="{{alt}}" />
   {{/if}}
 </picture>
