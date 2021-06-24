@@ -7,7 +7,14 @@
   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1"
 },
 
+    "header": {
+        "title": "Fibra + Móvil<strong>50% dto. 3 meses</strong>",
+        "title2": "Fibra y datos para ser ilimitable",
+        "icon": "img/banner/icono-bestprice.svg",
+        "label": "Mejor Precio Vodafone"
+    },
     "cardRates": {
+        "title": "Vodafone One Ilimitada Avanzada 300Mbps",
         "description": [
             {
                 "icon": "icon-mobile",
