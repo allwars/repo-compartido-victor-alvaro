@@ -16,7 +16,7 @@
                             <p class="ws10-c-card-rate__product-title">
                                 {{ title }}
                             </p>
-                            <p class="ws10-c-card-rate__product-txt ws10-c-card-rate__product-txt--primary">
+                            <p class="ws10-c-card-rate__product-txt {{#if color }} {{ color }} {{/if }}">
                                 {{ subtitle }}
                                 {{#if secondIcon }}
                                 <svg class="ws10-c-card-rate__product-txt-icon"
@@ -40,10 +40,10 @@
                                 {{ offers.label }}
                             </p>
                             <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price">
-                                {{{ offers.discountPrice }}}
+                                {{{ offers.finalPrice }}}
                             </p>
                             <p class="ws10-c-card-rate__price ws10-u-color--black">
-                                {{{ offers.finalPrice }}}
+                                {{{ offers.discountPrice }}}
                             </p>
                         </div>
                     </div>

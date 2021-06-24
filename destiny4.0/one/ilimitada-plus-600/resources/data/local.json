@@ -48,8 +48,8 @@
                   "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                   "discount": "50% dto. 3 meses",
                   "label": "Permanencia 1 año",
-                  "discountPrice": "<del>37,49€/mes</del>",
-                  "finalPrice": "74,99€/<sub>mes</sub>"
+                  "finalPrice": "<del>74,99€/mes</del>",
+                  "discountPrice": "37,49€/<sub>mes</sub>"
               },
               "cta": {
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&tcli=0&tta=1",
@@ -66,8 +66,8 @@
                   "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                   "discount": "50% dto. 3 meses",
                   "label": "Permanencia 1 año",
-                  "discountPrice": "<del>37,49€/mes</del>",
-                  "finalPrice": "74,99€/<sub>mes</sub>"
+                  "finalPrice": "<del>74,99€/mes</del>",
+                  "discountPrice": "37,49€/<sub>mes</sub>"
               },
               "cta": {
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&tcli=0&tta=1",

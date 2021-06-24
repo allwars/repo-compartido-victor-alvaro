@@ -10,7 +10,8 @@
                   "icon": "icon-mobile",
                   "title": "Datos y minutos ilimitados",
                   "subtitle": "Velocidad alta",
-                  "secondIcon": "icon-thunder-2grey"
+                  "secondIcon": "icon-thunder-2grey",
+                  "color": "ws10-c-card-rate__product-txt--primary"
               }, {
                   "icon": "icon-sim",
                   "title": "Segunda línea GRATIS 1 año",
@@ -29,8 +30,8 @@
               "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
               "discount": "50% dto. 3 meses",
               "label": "Permanencia 1 año",
-              "discountPrice": "<del>28,49€/mes</del>",
-              "finalPrice": "56,99€/<sub>mes</sub>"
+              "finalPrice": "<del>56,99€/mes</del>",
+              "discountPrice": "28,49€/<sub>mes</sub>"
           },
           "cta": {
               "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-3/",
@@ -67,8 +68,8 @@
               "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
               "discount": "50% dto. 3 meses",
               "label": "Permanencia 1 año",
-              "discountPrice": "<del>30,49€/mes</del>",
-              "finalPrice": "61,99€/<sub>mes</sub>"
+              "finalPrice": "<del>61,99€/mes</del>",
+              "discountPrice": "30,49€/<sub>mes</sub>"
           },
           "cta": {
               "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-4/",
@@ -105,8 +106,8 @@
               "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
               "discount": "50% dto. 3 meses",
               "label": "Permanencia 1 año",
-              "discountPrice": "<del>37,49€/mes</del>",
-              "finalPrice": "74,99€/<sub>mes</sub>"
+              "finalPrice": "<del>74,99€/mes</del>",
+              "discountPrice": "37,49€/<sub>mes</sub>"
           },
           "cta": {
               "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/",
