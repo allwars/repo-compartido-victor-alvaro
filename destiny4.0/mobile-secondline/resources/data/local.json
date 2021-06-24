@@ -4,7 +4,7 @@
     "title": "Datos ilimitados para no perderte nada",
     "mobile": "img/section-mobile/mobile-apps",
 
-    "details": [
+    "productDetail": [
       {
         "icon": "#icon-thunder-2grey",
         "description": "Datos ilimitados <strong>a alta velocidad (10Mbps de bajada y de subida).</strong>"
@@ -38,10 +38,10 @@
     ]
   },
 
-  "secondline": {
+  "secondLine": {
     "title": "Llévate la 2ª Línea GRATIS 1 año",
 
-    "details": [
+    "productDetail": [
       {
         "icon": "#icon-thunder-1grey",
         "description": "Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong>"

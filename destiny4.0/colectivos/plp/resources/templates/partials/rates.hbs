@@ -1,0 +1,100 @@
+<section
+  class="vf-tabs--filter ws10-c-tabs-filter ws10-o-tabs ws10-u--mt8x ws10-u--mt12x@desktop ws10-o-wrapper"
+  data-ws10-js="tabs-filter"
+>
+  <div
+    role="tablist"
+    class="ws10-c-tabs-filter__tablist ws10-u--mb8x@tablet ws10-u--mb12x@desktop"
+  >
+    <a
+      class="ws10-c-tabs-filter__tab ws10-c-filter ws10-c-filter--active ws10-c-filter--nocheck"
+      href="#panel-1"
+      role="tab"
+      id="tab-1"
+    >
+      <span
+        class="ws10-c-filter__label"
+        data-analytics-category="cta"
+        data-analytics-element="tab distributiva"
+        data-analytics-context="movil+fibra"
+        data-analytics-id="-1971469830803"
+      >
+        <svg
+          class="icon ws10-c-filter__icon"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          width="24px"
+          height="24px"
+        >
+          <title>titulo</title>
+          <use class="icon-v3" xlink:href="#icon-connected-devices"></use>
+        </svg>
+        Móvil + Fibra
+      </span>
+    </a>
+
+    <a
+      class="ws10-c-tabs-filter__tab ws10-c-filter ws10-c-filter--nocheck"
+      href="#panel-2"
+      role="tab"
+      id="tab-2"
+    >
+      <span
+        class="ws10-c-filter__label"
+        data-analytics-category="cta"
+        data-analytics-element="tab distributiva"
+        data-analytics-context="tarifa movil"
+        data-analytics-id="-9590319105265"
+      >
+        <svg
+          class="icon ws10-c-filter__icon"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          width="24px"
+          height="24px"
+        >
+          <title>titulo</title>
+          <use class="icon-v3" xlink:href="#icon-sim"></use>
+        </svg>
+        Tarifa Móvil
+      </span>
+    </a>
+
+    <a
+      class="ws10-c-tabs-filter__tab ws10-c-filter ws10-c-filter--nocheck"
+      href="#panel-3"
+      role="tab"
+      id="tab-3"
+    >
+      <span
+        class="ws10-c-filter__label"
+        data-analytics-category="cta"
+        data-analytics-element="tab distributiva"
+        data-analytics-context="tarifa familiar"
+        data-analytics-id="-1598140428731"
+      >
+        <svg
+          class="icon ws10-c-filter__icon"
+          xmlns="http://www.w3.org/2000/svg"
+          xmlns:xlink="http://www.w3.org/1999/xlink"
+          width="24px"
+          height="24px"
+        >
+          <title>titulo</title>
+          <use class="icon-v3" xlink:href="#icon-family"></use>
+        </svg>
+        Tarifa Familiar
+      </span>
+    </a>
+  </div>
+  <div class="ws10-c-tabs-filter__w-panels">
+
+    <!----movil+fibra----->
+    {{> rates-fiber-mobile }}
+    <!----tarifa móvil--->
+    {{> rates-mobile }}
+    <!----tarifa familiar--->
+    {{> rates-family }}
+
+  </div>
+</section>
