@@ -1,0 +1,49 @@
+<!-- POPUP TV -->
+<div
+  class="ws10-c-backdrop js-backdrop"
+  data-ws10-js="backdrop"
+  aria-hidden="true"
+>
+    <section
+      id="seriefans"
+      class="ws10-c-backdrop__item js-backdrop-item"
+      aria-hidden="true"
+      role="dialog"
+      aria-modal="true"
+    >
+      <div class="ws10-c-backdrop__head">
+        <button
+          class="ws10-c-backdrop__close js-backdrop-close"
+          aria-hidden="false"
+        >
+          <svg
+            class="ws10-c-backdrop__close-icon"
+            xmlns="http://www.w3.org/2000/svg"
+            xmlns:xlink="http://www.w3.org/1999/xlink"
+          >
+            <title>Close</title>
+            <use xlink:href="#icon-close"></use>
+          </svg>
+        </button>
+      </div>
+      <div
+        class="ws10-c-backdrop__content js-backdrop-content ws10-u--pt0 ws10-u--mt0"
+      >
+        <p class="ws10-u-heading--4 ws10-u-heading--4-lt ws10-align--center ws10-u--pt0 ws10-u--mt0">
+            {{ tv.popup.title }}
+        </p>
+        <p class="ws10-align--center">{{ tv.popup.description }}</p>
+        <p class="ws10-align--center">{{ tv.popup.included }}</p>
+
+        <ul class="ws10-flex ws10-flex__wrap ws10-u--ml0">
+          {{#each tv.popup.img}}
+            <li class="ws10-o-layout__item ws10-u--1/4 ws10-u--1/7@tablet ws10-align--center ws10-u--pl0">
+                {{> picture params=this}}
+                <p class="ws10-c-paragraph ws10-u--mb0 ws10-u--mt2x">{{alt}}</p>
+            </li>
+            {{/each}}
+        </ul>
+
+      </div>
+    </section>
+</div>

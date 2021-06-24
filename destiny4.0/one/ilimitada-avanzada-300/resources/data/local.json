@@ -78,35 +78,313 @@
         ]
     },
 
-  "movil": {
-    "title": "Datos ilimitados para que no te pierdas nada",
-    "velocidad": "10"
+  "mobile": {
+    "section": "Móvil",
+    "title": "Datos ilimitados para no perderte nada",
+    "mobile": "img/section-mobile/mobile-apps",
+
+    "productDetail": [
+      {
+        "icon": "#icon-thunder-2grey",
+        "description": "Datos ilimitados <strong>a alta velocidad (10Mbps de bajada y de subida).</strong>"
+      },
+      {
+        "icon": "#icon-music-and-movies-mid",
+        "description": "Disfruta de música sin límites con una calidad extrema y sin cortes."
+      },
+      {
+        "icon": "#icon-video-mid",
+        "description": "Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
+      },
+      {
+        "icon": "#icon-unified-communication-mid",
+        "description": [
+          "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+        ]
+      },
+      {
+        "icon": "#icon-roaming-mid",
+        "description": "<strong>Roaming incluido en la Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU."
+      },
+      {
+        "icon": "#icon-5G_esp-mid",
+        "description": "Todo con la nueva red 5G."
+      }
+    ]
   },
+
+  "secondLine": {
+    "title": "Llévate la 2ª Línea GRATIS 1 año",
+
+    "productDetail": [
+      {
+        "icon": "#icon-thunder-1grey",
+        "description": "Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong>"
+      },
+      {
+        "icon": "#icon-chat-mid",
+        "description": "Consulta tus redes sociales y usa aplicaciones de mensajería instantánea."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
+      },
+      {
+        "icon": "#icon-unified-communication-mid",
+        "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+      }
+    ],
+    "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra."
+  },
+  "deco": {
+    "title": "Llévate la 2ª Línea GRATIS 1 año",
+
+    "productDetail": [
+      {
+        "icon": "#icon-thunder-1grey",
+        "description": "Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong>"
+      },
+      {
+        "icon": "#icon-chat-mid",
+        "description": "Consulta tus redes sociales y usa aplicaciones de mensajería instantánea."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
+      },
+      {
+        "icon": "#icon-unified-communication-mid",
+        "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+      }
+    ],
+    "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra."
+  },
+
+
   "fibra":{
     "dispositivos":"12"
   },
 
-  "secondLine": {
-      "title": "Llévate la 2ª Línea GRATIS 1 año",
-      "details": [
-          ["Datos ilimitados", " a media velocidad (2Mbps de bajada y de subida)"],
-          ["Consulta tus redes sociales y usa aplicaciones de mensajería instantánea"],
-          ["Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos"],
-          ["Llamadas y SMS ilimitados", "con cualquier operador nacional las 24 horas, establecimiento incluido."]
-      ],
-      "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra"
-  },
   "tv": {
-      "title": "Televisión",
-      "heading": "Pack TV Universal GRATIS",
-      "heading2": "con más de 30 canales internacionales",
+      "section": "Televisión",
+      "title": "Pack TV Universal GRATIS",
+      "subtitle": "AMC, Eurosport 1 y hasta 30",
       "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+      "img": [
+        {
+          "imgJpg":"",
+          "imgPng":"img/section-tv/amc-desktop",
+          "alt": "logo amc"
+        },
+        {
+          "imgJpg":"",
+          "imgPng":"img/section-tv/eurosport-desktop",
+          "alt": "logo Eurosport"
+        },
+        {
+          "imgJpg":"",
+          "imgPng":"img/section-tv/tcm-desktop",
+          "alt": "logo TCM"
+        }
+
+      ],
       "allChannels": "Ver todos los canales incluidos",
       "info": "(*) Puedes añadir más packs de TV en el proceso de compra.",
       "popup": {
           "title": "¿Qué incluye el Pack Universal?",
           "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
-          "included": "Contenidos incluidos:"
+          "included": "Contenidos incluidos:",
+          "img": [
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/amc-desktop",
+              "alt": "AMC"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/foxlife-desktop",
+              "alt": "FOX Life"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/cosmo-desktop",
+              "alt": "COSMO Life"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/comedy-desktop",
+              "alt": "Comedy Central"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/xtrm-desktop",
+              "alt": "XTRM"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/tcm-desktop",
+              "alt": "TCM"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/sundance-desktop",
+              "alt": "Sundance TV"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/natgeo-desktop",
+              "alt": "National Geographic"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/natgeoplus-desktop",
+              "alt": "National Geographic Now"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/cocina-desktop",
+              "alt": "Cocina"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/decasa-desktop",
+              "alt": "Decasa"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/mtv-desktop",
+              "alt": "MTV"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/mymtv-desktop",
+              "alt": "MyMTV Music"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/solmusica-desktop",
+              "alt": "SOL Música"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/eurosport-desktop",
+              "alt": "Eurosport 1"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/selekt-desktop",
+              "alt": "SELEKT"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/euronews-desktop",
+              "alt": "Euronews"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/cnn-international-desktop",
+              "alt": "CNN International"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/comedy-central-desktop",
+              "alt": "Az Corazón"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/cnbc-desktop",
+              "alt": "CNBC"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/el-trece-tv-desktop",
+              "alt": "El Trece TV"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/cubavisio-n-internacional-desktop",
+              "alt": "Cubavisión Internacional"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/bbc-hd-desktop",
+              "alt": "BBC HD"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/bloomberg-desktop",
+              "alt": "BLOOMERANG"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/ve-plus-tv-desktop",
+              "alt": "Ve Plus TV"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/tv-chile-desktop",
+              "alt": "TV Chile"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/caracol-desktop",
+              "alt": "Caracol"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/aljazeera-desktop",
+              "alt": "Aljazeera"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/cgtn-desktop",
+              "alt": "CGTN"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/rt-desktop",
+              "alt": "RT"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/canal-parlamento-desktop",
+              "alt": "Canal Parlamento"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/france-24-desktop",
+              "alt": "France 24"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/pro-tv-desktop",
+              "alt": "PRO TV"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/tv-5-monde-desktop",
+              "alt": "TV5 Monde"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/ewtn-desktop",
+              "alt": "EWTN"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/dw-desktop",
+              "alt": "DW"
+            },
+            {
+              "imgJpg":"",
+              "imgPng":"img/section-tv/popup/universal/tvp-desktop",
+              "alt": "TVP"
+            }
+          ]
       }
   },
 
