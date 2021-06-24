@@ -12,44 +12,78 @@
   "loquiero": [ "1285769", "1285751" ]
 },
 
-  "header-ticket": {
-    "title-1": "50% dto. 3 meses",
-    "title-2": ["Todo lo que necesitas", "para conquistar tu", "hogar ilimitable"],
-    "icono": "img/banner/icono-bestprice.svg",
-    "icono-texto": "Mejor Precio Vodafone",
 
-    "title-ticket": "Vodafone One Ilimitada Avanzada 600Mbps",
-    "description": [
-        {
-            "title": "Datos y minutos ilimitados",
-            "subtitle": "Velocidad alta"
-        }, {
-            "title": "Segunda línea GRATIS 1 año",
-            "subtitle": "Datos y minutos ilimitados"
-        }, {
-            "title": "600Mbps Fibra Óptica",
-            "subtitle": "+ llamadas ilimitadas en fijo"
-        }, {
-            "title": "Pack TV Universal GRATIS",
-            "subtitle": "con más de 30 canales internacionales"
-        }
-    ]
+  "header": {
+      "title": "Fibra + Móvil <strong>50% dto. 3 meses</strong>",
+      "title2": "<strong>Todo lo que necesitas</strong> para conquistar tu <strong>hogar ilimitable</strong>",
+      "icon": "img/banner/icono-bestprice.svg",
+      "label": "Mejor Precio Vodafone"
+  },
+  "cardRates": {
+      "title": "Vodafone One Ilimitada Avanzada 600Mbps",
+      "description": [
+          {
+              "icon": "icon-mobile",
+              "title": "Datos y minutos ilimitados",
+              "subtitle": "Velocidad alta",
+              "secondIcon": "icon-thunder-2grey",
+              "color": "ws10-c-card-rate__product-txt--primary"
+          }, {
+              "icon": "icon-sim",
+              "title": "Segunda línea GRATIS 1 año",
+              "subtitle": "Datos y minutos ilimitados",
+              "js-vf": "_secondLine"
+          }, {
+              "icon": "icon-broadband-or-wifi",
+              "title": "600Mbps Fibra Óptica",
+              "subtitle": "+ llamadas ilimitadas en fijo"
+          }, {
+              "icon": "icon-tv",
+              "title": "Pack TV Universal GRATIS",
+              "subtitle": "con más de 30 canales internacionales"
+          }
+      ],
+      "prizes": [
+          {
+              "js-vf": "_newNumber",
+              "hidden": "ws10-u--hidden",
+              "offers": {
+                  "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+                  "discount": "50% dto. 3 meses",
+                  "label": "Permanencia 1 año",
+                  "discountPrice": "<del>30,49€/mes</del>",
+                  "finalPrice": "61,99€/<sub>mes</sub>"
+              },
+              "cta": {
+                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285769&tcli=0&tta=1",
+                  "context": "lo quiero",
+                  "element": "cardrate",
+                  "category": "cta",
+                  "id": "-7498449761489",
+                  "label": "Lo quiero"
+              }
+          }, {
+              "js-vf": "_portability",
+              "hidden": "",
+              "offers": {
+                  "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+                  "discount": "50% dto. 3 meses",
+                  "label": "Permanencia 1 año",
+                  "discountPrice": "<del>30,49€/mes</del>",
+                  "finalPrice": "61,99€/<sub>mes</sub>"
+              },
+              "cta": {
+                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285751&tcli=0&tta=1",
+                  "context": "lo quiero",
+                  "element": "cardrate",
+                  "category": "cta",
+                  "id": "-7498449761489",
+                  "label": "Lo quiero"
+              }
+          }
+      ]
   },
 
-
-  "price": [
-    {
-      "permanencia": "Permanencia 1 año",
-        "precio_sinpromo": "61,99",
-        "precio_conpromo": "30,49",
-        "precio_depuespromo": "79,49"
-    }, {
-        "permanencia": "Permanencia 1 año",
-        "precio_sinpromo": "61,99",
-        "precio_conpromo": "30,49",
-        "precio_depuespromo": "66,98"
-    }
-  ],
 
   "movil": {
     "title": "Datos ilimitados para que no te pierdas nada",

@@ -20,7 +20,7 @@
                                           </p>
                                       </div>
                                   </li>
-                                  <li data-js-vf="js-vf">
+                                  <li data-js-vf="_secondLine">
                                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                           <use xlink:href="#icon-sim"></use>
                                       </svg>

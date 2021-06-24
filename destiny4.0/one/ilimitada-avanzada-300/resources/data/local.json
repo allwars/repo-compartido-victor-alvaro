@@ -20,7 +20,8 @@
                 "icon": "icon-mobile",
                 "title": "Datos y minutos ilimitados",
                 "subtitle": "Velocidad alta",
-                "secondIcon": "icon-thunder-2grey"
+                "secondIcon": "icon-thunder-2grey",
+                "color": "ws10-c-card-rate__product-txt--primary"
             }, {
                 "icon": "icon-sim",
                 "title": "Segunda línea GRATIS 1 año",
