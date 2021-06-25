@@ -56,7 +56,6 @@ tools.onFrameworkReady = () => {
 
                 company = json.company;
                 if (codes===true ){
-                    buttonSearch.setAttribute("data-analytics-code", inputCode);
                     companySelected.innerHTML = company;
                     // descomentar en producción
                     checkPopUp("valido");
@@ -106,6 +105,8 @@ tools.onFrameworkReady = () => {
 
     const checkValueLength = event => {
         (event.keyCode === 8 && inputSearch.value.length === 16) || inputSearch.value.length === 16 ? buttonSearch.disabled = false : buttonSearch.disabled = true ;
+        const inputCode = inputSearch.value.toUpperCase();
+        (buttonSearch.disabled === false) ? buttonSearch.setAttribute("data-analytics-code", inputCode) : buttonSearch.setAttribute("data-analytics-code", '');
     }
     inputSearch.addEventListener('keypress', e => inputHandler(e.target.value + e.key));
     inputSearch.addEventListener('keyup', checkValueLength);
