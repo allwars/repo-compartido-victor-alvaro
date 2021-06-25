@@ -1,5 +1,631 @@
 /**
- * Vodafone Reboot Framework: Version 2.11.4. Generation Date: 2021-06-18T11:35:40.911Z
+ * Vodafone Reboot Framework: Version 2.17.0. Generation Date: 2021-06-25T07:04:43.034Z
  */
 
-!function(t){var e={};function o(r){if(e[r])return e[r].exports;var n=e[r]={i:r,l:!1,exports:{}};return t[r].call(n.exports,n,n.exports,o),n.l=!0,n.exports}o.m=t,o.c=e,o.d=function(t,e,r){o.o(t,e)||Object.defineProperty(t,e,{enumerable:!0,get:r})},o.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},o.t=function(t,e){if(1&e&&(t=o(t)),8&e)return t;if(4&e&&"object"==typeof t&&t&&t.__esModule)return t;var r=Object.create(null);if(o.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:t}),2&e&&"string"!=typeof t)for(var n in t)o.d(r,n,function(e){return t[e]}.bind(null,n));return r},o.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return o.d(e,"a",e),e},o.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},o.p="",o(o.s=1)}([function(t,e){},function(t,e,o){"use strict";o.r(e),performance&&performance.mark&&performance.mark("micro exec");var r=document.querySelector("link[data-ws10-microcss]"),n=function(t,e,o){var r=null;for(;t;){if(t.matches(e)){r=t;break}if(o&&t.matches(o))break;t=t.parentElement}return r}(document.querySelector("#total600mb"),"[data-ws10-microsite]"),i=n?n.dataset.pathmicrosite:"",a=document.documentElement.clientWidth,c=a>1024,d=a<=1024&&a>=768,u=a<768;function l(){p.cssLoaded||(document.querySelector("#total600mb")&&document.querySelector("#total600mb").removeAttribute("style"),p.cssLoaded=!0,p.onStylesReady(),performance&&performance.mark&&performance.mark("micro css ready"))}function s(){document.removeEventListener("ws10:frameworkReady",s),window.ws10.utils.init(document.querySelector("#total600mb")),p.onFrameworkReady(),performance&&performance.mark&&(performance.mark("micro js ready"),console.timeEnd("microsite instantiation"))}function m(){var t=document.styleSheets,e=0;return[].forEach.call(t,(function(t){var o=t.href||"";-1!==o.indexOf(i+"css/ws10")&&(console.log("WS10 CSS Loaded"),e++),-1!==o.indexOf(i+"css/styles.css")&&(console.log("MICRO CSS Loaded"),e++)})),2===e}m()?m()&&setTimeout(l,100):r?(r.addEventListener("load",l),setTimeout((function(){console.warn("Microsite visible by 3s timeout"),l()}),3e3)):setTimeout(l,100),window.ws10?setTimeout(s,100):document.addEventListener("ws10:frameworkReady",s);var p={isDesktop:c,isTablet:d,isMobile:u,micrositeId:"#total600mb",micrositePath:i,init:function(){},cssLoaded:!1,onStylesReady:function(){return null},onFrameworkReady:function(){return null}},f=p,y=o(0);function v(t,e){var o=Object.keys(t);if(Object.getOwnPropertySymbols){var r=Object.getOwnPropertySymbols(t);e&&(r=r.filter((function(e){return Object.getOwnPropertyDescriptor(t,e).enumerable}))),o.push.apply(o,r)}return o}function _(t){for(var e=1;e<arguments.length;e++){var o=null!=arguments[e]?arguments[e]:{};e%2?v(Object(o),!0).forEach((function(e){b(t,e,o[e])})):Object.getOwnPropertyDescriptors?Object.defineProperties(t,Object.getOwnPropertyDescriptors(o)):v(Object(o)).forEach((function(e){Object.defineProperty(t,e,Object.getOwnPropertyDescriptor(o,e))}))}return t}function b(t,e,o){return e in t?Object.defineProperty(t,e,{value:o,enumerable:!0,configurable:!0,writable:!0}):t[e]=o,t}var h={default_plan:"vodafone one ilimitada plus 300Mbps",plans_add2cart:[{product_name:"vodafone one ilimitada plus 300Mbps",product_category:"movil+fibra",product_variant:"Datos y minutos ilimitados+300Mbps Fibra",promotion_price_name:"Promo colectivos + Promo 50% One Ilimitada Plus 300Mbps",promotion_gift_name:"",product_id:"",product_detail:"",product_sale_type:"yes:transactional",product_additional_lines:[{product_name:"tarifa movil lite",product_variant:"4GB Datos móviles 5G",product_category:"movil",promotion_price_name:"2 x 1 lite",promotion_gift_name:"",product_id:""}],product_packs_tv:[{product_name:"pack seriefans",product_category:"tv",promotion_price_name:"seriefans incluido en ilimitada plus y one ilimitada plus",promotion_gift_name:"",product_id:""}]},{product_name:"vodafone one ilimitada plus 600Mbps",product_category:"movil+fibra",product_variant:"Datos y minutos ilimitados+600Mbps Fibra",promotion_price_name:"Promo colectivos + Promo 50% + T&P One Ilimitada Plus 600Mb",promotion_gift_name:"",product_id:"",product_detail:"",product_sale_type:"yes:transactional",product_additional_lines:[{product_name:"tarifa movil lite",product_category:"movil","product variant":"4GB Datos móviles 5G",promotion_price_name:"2 x 1 lite",promotion_gift_name:"",product_id:""}],product_packs_tv:[{product_name:"pack seriefans",product_category:"tv",promotion_price_name:"seriefans incluido en ilimitada plus y one ilimitada plus",promotion_gift_name:"",product_id:""}]},{product_name:"vodafone one ilimitada plus 300Mbps",product_category:"movil+fibra",product_variant:"Datos y minutos ilimitados+300Mbps Fibra",promotion_price_name:"Promo colectivos + Promo 50% One Ilimitada Plus 300Mbps",promotion_gift_name:"",product_id:"",product_detail:"",product_sale_type:"yes:transactional",product_packs_tv:[{product_name:"pack seriefans",product_category:"tv",promotion_price_name:"seriefans incluido en ilimitada plus y one ilimitada plus",promotion_gift_name:"",product_id:""}]},{product_name:"vodafone one ilimitada plus 600Mbps",product_category:"movil+fibra",product_variant:"Datos y minutos ilimitados+600Mbps Fibra",promotion_price_name:"Promo colectivos + Promo 50% + T&P One Ilimitada Plus 600Mb",promotion_gift_name:"",product_id:"",product_detail:"",product_sale_type:"yes:transactional",product_packs_tv:[{product_name:"pack seriefans",product_category:"tv",promotion_price_name:"seriefans incluido en ilimitada plus y one ilimitada plus",promotion_gift_name:"",product_id:""}]}]};window.utag_data=_(_({},window.utag_data),h);function g(t,e){return function(t){if(Array.isArray(t))return t}(t)||function(t,e){if("undefined"==typeof Symbol||!(Symbol.iterator in Object(t)))return;var o=[],r=!0,n=!1,i=void 0;try{for(var a,c=t[Symbol.iterator]();!(r=(a=c.next()).done)&&(o.push(a.value),!e||o.length!==e);r=!0);}catch(t){n=!0,i=t}finally{try{r||null==c.return||c.return()}finally{if(n)throw i}}return o}(t,e)||S(t,e)||function(){throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}()}function w(t){return function(t){if(Array.isArray(t))return A(t)}(t)||function(t){if("undefined"!=typeof Symbol&&Symbol.iterator in Object(t))return Array.from(t)}(t)||S(t)||function(){throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}()}function S(t,e){if(t){if("string"==typeof t)return A(t,e);var o=Object.prototype.toString.call(t).slice(8,-1);return"Object"===o&&t.constructor&&(o=t.constructor.name),"Map"===o||"Set"===o?Array.from(t):"Arguments"===o||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(o)?A(t,e):void 0}}function A(t,e){(null==e||e>t.length)&&(e=t.length);for(var o=0,r=new Array(e);o<e;o++)r[o]=t[o];return r}f.onStylesReady=function(){console.log("Site visually ready")},f.onFrameworkReady=function(){console.log("Site functionality ready");var t=document.querySelectorAll('[data-js-vf="_buttonSpeed"]'),e=document.querySelectorAll('[data-js-vf="_buttonTypeLine"]'),o=document.querySelectorAll('[data-js-vf="_portability"]'),r=document.querySelectorAll('[data-js-vf="_newNumber"]'),n=document.querySelectorAll('[data-js-vf="_secondLine"]'),i=document.querySelectorAll('[data-js-vf="_secondLine2"]'),a=(document.querySelector('[data-js-vf="_showOrHideSticky"]'),document.querySelector('[data-js-vf="_stickyRate"]')),c=document.querySelector('[data-js="_banner"]'),d=document.querySelector('[data-js-vf="_ticket"]'),u=document.querySelector(".MDDfooter"),l=document.querySelector(".mdd-desktop"),s=(window.location.search,function(){var t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"hide",e=arguments.length>1&&void 0!==arguments[1]?arguments[1]:[];if(0===e.length)return console.error("[Fn: toogleInfoRegular] The param listInfo is empty ");var o={hide:function(){e.forEach((function(t){t.classList.add("ws10-u--hidden"),t.setAttribute("aria-hidden","true")}))},show:function(){e.forEach((function(t){t.classList.remove("ws10-u--hidden"),t.removeAttribute("aria-hidden","true")}))}};return o[t](),!1}),m=function(t){({newNumber:function(){return f()},portability:function(){return p()}})[t.getAttribute("data-js-vf-value")]()},p=function(){s("show",[].concat(w(o),w(n),w(i))),s("hide",r)},f=function(){s("show",r),s("hide",[].concat(w(o),w(n),w(i)))},v=function(){c.getBoundingClientRect().bottom-80<0?a.classList.remove("ws10-u--hidden"):a.classList.add("ws10-u--hidden")},_=function(){var t=u.getBoundingClientRect(),e=a.getBoundingClientRect();t.top<e.top&&a.classList.add("ws10-u--hidden")},b=function(){c.getBoundingClientRect().top<0?d.setAttribute("style","position:fixed; top: 70px;"):d.setAttribute("style","position:absolute; top: 40px;")};window.matchMedia("(min-width: 768px)").matches?(b(),document.addEventListener("scroll",(function(){var t,e;b(),t=d.offsetHeight,e=l.offsetHeight,u.getBoundingClientRect().top-(t+e)<0?d.classList.add("vf-ticket__opacity0"):d.classList.remove("vf-ticket__opacity0"),v(),_()}))):document.addEventListener("scroll",(function(){v(),_()})),w(t).forEach((function(t){t.addEventListener("click",(function(){return m(t)}))})),w(e).forEach((function(t){t.addEventListener("click",(function(){return m(t)}))})),y.analyticsAndThirdURLForCta,document.querySelectorAll("[data-cta]").forEach((function(t){var e,o,r,n,i,a,c,d,u,l,s,m,p,f,v=t.querySelector("[data-cta-a11y]"),_=g(t.getAttribute("data-cta").split(":"),3),b=_[0],h=_[1],w=_[2];void 0!==(null===(e=y.analyticsAndThirdURLForCta[b][h][w])||void 0===e?void 0:e.url)&&t.setAttribute("href",null===(o=y.analyticsAndThirdURLForCta[b][h][w])||void 0===o?void 0:o.url),void 0!==(null===(r=y.analyticsAndThirdURLForCta[b][h][w])||void 0===r?void 0:r.category)&&t.setAttribute("data-analytics-category",null===(n=y.analyticsAndThirdURLForCta[b][h][w])||void 0===n?void 0:n.category),void 0!==(null===(i=y.analyticsAndThirdURLForCta[b][h][w])||void 0===i?void 0:i.element)&&t.setAttribute("data-analytics-element",null===(a=y.analyticsAndThirdURLForCta[b][h][w])||void 0===a?void 0:a.element),void 0!==(null===(c=y.analyticsAndThirdURLForCta[b][h][w])||void 0===c?void 0:c.context)&&t.setAttribute("data-analytics-context",null===(d=y.analyticsAndThirdURLForCta[b][h][w])||void 0===d?void 0:d.context),void 0!==(null===(u=y.analyticsAndThirdURLForCta[b][h][w])||void 0===u?void 0:u.id)&&t.setAttribute("data-analytics-id",null===(l=y.analyticsAndThirdURLForCta[b][h][w])||void 0===l?void 0:l.id),void 0!==(null===(s=y.analyticsAndThirdURLForCta[b][h][w])||void 0===s?void 0:s.callToAction)&&t.setAttribute("onmousedown",null===(m=y.analyticsAndThirdURLForCta[b][h][w])||void 0===m?void 0:m.callToAction),void 0!==(null===(p=y.analyticsAndThirdURLForCta[b][h][w])||void 0===p?void 0:p.a11y)&&(v.innerHTML=null===(f=y.analyticsAndThirdURLForCta[b][h][w])||void 0===f?void 0:f.a11y)}))}}]);
+/******/ (function(modules) { // webpackBootstrap
+/******/ 	// The module cache
+/******/ 	var installedModules = {};
+/******/
+/******/ 	// The require function
+/******/ 	function __webpack_require__(moduleId) {
+/******/
+/******/ 		// Check if module is in cache
+/******/ 		if(installedModules[moduleId]) {
+/******/ 			return installedModules[moduleId].exports;
+/******/ 		}
+/******/ 		// Create a new module (and put it into the cache)
+/******/ 		var module = installedModules[moduleId] = {
+/******/ 			i: moduleId,
+/******/ 			l: false,
+/******/ 			exports: {}
+/******/ 		};
+/******/
+/******/ 		// Execute the module function
+/******/ 		modules[moduleId].call(module.exports, module, module.exports, __webpack_require__);
+/******/
+/******/ 		// Flag the module as loaded
+/******/ 		module.l = true;
+/******/
+/******/ 		// Return the exports of the module
+/******/ 		return module.exports;
+/******/ 	}
+/******/
+/******/
+/******/ 	// expose the modules object (__webpack_modules__)
+/******/ 	__webpack_require__.m = modules;
+/******/
+/******/ 	// expose the module cache
+/******/ 	__webpack_require__.c = installedModules;
+/******/
+/******/ 	// define getter function for harmony exports
+/******/ 	__webpack_require__.d = function(exports, name, getter) {
+/******/ 		if(!__webpack_require__.o(exports, name)) {
+/******/ 			Object.defineProperty(exports, name, { enumerable: true, get: getter });
+/******/ 		}
+/******/ 	};
+/******/
+/******/ 	// define __esModule on exports
+/******/ 	__webpack_require__.r = function(exports) {
+/******/ 		if(typeof Symbol !== 'undefined' && Symbol.toStringTag) {
+/******/ 			Object.defineProperty(exports, Symbol.toStringTag, { value: 'Module' });
+/******/ 		}
+/******/ 		Object.defineProperty(exports, '__esModule', { value: true });
+/******/ 	};
+/******/
+/******/ 	// create a fake namespace object
+/******/ 	// mode & 1: value is a module id, require it
+/******/ 	// mode & 2: merge all properties of value into the ns
+/******/ 	// mode & 4: return value when already ns object
+/******/ 	// mode & 8|1: behave like require
+/******/ 	__webpack_require__.t = function(value, mode) {
+/******/ 		if(mode & 1) value = __webpack_require__(value);
+/******/ 		if(mode & 8) return value;
+/******/ 		if((mode & 4) && typeof value === 'object' && value && value.__esModule) return value;
+/******/ 		var ns = Object.create(null);
+/******/ 		__webpack_require__.r(ns);
+/******/ 		Object.defineProperty(ns, 'default', { enumerable: true, value: value });
+/******/ 		if(mode & 2 && typeof value != 'string') for(var key in value) __webpack_require__.d(ns, key, function(key) { return value[key]; }.bind(null, key));
+/******/ 		return ns;
+/******/ 	};
+/******/
+/******/ 	// getDefaultExport function for compatibility with non-harmony modules
+/******/ 	__webpack_require__.n = function(module) {
+/******/ 		var getter = module && module.__esModule ?
+/******/ 			function getDefault() { return module['default']; } :
+/******/ 			function getModuleExports() { return module; };
+/******/ 		__webpack_require__.d(getter, 'a', getter);
+/******/ 		return getter;
+/******/ 	};
+/******/
+/******/ 	// Object.prototype.hasOwnProperty.call
+/******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
+/******/
+/******/ 	// __webpack_public_path__
+/******/ 	__webpack_require__.p = "";
+/******/
+/******/
+/******/ 	// Load entry module and return exports
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/main.js");
+/******/ })
+/************************************************************************/
+/******/ ({
+
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/analyticsAndThirdURLForCta.js":
+/*!***********************************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/analyticsAndThirdURLForCta.js ***!
+  \***********************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+
+
+/***/ }),
+
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/main.js":
+/*!*************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/main.js ***!
+  \*************************************************************************************************************************************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/tools.js");
+/* harmony import */ var _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./analyticsAndThirdURLForCta */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/analyticsAndThirdURLForCta.js");
+/* harmony import */ var _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _utag_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./utag_data */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/utag_data.js");
+function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest(); }
+
+function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _iterableToArrayLimit(arr, i) { var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"]; if (_i == null) return; var _arr = []; var _n = true; var _d = false; var _s, _e; try { for (_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
+
+function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
+
+function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
+
+function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
+
+function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
+
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
+
+function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
+
+function _arrayLikeToArray(arr, len) { if (len == null || len > arr.length) len = arr.length; for (var i = 0, arr2 = new Array(len); i < len; i++) { arr2[i] = arr[i]; } return arr2; }
+
+
+
+
+/*
+ *   Método que se dispara cuando el ws2r.vX.css
+ *   ya se ha cargado y ha pintado la web
+ * */
+
+_tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
+  console.log('Site visually ready'); // DO SOMETHING
+};
+/*
+ *   Método que se dispara cuando el ws2r.vX.js
+ *   ya se ha cargado y está diponible.
+ * */
+
+
+_tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
+  console.log('Site functionality ready'); // Speed Selector
+
+  var typeOfSpeedButton = document.querySelectorAll('[data-js-vf="_buttonSpeed"]');
+  var typeOfLineButton = document.querySelectorAll('[data-js-vf="_buttonTypeLine"]'); // Bloques de información para mostrar y/o ocultar en el HTML
+
+  var infoPortability = document.querySelectorAll('[data-js-vf="_portability"]');
+  var infoNewNumber = document.querySelectorAll('[data-js-vf="_newNumber"]');
+  var secondLine = document.querySelectorAll('[data-js-vf="_secondLine"]');
+  var secondLine2 = document.querySelectorAll('[data-js-vf="_secondLine2"]');
+  var showSticky = document.querySelector('[data-js-vf="_showOrHideSticky"]');
+  var stickyRate = document.querySelector('[data-js-vf="_stickyRate"]');
+  var banner = document.querySelector('[data-js="_banner"]');
+  var ticket = document.querySelector('[data-js-vf="_ticket"]');
+  var mddFooter = document.querySelector('.MDDfooter');
+  var mddHeader = document.querySelector('.mdd-desktop');
+  var queryString = window.location.search;
+  /**
+   * Declaración de las fucniones.
+   */
+
+  /**
+   * Función para mostrar u ocultar elementos dentro del HTML en función de la acción que se le pase.
+   * @param {string} action tipo de acción a ejecutar
+   * @param {array} listInfo Listado de elementos HTML sobre los que se ejecutará la acción
+   * @returns
+   */
+
+  var toggleInfo = function toggleInfo() {
+    var action = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 'hide';
+    var listInfo = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : [];
+    if (listInfo.length === 0) return console.error("[Fn: toogleInfoRegular] The param listInfo is empty ");
+    var actions = {
+      'hide': function hide() {
+        listInfo.forEach(function (item) {
+          item.classList.add('ws10-u--hidden');
+          item.setAttribute('aria-hidden', 'true');
+        });
+      },
+      'show': function show() {
+        listInfo.forEach(function (item) {
+          item.classList.remove('ws10-u--hidden');
+          item.removeAttribute('aria-hidden', 'true');
+        });
+      }
+    };
+    actions[action]();
+    return false;
+  };
+  /**
+   * Función que recibe un element HTML para ver que tipo de acción va a ejecutar.
+   * @param {HTMLElement} label Elemento del HTML que deciditá la acción
+   */
+
+
+  var actionsType = function actionsType(label) {
+    var speedType = label.getAttribute('data-js-vf-value');
+    var rate = {
+      "newNumber": function newNumber() {
+        return _newNumber();
+      },
+      "portability": function portability() {
+        return _portability();
+      }
+    };
+    rate[speedType]();
+  };
+  /**
+   * Función que Oculta la información de la tarifa recomendad y muestra la información de la tarifa regular.
+   * Marcar el checkbutton correspondiente
+   */
+
+  /**
+   * Función que MUESTRA la información de la TARIFA RECOMENDA y OCULTA la información de la TARIFA REGULAR
+   */
+
+  /**
+   * Función que MUESTRA la información de PORTABILIDAD y OCULTA la información de la NUEVO NUMERO
+   */
+
+
+  var _portability = function _portability() {
+    toggleInfo('show', [].concat(_toConsumableArray(infoPortability), _toConsumableArray(secondLine), _toConsumableArray(secondLine2)));
+    toggleInfo('hide', infoNewNumber);
+  };
+  /**
+   * Función que MUESTRA la información de NUEVO NUMERO y OCULTA la información de la PORTABILIDAD
+   */
+
+
+  var _newNumber = function _newNumber() {
+    toggleInfo('show', infoNewNumber);
+    toggleInfo('hide', [].concat(_toConsumableArray(infoPortability), _toConsumableArray(secondLine), _toConsumableArray(secondLine2)));
+  };
+  /**
+   * Funcionalidades para el ticket de la página
+   */
+
+
+  var showStickyRate = function showStickyRate() {
+    var infoBanner = banner.getBoundingClientRect();
+
+    if (infoBanner.bottom - 80 < 0) {
+      stickyRate.classList.remove('ws10-u--hidden');
+    } else {
+      stickyRate.classList.add('ws10-u--hidden');
+    }
+  };
+
+  var hideStickyRate = function hideStickyRate() {
+    var mddFooterHeight = mddFooter.getBoundingClientRect();
+    var showStickyHeight = stickyRate.getBoundingClientRect();
+
+    if (mddFooterHeight.top < showStickyHeight.top) {
+      stickyRate.classList.add('ws10-u--hidden');
+    }
+  };
+
+  var positionOfTicket = function positionOfTicket() {
+    var infoBanner = banner.getBoundingClientRect();
+
+    if (infoBanner.top < 0) {
+      ticket.setAttribute('style', 'position:fixed; top: 70px;');
+    } else {
+      ticket.setAttribute('style', 'position:absolute; top: 40px;');
+    }
+  };
+
+  var ticketOpacity = function ticketOpacity() {
+    var ticketHeight = ticket.offsetHeight;
+    var mddHeaderHeight = mddHeader.offsetHeight;
+    var mddFooterHeight = mddFooter.getBoundingClientRect();
+
+    if (mddFooterHeight.top - (ticketHeight + mddHeaderHeight) < 0) {
+      ticket.classList.add('vf-ticket__opacity0');
+    } else {
+      ticket.classList.remove('vf-ticket__opacity0');
+    }
+  };
+  /**
+   * Funcionalidades para la analitica de la web
+   */
+
+  /**
+   *
+   *
+   * @param {object} jsonData Información que tiene que incluirse en el HTML
+   */
+
+
+  var addAnalyticsThirdURL = function addAnalyticsThirdURL(jsonData) {
+    var ctaList = document.querySelectorAll('[data-cta]');
+    ctaList.forEach(function (cta) {
+      var _analyticsAndThirdURL, _analyticsAndThirdURL2, _analyticsAndThirdURL3, _analyticsAndThirdURL4, _analyticsAndThirdURL5, _analyticsAndThirdURL6, _analyticsAndThirdURL7, _analyticsAndThirdURL8, _analyticsAndThirdURL9, _analyticsAndThirdURL10, _analyticsAndThirdURL11, _analyticsAndThirdURL12, _analyticsAndThirdURL13, _analyticsAndThirdURL14;
+
+      var textA11y = cta.querySelector('[data-cta-a11y]');
+
+      var _cta$getAttribute$spl = cta.getAttribute('data-cta').split(':'),
+          _cta$getAttribute$spl2 = _slicedToArray(_cta$getAttribute$spl, 3),
+          velocity = _cta$getAttribute$spl2[0],
+          type = _cta$getAttribute$spl2[1],
+          position = _cta$getAttribute$spl2[2];
+
+      if (((_analyticsAndThirdURL = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL === void 0 ? void 0 : _analyticsAndThirdURL.url) !== undefined) cta.setAttribute('href', (_analyticsAndThirdURL2 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL2 === void 0 ? void 0 : _analyticsAndThirdURL2.url);
+      if (((_analyticsAndThirdURL3 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL3 === void 0 ? void 0 : _analyticsAndThirdURL3.category) !== undefined) cta.setAttribute('data-analytics-category', (_analyticsAndThirdURL4 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL4 === void 0 ? void 0 : _analyticsAndThirdURL4.category);
+      if (((_analyticsAndThirdURL5 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL5 === void 0 ? void 0 : _analyticsAndThirdURL5.element) !== undefined) cta.setAttribute('data-analytics-element', (_analyticsAndThirdURL6 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL6 === void 0 ? void 0 : _analyticsAndThirdURL6.element);
+      if (((_analyticsAndThirdURL7 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL7 === void 0 ? void 0 : _analyticsAndThirdURL7.context) !== undefined) cta.setAttribute('data-analytics-context', (_analyticsAndThirdURL8 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL8 === void 0 ? void 0 : _analyticsAndThirdURL8.context);
+      if (((_analyticsAndThirdURL9 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL9 === void 0 ? void 0 : _analyticsAndThirdURL9.id) !== undefined) cta.setAttribute('data-analytics-id', (_analyticsAndThirdURL10 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL10 === void 0 ? void 0 : _analyticsAndThirdURL10.id);
+      if (((_analyticsAndThirdURL11 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL11 === void 0 ? void 0 : _analyticsAndThirdURL11.callToAction) !== undefined) cta.setAttribute('onmousedown', (_analyticsAndThirdURL12 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL12 === void 0 ? void 0 : _analyticsAndThirdURL12.callToAction);
+      if (((_analyticsAndThirdURL13 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL13 === void 0 ? void 0 : _analyticsAndThirdURL13.a11y) !== undefined) textA11y.innerHTML = (_analyticsAndThirdURL14 = _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"][velocity][type][position]) === null || _analyticsAndThirdURL14 === void 0 ? void 0 : _analyticsAndThirdURL14.a11y;
+    });
+  };
+  /**
+   * Bloque de inicialización de la página
+   */
+
+
+  if (window.matchMedia('(min-width: 768px)').matches) {
+    positionOfTicket();
+    document.addEventListener('scroll', function () {
+      positionOfTicket();
+      ticketOpacity();
+      showStickyRate();
+      hideStickyRate();
+    });
+  } else {
+    document.addEventListener('scroll', function () {
+      showStickyRate();
+      hideStickyRate();
+    });
+  }
+
+  _toConsumableArray(typeOfSpeedButton).forEach(function (label) {
+    label.addEventListener('click', function () {
+      return actionsType(label);
+    });
+  });
+
+  _toConsumableArray(typeOfLineButton).forEach(function (label) {
+    label.addEventListener('click', function () {
+      return actionsType(label);
+    });
+  });
+
+  addAnalyticsThirdURL(_analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__["analyticsAndThirdURLForCta"]);
+};
+
+/***/ }),
+
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/tools.js":
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/tools.js ***!
+  \**************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/*
+ * Microsites tools js:
+ * Este fichero es una muestra de utilidades propias para los microsites.
+ * Se puede personalizar a tu gusto
+ *
+ */
+if (performance && performance.mark) {
+  performance.mark('micro exec');
+}
+
+var MICROSITE_ID = '#total600mb';
+var cssMain = document.querySelector('link[data-ws10-microcss]');
+var MICROSITE_SELECTION = closest(document.querySelector(MICROSITE_ID), '[data-ws10-microsite]');
+var PATH_MICROSITE = MICROSITE_SELECTION ? MICROSITE_SELECTION.dataset.pathmicrosite : '';
+var width = document.documentElement.clientWidth;
+var isDesktop = width > 1024;
+var isTablet = width <= 1024 && width >= 768;
+var isMobile = width < 768;
+/*
+ * Searches for the parent node closest to the element, which complies with the selector
+ * @param {} el - Description
+ * @param {} selector - Description
+ * @param {} stopSelector - Description
+ * */
+
+function closest(el, selector, stopSelector) {
+  var retval = null;
+
+  while (el) {
+    if (el.matches(selector)) {
+      retval = el;
+      break;
+    } else if (stopSelector && el.matches(stopSelector)) {
+      break;
+    }
+
+    el = el.parentElement;
+  }
+
+  return retval;
+}
+/*
+ * Removes the style attr, once the stylesheet have been loaded
+ * return undefined
+ * */
+
+
+function _internalCSSInit() {
+  if (!ex.cssLoaded) {
+    if (document.querySelector(MICROSITE_ID)) {
+      document.querySelector(MICROSITE_ID).removeAttribute("style");
+    }
+
+    ex.cssLoaded = true;
+    ex.onStylesReady();
+
+    if (performance && performance.mark) {
+      performance.mark('micro css ready');
+    }
+  }
+}
+/*
+ * Initializes functionality JS, and advices when JS is loaded.
+ * return undefined
+ * */
+
+
+function _internalJSInit() {
+  document.removeEventListener('ws10:frameworkReady', _internalJSInit);
+  window.ws10.utils.init(document.querySelector(MICROSITE_ID));
+  ex.onFrameworkReady();
+
+  if (performance && performance.mark) {
+    performance.mark('micro js ready');
+    console.timeEnd("microsite instantiation");
+  }
+}
+/*
+ * Check if stylesheet CSS is loaded
+ * @return {boolean}
+ * */
+
+
+function isCSSMicroLoaded() {
+  var domStyles = document.styleSheets;
+  var countCSS = 0;
+  [].forEach.call(domStyles, function (item) {
+    var href = item.href || '';
+
+    if (href.indexOf(PATH_MICROSITE + 'css/ws10') !== -1) {
+      console.log('WS10 CSS Loaded');
+      countCSS++;
+    }
+
+    if (href.indexOf(PATH_MICROSITE + 'css/styles.css') !== -1) {
+      console.log('MICRO CSS Loaded');
+      countCSS++;
+    }
+  });
+  return countCSS === 2;
+}
+
+function init() {// DO SOMETHING
+}
+/*
+ * listen event, once have been loaded the files CSS
+ * */
+
+
+if (!isCSSMicroLoaded()) {
+  if (cssMain) {
+    cssMain.addEventListener('load', _internalCSSInit); // Make sure microsite gets visible after 3 secs
+
+    setTimeout(function () {
+      console.warn("Microsite visible by 3s timeout");
+
+      _internalCSSInit();
+    }, 3000);
+  } else {
+    setTimeout(_internalCSSInit, 100);
+  }
+} else if (isCSSMicroLoaded()) {
+  setTimeout(_internalCSSInit, 100);
+}
+/*
+ * listen event, once have been loaded the files JS
+ * */
+
+
+if (window.ws10) {
+  setTimeout(_internalJSInit, 100);
+} else {
+  document.addEventListener('ws10:frameworkReady', _internalJSInit);
+}
+
+var ex = {
+  isDesktop: isDesktop,
+  isTablet: isTablet,
+  isMobile: isMobile,
+  micrositeId: MICROSITE_ID,
+  micrositePath: PATH_MICROSITE,
+  init: init,
+  cssLoaded: false,
+  onStylesReady: function onStylesReady() {
+    return null;
+  },
+  onFrameworkReady: function onFrameworkReady() {
+    return null;
+  }
+};
+/* harmony default export */ __webpack_exports__["default"] = (ex);
+
+/***/ }),
+
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/utag_data.js":
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_plus_600/resources/scripts/utag_data.js ***!
+  \******************************************************************************************************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); if (enumerableOnly) { symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; }); } keys.push.apply(keys, symbols); } return keys; }
+
+function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i] != null ? arguments[i] : {}; if (i % 2) { ownKeys(Object(source), true).forEach(function (key) { _defineProperty(target, key, source[key]); }); } else if (Object.getOwnPropertyDescriptors) { Object.defineProperties(target, Object.getOwnPropertyDescriptors(source)); } else { ownKeys(Object(source)).forEach(function (key) { Object.defineProperty(target, key, Object.getOwnPropertyDescriptor(source, key)); }); } } return target; }
+
+function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
+
+var utag_data = {
+  default_plan: "vodafone one ilimitada plus 300Mbps",
+  plans_add2cart: [{
+    "product_name": "vodafone one ilimitada plus 300Mbps",
+    "product_category": "movil+fibra",
+    "product_variant": "Datos y minutos ilimitados+300Mbps Fibra",
+    "promotion_price_name": "Promo colectivos + Promo 50% One Ilimitada Plus 300Mbps",
+    "promotion_gift_name": "",
+    "product_id": "",
+    "product_detail": "",
+    "product_sale_type": "yes:transactional",
+    "product_additional_lines": [{
+      "product_name": "tarifa movil lite",
+      "product_variant": "4GB Datos móviles 5G",
+      "product_category": "movil",
+      "promotion_price_name": "2 x 1 lite",
+      "promotion_gift_name": "",
+      "product_id": ""
+    }],
+    "product_packs_tv": [{
+      "product_name": "pack seriefans",
+      "product_category": "tv",
+      "promotion_price_name": "seriefans incluido en ilimitada plus y one ilimitada plus",
+      "promotion_gift_name": "",
+      "product_id": ""
+    }]
+  }, {
+    "product_name": "vodafone one ilimitada plus 600Mbps",
+    "product_category": "movil+fibra",
+    "product_variant": "Datos y minutos ilimitados+600Mbps Fibra",
+    "promotion_price_name": "Promo colectivos + Promo 50% + T&P One Ilimitada Plus 600Mb",
+    "promotion_gift_name": "",
+    "product_id": "",
+    "product_detail": "",
+    "product_sale_type": "yes:transactional",
+    "product_additional_lines": [{
+      "product_name": "tarifa movil lite",
+      "product_category": "movil",
+      "product variant": "4GB Datos móviles 5G",
+      "promotion_price_name": "2 x 1 lite",
+      "promotion_gift_name": "",
+      "product_id": ""
+    }],
+    "product_packs_tv": [{
+      "product_name": "pack seriefans",
+      "product_category": "tv",
+      "promotion_price_name": "seriefans incluido en ilimitada plus y one ilimitada plus",
+      "promotion_gift_name": "",
+      "product_id": ""
+    }]
+  }, {
+    "product_name": "vodafone one ilimitada plus 300Mbps",
+    "product_category": "movil+fibra",
+    "product_variant": "Datos y minutos ilimitados+300Mbps Fibra",
+    "promotion_price_name": "Promo colectivos + Promo 50% One Ilimitada Plus 300Mbps",
+    "promotion_gift_name": "",
+    "product_id": "",
+    "product_detail": "",
+    "product_sale_type": "yes:transactional",
+    "product_packs_tv": [{
+      "product_name": "pack seriefans",
+      "product_category": "tv",
+      "promotion_price_name": "seriefans incluido en ilimitada plus y one ilimitada plus",
+      "promotion_gift_name": "",
+      "product_id": ""
+    }]
+  }, {
+    "product_name": "vodafone one ilimitada plus 600Mbps",
+    "product_category": "movil+fibra",
+    "product_variant": "Datos y minutos ilimitados+600Mbps Fibra",
+    "promotion_price_name": "Promo colectivos + Promo 50% + T&P One Ilimitada Plus 600Mb",
+    "promotion_gift_name": "",
+    "product_id": "",
+    "product_detail": "",
+    "product_sale_type": "yes:transactional",
+    "product_packs_tv": [{
+      "product_name": "pack seriefans",
+      "product_category": "tv",
+      "promotion_price_name": "seriefans incluido en ilimitada plus y one ilimitada plus",
+      "promotion_gift_name": "",
+      "product_id": ""
+    }]
+  }]
+};
+window.utag_data = _objectSpread(_objectSpread({}, window.utag_data), utag_data);
+/* harmony default export */ __webpack_exports__["default"] = (utag_data);
+
+/***/ })
+
+/******/ });
+//# sourceMappingURL=main.js.map

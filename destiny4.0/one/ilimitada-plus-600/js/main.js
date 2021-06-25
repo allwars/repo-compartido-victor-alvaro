@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-24T14:04:54.430Z
+ * Vodafone Reboot Framework: Version 2.17.0. Generation Date: 2021-06-25T06:57:18.053Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -85,21 +85,21 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/main.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/main.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/main.js":
-/*!****************************************************************************************************************************!*\
-  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/main.js ***!
-  \****************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/main.js":
+/*!******************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/main.js ***!
+  \******************************************************************************************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/tools.js");
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/tools.js");
 function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
 
 function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
@@ -317,10 +317,10 @@ if (window.matchMedia('(min-width: 768px)').matches) {
 
 /***/ }),
 
-/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/tools.js":
-/*!*****************************************************************************************************************************!*\
-  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/tools.js ***!
-  \*****************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/tools.js":
+/*!*******************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-plus-600/resources/scripts/tools.js ***!
+  \*******************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

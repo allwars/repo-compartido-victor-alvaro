@@ -1,1 +1,25 @@
-<svg width="38" height="26" viewBox="0 0 38 26" xmlns="http://www.w3.org/2000/svg"><g id="PDP-Vodafone-One-ilimitada-Total-WS10-600mbps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Plus-600" transform="translate(-453 -1036)"><g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20 572)"><g id="Product-detail-/-Desktop-Tablet-/-2-lines" transform="translate(420 445)"><g id="game_console_mid" transform="translate(10 10)"><path id="bg" fill-opacity="0" fill="#D8D8D8" d="M0 0h44v44H0z"/><g id="3fc183b5_166f_47b6_9285_74dd022bd923"><path id="Rectangle_path" d="M0 0h44v44H0z"/><path d="M22 28.664h-8.076a1.41 1.41 0 00-1.322.917l-.756 2.044a4.18 4.18 0 01-3.915 2.75h0a3.839 3.839 0 01-3.767-4.402l2.202-15.45a5.667 5.667 0 015.587-4.898h20.094a5.667 5.667 0 015.587 4.897l2.202 15.45a3.839 3.839 0 01-3.767 4.403h0a4.18 4.18 0 01-3.915-2.75l-.756-2.042a1.412 1.412 0 00-1.322-.917L22 28.664z" id="Shape" stroke="#666" stroke-linejoin="round"/><path id="Shape" stroke="#E60000" stroke-width="1.012" stroke-linecap="round" d="M14.208 16.042v7.333m-3.666-3.667h7.333"/></g><path d="M28.417 21.083a.917.917 0 100 1.834.917.917 0 000-1.834zm0-5.5a.917.917 0 100 1.834.917.917 0 000-1.834zm2.75 2.75a.917.917 0 100 1.834.917.917 0 000-1.834zm-5.5 0a.917.917 0 100 1.834.917.917 0 000-1.834z" id="Shape" fill="#E60000" fill-rule="nonzero"/></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="26px" viewBox="0 0 38 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons+Indicators / System-Icons / thunder-3</title>
+    <g id="PDP-Vodafone-One-ilimitada-Total-WS10-600mbps" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Plus-600" transform="translate(-453.000000, -1036.000000)">
+            <g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20.000000, 572.000000)">
+                <g id="Product-detail-/-Desktop-Tablet-/-2-lines" transform="translate(420.000000, 445.000000)">
+                    <g id="game_console_mid" transform="translate(10.000000, 10.000000)">
+                        <rect id="bg" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="44" height="44"></rect>
+                        <g id="3fc183b5_166f_47b6_9285_74dd022bd923">
+                            <rect id="Rectangle_path" x="0" y="0" width="44" height="44"></rect>
+                            <path d="M22,28.6641667 L13.9241667,28.6641667 C13.3353658,28.6640598 12.8083376,29.0294173 12.601875,29.5808333 L11.845625,31.625 C11.2462171,33.2714245 9.68359159,34.3692879 7.93145833,34.375 L7.93145833,34.375 C6.82015666,34.3664877 5.76708866,33.8767557 5.04449367,33.0324096 C4.32189867,32.1880635 4.00070888,31.0719869 4.16395833,29.9727083 L6.36625,14.5222917 C6.74962318,11.7265349 9.13144726,9.63877526 11.9533333,9.625 L32.0466667,9.625 C34.8685527,9.63877526 37.2503768,11.7265349 37.63375,14.5222917 L39.8360417,29.9727083 C39.9992911,31.0719869 39.6781013,32.1880635 38.9555063,33.0324096 C38.2329113,33.8767557 37.1798433,34.3664877 36.0685417,34.375 L36.0685417,34.375 C34.3164084,34.3692879 32.7537829,33.2714245 32.154375,31.625 L31.398125,29.583125 C31.1916624,29.031709 30.6646342,28.6663515 30.0758333,28.6664583 L22,28.6641667 Z" id="Shape" stroke="#666666" stroke-linejoin="round"></path>
+                            <line x1="14.2083333" y1="16.0416667" x2="14.2083333" y2="23.375" id="Shape" stroke="#E60000" stroke-width="1.0125" stroke-linecap="round"></line>
+                            <line x1="10.5416667" y1="19.7083333" x2="17.875" y2="19.7083333" id="Shape" stroke="#E60000" stroke-width="1.0125" stroke-linecap="round"></line>
+                        </g>
+                        <path d="M28.4166667,21.0833333 C27.9104056,21.0833333 27.5,21.493739 27.5,22 C27.5,22.506261 27.9104056,22.9166667 28.4166667,22.9166667 C28.9229277,22.9166667 29.3333333,22.506261 29.3333333,22 C29.3333333,21.493739 28.9229277,21.0833333 28.4166667,21.0833333 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                        <path d="M28.4166667,15.5833333 C27.9104056,15.5833333 27.5,15.993739 27.5,16.5 C27.5,17.006261 27.9104056,17.4166667 28.4166667,17.4166667 C28.9229277,17.4166667 29.3333333,17.006261 29.3333333,16.5 C29.3333333,15.993739 28.9229277,15.5833333 28.4166667,15.5833333 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                        <path d="M31.1666667,18.3333333 C30.6604056,18.3333333 30.25,18.743739 30.25,19.25 C30.25,19.756261 30.6604056,20.1666667 31.1666667,20.1666667 C31.6729277,20.1666667 32.0833333,19.756261 32.0833333,19.25 C32.0833333,18.743739 31.6729277,18.3333333 31.1666667,18.3333333 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                        <path d="M25.6666667,18.3333333 C25.1604056,18.3333333 24.75,18.743739 24.75,19.25 C24.75,19.756261 25.1604056,20.1666667 25.6666667,20.1666667 C26.1729277,20.1666667 26.5833333,19.756261 26.5833333,19.25 C26.5833333,18.743739 26.1729277,18.3333333 25.6666667,18.3333333 Z" id="Shape" fill="#E60000" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
