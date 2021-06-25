@@ -1,10 +1,83 @@
 {
-  "mismakey": "Yo soy el JSON local del microsite",
-  "title": "Ejemplo de contenido cargado desde el JSON",
-  "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
+    "header": {
+        "title": "Fibra + Móvil <strong>50% dto. 6 meses</strong>",
+        "title2": "<strong>Todo lo que necesitas</strong> para conquistar tu <strong>hogar<br /> ilimitable</strong>",
+        "badge": "Oferta para Navarra, Euskadi, Asturias y Galicia",
+        "icon": "img/banner/icono-bestprice.svg",
+        "label": "Mejor Precio Vodafone"
+    },
+    "cardRates": {
+        "title": "Vodafone One Ilimitada Avanzada 600Mbps",
+        "description": [
+            {
+                "icon": "icon-mobile",
+                "title": "Datos y minutos ilimitados",
+                "subtitle": "Velocidad alta",
+                "secondIcon": "icon-thunder-2grey",
+                "color": "ws10-c-card-rate__product-txt--primary"
+            }, {
+                "icon": "icon-sim",
+                "title": "Segunda línea GRATIS 1 año",
+                "subtitle": "Datos y minutos ilimitados",
+                "js-vf": "_secondLine"
+            }, {
+                "icon": "icon-broadband-or-wifi",
+                "title": "600Mbps Fibra Óptica",
+                "subtitle": "+ llamadas ilimitadas en fijo"
+            }, {
+                "icon": "icon-tv",
+                "title": "Pack TV Universal GRATIS",
+                "subtitle": "con más de 30 canales internacionales"
+            }
+        ],
+        "rates": [
+            {
+                "js-vf": "_newNumber",
+                "hidden": "ws10-u--hidden",
+                "offers": {
+                    "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
+                    "discount": "50% dto. 6 meses",
+                    "label": "Permanencia 6 meses",
+                    "finalPrice": "<del>61,99€/mes</del>",
+                    "discountPrice": "30,49€/<sub>mes</sub>"
+                },
+                "cta": {
+                    "dataCTA": "300:port:card",
+                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285841&tcli=0&tta=1",
+                    "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
+                    "context": "lo quiero",
+                    "element": "cardrate",
+                    "category": "cta",
+                    "id": "-4725875160583",
+                    "label": "Lo quiero"
+                }
+            }, {
+                "js-vf": "_portability",
+                "hidden": "",
+                "offers": {
+                    "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
+                    "discount": "50% dto. 6 meses",
+                    "label": "Permanencia 6 meses",
+                    "finalPrice": "<del>61,99€/mes</del>",
+                    "discountPrice": "30,49€/<sub>mes</sub>"
+                },
+                "cta": {
+                    "dataCTA": "300:port:card",
+                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285759&tcli=0&tta=1",
+                    "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
+                    "context": "lo quiero",
+                    "element": "cardrate",
+                    "category": "cta",
+                    "id": "-4545656976521",
+                    "label": "Lo quiero"
+                }
+            }
+        ]
+    },
+
   "fibra":{
     "section":"Fibra óptica simétrica",
-    "title":"<strong>300Mbps de velocidad para tu hogar</strong>",
+    "title":"<strong>600Mbps de velocidad para tu hogar</strong>",
     "img": [
       {
         "imgJpg":"",
@@ -16,7 +89,7 @@
       {
         "thirdWidht":"ws10-u--2/3@desktop",
         "icon": "#icon-multiscreen-mid",
-        "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
+        "description": "<strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
       },
       {
         "thirdWidht":"ws10-u--2/3@desktop",

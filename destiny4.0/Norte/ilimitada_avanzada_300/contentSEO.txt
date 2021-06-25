@@ -1,90 +1,93 @@
-<span>Fibra + Móvil <strong>50% dto. 6 meses</strong></span><p><strong>Fibra y datos para ser<br>
-                            ilimitable</strong></p><b>Oferta
-                        para Navarra, Euskadi, Asturias y Galicia</b><span><span>Mejor Precio Vodafone</span></span><h2>Vodafone One Ilimitada Avanzada 300Mbps</h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="28,49" data-vfes-seo-empathy-price="61,99">
-                                        <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                <use xlink:href="#icon-mobile"></use>
-                                            </svg>
-
-                                            <div>
-                                                <p>
-                                                    Datos y minutos ilimitados
-                                                </p>
-                                                <p>
-                                                    Velocidad alta
-                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                        <use xlink:href="#icon-thunder-2grey"></use>
-                                                    </svg>
-                                                </p>
-                                            </div>
-                                        </li>
-                                        <li data-js-vf="_secondLine">
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                <use xlink:href="#icon-sim"></use>
-                                            </svg>
-                                            <div>
-                                                <p>
-                                                    Segunda línea GRATIS 1 año
-                                                </p>
-                                                <p>
-                                                    Datos y minutos ilimitados
-                                                </p>
-                                            </div>
-                                        </li>
-                                        <li>
-
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                <use xlink:href="#icon-broadband-or-wifi"></use>
-                                            </svg>
-                                            <div>
-                                                <p>
-                                                    300Mbps Fibra Óptica</p>
-                                                <p>
-                                                    + llamadas ilimitadas en fijo
-                                                </p>
-                                            </div>
-                                        </li>
-                                        <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                <use xlink:href="#icon-tv"></use>
-                                            </svg>
-                                            <div>
-                                                <p>
-                                                    Pack TV Universal GRATIS
-                                                </p>
-                                                <p style="font-size: 17px;">
-                                                    con más de 30 canales internacionales
-                                                </p>
-                                            </div>
-                                        </li>
-
-                                    </ul><legend>
-                                                ¿Cómo quieres la línea móvil principal?
-                                            </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
-                                                        Portabilidad
-                                                    </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">Nuevo
-                                                        Número</label><p>
-                                                            50% dto. 6 meses
-                                                        </p><p>
-                                                            Permanencia 6 meses
-                                                        </p><p>
-                                                            <del>56,99€/mes</del>
-                                                        </p><p>
-                                                            28,49€<sub>/mes</sub>
-                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285772&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="CTA" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
-                                                    Lo quiero
-                                                </a><p>
-                                                            50% dto. 6 meses
-                                                        </p><p>
-                                                            Permanencia 6 meses
-                                                        </p><p>
-                                                            <del>56,99€/mes</del>
-                                                        </p><p>
-                                                            28,49€<sub>/mes</sub>
-                                                        </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285753&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="CTA" data-analytics-id="-4545656976521" onmousedown="addtocart(utag_data.plans_add2cart[1])">
-
-                                                    Lo quiero
-                                                </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
+<span>Fibra + Móvil <strong>50% dto. 6 meses</strong></span><h2>Fibra y datos para ser ilimitable</h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><span>
+              
+              <span>Mejor Precio Vodafone</span>
+            </span><h2>
+            Vodafone One Ilimitada Avanzada 300Mbps
+          </h2><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
+                                  <li>
+                                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                          <use xlink:href="#icon-mobile"></use>
+                                      </svg>
+                                      <div>
+                                          <p>
+                                              Datos y minutos ilimitados
+                                          </p>
+                                          <p>
+                                              Velocidad alta
+                                              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                  <use xlink:href="#icon-thunder-2grey"></use>
+                                              </svg>
+                                          </p>
+                                      </div>
+                                  </li>
+                                  <li data-js-vf="_secondLine">
+                                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                          <use xlink:href="#icon-sim"></use>
+                                      </svg>
+                                      <div>
+                                          <p>
+                                              Segunda línea GRATIS 1 año
+                                          </p>
+                                          <p>
+                                              Datos y minutos ilimitados
+                                          </p>
+                                      </div>
+                                  </li>
+                                  <li>
+                                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                          <use xlink:href="#icon-broadband-or-wifi"></use>
+                                      </svg>
+                                      <div>
+                                          <p>
+                                              300Mbps Fibra Óptica
+                                          </p>
+                                          <p>
+                                              + llamadas ilimitadas en fijo
+                                          </p>
+                                      </div>
+                                  </li>
+                                  <li>
+                                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                          <use xlink:href="#icon-tv"></use>
+                                      </svg>
+                                      <div>
+                                          <p>
+                                              Pack TV Universal GRATIS
+                                          </p>
+                                          <p>
+                                              con más de 30 canales internacionales
+                                          </p>
+                                      </div>
+                                  </li>
+                              </ul><legend>
+                                          ¿Cómo quieres la línea móvil principal?
+                                      </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
+                                                  Portabilidad
+                                              </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
+                                                  Nuevo Número
+                                              </label><p>
+                                                      50% dto. 6 meses
+                                                  </p><p>
+                                                      Permanencia 6 meses
+                                                  </p><p>
+                                                      <del>56,99€/mes</del>
+                                                  </p><p>
+                                                      28,49€/<sub>mes</sub>
+                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285772&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
+                                              Lo quiero
+                                              <span></span>
+                                          </a><p>
+                                                      50% dto. 6 meses
+                                                  </p><p>
+                                                      Permanencia 6 meses
+                                                  </p><p>
+                                                      <del>56,99€/mes</del>
+                                                  </p><p>
+                                                      28,49€/<sub>mes</sub>
+                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285753&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4545656976521">
+                                              Lo quiero
+                                              <span></span>
+                                          </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
                         </div><p>Datos ilimitados <strong>a alta velocidad (10Mbps de
                                     bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad
                                 extrema y sin cortes.</p><p> Consume vídeo en streaming en calidad 4K sin cortes

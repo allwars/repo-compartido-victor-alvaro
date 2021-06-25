@@ -29,9 +29,9 @@
                 }
             ],
             "offers": {
-                "promoPeriod": "50% dto. 6 meses Permanencia 6 año",
+                "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
                 "discount": "50% dto. 6 meses",
-                "label": "Permanencia 6 año",
+                "label": "Permanencia 6 meses",
                 "finalPrice": "<del>56,99€/mes</del>",
                 "discountPrice": "28,49€/<sub>mes</sub>"
             },
@@ -69,7 +69,7 @@
             "offers": {
                 "promoPeriod": "50% dto. 6 meses Permanencia 1 año",
                 "discount": "50% dto. 6 meses",
-                "label": "Permanencia 6 año",
+                "label": "Permanencia 6 meses",
                 "finalPrice": "<del>61,99€/mes</del>",
                 "discountPrice": "30,49€/<sub>mes</sub>"
             },
@@ -107,7 +107,7 @@
             "offers": {
                 "promoPeriod": "50% dto. 6 meses Permanencia 1 año",
                 "discount": "50% dto. 6 meses",
-                "label": "Permanencia 6 año",
+                "label": "Permanencia 6 meses",
                 "finalPrice": "<del>74,99€/mes</del>",
                 "discountPrice": "37,49€/<sub>mes</sub>"
             },
