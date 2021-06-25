@@ -7,80 +7,85 @@
     "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1"
   },
 
-    "header": {
-        "title": "Fibra + Móvil <strong>50% dto. 3 meses</strong>",
-        "title2": "Fibra y datos para ser ilimitable",
-        "icon": "img/banner/icono-bestprice.svg",
-        "label": "Mejor Precio Vodafone"
-    },
-    "cardRates": {
-        "title": "Vodafone One Ilimitada Avanzada 300Mbps",
-        "description": [
-            {
-                "icon": "icon-mobile",
-                "title": "Datos y minutos ilimitados",
-                "subtitle": "Velocidad alta",
-                "secondIcon": "icon-thunder-2grey",
-                "color": "ws10-c-card-rate__product-txt--primary"
-            }, {
-                "icon": "icon-sim",
-                "title": "Segunda línea GRATIS 1 año",
-                "subtitle": "Datos y minutos ilimitados",
-                "js-vf": "_secondLine"
-            }, {
-                "icon": "icon-broadband-or-wifi",
-                "title": "300Mbps Fibra Óptica",
-                "subtitle": "+ llamadas ilimitadas en fijo"
-            }, {
-                "icon": "icon-tv",
-                "title": "Pack TV Universal GRATIS",
-                "subtitle": "con más de 30 canales internacionales"
-            }
-        ],
-        "rates": [
-            {
-                "js-vf": "_newNumber",
-                "hidden": "ws10-u--hidden",
-                "offers": {
-                    "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
-                    "discount": "50% dto. 3 meses",
-                    "label": "Permanencia 1 año",
-                    "finalPrice": "<del>56,99€/mes</del>",
-                    "discountPrice": "28,49€/<sub>mes</sub>"
-                },
-                "cta": {
-                    "dataCTA": "300:port:card",
-                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&tcli=0&tta=1",
-                    "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
-                    "context": "lo quiero",
-                    "element": "cardrate",
-                    "category": "cta",
-                    "id": "-7498449761489",
-                    "label": "Lo quiero"
-                }
-            }, {
-                "js-vf": "_portability",
-                "hidden": "",
-                "offers": {
-                    "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
-                    "discount": "50% dto. 3 meses",
-                    "label": "Permanencia 1 año",
-                    "finalPrice": "<del>56,99€/mes</del>",
-                    "discountPrice": "28,49€/<sub>mes</sub>"
-                },
-                "cta": {
-                    "dataCTA": "300:port:card",
-                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&tcli=0&tta=1",
-                    "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
-                    "context": "lo quiero",
-                    "element": "cardrate",
-                    "category": "cta",
-                    "id": "-7498449761489",
-                    "label": "Lo quiero"
-                }
-            }
-        ]
-    },
+  "header": {
+    "title": "Fibra + Móvil <strong>50% dto. 3 meses</strong>",
+    "title2": "Fibra y datos para ser ilimitable",
+    "icon": "img/banner/icono-bestprice.svg",
+    "label": "Mejor Precio Vodafone"
+  },
+  "cardRates": {
+    "title": "Vodafone One Ilimitada Avanzada 300Mbps",
+    "description": [
+      {
+        "icon": "icon-mobile",
+        "title": "Datos y minutos ilimitados",
+        "subtitle": "Velocidad alta",
+        "secondIcon": "icon-thunder-2grey",
+        "color": "ws10-c-card-rate__product-txt--primary"
+      },
+      {
+        "icon": "icon-sim",
+        "title": "Segunda línea GRATIS 1 año",
+        "subtitle": "Datos y minutos ilimitados",
+        "js-vf": "_secondLine"
+      },
+      {
+        "icon": "icon-broadband-or-wifi",
+        "title": "300Mbps Fibra Óptica",
+        "subtitle": "+ llamadas ilimitadas en fijo"
+      },
+      {
+        "icon": "icon-tv",
+        "title": "Pack TV Universal GRATIS",
+        "subtitle": "con más de 30 canales internacionales"
+      }
+    ],
+    "rates": [
+      {
+        "js-vf": "_newNumber",
+        "hidden": "ws10-u--hidden",
+        "offers": {
+          "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+          "discount": "50% dto. 3 meses",
+          "label": "Permanencia 1 año",
+          "finalPrice": "<del>56,99€/mes</del>",
+          "discountPrice": "28,49€/<sub>mes</sub>"
+        },
+        "cta": {
+          "dataCTA": "300:port:card",
+          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&tcli=0&tta=1",
+          "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
+          "context": "lo quiero",
+          "element": "cardrate",
+          "category": "cta",
+          "id": "-7498449761489",
+          "label": "Lo quiero"
+        }
+      },
+      {
+        "js-vf": "_portability",
+        "hidden": "",
+        "offers": {
+          "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+          "discount": "50% dto. 3 meses",
+          "label": "Permanencia 1 año",
+          "finalPrice": "<del>56,99€/mes</del>",
+          "discountPrice": "28,49€/<sub>mes</sub>"
+        },
+        "cta": {
+          "dataCTA": "300:port:card",
+          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&tcli=0&tta=1",
+          "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
+          "context": "lo quiero",
+          "element": "cardrate",
+          "category": "cta",
+          "id": "-7498449761489",
+          "label": "Lo quiero",
+          "class": "ws10-c-button ws10-c-button--auto vf-button--mobile"
+        }
+      }
+    ]
+  },
 
   "mobile": {
     "section": "Móvil",
@@ -144,27 +149,6 @@
     ],
     "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra."
   },
-  "deco": {
-    "title": "Llévate la 2ª Línea GRATIS 1 año",
-
-    "productDetail": [
-      {
-        "icon": "#icon-thunder-1grey",
-        "description": "Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong>"
-      },
-      {
-        "icon": "#icon-chat-mid",
-        "description": "Consulta tus redes sociales y usa aplicaciones de mensajería instantánea."
-      },
-      {
-        "icon": "#icon-play-mid",
-        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
-      },
-      {
-        "icon": "#icon-unified-communication-mid",
-        "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
-      }
-    ],
   "fibra": {
     "section": "Fibra óptica simétrica",
     "title": "<strong>300Mbps de velocidad para tu hogar</strong>",
@@ -232,7 +216,7 @@
     "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
 
     "carousel": {
-      "show":false,
+      "show": false,
       "img": [
         {
           "imgJpg": "img/section-tv/01",
@@ -310,11 +294,14 @@
       ]
     },
     "cta": {
-      "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&tcli=0&tta=1",
+      "button": true,
+      "class": "ws10-c-logo-list__show-all vfms-link",
+      "haspopup": "dialog",
+      "backdrop": "seriefans",
       "context": "Ver todos los canales incluidos",
-      "element": "cardrate",
+      "element": "card addons",
       "category": "cta",
-      "id": "-7498449761489",
+      "id": "-6241792886380",
       "label": "Ver todos los canales incluidos"
     },
 

@@ -1,12 +1,47 @@
-<a href="{{ url }}"
-    data-cta="{{ dataCTA }}"
-    target="_self" name="{{ label }}" title="{{ label }}"
+
+{{#if button}}
+  <a
+    class="{{class}}"
+    aria-haspopup="{{haspopup}}"
+    data-backdrop="{{backdrop}}"
+    data-analytics-context="{{context}}"
+    data-analytics-element="{{element}}"
+    data-analytics-category="{{category}}"
+    data-analytics-id="{{id}}"
+  >
+    {{label}}
+    {{#if svg}}
+      <span class="ws10-u--hidden-visually"> color #E60000</span>
+      <svg
+        class="ws10-c-link-chevron__icon"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="24px"
+        height="24px"
+      >
+        <title>Flecha derecha</title>
+        <use class="icon-v3" xlink:href="#icon-chevron-right"></use>
+      </svg>
+    {{/if}}
+  </a>
+
+{{else}}
+
+  <a
+    href="{{url}}"
+    data-cta="{{dataCTA}}"
+    target="_self"
+    name="{{label}}"
+    title="{{label}}"
     class="ws10-c-button ws10-c-button--auto vf-button--mobile"
-    onmousedown="{{ onmousedown }}"
-    data-analytics-context="{{ context }}"
-    data-analytics-element="{{ element }}"
-    data-analytics-category="{{ category }}"
-    data-analytics-id="{{ id }}">
-    {{ label }}
+    onmousedown="{{onmousedown}}"
+    data-analytics-context="{{context}}"
+    data-analytics-element="{{element}}"
+    data-analytics-category="{{category}}"
+    data-analytics-id="{{id}}"
+  >
+    {{label}}
     <span class="ws10-u--hidden-visually"></span>
-</a>
+  </a>
+
+{{/if}}

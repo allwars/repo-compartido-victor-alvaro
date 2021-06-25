@@ -20,7 +20,7 @@
     <ul class="ws10-c-carousel-cover__list">
   {{#each tv.carousel.img}}
       <li class="ws10-c-carousel-cover__item js-carousel-cover-item">
-          {{> picture params=this}}
+          {{> picture this}}
       </li>
       {{/each}}
     </ul>
@@ -34,23 +34,13 @@
       <ul class="ws10-c-logo-list__list">
         {{#each tv.logos.img}}
         <li class="ws10-c-logo-list__item">
-          {{> picture params=this}}
+          {{> picture this}}
         </li>
         {{/each}}
       </ul>
     <p class="ws10-c-logo-list__w-show-all">
       {{> cta tv.cta}}
-      <a
-        class="ws10-c-logo-list__show-all vfms-link"
-       aria-haspopup="dialog"
-       data-backdrop="seriefans"
-        data-analytics-context="{{ tv.allChannels }}"
-        data-analytics-element="card addons"
-        data-analytics-category="cta"
-        data-analytics-id="-6241792886380"
-      >
-        {{ tv.allChannels }}
-      </a>
+
       
     </p>
     <span
