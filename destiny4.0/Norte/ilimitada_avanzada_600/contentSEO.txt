@@ -184,15 +184,11 @@
                                   
                                   <p>Fire TV Stick.</p>
                               </li>
-                          </ul><h3>Fibra
-            óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu
-              hogar</strong></h3><div>
-                  
-                </div><p><strong>600Mbps de fibra
-                    óptica simétrica</strong>
-                  para tu hogar, podrás conectar más 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas
-                    ilimitadas a fijos y móviles.</strong>
-                </p><h3><strong>También incluido en Vodafone One
+                          </ul><h3>Fibra óptica simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><p>
+                      <strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez.
+                    </p><p>
+                      <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
+                    </p><h3><strong>También incluido en Vodafone One
               ilimitada Avanzada 600Mbps</strong></h3><ul aria-labelledby="idList">
               <li>
                 <div>

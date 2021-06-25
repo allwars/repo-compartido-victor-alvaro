@@ -1,1 +1,17 @@
-<svg width="38" height="38" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg"><g id="PDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Avanzada-300" transform="translate(-453 -1118)"><g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20 572)"><g id="Product-detail-/-Desktop-Tablet-/-2-lines" transform="translate(420 533)"><g id="play-mid" transform="translate(10 10)"><path id="Rectangle" d="M0 0h44v44H0z"/><path d="M16.028 13.388v17.148a1.528 1.528 0 001.444 1.547c.345.011.684-.098.958-.309l.21-.156 11.062-8.25.333-.247a1.462 1.462 0 000-2.452l-.321-.241-11.03-8.02c-.458-.384-1.05-.663-1.726-.368-.567.27-.926.846-.916 1.474v.117" id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"/><circle id="Oval" stroke="#666" stroke-linecap="round" stroke-linejoin="round" cx="22" cy="22" r="17.875"/></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons+Indicators / System-Icons / thunder-3</title>
+    <g id="PDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Avanzada-300" transform="translate(-453.000000, -1118.000000)">
+            <g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20.000000, 572.000000)">
+                <g id="Product-detail-/-Desktop-Tablet-/-2-lines" transform="translate(420.000000, 533.000000)">
+                    <g id="play-mid" transform="translate(10.000000, 10.000000)">
+                        <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+                        <path d="M16.0277742,13.3879167 L16.0277742,30.5364583 C16.0168326,31.3556811 16.6536263,32.03796 17.4716667,32.0833333 C17.8171446,32.0941101 18.1556732,31.9847767 18.4295833,31.7739583 L18.6404167,31.618125 L29.7022917,23.368125 L30.0345833,23.120625 C30.44966,22.8509491 30.7001056,22.3895719 30.7001056,21.8945833 C30.7001056,21.3995947 30.44966,20.9382176 30.0345833,20.6685417 L29.71375,20.4279167 L18.6839583,12.4070833 C18.225625,12.024375 17.634375,11.7447917 16.9583333,12.0404167 C16.3905386,12.3096587 16.0322344,12.8856326 16.0416667,13.5139583 L16.0416667,13.6308333" id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <circle id="Oval" stroke="#666666" stroke-linecap="round" stroke-linejoin="round" cx="22" cy="22" r="17.875"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

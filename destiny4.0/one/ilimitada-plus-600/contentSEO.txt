@@ -342,14 +342,11 @@
                                         
                                         <p>Fire TV Stick.</p>
                                     </li>
-                                </ul><h3>Fibra óptica
-                    simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
-                          
-                        </div><p><strong>600Mbps de fibra óptica
-                            simétrica</strong>
-                          para tu hogar, podrás conectar hasta 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas
-                            ilimitadas a fijos y móviles.</strong>
-                        </p><h3><strong>También incluido en </strong></h3><ul aria-labelledby="idList">
+                                </ul><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><p>
+                            <strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 25 dispositivos a la vez.
+                          </p><p>
+                            <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
+                          </p><h3><strong>También incluido en </strong></h3><ul aria-labelledby="idList">
                       <li>
                         <div>
                           <div>
