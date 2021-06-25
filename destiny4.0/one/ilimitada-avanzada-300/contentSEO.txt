@@ -322,12 +322,7 @@
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>
-                        </p><p>Más de <strong>50.000 contenidos disponibles</strong>
-                                bajo demanda.</p><p>No te pierdas nada, todo el <strong>contenido desde
-                                el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong>
-                                con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>2 reproducciones simultáneas</strong> en
-                                diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos
-                                estés donde estés y cuando quieras.</p><ul>
+                        </p><ul>
                   <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
                         <use xlink:href="#icon-portals-for-videos-mid"></use>
@@ -357,7 +352,7 @@
                   </li>  <li>
                       
                     <p>
-                      escarga tus contenidos para verlos estés donde estés y cuando quieras.
+                      Descarga tus contenidos para verlos estés donde estés y cuando quieras.
                     </p>
                   </li>  </ul><button aria-hidden="false">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
