@@ -1,5 +1,124 @@
 {
-  "mismakey": "Yo soy el JSON local del microsite",
-  "title": "Ejemplo de contenido cargado desde el JSON",
-  "url": "microsite/[ruta_del_microsite]/resource/data/local.json"
+    "banner": {
+        "title": "Fibra + Móvil",
+        "title2": "Llévate <strong> 2 líneas ilimitadas</strong> y fibra <strong> al 50% dto. 6 meses</strong>",
+        "badge": "Oferta para Navarra, Euskadi, Asturias y Galicia"
+    },
+    "cardRates": {
+        "avanzada300": {
+            "discount": "50% dto.",
+            "description": [
+                {
+                    "icon": "icon-mobile",
+                    "title": "Datos y minutos ilimitados",
+                    "subtitle": "Velocidad alta",
+                    "secondIcon": "icon-thunder-2grey",
+                    "color": "ws10-c-card-rate__product-txt--primary"
+                }, {
+                    "icon": "icon-sim",
+                    "title": "Segunda línea GRATIS 1 año",
+                    "subtitle": "Datos y minutos ilimitados"
+                }, {
+                    "icon": "icon-broadband-or-wifi",
+                    "title": "300Mbps Fibra Óptica",
+                    "subtitle": "+ llamadas ilimitadas en fijo"
+                }, {
+                    "icon": "icon-tv",
+                    "title": "Pack TV Universal GRATIS",
+                    "subtitle": "con más de 30 canales internacionales"
+                }
+            ],
+            "offers": {
+                "promoPeriod": "50% dto. 6 meses Permanencia 6 año",
+                "discount": "50% dto. 6 meses",
+                "label": "Permanencia 6 año",
+                "finalPrice": "<del>56,99€/mes</del>",
+                "discountPrice": "28,49€/<sub>mes</sub>"
+            },
+            "cta": {
+                "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-1/",
+                "context": "mas info:vodafone one ilimitada avanzada 300mbps",
+                "element": "cardrate",
+                "category": "cta",
+                "id": "-4725875160583",
+                "label": "Más info"
+            }
+        },
+        "avanzada600": {
+            "discount": "50% dto.",
+            "description": [
+                {
+                    "icon": "icon-mobile",
+                    "title": "Datos y minutos ilimitados",
+                    "subtitle": "Velocidad alta",
+                    "secondIcon": "icon-thunder-2grey"
+                }, {
+                    "icon": "icon-sim",
+                    "title": "Segunda línea GRATIS 1 año",
+                    "subtitle": "Datos y minutos ilimitados"
+                }, {
+                    "icon": "icon-broadband-or-wifi",
+                    "title": "600Mbps Fibra Óptica",
+                    "subtitle": "+ llamadas ilimitadas en fijo"
+                }, {
+                    "icon": "icon-tv",
+                    "title": "Pack TV Universal GRATIS",
+                    "subtitle": "con más de 30 canales internacionales"
+                }
+            ],
+            "offers": {
+                "promoPeriod": "50% dto. 6 meses Permanencia 1 año",
+                "discount": "50% dto. 6 meses",
+                "label": "Permanencia 6 año",
+                "finalPrice": "<del>61,99€/mes</del>",
+                "discountPrice": "30,49€/<sub>mes</sub>"
+            },
+            "cta": {
+                "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-2/",
+                "context": "mas info:vodafone one ilimitada avanzada 600mbps",
+                "element": "cardrate",
+                "category": "cta",
+                "id": "-4725875160583",
+                "label": "Más info"
+            }
+        },
+        "plus600": {
+            "discount": "50% dto.",
+            "description": [
+                {
+                    "icon": "icon-mobile",
+                    "title": "Datos y minutos ilimitados",
+                    "subtitle": "Velocidad máxima 5G",
+                    "secondIcon": "icon-thunder-3"
+                }, {
+                    "icon": "icon-sim",
+                    "title": "Segunda línea GRATIS 1 año",
+                    "subtitle": "Datos y minutos ilimitados"
+                }, {
+                    "icon": "icon-broadband-or-wifi",
+                    "title": "600Mbps Fibra Óptica",
+                    "subtitle": "+ llamadas ilimitadas en fijo"
+                }, {
+                    "icon": "icon-tv",
+                    "title": "Pack TV Seriefans GRATIS 1 año",
+                    "subtitle": "con HBO España y 60 canales más"
+                }
+            ],
+            "offers": {
+                "promoPeriod": "50% dto. 6 meses Permanencia 1 año",
+                "discount": "50% dto. 6 meses",
+                "label": "Permanencia 6 año",
+                "finalPrice": "<del>74,99€/mes</del>",
+                "discountPrice": "37,49€/<sub>mes</sub>"
+            },
+            "cta": {
+                "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-3/",
+                "context": "mas info:vodafone one ilimitada plus 600mbps",
+                "element": "cardrate",
+                "category": "cta",
+                "id": "-4725875160583",
+                "label": "Más info"
+            }
+        }
+    }
 }

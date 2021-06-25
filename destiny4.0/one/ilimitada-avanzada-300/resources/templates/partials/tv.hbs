@@ -10,18 +10,36 @@
   <p class="ws10-u-heading--3 ws10-u-heading--3-lt">
       {{ tv.subtitle }}
   </p>
+
+{{#if tv.carousel.show}}
+  <div
+    class="ws10-c-carousel-cover"
+    data-ws10-js="carousel-cover"
+    data-ws10-config='{"autoAnim": true}'
+  >
+    <ul class="ws10-c-carousel-cover__list">
+  {{#each tv.carousel.img}}
+      <li class="ws10-c-carousel-cover__item js-carousel-cover-item">
+          {{> picture params=this}}
+      </li>
+      {{/each}}
+    </ul>
+  </div>
+{{/if}}
+
   <p class="ws10-u--pt5x">
       {{ tv.description }}
   </p>
   <div class="ws10-c-logo-list ws10-c-logo-list--mini">
       <ul class="ws10-c-logo-list__list">
-        {{#each tv.img}}
+        {{#each tv.logos.img}}
         <li class="ws10-c-logo-list__item">
           {{> picture params=this}}
         </li>
         {{/each}}
       </ul>
     <p class="ws10-c-logo-list__w-show-all">
+      {{> cta tv.cta}}
       <a
         class="ws10-c-logo-list__show-all vfms-link"
        aria-haspopup="dialog"
@@ -33,6 +51,7 @@
       >
         {{ tv.allChannels }}
       </a>
+      
     </p>
     <span
       class="ws10-c-carousel__helperText"

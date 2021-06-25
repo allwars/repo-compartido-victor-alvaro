@@ -1,1 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84"><g fill="none" fill-rule="evenodd"><path d="M0 0h84v84H0z"/><rect width="70" height="70" x="7" y="7" fill="#FFF" fill-rule="nonzero" rx="35"/><circle cx="3.5" cy="3.5" r="3.5" fill="#4A4D4E" fill-rule="nonzero" transform="translate(38.5 48.125)"/><path stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M23.7 34.724a25.866 25.866 0 0136.6.001m-31.303 4.65c3.467-3.47 6.538-5.418 13.075-5.418 6.538 0 9.608 1.949 13.075 5.418M34.44 43.391c4.198-4.19 10.996-4.19 15.194 0"/><path fill="#000" fill-rule="nonzero" d="M42 76.125C22.862 76.072 7.293 60.698 7 41.562V42c.058 19.306 15.694 34.942 35 35 19.306-.058 34.942-15.694 35-35v-.438c-.293 19.136-15.862 34.51-35 34.563z" opacity=".06"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="84" viewBox="0 0 84 84">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <g transform="translate(-440 -999) translate(20 887) translate(0 88) translate(315) translate(81) translate(24 24)">
+                                <path d="M0 0H84V84H0z"/>
+                                <rect width="70" height="70" x="7" y="7" fill="#FFF" fill-rule="nonzero" rx="35"/>
+                                <g fill="#4A4D4E" fill-rule="nonzero" transform="translate(38.5 48.125)">
+                                    <circle cx="3.5" cy="3.5" r="3.5"/>
+                                </g>
+                                <path stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M23.7 34.724C28.55 29.868 35.134 27.14 42 27.14s13.449 2.729 18.3 7.585"/>
+                                <path stroke="#E60000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.75" d="M28.997 39.375c3.467-3.47 6.538-5.418 13.075-5.418 6.538 0 9.608 1.949 13.075 5.418M34.44 43.391c4.198-4.19 10.996-4.19 15.194 0"/>
+                                <path fill="#000" fill-rule="nonzero" d="M42 76.125C22.862 76.072 7.293 60.698 7 41.562V42c.058 19.306 15.694 34.942 35 35 19.306-.058 34.942-15.694 35-35v-.438c-.293 19.136-15.862 34.51-35 34.563z" opacity=".06"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

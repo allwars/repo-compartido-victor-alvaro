@@ -38,7 +38,7 @@
               "subtitle": "con más de 30 canales internacionales"
           }
       ],
-      "prizes": [
+      "rates": [
           {
               "js-vf": "_newNumber",
               "hidden": "ws10-u--hidden",
@@ -50,7 +50,9 @@
                   "discountPrice": "30,49€/<sub>mes</sub>"
               },
               "cta": {
+                  "dataCTA": "300:port:card",
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285769&tcli=0&tta=1",
+                  "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                   "context": "lo quiero",
                   "element": "cardrate",
                   "category": "cta",
@@ -68,7 +70,9 @@
                   "discountPrice": "30,49€/<sub>mes</sub>"
               },
               "cta": {
+                  "dataCTA": "300:port:card",
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285751&tcli=0&tta=1",
+                  "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
                   "context": "lo quiero",
                   "element": "cardrate",
                   "category": "cta",
@@ -88,23 +92,23 @@
     "section":"Fibra óptica simétrica",
     "title":"<strong>300Mbps de velocidad para tu hogar</strong>",
     "img": [
-      {
-        "imgJpg":"",
-        "imgPng":"img/section-fiber/fiber-vf",
-        "alt": "Router Vodafone"
-      }
+        {
+            "imgJpg":"",
+            "imgPng":"img/section-fiber/fiber-vf",
+            "alt": "Router Vodafone"
+        }
     ],
     "productDetail": [
-      {
-        "thirdWidht":"ws10-u--2/3@desktop",
-        "icon": "#icon-multiscreen-mid",
-        "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
-      },
-      {
-        "thirdWidht":"ws10-u--2/3@desktop",
-        "icon": "#icon-minutes-sms-mid",
-        "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
-      }
+        {
+          "thirdWidht":"ws10-u--2/3@desktop",
+          "icon": "#icon-multiscreen-mid",
+          "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
+        },
+        {
+          "thirdWidht":"ws10-u--2/3@desktop",
+          "icon": "#icon-minutes-sms-mid",
+          "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
+        }
     ]
   },
   "alsoIncluded": {

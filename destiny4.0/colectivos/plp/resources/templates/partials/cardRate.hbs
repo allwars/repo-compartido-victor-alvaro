@@ -1,0 +1,57 @@
+<div class="ws10-o-layout__item ws10-u--1/2@tablet ws10-u--1/3@desktop">
+                    <section class="ws10-c-card ws10-c-card-rate ws10-c-card--no-shadow" data-ws10-js="card-rate">
+                        <div class="ws10-c-card-rate__w-rates">
+                            <div class="ws10-c-card-rate__a-rate">
+                                <ul class="ws10-c-card-rate__product-info"
+                                    data-vfes-seo-empathy-promoperiod="{{ offers.promoPeriod }}"
+                                    data-vfes-seo-empathy-promoprice="{{ offers.dtoPrice }}"
+                                    data-vfes-seo-empathy-price="{{ offers.dtoFinalPrice }}">
+                                    {{#each description }}
+                                    <li class="ws10-c-card-rate__product-info-item">
+                                        <svg class="ws10-c-card-rate__product-icon ws10-u-color--black"
+                                            xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                            <use xlink:href="#{{ icon }}"></use>
+                                        </svg>
+                                        <div class="ws10-c-card-rate__product">
+                                            <p class="ws10-c-card-rate__product-title">
+                                                {{ title }}
+                                            </p>
+                                            <p class="ws10-c-card-rate__product-txt {{#if color }} {{ color }} {{/if }}">
+                                                {{ subtitle }}
+                                                {{#if secondIcon }}
+                                                <svg class="ws10-c-card-rate__product-txt-icon"
+                                                    xmlns="http://www.w3.org/2000/svg"
+                                                    xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                    <use xlink:href="#{{ secondIcon }}"></use>
+                                                </svg>
+                                                {{/if }}
+                                            </p>
+                                        </div>
+                                    </li>
+                                    {{/each }}
+                                </ul>
+                                <div class="ws10-u--mt4x">
+                                    <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--percent">
+                                        {{ offers.discount }}
+                                    </p>
+                                </div>
+                                <div class="ws10-c-card-rate__w-cta ws10-u--mt0">
+                                    <div class="ws10-c-card-rate__w-offers">
+                                        <div class="ws10-c-card-rate__offer" id="rate-1-offer-1">
+                                            <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label">
+                                                {{ offers.label }}
+                                            </p>
+                                            <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price">
+                                                {{{ offers.finalPrice }}}
+                                            </p>
+                                            <p class="ws10-c-card-rate__price ws10-u-color--black">
+                                                {{{ offers.discountPrice }}}
+                                            </p>
+                                        </div>
+                                    </div>
+                                    {{> cta cta }}
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+</div>

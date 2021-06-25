@@ -40,7 +40,7 @@
               "subtitle": "con HBO España y 60 canales más"
           }
       ],
-      "prizes": [
+      "rates": [
           {
               "js-vf": "_newNumber",
               "hidden": "ws10-u--hidden",
@@ -52,7 +52,9 @@
                   "discountPrice": "37,49€/<sub>mes</sub>"
               },
               "cta": {
+                  "dataCTA": "300:port:card",
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&tcli=0&tta=1",
+                  "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                   "context": "lo quiero",
                   "element": "cardrate",
                   "category": "cta",
@@ -70,7 +72,9 @@
                   "discountPrice": "37,49€/<sub>mes</sub>"
               },
               "cta": {
+                  "dataCTA": "300:port:card",
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&tcli=0&tta=1",
+                  "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
                   "context": "lo quiero",
                   "element": "cardrate",
                   "category": "cta",
@@ -88,27 +92,27 @@
   },
 
   "fibra":{
-    "section":"Fibra óptica simétrica",
-    "title":"<strong>600Mbps de velocidad para tu hogar</strong>",
-    "img": [
-      {
-        "imgJpg":"",
-        "imgPng":"img/section-fiber/fiber-vf",
-        "alt": "Router Vodafone"
-      }
-    ],
-    "productDetail": [
-      {
-        "thirdWidht":"ws10-u--2/3@desktop",
-        "icon": "#icon-multiscreen-mid",
-        "description": "<strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 25 dispositivos a la vez."
-      },
-      {
-        "thirdWidht":"ws10-u--2/3@desktop",
-        "icon": "#icon-minutes-sms-mid",
-        "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
-      }
-    ]
+      "section":"Fibra óptica simétrica",
+      "title":"<strong>600Mbps de velocidad para tu hogar</strong>",
+      "img": [
+          {
+              "imgJpg":"",
+              "imgPng":"img/section-fiber/fiber-vf",
+              "alt": "Router Vodafone"
+          }
+      ],
+      "productDetail": [
+          {
+              "thirdWidht":"ws10-u--2/3@desktop",
+              "icon": "#icon-multiscreen-mid",
+              "description": "<strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 25 dispositivos a la vez."
+          },
+          {
+              "thirdWidht":"ws10-u--2/3@desktop",
+              "icon": "#icon-minutes-sms-mid",
+              "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
+          }
+      ]
   },
 
   "alsoIncluded": {

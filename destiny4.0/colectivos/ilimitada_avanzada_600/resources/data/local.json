@@ -1,48 +1,9 @@
 {
     "cta": {
         "title": "Lo quiero",
-        "condicioneslegales": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
-        "loquiero": [
-            "1285869",
-            "1285873"
-        ]
-    },
-    "banner": {
-        "heading": [
-            "Fibra + Móvil",
-            "50% dto. 3 meses +",
-            "después 15% dto. 2 años"
-        ],
-        "heading2": "Fibra y datos para ser ilimitable",
-        "cta": {
-            "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/",
-            "category": "cta",
-            "id": "-5460257368589",
-            "element": "cardaddons",
-            "context": "condiciones legales",
-            "label": "Volver a ver las ofertas"
-        }
+        "condicioneslegales": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/"
     },
     "ticket": {
-        "heading": "Vodafone One Ilimitada Avanzada 600Mbps",
-        "description": [
-            {
-                "title": "Datos y minutos ilimitados",
-                "subtitle": "Velocidad alta"
-            },
-            {
-                "title": "Segunda línea GRATIS 1 año",
-                "subtitle": "Datos y minutos ilimitados"
-            },
-            {
-                "title": "600Mbps Fibra Óptica",
-                "subtitle": "+ llamadas ilimitadas en fijo"
-            },
-            {
-                "title": "Pack TV Universal GRATIS",
-                "subtitle": "con más de 30 canales internacionales"
-            }
-        ],
         "form": {
             "legend": "¿Cómo quieres la línea móvil principal?",
             "portability": {
@@ -59,37 +20,91 @@
                 "context": "alta nueva",
                 "label": "Nuevo Número"
             }
-        },
-        "offers": {
-            "portability": {
-                "dtoPercent": "50% dto. 3 meses + después 15% dto. durante 2 años",
-                "dtoLabel": "Permanencia 1 año",
-                "dtoFinalPrice": "71,98",
-                "dtoPrice": "30,49",
+        }
+    },
+    "header": {
+        "title": "Fibra + Móvil <strong>50% dto. 3 meses + después 15% dto. 2 años</strong>",
+        "title2": "Fibra y datos para ser ilimitable",
+        "cta": {
+            "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/plp/",
+            "category": "cta",
+            "id": "-5460257368589",
+            "element": "cardaddons",
+            "context": "condiciones legales",
+            "label": "Volver a ver las ofertas"
+        }
+    },
+    "cardRates": {
+        "title": "Vodafone One Ilimitada Avanzada 600Mbps",
+        "description": [
+            {
+                "icon": "icon-mobile",
+                "title": "Datos y minutos ilimitados",
+                "subtitle": "Velocidad alta",
+                "secondIcon": "icon-thunder-2grey",
+                "color": "ws10-c-card-rate__product-txt--primary"
+            },
+            {
+                "icon": "icon-sim",
+                "title": "Segunda línea GRATIS 1 año",
+                "subtitle": "Datos y minutos ilimitados",
+                "js-vf": "_secondLine"
+            },
+            {
+                "icon": "icon-broadband-or-wifi",
+                "title": "600Mbps Fibra Óptica",
+                "subtitle": "+ llamadas ilimitadas en fijo"
+            },
+            {
+                "icon": "icon-tv",
+                "title": "Pack TV Universal GRATIS",
+                "subtitle": "con más de 30 canales internacionales"
+            }
+        ],
+        "rates": [
+            {
+                "js-vf": "_newNumber",
+                "hidden": "ws10-u--hidden",
+                "offers": {
+                    "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+                    "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
+                    "label": "Permanencia 1 año",
+                    "finalPrice": "<del>71,98€/mes</del>",
+                    "discountPrice": "30,49€/<sub>mes</sub>"
+                },
                 "cta": {
-                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&tcli=0&tta=1",
-                    "category": "cta",
-                    "id": "-4725875160593",
-                    "element": "cardrate",
+                    "dataCTA": "300:port:card",
+                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285869&tcli=0&tta=1",
+                    "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                     "context": "lo quiero",
+                    "element": "cardrate",
+                    "category": "cta",
+                    "id": "-4725602956266",
                     "label": "Lo quiero"
                 }
             },
-            "newNumber": {
-                "dtoPercent": "50% dto. 3 meses + después 15% dto. durante 2 años",
-                "dtoLabel": "Permanencia 1 año",
-                "dtoFinalPrice": "71,98",
-                "dtoPrice": "30,49",
+            {
+                "js-vf": "_portability",
+                "hidden": "",
+                "offers": {
+                    "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+                    "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
+                    "label": "Permanencia 1 año",
+                    "finalPrice": "<del>71,98€/mes</del>",
+                    "discountPrice": "30,49€/<sub>mes</sub>"
+                },
                 "cta": {
-                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&tcli=0&tta=1",
-                    "category": "cta",
-                    "id": "-4725602956266",
-                    "element": "cardrate",
+                    "dataCTA": "300:port:card",
+                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285873&tcli=0&tta=1",
+                    "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
                     "context": "lo quiero",
+                    "element": "cardrate",
+                    "category": "cta",
+                    "id": "-4725875160593",
                     "label": "Lo quiero"
                 }
             }
-        }
+        ]
     },
     "mobile": {
         "title": [
