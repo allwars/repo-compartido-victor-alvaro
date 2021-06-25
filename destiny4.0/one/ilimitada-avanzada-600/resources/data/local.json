@@ -38,7 +38,7 @@
               "subtitle": "con más de 30 canales internacionales"
           }
       ],
-      "prizes": [
+      "rates": [
           {
               "js-vf": "_newNumber",
               "hidden": "ws10-u--hidden",
@@ -92,23 +92,23 @@
     "section":"Fibra óptica simétrica",
     "title":"<strong>300Mbps de velocidad para tu hogar</strong>",
     "img": [
-      {
-        "imgJpg":"",
-        "imgPng":"img/section-fiber/fiber-vf",
-        "alt": "Router Vodafone"
-      }
+        {
+            "imgJpg":"",
+            "imgPng":"img/section-fiber/fiber-vf",
+            "alt": "Router Vodafone"
+        }
     ],
     "productDetail": [
-      {
-        "thirdWidht":"ws10-u--2/3@desktop",
-        "icon": "#icon-multiscreen-mid",
-        "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
-      },
-      {
-        "thirdWidht":"ws10-u--2/3@desktop",
-        "icon": "#icon-minutes-sms-mid",
-        "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
-      }
+        {
+          "thirdWidht":"ws10-u--2/3@desktop",
+          "icon": "#icon-multiscreen-mid",
+          "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
+        },
+        {
+          "thirdWidht":"ws10-u--2/3@desktop",
+          "icon": "#icon-minutes-sms-mid",
+          "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
+        }
     ]
   },
 
