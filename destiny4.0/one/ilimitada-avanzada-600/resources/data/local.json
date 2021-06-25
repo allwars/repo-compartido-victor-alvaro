@@ -50,7 +50,9 @@
                   "discountPrice": "30,49€/<sub>mes</sub>"
               },
               "cta": {
+                  "dataCTA": "300:port:card",
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285769&tcli=0&tta=1",
+                  "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                   "context": "lo quiero",
                   "element": "cardrate",
                   "category": "cta",
@@ -68,7 +70,9 @@
                   "discountPrice": "30,49€/<sub>mes</sub>"
               },
               "cta": {
+                  "dataCTA": "300:port:card",
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285751&tcli=0&tta=1",
+                  "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
                   "context": "lo quiero",
                   "element": "cardrate",
                   "category": "cta",

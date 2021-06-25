@@ -52,6 +52,7 @@
                   "discountPrice": "28,49€/<sub>mes</sub>"
               },
               "cta": {
+                  "dataCTA": "300:port:card",
                   "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&tcli=0&tta=1",
                   "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                   "context": "lo quiero",
