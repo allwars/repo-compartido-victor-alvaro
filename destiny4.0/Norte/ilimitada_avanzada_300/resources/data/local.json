@@ -1,5 +1,28 @@
 {
   "mismakey": "Yo soy el JSON local del microsite",
   "title": "Ejemplo de contenido cargado desde el JSON",
-  "url": "microsite/[ruta_del_microsite]/resource/data/local.json"
+  "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
+  "fibra":{
+    "section":"Fibra óptica simétrica",
+    "title":"<strong>300Mbps de velocidad para tu hogar</strong>",
+    "img": [
+      {
+        "imgJpg":"",
+        "imgPng":"img/section-fiber/fiber-vf",
+        "alt": "Router Vodafone"
+      }
+    ],
+    "productDetail": [
+      {
+        "thirdWidht":"ws10-u--2/3@desktop",
+        "icon": "#icon-multiscreen-mid",
+        "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
+      },
+      {
+        "thirdWidht":"ws10-u--2/3@desktop",
+        "icon": "#icon-minutes-sms-mid",
+        "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
+      }
+    ]
+  }
 }

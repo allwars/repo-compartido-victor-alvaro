@@ -140,33 +140,29 @@
     ],
     "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra."
   },
-  "deco": {
-    "title": "Llévate la 2ª Línea GRATIS 1 año",
-
-    "productDetail": [
-      {
-        "icon": "#icon-thunder-1grey",
-        "description": "Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong>"
-      },
-      {
-        "icon": "#icon-chat-mid",
-        "description": "Consulta tus redes sociales y usa aplicaciones de mensajería instantánea."
-      },
-      {
-        "icon": "#icon-play-mid",
-        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
-      },
-      {
-        "icon": "#icon-unified-communication-mid",
-        "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
-      }
-    ],
-    "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra."
-  },
-
 
   "fibra":{
-    "dispositivos":"12"
+    "section":"Fibra óptica simétrica",
+    "title":"<strong>300Mbps de velocidad para tu hogar</strong>",
+    "img": [
+      {
+        "imgJpg":"",
+        "imgPng":"img/section-fiber/fiber-vf",
+        "alt": "Router Vodafone"
+      }
+    ],
+    "productDetail": [
+      {
+        "thirdWidht":"ws10-u--2/3@desktop",
+        "icon": "#icon-multiscreen-mid",
+        "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
+      },
+      {
+        "thirdWidht":"ws10-u--2/3@desktop",
+        "icon": "#icon-minutes-sms-mid",
+        "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
+      }
+    ]
   },
 
   "tv": {
@@ -193,7 +189,7 @@
 
       ],
       "allChannels": "Ver todos los canales incluidos",
-      "info": "(*) Puedes añadir más packs de TV en el proceso de compra.",
+      "legal": "(*) Puedes añadir más packs de TV en el proceso de compra.",
       "popup": {
           "title": "¿Qué incluye el Pack Universal?",
           "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
@@ -202,190 +198,267 @@
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/amc-desktop",
-              "alt": "AMC"
+              "alt": "AMC",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/foxlife-desktop",
-              "alt": "FOX Life"
+              "alt": "FOX Life",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/cosmo-desktop",
-              "alt": "COSMO Life"
+              "alt": "COSMO Life",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/comedy-desktop",
-              "alt": "Comedy Central"
+              "alt": "Comedy Central",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/xtrm-desktop",
-              "alt": "XTRM"
+              "alt": "XTRM",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/tcm-desktop",
-              "alt": "TCM"
+              "alt": "TCM",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/sundance-desktop",
-              "alt": "Sundance TV"
+              "alt": "Sundance TV",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/natgeo-desktop",
-              "alt": "National Geographic"
+              "alt": "National Geographic",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/natgeoplus-desktop",
-              "alt": "National Geographic Now"
+              "alt": "National Geographic Now",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/cocina-desktop",
-              "alt": "Cocina"
+              "alt": "Cocina",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/decasa-desktop",
-              "alt": "Decasa"
+              "alt": "Decasa",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/mtv-desktop",
-              "alt": "MTV"
+              "alt": "MTV",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/mymtv-desktop",
-              "alt": "MyMTV Music"
+              "alt": "MyMTV Music",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/solmusica-desktop",
-              "alt": "SOL Música"
+              "alt": "SOL Música",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/eurosport-desktop",
-              "alt": "Eurosport 1"
+              "alt": "Eurosport 1",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/selekt-desktop",
-              "alt": "SELEKT"
+              "alt": "SELEKT",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/euronews-desktop",
-              "alt": "Euronews"
+              "alt": "Euronews",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/cnn-international-desktop",
-              "alt": "CNN International"
+              "alt": "CNN International",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/comedy-central-desktop",
-              "alt": "Az Corazón"
+              "alt": "Az Corazón",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/cnbc-desktop",
-              "alt": "CNBC"
+              "alt": "CNBC",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/el-trece-tv-desktop",
-              "alt": "El Trece TV"
+              "alt": "El Trece TV",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/cubavisio-n-internacional-desktop",
-              "alt": "Cubavisión Internacional"
+              "alt": "Cubavisión Internacional",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/bbc-hd-desktop",
-              "alt": "BBC HD"
+              "alt": "BBC HD",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/bloomberg-desktop",
-              "alt": "BLOOMERANG"
+              "alt": "BLOOMERANG",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/ve-plus-tv-desktop",
-              "alt": "Ve Plus TV"
+              "alt": "Ve Plus TV",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/tv-chile-desktop",
-              "alt": "TV Chile"
+              "alt": "TV Chile",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/caracol-desktop",
-              "alt": "Caracol"
+              "alt": "Caracol",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/aljazeera-desktop",
-              "alt": "Aljazeera"
+              "alt": "Aljazeera",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/cgtn-desktop",
-              "alt": "CGTN"
+              "alt": "CGTN",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/rt-desktop",
-              "alt": "RT"
+              "alt": "RT",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/canal-parlamento-desktop",
-              "alt": "Canal Parlamento"
+              "alt": "Canal Parlamento",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/france-24-desktop",
-              "alt": "France 24"
+              "alt": "France 24",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/pro-tv-desktop",
-              "alt": "PRO TV"
+              "alt": "PRO TV",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/tv-5-monde-desktop",
-              "alt": "TV5 Monde"
+              "alt": "TV5 Monde",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/ewtn-desktop",
-              "alt": "EWTN"
+              "alt": "EWTN",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/dw-desktop",
-              "alt": "DW"
+              "alt": "DW",
+              "class": "ws10-u--pr1x"
             },
             {
               "imgJpg":"",
               "imgPng":"img/section-tv/popup/universal/tvp-desktop",
-              "alt": "TVP"
+              "alt": "TVP",
+              "class": "ws10-u--pr1x"
             }
           ]
       }
+  },
+
+  "deco":{
+    "title": "¿Cómo es la experiencia de TV sin decodificador?",
+    "description":"Vodafone TV con <strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como móvil, tablet, PC, Fire TV Stick y Chromecast</strong> para disfrutar de una experiencia online. Consultar dispositivos compatibles",
+    "img": [
+      {
+        "imgJpg":"",
+        "imgPng":"img/section-deco/contenido-tv",
+        "alt": "interfaz de tv Vodafone, sin decodificador",
+        "class": "ws10-u--1/1"
+      }
+    ],
+    "productDetail": [
+      {
+        "icon": "#icon-portals-for-videos-mid",
+        "description": "Más de <strong>50.000 contenidos disponibles</strong> bajo demanda."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo."
+      },
+      {
+        "icon": "",
+        "url": "img/section-deco/icon-control",
+        "name": "control",
+        "description": "Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días, Grabación, Ver Ahora y Descarga."
+      },
+      {
+        "icon": "#icon-connected-devices-mid",
+        "description": "<strong>2 reproducciones simultáneas</strong> en diferentes dispositivos."
+      },
+      {
+        "url": "img/section-deco/icono-5-g",
+        "name": "5G",
+        "icon": "",
+        "description": "escarga tus contenidos</strong> para verlos estés donde estés y cuando quieras."
+      }
+    ]
+
   },
 
   "bar":[

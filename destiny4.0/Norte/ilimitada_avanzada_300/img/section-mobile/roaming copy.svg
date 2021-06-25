@@ -1,1 +1,22 @@
-<svg width="36" height="26" viewBox="0 0 36 26" xmlns="http://www.w3.org/2000/svg"><g id="PDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Avanzada-300" transform="translate(-454 -1216)"><g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20 572)"><g id="Product-detail-/-Desktop-Tablet-/-+3-lines" transform="translate(420 621)"><g id="Icono" transform="translate(0 4)"><g id="roaming-mid" transform="translate(10 10)"><path d="M7.53 21.77c2.194 2.63 5.44 3.624 8.674 2.496l19.42-6.92a6 6 0 003.832-4.155h0a6 6 0 00-5.585-.862l-7.645 2.709m-6.511 2.305l-7.7 2.727" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"/><path d="M21.106 18.755l-7.723-7.847 2.152-.749a2.292 2.292 0 011.776.117L28.394 16.2M6.417 34.375h31.166" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"/><path id="Rectangle" d="M0 0h44v44H0z"/><path d="M12.015 20.07l-4.583-2.456a1.97 1.97 0 00-1.506-.087l-1.375.58 2.98 3.666 4.484-1.703z" id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"/></g></g></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="26px" viewBox="0 0 36 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons+Indicators / System-Icons / thunder-3</title>
+    <g id="PDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="PDP-Oferta-Norte-Desktop---Destiny-4.0---Ilimitada-Avanzada-300" transform="translate(-454.000000, -1216.000000)">
+            <g id="Blocks/-Desktop-/-Product-detail-/-Example" transform="translate(20.000000, 572.000000)">
+                <g id="Product-detail-/-Desktop-Tablet-/-+3-lines" transform="translate(420.000000, 621.000000)">
+                    <g id="Icono" transform="translate(0.000000, 4.000000)">
+                        <g id="roaming-mid" transform="translate(10.000000, 10.000000)">
+                            <path d="M7.53041667,21.7708333 C9.72354167,24.399375 12.9708333,25.3939583 16.204375,24.2664583 L35.6239583,17.345625 C37.514379,16.6867164 38.9515896,15.1283057 39.455625,13.1908333 L39.455625,13.1908333 C37.8543066,11.9900082 35.7596165,11.6668226 33.8708333,12.3291667 L26.2258333,15.0379167" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <line x1="19.7152083" y1="17.3433333" x2="12.0152083" y2="20.0704167" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <path d="M21.10625,18.755 L13.3833333,10.9083333 L15.5352083,10.1589583 C16.1187888,9.9570337 16.7591635,9.99917449 17.31125,10.2758333 L28.39375,16.1997917" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <line x1="6.41666667" y1="34.375" x2="37.5833333" y2="34.375" id="Path" stroke="#676767" stroke-linecap="round" stroke-linejoin="round"></line>
+                            <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+                            <path d="M12.0152083,20.0704167 L7.431875,17.61375 C6.96139532,17.3862506 6.41982116,17.3549267 5.92625,17.5266667 L4.55125,18.1064583 L7.53041667,21.773125 L12.0152083,20.0704167 Z" id="Path" stroke="#E60000" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
