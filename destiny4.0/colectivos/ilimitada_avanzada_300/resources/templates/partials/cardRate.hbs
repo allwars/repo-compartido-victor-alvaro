@@ -62,12 +62,13 @@
                             </div>
                         </fieldset>
                         {{#each rates }}
-                            <div class="ws10-c-card-rate__w-cta {{ hidden }}" data-js-vf="{{ js-vf }}">
-                                <div class="ws10-c-card-rate__w-offers">
-                                    <div class="ws10-c-card-rate__offer" id="rate-1-offer-1">
+                            <div class="{{ hidden }}"data-js-vf="{{ js-vf }}">
                                         <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--percent">
                                             {{ offers.discount }}
                                         </p>
+                            <div class="ws10-c-card-rate__w-cta " >
+                                <div class="ws10-c-card-rate__w-offers">
+                                    <div class="ws10-c-card-rate__offer" id="rate-1-offer-1">
                                         <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label">
                                             {{ offers.label }}
                                         </p>
@@ -82,6 +83,7 @@
                                     </div>
                                 </div>
                                 {{> cta cta }}
+                            </div>
                             </div>
                         {{/each }}
                     </form>

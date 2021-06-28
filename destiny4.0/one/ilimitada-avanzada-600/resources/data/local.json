@@ -66,7 +66,7 @@
           "discount": "50% dto. 3 meses",
           "label": "Permanencia 1 año",
           "finalPrice": "<del>69,99€/mes</del>",
-          "discountPrice": "34,99€/<sub>mes</sub>"
+          "discountPrice": "34,99€<sub>/mes</sub>"
         },
         "cta": {
           "dataCTA": "300:port:card",
@@ -88,7 +88,7 @@
           "discount": "50% dto. 3 meses",
           "label": "Permanencia 1 año",
           "finalPrice": "<del>69,99€/mes</del>",
-          "discountPrice": "34,49€/<sub>mes</sub>"
+          "discountPrice": "34,49€<sub>/mes</sub>"
         },
         "cta": {
           "dataCTA": "300:port:card",
