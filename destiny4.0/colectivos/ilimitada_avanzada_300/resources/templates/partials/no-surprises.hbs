@@ -2,23 +2,15 @@
   <p
     class="ws10-u-heading--4 ws10-u--mb2x ws10-flex ws10-flex__direction--column"
   >
-    <span><strong>Sin sorpresas.</strong></span>
-    <span><strong>No escondemos nada</strong></span>
+    <span>{{{sinSorpresas.section}}}</span>
+    <span>{{{sinSorpresas.title}}}</span>
   </p>
-  <p>Impuestos y cuota de línea incluidos.</p>
-  <p><strong>Permanencia 1 año</strong></p>
-  <p>¿Cuánto voy a pagar?
-    <br />
-    <strong>Paquete Fibra + Móvil: 28,49€/mes durante 3 meses, después 48,44€/mes durante 2 años.</strong>
-  </p>
+  <p>{{{sinSorpresas.conditions}}}</p>
+  <p>{{{sinSorpresas.permanency}}}</p>
+    <p>{{{sinSorpresas.question}}}</p>
+  <p>{{{sinSorpresas.paquete}}}</p>
   <p class="ws10-flex ws10-flex__direction--column">
-    <span>Promociones:</span>
-    <span>Llévate el paquete de Fibra + Móvil al 50% dto. 3 meses,
-      después al 15% durante 2 años.</span>
-    <span data-js-vf="_portability">
-      Línea adicional: GRATIS durante 1 año, después con un 50% dto. por
-      solo 17,50€/mes (dto. ya aplicado).</span>
-    <span>Paquete de TV: GRATIS</span>
+     {{{sinSorpresas.promociones}}}
   </p>
 
   <!----PRICE-TAB-->
@@ -29,12 +21,12 @@
         class="ws10-c-price-bar__text ws10-u--mb4x"
         data-js-vf="_portability"
       >
-        Los primeros 3 meses</span>
+          {{ sinSorpresas.bar.[0].bar1 }}</span>
       <span
         class="ws10-c-price-bar__text ws10-u--mb4x ws10-u--hidden"
         data-js-vf="_newNumber"
       >
-        Los primeros 3 meses</span>
+          {{ sinSorpresas.bar.[1].bar1 }}</span>
       <span
         class="ws10-c-price-bar__hr ws10-c-price-bar__hr--start ws10-c-price-bar__hr--separator-end ws10-c-price-bar__hr--bg-lemon-yellow"
       ></span>
@@ -42,7 +34,7 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
         data-js-vf="_portability"
       >
-        <span class="ws10-c-price__amount">28,49</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[0].price1 }}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
@@ -50,15 +42,14 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop ws10-u--hidden"
         data-js-vf="_newNumber"
       >
-        <span class="ws10-c-price__amount">28,49</span>
+        <span class="ws10-c-price__amount">{{ sinSorpresas.bar.[1].price1 }}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
     <div class="ws10-c-price-bar" data-js-vf="_portability">
       <span class="ws10-c-price-bar__text ws10-u--mb4x">
-        Del mes 4 al
-        <span data-js-vf="_portability"> 12</span>
+        {{ sinSorpresas.bar.[0].bar2}}
       </span>
       <span
         class="ws10-c-price-bar__hr ws10-c-price-bar__hr--none ws10-c-price-bar__hr--separator-end ws10-c-price-bar__hr--bg-turquoise"
@@ -66,7 +57,7 @@
       <div
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
       >
-        <span class="ws10-c-price__amount">48,44</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[0].price2}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
@@ -75,11 +66,11 @@
       <span
         class="ws10-c-price-bar__text ws10-u--mb4x"
         data-js-vf="_portability"
-        >Del mes 13 al 27</span>
+        >  {{ sinSorpresas.bar.[0].bar3}}</span>
       <span
         class="ws10-c-price-bar__text ws10-u--mb4x ws10-u--hidden"
         data-js-vf="_newNumber"
-        >Del mes 4 al 27</span>
+        >  {{ sinSorpresas.bar.[1].bar3}}</span>
       <span
         class="ws10-c-price-bar__hr ws10-c-price-bar__hr--none ws10-c-price-bar__hr--bg-fresh-orange"
       ></span>
@@ -87,7 +78,7 @@
         data-js-vf="_portability"
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
       >
-        <span class="ws10-c-price__amount">65,94</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[0].price3}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
@@ -95,14 +86,14 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop ws10-u--hidden"
         data-js-vf="_newNumber"
       >
-        <span class="ws10-c-price__amount">48,44</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[1].bar3}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
     <div class="ws10-c-price-bar">
       <span class="ws10-c-price-bar__text ws10-u--mb4x">
-        Del mes 28 en adelante
+         {{ sinSorpresas.bar.[0].bar4}}
       </span>
       <span
         class="ws10-c-price-bar__hr ws10-c-price-bar__hr--end ws10-c-price-bar__hr--separator-start ws10-c-price-bar__hr--bg-dark-grey"
@@ -111,7 +102,7 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
         data-js-vf="_portability"
       >
-        <span class="ws10-c-price__amount">74,49</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[0].price4}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
@@ -119,41 +110,16 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop ws10-u--hidden"
         data-js-vf="_newNumber"
       >
-        <span class="ws10-c-price__amount">74,49</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[1].price3}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
   </div>
 
-  <!------------->
-  <p class="ws10-u--mb1x">La instalación del servicio de fibra, salvo
-    que sea autoinstalable, tiene un coste para el cliente de 150€.</p>
-  <p>Vodafone renuncia al cobro de este coste si el cliente se mantiene
-    activo en el servicio durante, al menos, 1 año desde la fecha de
-    instalación.</p>
-  <!--                    <p>⚠️El precio indicado en esta oferta incrementará +3€/mes en la línea móvil principal y +1,5€/mes en las líneas adicionales a partir del próximo 15/7</p>-->
+  {{{sinSorpresas.instalacion}}}
+  {{{sinSorpresas.benefits}}}
+  
+  {{>cta sinSorpresas.cta}}
 
-  <a
-    class="ws10-c-link-chevron ws10-c-link-chevron--primary"
-    target="_blank"
-    href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/legales/"
-    data-analytics-element="card addons"
-    data-analytics-context="condiciones legales"
-    data-analytics-category="cta"
-    data-analytics-id="-5460257368590"
-  >
-    Ver condiciones legales
-    <span class="ws10-u--hidden-visually"> color #E60000</span>
-    <svg
-      class="ws10-c-link-chevron__icon"
-      xmlns="http://www.w3.org/2000/svg"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      width="24px"
-      height="24px"
-    >
-      <title>Flecha derecha</title>
-      <use class="icon-v3" xlink:href="#icon-chevron-right"></use>
-    </svg>
-  </a>
 </section>

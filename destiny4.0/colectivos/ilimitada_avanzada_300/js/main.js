@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-28T07:19:43.405Z
+ * Vodafone Reboot Framework: Version 2.17.0. Generation Date: 2021-06-28T14:25:19.291Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -85,15 +85,15 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/main.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/main.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/analyticsAndThirdURLForCta.js":
-/*!*************************************************************************************************************************************************************!*\
-  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/analyticsAndThirdURLForCta.js ***!
-  \*************************************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/analyticsAndThirdURLForCta.js":
+/*!***************************************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/analyticsAndThirdURLForCta.js ***!
+  \***************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -101,24 +101,24 @@
 
 /***/ }),
 
-/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/main.js":
-/*!***************************************************************************************************************************************!*\
-  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/main.js ***!
-  \***************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/main.js":
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/main.js ***!
+  \*****************************************************************************************************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/tools.js");
-/* harmony import */ var _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./analyticsAndThirdURLForCta */ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/analyticsAndThirdURLForCta.js");
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/tools.js");
+/* harmony import */ var _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./analyticsAndThirdURLForCta */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/analyticsAndThirdURLForCta.js");
 /* harmony import */ var _analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_analyticsAndThirdURLForCta__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _utag_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./utag_data */ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/utag_data.js");
+/* harmony import */ var _utag_data__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./utag_data */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/utag_data.js");
 function _slicedToArray(arr, i) { return _arrayWithHoles(arr) || _iterableToArrayLimit(arr, i) || _unsupportedIterableToArray(arr, i) || _nonIterableRest(); }
 
 function _nonIterableRest() { throw new TypeError("Invalid attempt to destructure non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
 
-function _iterableToArrayLimit(arr, i) { var _i = arr && (typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"]); if (_i == null) return; var _arr = []; var _n = true; var _d = false; var _s, _e; try { for (_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
+function _iterableToArrayLimit(arr, i) { var _i = arr == null ? null : typeof Symbol !== "undefined" && arr[Symbol.iterator] || arr["@@iterator"]; if (_i == null) return; var _arr = []; var _n = true; var _d = false; var _s, _e; try { for (_i = _i.call(arr); !(_n = (_s = _i.next()).done); _n = true) { _arr.push(_s.value); if (i && _arr.length === i) break; } } catch (err) { _d = true; _e = err; } finally { try { if (!_n && _i["return"] != null) _i["return"](); } finally { if (_d) throw _e; } } return _arr; }
 
 function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 
@@ -350,10 +350,10 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
 
 /***/ }),
 
-/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/tools.js":
-/*!****************************************************************************************************************************************!*\
-  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/tools.js ***!
-  \****************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/tools.js":
+/*!******************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/tools.js ***!
+  \******************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -513,10 +513,10 @@ var ex = {
 
 /***/ }),
 
-/***/ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/utag_data.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/utag_data.js ***!
-  \********************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/utag_data.js":
+/*!**********************************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/colectivos/ilimitada_avanzada_300/resources/scripts/utag_data.js ***!
+  \**********************************************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

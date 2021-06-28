@@ -1,27 +1,18 @@
 <section class="vf-mobile ws10-u--pt12x">
-  <p
+    <p
     class="ws10-u-heading--4 ws10-u--mb2x ws10-flex ws10-flex__direction--column"
   >
-    <span><strong>Sin sorpresas.</strong></span>
-    <span><strong>No escondemos nada</strong></span>
+    <span>{{{sinSorpresas.section}}}</span>
+    <span>{{{sinSorpresas.title}}}</span>
   </p>
-  <p>Impuestos y cuota de línea incluidos.</p>
-  <p><strong>Permanencia 1 año</strong></p>
-  <p>¿Cuánto voy a pagar?
-    <br />
-    <strong>Paquete Fibra + Móvil: 30,49€/mes durante 3 meses, después 52,69€/mes durante 2 años.</strong>
-  </p>
+  <p>{{{sinSorpresas.conditions}}}</p>
+  <p>{{{sinSorpresas.permanency}}}</p>
+    <p>{{{sinSorpresas.question}}}</p>
+  <p>{{{sinSorpresas.paquete}}}</p>
   <p class="ws10-flex ws10-flex__direction--column">
-    <span>Promociones:</span>
-    <span>Llévate el paquete de Fibra + Móvil al 50% dto. 3 meses,
-      después al 15% durante 2 años.</span>
-    <span data-js-vf="_portability">
-      Línea adicional: GRATIS durante 1 año, después con un 50% dto. por
-      solo 17,50€/mes (dto. ya aplicado).</span>
+     {{{sinSorpresas.promociones}}}
   </p>
-  <p class="ws10-flex ws10-flex__direction--column">
-      Paquete de TV: GRATIS
-  </p>
+
 
   <!----PRICE-TAB-->
 
@@ -31,7 +22,7 @@
           class="ws10-c-price-bar__text ws10-u--mb4x"
           data-js-vf="_portability"
         >
-          Los primeros 3 meses</span>
+          {{ sinSorpresas.bar.[0].bar1 }}</span>
         <span
           class="ws10-c-price-bar__text ws10-u--mb4x ws10-u--hidden"
           data-js-vf="_newNumber"
@@ -129,35 +120,8 @@
     </div>
   </div>
 
-  <!------------->
-  <p class="ws10-u--mb1x">La instalación del servicio de fibra, salvo
-    que sea autoinstalable, tiene un coste para el cliente de 150€.</p>
-  <p>Vodafone renuncia al cobro de este coste si el cliente se mantiene
-    activo en el servicio durante, al menos, 1 año desde la fecha de
-    instalación.</p>
-  <!--                    <p>⚠️ El precio indicado en esta oferta incrementará +3€/mes en la línea móvil principal y +1,5€/mes-->
-  <!--                        en las líneas adicionales a partir del próximo 15/7</p>-->
-
-  <a
-    class="ws10-c-link-chevron ws10-c-link-chevron--primary"
-    target="_blank"
-    href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/legales/"
-    data-analytics-element="card addons"
-    data-analytics-context="condiciones legales"
-    data-analytics-category="cta"
-    data-analytics-id="-5460257368590"
-  >
-    Ver condiciones legales
-    <span class="ws10-u--hidden-visually"> color #E60000</span>
-    <svg
-      class="ws10-c-link-chevron__icon"
-      xmlns="http://www.w3.org/2000/svg"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      width="24px"
-      height="24px"
-    >
-      <title>Flecha derecha</title>
-      <use class="icon-v3" xlink:href="#icon-chevron-right"></use>
-    </svg>
-  </a>
+    {{{sinSorpresas.instalacion}}}
+  {{{sinSorpresas.benefits}}}
+  
+  {{>cta sinSorpresas.cta}}
 </section>
