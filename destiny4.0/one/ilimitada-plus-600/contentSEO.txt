@@ -93,46 +93,177 @@
                                             
                                                   <span></span>
                                               </a><p>
-                    
+                    Móvil
                   </p><h3>
-                    
+                    Datos ilimitados en tu móvil para TODO
                   </h3><div>
                     </div><ul>
-                  </ul><h3>
-                    Llévate la 2ª Línea GRATIS 1 año
+                      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-thunder-2grey"></use>
+                          </svg>
+                        <p>
+                          Datos ilimitados <strong>a máxima velocidad  (1Gbps de bajada y de subida).</strong>
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-game-console-mid"></use>
+                          </svg>
+                        <p>
+                          <strong>Juega sin límites con una calidad extrema y sin cortes.</strong>
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-cloud-download-mid"></use>
+                          </svg>
+                        <p>
+                          Descarga y sube todos los archivos que quieras.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-play-mid"></use>
+                          </svg>
+                        <p>
+                          Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-unified-communication-mid"></use>
+                          </svg>
+                        <p>
+                          <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-roaming-mid"></use>
+                          </svg>
+                        <p>
+                          <strong>Roaming incluido en la Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-5G_esp-mid"></use>
+                          </svg>
+                        <p>
+                          Todo con la <strong>nueva red 5G</strong>.
+                        </p>
+                      </li>  </ul><h3>
+                    Llévate también una 2ª línea
                   </h3><ul>
-                  </ul><p>
-                    (*)Podrás añadir más Líneas adicionales en el proceso de compra
+                  <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                        <use xlink:href="#icon-thunder-3"></use>
+                      </svg>
+                    <p>
+                      Datos ilimitados <strong>a máxima velocidad (1Gbps de bajada y de subida).</strong>
+                    </p>
+                  </li>  <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                        <use xlink:href="#icon-cloud-download-mid"></use>
+                      </svg>
+                    <p>
+                      Descarga y sube todos los archivos que quieras.
+                    </p>
+                  </li>  <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                        <use xlink:href="#icon-play-mid"></use>
+                      </svg>
+                    <p>
+                      Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
+                    </p>
+                  </li>  <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                        <use xlink:href="#icon-unified-communication-mid"></use>
+                      </svg>
+                    <p>
+                      <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.
+                    </p>
+                  </li>  </ul><p>
+                    (*) Podrás añadir más Líneas adicionales en el proceso de compra
                   </p><h3>
                     <span>
-                        
+                        Televisión
                     </span>
                     <span>
-                        <strong></strong>
+                        <strong>Pack TV Seriefans GRATIS 1 año</strong>
                     </span>
                   </h3><p>
-                      
-                  </p><p>
-                      
+                      incluye HBO y 60 canales más
                   </p><ul>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                    </ul><p>
+                      <strong>Pack Seriefans GRATIS</strong>, este Pack incluye todas las temporadas de las series de <strong>HBO España, FOXNOW, AXN Now</strong> y muchos más canales especializados en series para verlas cuando tú quieras.
+                  </p><ul>
+                        <li>
+                                  </li>
+                        <li>
+                                  </li>
+                        <li>
+                                  </li>
                       </ul><p>
+                        <a aria-haspopup="dialog" data-backdrop="seriefans" data-analytics-id="-6241792886380">
+                          Ver todos los canales incluidos
                       
-                        <a href="" data-cta="" target="_self" name="" title="" onmousedown="" data-analytics-id="">
-                          
-                      
-                            <span></span>
                         </a>
                       
                 
                       
                     </p><span style="left: 0; position:relative;">
-                    
-                    </span><h3></h3><p></p><p>
+                    (*) Llévate GRATIS el Pack Seriefans, o elige el pack Serielovers con -10€/mes dto. durante 1 año por 4€/mes
+                    </span><h3>¿Cómo es la experiencia de TV sin decodificador?</h3><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de una experiencia online. Consultar dispositivos compatibles.</p><p>
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>
                         </p><ul>
-                        </ul><button aria-hidden="false">
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-portals-for-videos-mid"></use>
+                                    </svg>
+                                  <p>
+                                    Más de <strong>50.000 contenidos disponibles</strong> bajo demanda.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-play-mid"></use>
+                                    </svg>
+                                  <p>
+                                    No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días, Grabación, Ver Ahora y Descarga.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-connected-devices-mid"></use>
+                                    </svg>
+                                  <p>
+                                    <strong>2 reproducciones simultáneas</strong> en diferentes dispositivos.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    Descarga tus contenidos para verlos estés donde estés y cuando quieras.
+                                  </p>
+                                </li>        </ul><button aria-hidden="false">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                         <title>Close</title>
                                         <use xlink:href="#icon-close"></use>
@@ -208,7 +339,7 @@
                       <title>Flecha derecha</title>
                       <use xlink:href="#icon-chevron-right"></use>
                     </svg>
-                  </a><h3><strong>¿Cómo contrato ?</strong></h3><ul>
+                  </a><h3><strong>¿Cómo contrato Vodafone One ilimitada Plus x2 600Mbps?</strong></h3><ul>
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                         <title>Business</title>

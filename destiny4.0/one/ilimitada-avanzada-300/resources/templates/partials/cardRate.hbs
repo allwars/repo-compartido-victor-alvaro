@@ -35,55 +35,46 @@
                     <form action="" method="get" class="vf-form ws10-c-card-rate__form ws10-c-form" data-js-vf="_showOrHideSticky">
                         <fieldset>
                             <legend class="ws10-c-card-rate__form-title">
-                                ¿Cómo quieres la línea móvil principal?
+                                {{ form.title }}
                             </legend>
                             <div class="ws10-c-card-rate__w-form-select">
+                                {{#each form.inputs }}
                                 <div class="vf-form__box ws10-c-form__box">
                                     <input type="radio" name="rate-1-card-rate" id="rate-1-card-rate-option-1" class="ws10-c-form__radio"
-                                      data-analytics-element="cardrate"
-                                      data-analytics-context="portabilidad"
-                                      data-analytics-category="cta"
-                                      checked/>
+                                        data-analytics-element="{{ element }}"
+                                        data-analytics-context="{{ context }}"
+                                        data-analytics-category="{{ category }}"
+                                        checked/>
                                     <label for="rate-1-card-rate-option-1" class="ws10-c-card-rate__form-label ws10-c-form__label" data-js-vf="_buttonTypeLine">
-                                        Portabilidad
+                                        {{ label }}
                                     </label>
                                 </div>
-                                <div class="vf-form__box s10-c-form__box">
-                                    <input type="radio" name="rate-1-card-rate" id="rate-1-card-rate-option-2"
-                                      class="ws10-c-form__radio"
-                                      data-analytics-element="cardrate"
-                                      data-analytics-context="alta nueva"
-                                      data-analytics-category="cta"
-                                      />
-                                      <label for="rate-1-card-rate-option-2" class="ws10-c-card-rate__form-label ws10-c-form__label" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
-                                          Nuevo Número
-                                      </label>
-                                  </div>
-                              </div>
-                          </fieldset>
+                                {{/each }}
+                            </div>
+                        </fieldset>
 
-                          {{#each rates }}
-                              <div class="ws10-c-card-rate__w-cta {{ hidden }}" data-js-vf="{{ js-vf }}">
-                                  <div class="ws10-c-card-rate__w-offers">
-                                      <div class="ws10-c-card-rate__offer" id="rate-1-offer-1">
-                                          <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--percent">
-                                              {{ offers.discount }}
-                                          </p>
-                                          <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label">
-                                              {{ offers.label }}
-                                          </p>
-                                          <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price">
-                                              {{{ offers.finalPrice }}}
-                                          </p>
-                                          <p class="ws10-c-card-rate__price ws10-u-color--black">
-                                              {{{ offers.discountPrice }}}
-                                          </p>
-                                      </div>
-                                  </div>
-                                  {{> cta cta }}
-                              </div>
-                          {{/each }}
-                      </form>
+                        {{#each rates }}
+                            <div class="ws10-c-card-rate__w-cta {{ hidden }}" data-js-vf="{{ js-vf }}">
+                                <div class="ws10-c-card-rate__w-offers">
+                                    <div class="ws10-c-card-rate__offer" id="rate-1-offer-1">
+                                        <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--percent">
+                                            {{ offers.discount }}
+                                        </p>
+                                        <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label">
+                                            {{ offers.label }}
+                                        </p>
+                                        <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price">
+                                            {{{ offers.finalPrice }}}
+                                        </p>
+                                        <p class="ws10-c-card-rate__price ws10-u-color--black">
+                                            {{{ offers.discountPrice }}}
+                                        </p>
+                                    </div>
+                                </div>
+                                {{> cta cta }}
+                            </div>
+                        {{/each }}
+                    </form>
 
                 </div>
             </div>
