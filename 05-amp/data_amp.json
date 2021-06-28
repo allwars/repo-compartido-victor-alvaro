@@ -19,7 +19,7 @@
             "data-analytics-category": "cta",
             "data-analytics-id": "1600060065888-0001275388553",
             "visually-hidden": "Más información"
-        },         
+        },
         {
             "color": "color-black",
             "background": "https://www.vodafone.es/c/statics/imagen/456_bg_segundasresidencias.jpg",
@@ -55,11 +55,11 @@
             "url-cta": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-3/",
             "data-analytics-element": "amp",
             "data-analytics-context": "mas informacion:convergente",
-            "data-analytics-product": "¡Móvil + Fibra al 50% dto 3 meses! Solo por 26,99€/mes",
+            "data-analytics-product": "ahora 2 lineas ilimitadas, fibra optica y tv desde 28,49€/mes",
             "data-analytics-category": "cta",
             "data-analytics-id": "1600060065888-0006117698211",
             "visually-hidden": "mas informacion"
-        },    
+        },
         {
             "color": "color-black",
             "background": "https://www.vodafone.es/c/statics/imagen/456_bg_LineasAdicionales.jpg",
@@ -74,7 +74,7 @@
             "phone-number": "",
             "url-cta": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/movil/contrato/mas-lineas/",
             "data-analytics-element": "amp",
-            "data-analytics-context": "mas informacion:segundas lineas",
+            "data-analytics-context": "mas info:segundas lineas",
             "data-analytics-product": "lineas adicionales",
             "data-analytics-category": "cta",
             "data-analytics-id": "1600060065888-0001257388329",
@@ -102,4 +102,3 @@
         }
     ]
 }
-
