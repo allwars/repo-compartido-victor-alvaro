@@ -13,9 +13,9 @@
                                               Datos y minutos ilimitados
                                           </p>
                                           <p>
-                                              Velocidad alta
+                                              Velocidad máxima 5G
                                               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                  <use xlink:href="#icon-thunder-2grey"></use>
+                                                  <use xlink:href="#icon-thunder-3"></use>
                                               </svg>
                                           </p>
                                       </div>
@@ -26,10 +26,13 @@
                                       </svg>
                                       <div>
                                           <p>
-                                              Datos y minutos ilimitados GRATIS
+                                              Datos y minutos ilimitados
                                           </p>
                                           <p>
-                                              Segunda línea GRATIS 1 año
+                                              Segunda línea: Velocidad máxima 5G
+                                              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                  <use xlink:href="#icon-thunder-3"></use>
+                                              </svg>
                                           </p>
                                       </div>
                                   </li>
@@ -52,10 +55,10 @@
                                       </svg>
                                       <div>
                                           <p>
-                                              Pack TV Seriefans GRATIS 1 año
+                                              Pack TV Plus x2 Series
                                           </p>
                                           <p>
-                                              con HBO España y 60 canales más
+                                              con HBO España, Amazon Prime y 50 canales más + deco incl.
                                           </p>
                                       </div>
                                   </li>
@@ -63,16 +66,16 @@
                                           ¿Cómo quieres la línea móvil principal?
                                       </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
                                                   Portabilidad
-                                              </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
+                                              </label><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
                                                   Nuevo Número
                                               </label><p>
                                                       50% dto. 6 meses
                                                   </p><p>
                                                       Permanencia 6 meses
                                                   </p><p>
-                                                      <del>74,99€/mes</del>
+                                                      <del>89,99€/mes</del>
                                                   </p><p>
-                                                      37,49€/<sub>mes</sub>
+                                                      44,99€/<sub>mes</sub>
                                                   </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285761&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
                                               Lo quiero
                                               <span></span>
@@ -81,22 +84,68 @@
                                                   </p><p>
                                                       Permanencia 6 meses
                                                   </p><p>
-                                                      <del>74,99€/mes</del>
+                                                      <del>89,99€/mes</del>
                                                   </p><p>
-                                                      37,49€/<sub>mes</sub>
+                                                      44,99€/<sub>mes</sub>
                                                   </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1223947&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4545656976521">
                                               Lo quiero
                                               <span></span>
-                                          </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
-                        </div><p>Datos ilimitados <strong>a máxima velocidad (1Gbps de
-                                    bajada y de subida).</strong></p><p><strong>Juega sin límites los juegos online con una
-                                    calidad
-                                    extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos que quieras.</p><p>Disfruta de streaming sin necesidad de conectarte al
-                                WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con
-                                cualquier operador nacional las 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en la Unión Europea, Reino
-                                    Unido y
-                                    EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones
-                                también en EEUU.</p><p> Todo con la <strong>nueva red 5G.</strong></p><p><strong>Llévate la 2ª Línea GRATIS 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (2Mbps de
+                                          </a><p>
+                    Móvil
+                  </p><h3>
+                    Datos ilimitados en tu móvil para TODO
+                  </h3><div>
+                    </div><ul>
+                      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-thunder-3"></use>
+                          </svg>
+                        <p>
+                          Datos ilimitados <strong>a alta velocidad (10Mbps de bajada y de subida).</strong>
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-music-and-movies-mid"></use>
+                          </svg>
+                        <p>
+                          Disfruta de música sin límites con una calidad extrema y sin cortes.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-video-mid"></use>
+                          </svg>
+                        <p>
+                          Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-play-mid"></use>
+                          </svg>
+                        <p>
+                          Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-unified-communication-mid"></use>
+                          </svg>
+                        <p>
+                          <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-roaming-mid"></use>
+                          </svg>
+                        <p>
+                          <strong>Roaming incluido en la Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-5G_esp-mid"></use>
+                          </svg>
+                        <p>
+                          Todo con la nueva red 5G.
+                        </p>
+                      </li>  </ul><p><strong>Llévate la 2ª Línea GRATIS 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (2Mbps de
                                     bajada y de subida).</strong></p><p>Consulta tus redes sociales y usa aplicaciones de
                                 mensajería instantánea.</p><p> Disfruta de streaming sin necesidad de conectarte al
                                 WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con
@@ -257,8 +306,7 @@
                             <title>Flecha derecha</title>
                             <use xlink:href="#icon-chevron-right"></use>
                         </svg>
-                    </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Plus 600Mbps?</strong>
-                    </h3><ul>
+                    </a><h3><strong>¿Cómo contrato Vodafone One ilimitada Plus x2 600Mbps?</strong></h3><ul>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                                 <title>Business</title>

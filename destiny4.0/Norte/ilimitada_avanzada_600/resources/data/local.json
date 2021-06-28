@@ -91,6 +91,36 @@
         ]
     },
 
+    "mobile": {
+        "section": "Móvil",
+        "title": "Datos ilimitados en tu móvil para TODO",
+        "mobile": "img/section-mobile/mobile-apps-3",
+        "productDetail": [
+            {
+                "icon": "#icon-thunder-3",
+                "description": "Datos ilimitados <strong>a alta velocidad (10Mbps de bajada y de subida).</strong>"
+            }, {
+                "icon": "#icon-music-and-movies-mid",
+                "description": "Disfruta de música sin límites con una calidad extrema y sin cortes."
+            },{
+                "icon": "#icon-video-mid",
+                "description": "Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones."
+            }, {
+                "icon": "#icon-play-mid",
+                "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
+            }, {
+                "icon": "#icon-unified-communication-mid",
+                "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+            }, {
+                "icon": "#icon-roaming-mid",
+                "description": "<strong>Roaming incluido en la Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU."
+            }, {
+                "icon": "#icon-5G_esp-mid",
+                "description": "Todo con la nueva red 5G."
+            }
+        ]
+    },
+
   "fibra":{
     "section":"Fibra óptica simétrica",
     "title":"<strong>600Mbps de velocidad para tu hogar</strong>",
