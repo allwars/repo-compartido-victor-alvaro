@@ -7,13 +7,13 @@
         "label": "Mejor Precio Vodafone"
     },
     "cardRates": {
-        "title": "Vodafone One Ilimitada Avanzada 600Mbps",
+        "title": "Vodafone One ilimitada Plus 300Mbps",
         "description": [
             {
                 "icon": "icon-mobile",
                 "title": "Datos y minutos ilimitados",
-                "subtitle": "Velocidad alta",
-                "secondIcon": "icon-thunder-2grey",
+                "subtitle": "Velocidad alta 5G",
+                "secondIcon": "icon-thunder-3",
                 "color": "ws10-c-card-rate__product-txt--primary"
             }, {
                 "icon": "icon-sim",
@@ -22,12 +22,12 @@
                 "js-vf": "_secondLine"
             }, {
                 "icon": "icon-broadband-or-wifi",
-                "title": "600Mbps Fibra Óptica",
+                "title": "300Mbps Fibra Óptica",
                 "subtitle": "+ llamadas ilimitadas en fijo"
             }, {
                 "icon": "icon-tv",
-                "title": "Pack TV Universal GRATIS",
-                "subtitle": "con más de 30 canales internacionales"
+                "title": "Pack TV Seriefans GRATIS 1 año",
+                "subtitle": "con HBO España y 60 canales más"
             }
         ],
         "rates": [
@@ -38,8 +38,8 @@
                     "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
                     "discount": "50% dto. 6 meses",
                     "label": "Permanencia 6 meses",
-                    "finalPrice": "<del>61,99€/mes</del>",
-                    "discountPrice": "30,49€/<sub>mes</sub>"
+                    "finalPrice": "<del>69,99€/mes</del>",
+                    "discountPrice": "34,99€/<sub>mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -58,8 +58,8 @@
                     "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
                     "discount": "50% dto. 6 meses",
                     "label": "Permanencia 6 meses",
-                    "finalPrice": "<del>61,99€/mes</del>",
-                    "discountPrice": "30,49€/<sub>mes</sub>"
+                    "finalPrice": "<del>69,99€/mes</del>",
+                    "discountPrice": "34,99€/<sub>mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",

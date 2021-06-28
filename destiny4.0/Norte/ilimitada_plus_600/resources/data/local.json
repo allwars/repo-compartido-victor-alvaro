@@ -7,18 +7,20 @@
         "label": "Mejor Precio Vodafone"
     },
     "cardRates": {
-        "title": "Vodafone One Ilimitada Avanzada 600Mbps",
+        "title": "Vodafone One ilimitada Plus x2 600Mbps",
         "description": [
             {
                 "icon": "icon-mobile",
                 "title": "Datos y minutos ilimitados",
-                "subtitle": "Velocidad alta",
-                "secondIcon": "icon-thunder-2grey",
+                "subtitle": "Velocidad máxima 5G",
+                "secondIcon": "icon-thunder-3",
                 "color": "ws10-c-card-rate__product-txt--primary"
             }, {
                 "icon": "icon-sim",
-                "title": "Datos y minutos ilimitados GRATIS",
-                "subtitle": "Segunda línea GRATIS 1 año",
+                "title": "Datos y minutos ilimitados",
+                "subtitle": "Segunda línea: Velocidad máxima 5G",
+                "secondIcon": "icon-thunder-3",
+                "color": "ws10-c-card-rate__product-txt--primary",
                 "js-vf": "_secondLine"
             }, {
                 "icon": "icon-broadband-or-wifi",
@@ -26,8 +28,8 @@
                 "subtitle": "+ llamadas ilimitadas en fijo"
             }, {
                 "icon": "icon-tv",
-                "title": "Pack TV Seriefans GRATIS 1 año",
-                "subtitle": "con HBO España y 60 canales más"
+                "title": "Pack TV Plus x2 Series",
+                "subtitle": "con HBO España, Amazon Prime y 50 canales más + deco incl."
             }
         ],
         "rates": [
@@ -38,8 +40,8 @@
                     "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
                     "discount": "50% dto. 6 meses",
                     "label": "Permanencia 6 meses",
-                    "finalPrice": "<del>74,99€/mes</del>",
-                    "discountPrice": "37,49€/<sub>mes</sub>"
+                    "finalPrice": "<del>89,99€/mes</del>",
+                    "discountPrice": "44,99€/<sub>mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -58,8 +60,8 @@
                     "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
                     "discount": "50% dto. 6 meses",
                     "label": "Permanencia 6 meses",
-                    "finalPrice": "<del>74,99€/mes</del>",
-                    "discountPrice": "37,49€/<sub>mes</sub>"
+                    "finalPrice": "<del>89,99€/mes</del>",
+                    "discountPrice": "44,99€/<sub>mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",

@@ -2,7 +2,7 @@
                 <span>Llévate <strong> 2 líneas ilimitadas</strong> y fibra <strong> al 50% dto. 6 meses</strong></span>
             </p><div>
             
-          </div><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 6 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
+          </div><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 6 meses" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <use xlink:href="#icon-mobile"></use>
@@ -25,10 +25,10 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Segunda línea GRATIS 1 año
+                                                    Datos y minutos ilimitados GRATIS
                                                 </p>
                                                 <p>
-                                                    Datos y minutos ilimitados
+                                                    Segunda línea GRATIS 1 año
                                                 </p>
                                             </div>
                                         </li>
@@ -61,7 +61,7 @@
                                     </ul><p>
                                                     50% dto. 6 meses
                                                 </p><p>
-                                                    Permanencia 6 año
+                                                    Permanencia 6 meses
                                                 </p><p>
                                                     <del>56,99€/mes</del>
                                                 </p><p>
@@ -91,10 +91,10 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Segunda línea GRATIS 1 año
+                                                    Datos y minutos ilimitados GRATIS
                                                 </p>
                                                 <p>
-                                                    Datos y minutos ilimitados
+                                                    Segunda línea GRATIS 1 año
                                                 </p>
                                             </div>
                                         </li>
@@ -127,7 +127,7 @@
                                     </ul><p>
                                                     50% dto. 6 meses
                                                 </p><p>
-                                                    Permanencia 6 año
+                                                    Permanencia 6 meses
                                                 </p><p>
                                                     <del>61,99€/mes</del>
                                                 </p><p>
@@ -157,10 +157,10 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Segunda línea GRATIS 1 año
+                                                    Datos y minutos ilimitados GRATIS
                                                 </p>
                                                 <p>
-                                                    Datos y minutos ilimitados
+                                                    Segunda línea GRATIS 1 año
                                                 </p>
                                             </div>
                                         </li>
@@ -193,7 +193,7 @@
                                     </ul><p>
                                                     50% dto. 6 meses
                                                 </p><p>
-                                                    Permanencia 6 año
+                                                    Permanencia 6 meses
                                                 </p><p>
                                                     <del>74,99€/mes</del>
                                                 </p><p>
