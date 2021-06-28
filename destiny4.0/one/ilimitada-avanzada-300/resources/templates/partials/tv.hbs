@@ -18,10 +18,10 @@
     data-ws10-config='{"autoAnim": true}'
   >
     <ul class="ws10-c-carousel-cover__list">
-  {{#each tv.carousel.img}}
-      <li class="ws10-c-carousel-cover__item js-carousel-cover-item">
-          {{> picture this}}
-      </li>
+      {{#each tv.carousel.img}}
+        <li class="ws10-c-carousel-cover__item js-carousel-cover-item">
+            {{> picture this}}
+        </li>
       {{/each}}
     </ul>
   </div>
@@ -32,7 +32,7 @@
   </p>
   <div class="ws10-c-logo-list ws10-c-logo-list--mini">
       <ul class="ws10-c-logo-list__list">
-        {{#each tv.logos.img}}
+        {{#each tv.logos.imgJpg}}
         <li class="ws10-c-logo-list__item">
           {{> picture this}}
         </li>
