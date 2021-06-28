@@ -35,33 +35,21 @@
                     <form action="" method="get" class="vf-form ws10-c-card-rate__form ws10-c-form" data-js-vf="_showOrHideSticky">
                         <fieldset>
                             <legend class="ws10-c-card-rate__form-title">
-                                ¿Cómo quieres la línea móvil principal?
+                                {{ form.title }}
                             </legend>
                             <div class="ws10-c-card-rate__w-form-select">
-                                <div class="vf-form__box ws10-c-form__box" data-analytics-category="cta"
-                                    data-analytics-id="-6727639503211">
-                                    <input type="radio" name="rate-1-card-rate"
-                                        id="rate-1-card-rate-option-1" class="ws10-c-form__radio"
-                                        data-analytics-element="cardrate"
-                                        data-analytics-context="portabilidad"
-                                        data-analytics-category="cta" checked>
+                                {{#each form.inputs }}
+                                <div class="vf-form__box ws10-c-form__box">
+                                    <input type="radio" name="rate-1-card-rate" id="rate-1-card-rate-option-1" class="ws10-c-form__radio"
+                                        data-analytics-element="{{ element }}"
+                                        data-analytics-context="{{ context }}"
+                                        data-analytics-category="{{ category }}"
+                                        checked/>
                                     <label for="rate-1-card-rate-option-1" class="ws10-c-card-rate__form-label ws10-c-form__label" data-js-vf="_buttonTypeLine">
-                                        Portabilidad
+                                        {{ label }}
                                     </label>
                                 </div>
-                                <div class="vf-form__box s10-c-form__box" data-analytics-category="cta"
-                                    data-analytics-element="modulo superior ilimitada maxi"
-                                    data-analytics-context="alta nueva"
-                                    data-analytics-id="-6727909503211">
-                                    <input type="radio" name="rate-1-card-rate"
-                                        id="rate-1-card-rate-option-2" class="ws10-c-form__radio"
-                                        data-analytics-element="cardrate"
-                                        data-analytics-context="alta nueva"
-                                        data-analytics-category="cta">
-                                    <label for="rate-1-card-rate-option-2" class="ws10-c-card-rate__form-label ws10-c-form__label" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
-                                        Nuevo Número
-                                    </label>
-                                </div>
+                                {{/each }}
                             </div>
                         </fieldset>
 
