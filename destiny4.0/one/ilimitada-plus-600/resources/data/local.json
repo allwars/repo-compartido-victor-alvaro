@@ -115,7 +115,7 @@
 
     "productDetail": [
       {
-        "icon": "#icon-thunder-2grey",
+        "icon": "#icon-thunder-3",
         "description": "Datos ilimitados <strong>a máxima velocidad  (1Gbps de bajada y de subida).</strong>"
       },
       {
@@ -694,7 +694,7 @@
             "conditions": "<strong>GRATIS</strong> durante 3 meses, después 7,99€/mes."
         }
     ],
-    "legal": "(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone"
+    "legal": "(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone"
   },
   "sinSorpresas": {
     "section": "<strong>Sin sorpresas</strong>",

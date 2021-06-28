@@ -34,7 +34,7 @@
                                               Datos y minutos ilimitados
                                           </p>
                                           <p>
-                                              Segunda línea:Velocidad máxima 5G
+                                              Segunda línea: Velocidad máxima 5G
                                               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                   <use xlink:href="#icon-thunder-3"></use>
                                               </svg>
@@ -73,29 +73,25 @@
                                                   Portabilidad
                                               </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
                                                   Nuevo Número
-                                              </label><p data-js-vf="_newNumber">
-                                              <strong>50% dto. 3 meses + después 15% dto. durante 2 años</strong>
-                                          </p><p>
-                                                          Permanencia 1 año
-                                                      </p><p>
-                                                          <del>89,99€/mes</del>
-                                                      </p><p>
-                                                          44,99€/<sub>mes</sub>
-                                                      </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&amp;tcli=0&amp;tta=2" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
-                                                  Lo quiero
-                                                  <span></span>
-                                              </a><p data-js-vf="_portability">
-                                              <strong>50% dto. 3 meses + después 15% dto. durante 2 años</strong>
-                                          </p><p>
-                                                          Permanencia 1 año
-                                                      </p><p>
-                                                          <del>89,99€/mes</del>
-                                                      </p><p>
-                                                          44,99€/<sub>mes</sub>
-                                                      </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&amp;tcli=0&amp;tta=2" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725875100583">
-                                                  Lo quiero
-                                                  <span></span>
-                                              </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
+                                              </label><p>
+                                                      50% dto. 3 meses + después 15% dto. durante 2 años
+                                                  </p><p>
+                                                      Permanencia 1 año
+                                                  </p><p>
+                                                      44,99€/<sub>mes</sub>
+                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&amp;tcli=0&amp;tta=2" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
+                                              Lo quiero
+                                              <span></span>
+                                          </a><p>
+                                                      50% dto. 3 meses + después 15% dto. durante 2 años
+                                                  </p><p>
+                                                      Permanencia 1 año
+                                                  </p><p>
+                                                      44,99€/<sub>mes</sub>
+                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1071017&amp;tcli=0&amp;tta=2" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725875100583">
+                                              Lo quiero
+                                              <span></span>
+                                          </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
                                         </div><ul>
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
@@ -252,54 +248,54 @@
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
                       <use xlink:href="#icon-chevron-right"></use>
                     </svg>
-                  </a><h3><strong>¿Cómo contrato ?</strong></h3><ul>
-                                        <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                                                <title>Business</title>
-                                                <use xlink:href="#icon-shopping-trolley-mid"></use>
-                                            </svg>
-                                            <p>Compra online</p>
-                                            <p>Recibirás un email de confirmación con el detalle de
-                                                tu pedido y próximos pasos.</p>
-                                        </li>
-                                        <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                                                <title>Business</title>
-                                                <use xlink:href="#icon-engineer-mid"></use>
-                                            </svg>
-                                            <p>Cita de instalación</p>
-                                            <p>Una vez contratado, un experto se pondrá en contacto
-                                                contigo para concretar la fecha de instalación que más te convenga. ¡Tú eliges!</p>
-                                        </li>
-                                        <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                                                <title>Business</title>
-                                                <use xlink:href="#icon-calendar-mid"></use>
-                                            </svg>
-                                            <p>Día de instalación</p>
-                                            <p>El técnico llevará el router y el decodificador si lo
-                                                has contratado con TV. Lo tendrás todo listo en unas 2h (WiFi y TV).</p>
-                                        </li>
-                                        <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                                                <title>Business</title>
-                                                <use xlink:href="#icon-business-mid"></use>
-                                            </svg>
-                                            <p>Portabilidad</p>
-                                            <p>Recibirás un SMS con la fecha y lugar de tu nueva SIM
-                                                del móvil, así sabrás el día exacto del cambio. Nos aseguramos de que no te quedas sin
-                                                línea.</p>
-                                        </li>
-                                        <li>
-                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
-                                                <title>Business</title>
-                                                <use xlink:href="#icon-unified-communication-mid"></use>
-                                            </svg>
-                                            <p>Mi Vodafone</p>
-                                            <p>Podrás registrarte y hacer seguimiento de tu pedido y
-                                                gestionar tus servicios de Vodafone.</p>
-                                        </li>
-                                    </ul><p>
+                  </a><h3><strong>¿Cómo contrato Vodafone One ilimitada Plus x2 600Mbps?</strong></h3><ul>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-shopping-trolley-mid"></use>
+                            </svg>
+                            <p>Compra online</p>
+                            <p>Recibirás un email de confirmación con el detalle de
+                                tu pedido y próximos pasos.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-engineer-mid"></use>
+                            </svg>
+                            <p>Cita de instalación</p>
+                            <p>Una vez contratado, un experto se pondrá en contacto
+                                contigo para concretar la fecha de instalación que más te convenga. ¡Tú eliges!</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-calendar-mid"></use>
+                            </svg>
+                            <p>Día de instalación</p>
+                            <p>El técnico llevará el router y el decodificador si lo
+                                has contratado con TV. Lo tendrás todo listo en unas 2h (WiFi y TV).</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-business-mid"></use>
+                            </svg>
+                            <p>Portabilidad</p>
+                            <p>Recibirás un SMS con la fecha y lugar de tu nueva SIM
+                                del móvil, así sabrás el día exacto del cambio. Nos aseguramos de que no te quedas sin
+                                línea.</p>
+                        </li>
+                        <li>
+                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
+                                <title>Business</title>
+                                <use xlink:href="#icon-unified-communication-mid"></use>
+                            </svg>
+                            <p>Mi Vodafone</p>
+                            <p>Podrás registrarte y hacer seguimiento de tu pedido y
+                                gestionar tus servicios de Vodafone.</p>
+                        </li>
+                    </ul><p>
                         Si ya eres cliente...
                     </p><button aria-hidden="false" data-analytics-id="-1083616303361">
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">

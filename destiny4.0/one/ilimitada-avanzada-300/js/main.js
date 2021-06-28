@@ -1,8 +1,12 @@
 /**
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  * Vodafone Reboot Framework: Version 2.11.4. Generation Date: 2021-06-28T13:21:40.664Z
 =======
  * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-28T13:36:33.740Z
+>>>>>>> Stashed changes
+=======
+ * Vodafone Reboot Framework: Version 2.17.0. Generation Date: 2021-06-28T13:36:52.326Z
 >>>>>>> Stashed changes
  */
 
@@ -90,14 +94,19 @@
 /******/
 /******/ 	// Load entry module and return exports
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/main.js");
 =======
 /******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/main.js");
+>>>>>>> Stashed changes
+=======
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/main.js");
 >>>>>>> Stashed changes
 /******/ })
 /************************************************************************/
 /******/ ({
 
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 /***/ "../../../../../../Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/main.js":
 /*!************************************************************************************************************************************************************!*\
@@ -109,15 +118,25 @@
   !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/main.js ***!
   \********************************************************************************************************************************/
 >>>>>>> Stashed changes
+=======
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/main.js":
+/*!**********************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/main.js ***!
+  \**********************************************************************************************************************************/
+>>>>>>> Stashed changes
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/tools.js");
 =======
 /* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../../../Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/tools.js");
+>>>>>>> Stashed changes
+=======
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/tools.js");
 >>>>>>> Stashed changes
 function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
 
@@ -125,7 +144,7 @@ function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread n
 
 function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
 
-function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter); }
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
 
 function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
 
@@ -318,6 +337,7 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
 /***/ }),
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /***/ "../../../../../../Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/tools.js":
 /*!*************************************************************************************************************************************************************!*\
   !*** /Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/tools.js ***!
@@ -327,6 +347,12 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
 /*!*********************************************************************************************************************************!*\
   !*** /Users/Victor/Proyectos/VF/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/tools.js ***!
   \*********************************************************************************************************************************/
+>>>>>>> Stashed changes
+=======
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/tools.js":
+/*!***********************************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/destiny4.0/one/ilimitada-avanzada-300/resources/scripts/tools.js ***!
+  \***********************************************************************************************************************************/
 >>>>>>> Stashed changes
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {

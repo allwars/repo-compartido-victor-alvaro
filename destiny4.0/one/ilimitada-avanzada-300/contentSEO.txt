@@ -92,7 +92,7 @@
                                             </a><p>
                     Móvil
                   </p><h3>
-                    Datos ilimitados para no perderte nada
+                    Datos ilimitados para que no te pierdas nada
                   </h3><div>
                     </div><ul>
                       <li>
@@ -189,6 +189,12 @@
                   </p><p>
                       El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
                   </p><ul>
+                        <li>
+                                  </li>
+                        <li>
+                                  </li>
+                        <li>
+                                  </li>
                       </ul><p>
                         <a aria-haspopup="dialog" data-backdrop="seriefans" data-analytics-id="-6241792886380">
                           Ver todos los canales incluidos

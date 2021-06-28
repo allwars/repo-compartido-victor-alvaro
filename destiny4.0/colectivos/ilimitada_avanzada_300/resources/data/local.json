@@ -68,7 +68,7 @@
                     "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
                     "label": "Permanencia 1 año",
                     "finalPrice": "<del>56,99€/mes</del>",
-                    "discountPrice": "28,49€<sub>/mes</sub>"
+                    "discountPrice": "28,49€/<sub>mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -89,7 +89,7 @@
                     "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
                     "label": "Permanencia 1 año",
                     "finalPrice": "<del>56,99€/mes</del>",
-                    "discountPrice": "28,49€<sub>/mes</sub>"
+                    "discountPrice": "28,49€/<sub>mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -154,7 +154,7 @@
                 "con cualquier operador nacional las 24 horas, establecimiento incluido."
             ]
         ],
-        "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra"
+        "legal": "(*) Podrás añadir más Líneas adicionales en el proceso de compra"
     },
     "fibra": {
         "section": "Fibra óptica simétrica",
@@ -211,7 +211,7 @@
                 "conditions": "<strong>GRATIS</strong> durante 3 meses, después 7,99€/mes."
             }
         ],
-        "legal": "(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone"
+        "legal": "(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone"
     },
     "tv": {
         "title": "Televisión",
@@ -219,11 +219,54 @@
         "heading2": "con más de 30 canales internacionales",
         "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
         "allChannels": "Ver todos los canales incluidos",
-        "info": "(*) Puedes añadir más packs de TV en el proceso de compra.",
+        "info": "(*) Puedes añadir más packs de TV en el proceso de compra",
         "popup": {
             "title": "¿Qué incluye el Pack Universal?",
             "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
             "included": "Contenidos incluidos:"
         }
-    }
+    },
+    "sinSorpresas": {
+        "section": "<strong>Sin sorpresas</strong>",
+        "title": "<strong>No escondemos nada</strong>",
+        "conditions": "Impuestos y cuota de línea incluidos",
+        "permanency": "<strong>Permanencia 1 año</strong>",
+        "question": "¿Cuánto voy a pagar?",
+        "paquete": "<strong>Paquete Fibra + Móvil: 28,49€/mes durante 3 meses, después 48,44€/mes durante 2 años</strong>",
+        "promociones": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50%dto. 3 meses, despúes al 15% durante 2 años.</span> <span data-js-vf='_portability'>Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span><span>Paquete de TV: GRATIS</span>",
+        "bar": [
+          {
+            "bar1": "Los primeros 3 meses",
+            "price1":"28,49",
+            "bar2": "Del mes 4 al mes 12",
+            "price2":"48,44",
+            "bar3": "Del mes 13 al 17",
+            "price3":"65,94",
+            "bar4": "Del mes 28 en adelante",
+            "price4":"74,49"
+          },
+          {
+            "bar1": "Los primeros 3 meses",
+            "price1":"28,49",
+            "bar2": "Del mes 4 al 27",
+            "price2":"48,44",
+            "bar3": "Del mes 28 en adelante",
+            "price3":"56,99"
+          }
+        ],
+        "instalacion": "<p class='ws10-u--mb1x'>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€.</p> <p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p>",
+        "benefits": "Los beneficios especiales que ofrece Vodafone son únicamente para empleados, por lo que si continuas declaras que cumples tal condición y te comprometes a acreditarlo en caso de que Vodafone te lo solicitara. De no acreditarlo Vodafone podrá cancelar la aplicación de estos beneficios en cualquier momento, de acuerdo con las condiciones acordadas con la empresa.",
+        "cta": {
+          "button": false,
+          "targetBlank": true,
+          "svg":true,
+          "classCta": "ws10-c-link-chevron ws10-c-link-chevron--primary",
+          "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/",
+          "context": "condiciones legales",
+          "element": "card addons",
+          "category": "cta",
+          "id": "-5460257368589",
+          "label": "Ver condiciones legales"
+        }
+      }
 }
