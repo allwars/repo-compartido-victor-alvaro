@@ -153,18 +153,43 @@
           "included": "Contenidos incluidos:"
       }
   },
-
-  "bar":[
-
-    {
-      "bar1":"Los primeros 3 meses",
-      "bar2":"Del mes 4 al mes 12",
-      "bar3":"A partir del año"
-    },
-    {
-      "bar1":"Los primeros 3 meses",
-      "bar2":"A partir del mes 4",
-      "bar3":"A partir del año"
+  "sinSorpresas": {
+    "section": "<strong>Sin sorpresas</strong>",
+    "title": "<strong>No escondemos nada</strong>",
+    "conditions": "Impuestos y cuota de línea incluidos",
+    "question": "¿Cuánto voy a pagar?",
+    "paquete": "<strong>Paquete Fibra + Móvil: 34,99€/mes durante 3 meses, después 69,99€/mes</strong>",
+    "promociones": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50%dto. 3 meses</span> <span data-js-vf='_portability'>Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span><span>Paquete de TV: GRATIS durante 1 año, después 10€/mes</span>",
+    "bar": [
+      {
+        "bar1": "Los primeros 3 meses",
+        "price1":"34,99",
+        "bar2": "Del mes 4 al mes 12",
+        "price2":"69,99",
+        "bar3": "A partir del año",
+        "price3":"97,49"
+      },
+      {
+        "bar1": "Los primeros 3 meses",
+        "price1":"34,99",
+        "bar2": "Del mes 4 al mes 12",
+        "price2":"69,99",
+        "bar3": "A partir del año",
+        "price3":"79,99"
+      }
+    ],
+    "instalacion": "<p class='ws10-u--mb1x'>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€.</p> <p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p>",
+    "cta": {
+      "button": false,
+      "targetBlank": true,
+      "svg":true,
+      "classCta": "ws10-c-link-chevron ws10-c-link-chevron--primary",
+      "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/",
+      "context": "condiciones legales",
+      "element": "card addons",
+      "category": "cta",
+      "id": "-5460257368589",
+      "label": "Ver condiciones legales"
     }
-  ]
+  }
 }

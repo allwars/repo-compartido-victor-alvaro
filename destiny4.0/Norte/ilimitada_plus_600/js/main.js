@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-28T11:03:49.627Z
+ * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-28T08:09:03.375Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -142,6 +142,7 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
      */
 
   if (window.matchMedia('(min-width: 768px)').matches) {
+    debugger;
     positionOfTicket();
     document.addEventListener('scroll', function () {
       positionOfTicket();
