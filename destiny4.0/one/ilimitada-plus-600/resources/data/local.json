@@ -1,160 +1,628 @@
 {
-"fibra-movil":"Fibra + Móvil",
-"velocidad":"600Mbps",
-"permanencia": "Permanencia 1 año",
-
+  "fibra-movil": "Fibra + Móvil",
+  "velocidad": "600Mbps",
+  "permanencia": "Permanencia 1 año",
 
   "cta": {
-    "condicioneslegales":"https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
+    "condicioneslegales": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
     "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1255058&tcli=0&tta=1"
-    },
-
+  },
 
   "header": {
-      "title": "Fibra + Móvil <strong>50% dto. 3 meses</strong>",
-      "title2": "<strong>Todo lo que necesitas</strong> para <strong>estar conectado fuera y <br />dentro</strong> de tu casa",
-      "icon": "img/banner/icono-bestprice.svg",
-      "label": "Mejor Precio Vodafone"
+    "title": "Fibra + Móvil <strong>50% dto. 3 meses</strong>",
+    "title2": "<strong>Todo lo que necesitas</strong> para <strong>estar conectado fuera y <br />dentro</strong> de tu casa",
+    "icon": "img/banner/icono-bestprice.svg",
+    "label": "Mejor Precio Vodafone"
   },
   "cardRates": {
-      "title": "Vodafone One ilimitada Plus x2 600Mbps",
-      "description": [
-          {
-              "icon": "icon-mobile",
-              "title": "Datos y minutos ilimitados",
-              "subtitle": "Velocidad máxima 5G",
-              "secondIcon": "icon-thunder-3",
-              "color": "ws10-c-card-rate__product-txt--primary"
-          }, {
-              "icon": "icon-sim",
-              "title": "Datos y minutos ilimitados",
-              "subtitle": "Segunda línea: Velocidad máxima 5G",
-              "secondIcon": "icon-thunder-3",
-              "color": "ws10-c-card-rate__product-txt--primary",
-              "js-vf": "_secondLine"
-          }, {
-              "icon": "icon-broadband-or-wifi",
-              "title": "600Mbps Fibra Óptica",
-              "subtitle": "+ llamadas ilimitadas en fijo"
-          }, {
-              "icon": "icon-tv",
-              "title": "Pack TV Plus x2 Series",
-              "subtitle": "con HBO España, Amazon Prime y 50 canales más + deco incl."
-          }
-      ],
-      "form": {
-          "title": "¿Cómo quieres la línea móvil principal?",
-          "inputs": [
-              {
-                  "element": "cardrate",
-                  "context": "portabilidad",
-                  "category": "cta",
-                  "label": "Portabilidad"
-              }, {
-                  "element": "cardrate",
-                  "context": "alta nueva",
-                  "category": "cta",
-                  "label": "Nuevo Número"
-              }
-          ]
+    "title": "Vodafone One ilimitada Plus x2 600Mbps",
+    "description": [
+      {
+        "icon": "icon-mobile",
+        "title": "Datos y minutos ilimitados",
+        "subtitle": "Velocidad máxima 5G",
+        "secondIcon": "icon-thunder-3",
+        "color": "ws10-c-card-rate__product-txt--primary"
       },
-      "rates": [
-          {
-              "js-vf": "_newNumber",
-              "hidden": "ws10-u--hidden",
-              "offers": {
-                  "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
-                  "discount": "50% dto. 3 meses",
-                  "label": "Permanencia 1 año",
-                  "finalPrice": "<del>74,99€/mes</del>",
-                  "discountPrice": "37,49€/<sub>mes</sub>"
-              },
-              "cta": {
-                  "dataCTA": "300:port:card",
-                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&tcli=0&tta=1",
-                  "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
-                  "context": "lo quiero",
-                  "element": "cardrate",
-                  "category": "cta",
-                  "id": "-7498449761489",
-                  "label": "Lo quiero"
-              }
-          }, {
-              "js-vf": "_portability",
-              "hidden": "",
-              "offers": {
-                  "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
-                  "discount": "50% dto. 3 meses",
-                  "label": "Permanencia 1 año",
-                  "finalPrice": "<del>89,99€/mes</del>",
-                  "discountPrice": "44,99€/<sub>mes</sub>"
-              },
-              "cta": {
-                  "dataCTA": "300:port:card",
-                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&tcli=0&tta=1",
-                  "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
-                  "context": "lo quiero",
-                  "element": "cardrate",
-                  "category": "cta",
-                  "id": "-7498449761489",
-                  "label": "Lo quiero"
-              }
-          }
-      ]
+      {
+        "icon": "icon-sim",
+        "title": "Datos y minutos ilimitados",
+        "subtitle": "Segunda línea: Velocidad máxima 5G",
+        "secondIcon": "icon-thunder-3",
+        "color": "ws10-c-card-rate__product-txt--primary",
+        "js-vf": "_secondLine"
+      },
+      {
+        "icon": "icon-broadband-or-wifi",
+        "title": "600Mbps Fibra Óptica",
+        "subtitle": "+ llamadas ilimitadas en fijo"
+      },
+      {
+        "icon": "icon-tv",
+        "title": "Pack TV Plus x2 Series",
+        "subtitle": "con HBO España, Amazon Prime y 50 canales más + deco incl."
+      }
+    ],
+    "rates": [
+      {
+        "js-vf": "_newNumber",
+        "hidden": "ws10-u--hidden",
+        "offers": {
+          "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+          "discount": "50% dto. 3 meses",
+          "label": "Permanencia 1 año",
+          "finalPrice": "<del>74,99€/mes</del>",
+          "discountPrice": "37,49€/<sub>mes</sub>"
+        },
+        "cta": {
+          "dataCTA": "300:port:card",
+          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&tcli=0&tta=1",
+          "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
+          "context": "lo quiero",
+          "element": "cardrate",
+          "category": "cta",
+          "id": "-7498449761489",
+          "label": "Lo quiero",
+          "classCta": "ws10-c-button ws10-c-button--auto"
+        }
+      },
+      {
+        "js-vf": "_portability",
+        "hidden": "",
+        "offers": {
+          "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+          "discount": "50% dto. 3 meses",
+          "label": "Permanencia 1 año",
+          "finalPrice": "<del>89,99€/mes</del>",
+          "discountPrice": "44,99€/<sub>mes</sub>"
+        },
+        "cta": {
+          "dataCTA": "300:port:card",
+          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&tcli=0&tta=1",
+          "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
+          "context": "lo quiero",
+          "element": "cardrate",
+          "category": "cta",
+          "id": "-7498449761489",
+          "label": "Lo quiero",
+          "classCta": "ws10-c-button ws10-c-button--auto"
+        }
+      }
+    ]
   },
 
-
-  "movil": {
+  "mobile": {
+    "section": "Móvil",
     "title": "Datos ilimitados en tu móvil para TODO",
     "velocidad": "1Gbps"
   },
 
-  "fibra":{
-      "section":"Fibra óptica simétrica",
-      "title":"<strong>600Mbps de velocidad para tu hogar</strong>",
-      "img": [
-          {
-              "imgJpg":"",
-              "imgPng":"img/section-fiber/fiber-vf",
-              "alt": "Router Vodafone"
-          }
-      ],
-      "productDetail": [
-          {
-              "thirdWidht":"ws10-u--2/3@desktop",
-              "icon": "#icon-multiscreen-mid",
-              "description": "<strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 25 dispositivos a la vez."
-          },
-          {
-              "thirdWidht":"ws10-u--2/3@desktop",
-              "icon": "#icon-minutes-sms-mid",
-              "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
-          }
-      ]
+  "fibra": {
+    "section": "Fibra óptica simétrica",
+    "title": "<strong>600Mbps de velocidad para tu hogar</strong>",
+    "img": [
+      {
+        "imgJpg": "",
+        "imgPng": "img/section-fiber/fiber-vf",
+        "alt": "Router Vodafone"
+      }
+    ],
+    "productDetail": [
+      {
+        "thirdWidht": "ws10-u--2/3@desktop",
+        "icon": "#icon-multiscreen-mid",
+        "description": "<strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 25 dispositivos a la vez."
+      },
+      {
+        "thirdWidht": "ws10-u--2/3@desktop",
+        "icon": "#icon-minutes-sms-mid",
+        "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
+      }
+    ]
   },
 
   "secondLine": {
-      "title": "Llévate la 2ª Línea GRATIS 1 año",
-      "details": [
-          ["Datos ilimitados", " a media velocidad (2Mbps de bajada y de subida)."],
-          ["Consulta tus redes sociales y usa aplicaciones de mensajería instantánea."],
-          ["Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."],
-          ["Llamadas y SMS ilimitados", "con cualquier operador nacional las 24 horas, establecimiento incluido."]
-      ],
-      "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra"
+    "title": "Llévate también una 2ª línea",
+
+    "productDetail": [
+      {
+        "icon": "#icon-thunder-3",
+        "description": "Datos ilimitados <strong>a máxima velocidad (1Gbps de bajada y de subida).</strong>"
+      },
+      {
+        "icon": "#icon-cloud-download-mid",
+        "description": "Descarga y sube todos los archivos que quieras."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
+      },
+      {
+        "icon": "#icon-unified-communication-mid",
+        "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+      }
+    ],
+    "legal": "(*) Podrás añadir más Líneas adicionales en el proceso de compra"
+  },
+  "tv": {
+    "section": "Televisión",
+    "title": "Pack TV Plus x2 Series",
+    "subtitle": "incluye HBO España, Amazon Prime y 50 canales más",
+    "description": "<strong>Pack TV Plus x2 Series GRATIS,</strong>, este Pack incluye  <strong>HBO España, Amazon Prime con Prime Video,</strong> 50 canales más y miles de contenidos (cine, serie, documentales, música y deportes) con el decodificador 4K.",
+
+    "carousel": {
+      "show": true,
+      "img": [
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/01",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/02",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/03",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/04",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/05",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/06",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/07",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/08",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/09",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/10",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/11",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        },
+
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/12",
+          "alt": "Portada de serie incluida en el pack Seriefans",
+          "class": "ws10-u--pr1x",
+          "classImg": "ws10-c-carousel-cover__img"
+        }
+      ]
+    },
+    "logos": {
+      "img": [
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/hbo-logo",
+          "alt": "logo HBO"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/amazon",
+          "alt": "logo amazon"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/foxnow",
+          "alt": "logo foxnow"
+        }
+      ]
+    },
+    "cta": {
+      "button": true,
+      "classCta": "ws10-c-logo-list__show-all vfms-link",
+      "haspopup": "dialog",
+      "backdrop": "seriefans",
+      "context": "Ver todos los canales incluidos",
+      "element": "card addons",
+      "category": "cta",
+      "id": "-6241792886380",
+      "label": "Ver todos los canales incluidos"
+    },
+
+    "allChannels": "Ver todos los canales incluidos",
+    "legal": "(*) Llévate GRATIS el Pack Seriefans, o elige el pack Serielovers con -10€/mes dto. durante 1 año por 4€/mes",
+    "popup": {
+      "title": "¿Qué incluye el Pack Universal?",
+      "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+      "included": "Contenidos incluidos:",
+      "img": [
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/hbo",
+          "alt": "logo HBO",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/amazon",
+          "alt": "logo amazon",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/foxnow",
+          "alt": "logo foxnow",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/fox",
+          "alt": "logo FOX",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/tnt",
+          "alt": "logo TNT",
+          "class": "ws10-u--pr1x"
+        },
+
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/syfy",
+          "alt": "logo syfy",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/amcseries",
+          "alt": "logo amc series",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/calle13",
+          "alt": "logo calle 13",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/axnnow",
+          "alt": "logo AXN NOW",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/axn",
+          "alt": "logo AXN",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/axnwhite",
+          "alt": "logo AXN White",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/amc-desktop",
+          "alt": "AMC",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/foxlife-desktop",
+          "alt": "FOX Life",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cosmo-desktop",
+          "alt": "COSMO Life",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/comedy-desktop",
+          "alt": "Comedy Central",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/xtrm-desktop",
+          "alt": "XTRM",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/tcm-desktop",
+          "alt": "TCM",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/sundance-desktop",
+          "alt": "Sundance TV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/natgeo-desktop",
+          "alt": "National Geographic",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/natgeoplus-desktop",
+          "alt": "National Geographic Now",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cocina-desktop",
+          "alt": "Cocina",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/decasa-desktop",
+          "alt": "Decasa",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/mtv-desktop",
+          "alt": "MTV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/mymtv-desktop",
+          "alt": "MyMTV Music",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/solmusica-desktop",
+          "alt": "SOL Música",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/eurosport-desktop",
+          "alt": "Eurosport 1",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/selekt-desktop",
+          "alt": "SELEKT",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/euronews-desktop",
+          "alt": "Euronews",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cnn-international-desktop",
+          "alt": "CNN International",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/comedy-central-desktop",
+          "alt": "Az Corazón",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cnbc-desktop",
+          "alt": "CNBC",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/el-trece-tv-desktop",
+          "alt": "El Trece TV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cubavisio-n-internacional-desktop",
+          "alt": "Cubavisión Internacional",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/bbc-hd-desktop",
+          "alt": "BBC HD",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/bloomberg-desktop",
+          "alt": "BLOOMERANG",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/ve-plus-tv-desktop",
+          "alt": "Ve Plus TV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/tv-chile-desktop",
+          "alt": "TV Chile",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/caracol-desktop",
+          "alt": "Caracol",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/aljazeera-desktop",
+          "alt": "Aljazeera",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cgtn-desktop",
+          "alt": "CGTN",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/rt-desktop",
+          "alt": "RT",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/canal-parlamento-desktop",
+          "alt": "Canal Parlamento",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/france-24-desktop",
+          "alt": "France 24",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/pro-tv-desktop",
+          "alt": "PRO TV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/tv-5-monde-desktop",
+          "alt": "TV5 Monde",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/ewtn-desktop",
+          "alt": "EWTN",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/dw-desktop",
+          "alt": "DW",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/tvp-desktop",
+          "alt": "TVP",
+          "class": "ws10-u--pr1x"
+        }
+      ]
+    }
+  },
+  "deco": {
+    "title": "¿Cómo es la experiencia de TV sin decodificador?",
+    "description": "Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.",
+    "img": [
+      {
+        "imgJpg": "",
+        "imgPng": "img/section-deco/contenido-tv",
+        "alt": "interfaz de tv Vodafone, sin decodificador",
+        "class": "ws10-u--1/1"
+      }
+    ],
+    "productDetail": [
+      {
+        "icon": "#icon-portals-for-videos-mid",
+        "description": "Accede a <strong>HBO España, Amazon Prime Video</strong>, YouTube, National Geographic Now, y más apps desde el menú de tu decodificador."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo."
+      },
+      {
+        "icon": "",
+        "url": "img/section-deco/icon-control",
+        "name": "control",
+        "description": "Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días y Ver Ahora, Grabación en la nube y Descarga tus contenidos."
+      },
+      {
+        "url": "img/section-deco/icons-indicators-mid-render-icons-prepare",
+        "name": "render",
+        "icon": "",
+        "description": "La televisión aprende de tus gustos, <strong>te recomienda y encuentra contenido</strong> que estás buscando."
+      },
+      {
+        "icon": "#icon-alexa-mid",
+        "description": "Compatibilidad con el <strong>Control por Voz:</strong> mando para Control por Voz y altavoz inteligente Átika."
+      },
+      {
+        "icon": "#icon-connected-devices-mid",
+        "description": "Con el servicio multidispositivo puedes ver tus contenidos en tu smartphone, tablet, PC, Fire TC Stick, Chromecast y Smart TV. <strong>Tres reproducciones simultáneas</strong> (2 dispositivos + decodificador)."
+      }
+    ]
   },
 
-  "bar":[
-
+  "bar": [
     {
-      "bar1":"Los primeros 3 meses",
-      "bar2":"Del mes 4 al mes 12",
-      "bar3":"A partir del año"
+      "bar1": "Los primeros 3 meses",
+      "bar2": "Del mes 4 al mes 12",
+      "bar3": "A partir del año"
     },
     {
-      "bar1":"Los primeros 3 meses",
-      "bar2":"Del mes 4 al mes 12",
-      "bar3":"A partir del año"
+      "bar1": "Los primeros 3 meses",
+      "bar2": "Del mes 4 al mes 12",
+      "bar3": "A partir del año"
     }
   ]
 }
