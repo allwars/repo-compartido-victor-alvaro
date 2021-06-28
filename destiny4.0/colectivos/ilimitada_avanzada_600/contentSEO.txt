@@ -421,12 +421,17 @@
              <span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50%dto. 3 meses, despúes al 15% durante 2 años.</span> <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span><span>Paquete de TV: GRATIS durante 1 año, después 10€/mes</span>
           </p><span data-js-vf="_portability">
                   Los primeros 3 meses</span><span data-js-vf="_newNumber">
-                  Los primeros 3 meses</span><span></span><span>30,49</span><span>€</span><sub>/mes</sub><span>30,49</span><span>€</span><sub>/mes</sub><span>
-                Del mes 4 al
-                <span data-js-vf="_portability"> 12</span>
-              </span><span></span><span>52,69</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 13 al 27</span><span data-js-vf="_newNumber">Del mes 4 al 27</span><span></span><span>70,19</span><span>€</span><sub>/mes</sub><span>52,69</span><span>€</span><sub>/mes</sub><span>
-                Del mes 28 en adelante
-              </span><span></span><span>79,49</span><span>€</span><sub>/mes</sub><span>79,49</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><p>Los beneficios especiales que ofrece Vodafone son únicamente para empleados, por lo que si continuas declaras que cumples tal condición y te comprometes a acreditarlo en caso de que Vodafone te lo solicitara. De no acreditarlo Vodafone podrá cancelar la aplicación de estos beneficios en cualquier momento, de acuerdo con las condiciones acordadas con la empresa.</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-cta="" target="_blank" name="Ver condiciones legales" title="Ver condiciones legales" onmousedown="" data-analytics-id="-5460257368589">
+                  Los primeros 3 meses</span><span></span><span>  34,99</span><span>€</span><sub>/mes</sub><span>34,99</span><span>€</span><sub>/mes</sub><span>
+                Del mes 4 al mes 12
+              </span><span></span><span>  59,49</span><span>€</span><sub>/mes</sub><span>
+                Del mes 4 al mes 12
+              </span><span></span><span>  59,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">  Del mes 13 al 17</span><span data-js-vf="_newNumber">  Del mes 13 al 17</span><span></span><span>  86,99</span><span>€</span><sub>/mes</sub><span>  69,49</span><span>€</span><sub>/mes</sub><span>
+                 Del mes 28 en adelante
+              </span><span></span><span>  97,49</span><span>€</span><sub>/mes</sub><span>
+                 Del mes 28 en adelante
+              </span><span></span><span>  79,99</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><p data-js-vf="_portability">
+            Los beneficios especiales que ofrece Vodafone son únicamente para empleados, por lo que si continuas declaras que cumples tal condición y te comprometes a acreditarlo en caso de que Vodafone te lo solicitara. De no acreditarlo Vodafone podrá cancelar la aplicación de estos beneficios en cualquier momento, de acuerdo con las condiciones acordadas con la empresa.
+          </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-cta="" target="_blank" name="Ver condiciones legales" title="Ver condiciones legales" onmousedown="" data-analytics-id="-5460257368589">
               Ver condiciones legales
           
                 <span> color #E60000</span>
