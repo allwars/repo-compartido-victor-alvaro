@@ -65,7 +65,8 @@
                     "element": "cardrate",
                     "category": "cta",
                     "id": "-4725875160583",
-                    "label": "Lo quiero"
+                    "label": "Lo quiero",
+                    "classCta":"ws10-c-button ws10-c-button--auto vf-button--mobile"
                 }
             }, {
                 "js-vf": "_portability",
@@ -85,7 +86,8 @@
                     "element": "cardrate",
                     "category": "cta",
                     "id": "-4545656976521",
-                    "label": "Lo quiero"
+                    "label": "Lo quiero",
+                    "classCta":"ws10-c-button ws10-c-button--auto vf-button--mobile"
                 }
             }
         ]
