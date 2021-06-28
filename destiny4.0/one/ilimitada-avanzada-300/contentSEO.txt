@@ -75,7 +75,8 @@
                                                         28,49€/<sub>mes</sub>
                                                     </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
                                                 Lo quiero
-                                                <span></span>
+                                            
+                                                  <span></span>
                                               </a><p>
                                                         50% dto. 3 meses
                                                     </p><p>
@@ -86,7 +87,8 @@
                                                         28,49€/<sub>mes</sub>
                                                     </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
                                                 Lo quiero
-                                                <span></span>
+                                            
+                                                  <span></span>
                                               </a><p>
                     Móvil
                   </p><h3>
@@ -140,7 +142,7 @@
                             <use xlink:href="#icon-5G_esp-mid"></use>
                           </svg>
                         <p>
-                          Todo con la nueva red 5G.
+                          Todo con la <strong>nueva red 5G</strong>.
                         </p>
                       </li>  </ul><h3>
                     Llévate la 2ª Línea GRATIS 1 año
@@ -183,7 +185,7 @@
                         <strong>Pack TV Universal GRATIS</strong>
                     </span>
                   </h3><p>
-                      AMC, Eurosport 1 y hasta 30
+                      AMC, Eurosport 1 y hasta 30 canales
                   </p><p>
                       El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
                   </p><ul>
@@ -194,7 +196,6 @@
                         <li>
                                   </li>
                       </ul><p>
-                      
                         <a aria-haspopup="dialog" data-backdrop="seriefans" data-analytics-id="-6241792886380">
                           Ver todos los canales incluidos
                         </a>
@@ -202,7 +203,7 @@
                 
                       
                     </p><span style="left: 0; position:relative;">
-                    (*) Puedes añadir más packs de TV en el proceso de compra.
+                    (*) Puedes añadir más packs de TV en el proceso de compra
                     </span><button aria-hidden="false">
                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <title>Close</title>
@@ -322,7 +323,7 @@
                             <li>
                                                 <p>TVP</p>
                             </li>
-                        </ul><h3>¿Cómo es la experiencia de TV sin decodificador?</h3><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de una experiencia online. Consultar dispositivos compatibles</p><p>
+                        </ul><h3>¿Cómo es la experiencia de TV sin decodificador?</h3><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de una experiencia online. Consultar dispositivos compatibles.</p><p>
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>
