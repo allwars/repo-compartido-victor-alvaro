@@ -111,7 +111,40 @@
   "mobile": {
     "section": "Móvil",
     "title": "Datos ilimitados en tu móvil para TODO",
-    "velocidad": "1Gbps"
+    "mobile": "img/section-mobile/mobile-apps",
+
+    "productDetail": [
+      {
+        "icon": "#icon-thunder-2grey",
+        "description": "Datos ilimitados <strong>a máxima velocidad  (1Gbps de bajada y de subida).</strong>"
+      },
+      {
+        "icon": "#icon-game-console-mid",
+        "description": "<strong>Juega sin límites con una calidad extrema y sin cortes.</strong>"
+      },
+      {
+        "icon": "#icon-cloud-download-mid",
+        "description": "Descarga y sube todos los archivos que quieras."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
+      },
+      {
+        "icon": "#icon-unified-communication-mid",
+        "description": [
+          "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+        ]
+      },
+      {
+        "icon": "#icon-roaming-mid",
+        "description": "<strong>Roaming incluido en la Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU."
+      },
+      {
+        "icon": "#icon-5G_esp-mid",
+        "description": "Todo con la <strong>nueva red 5G</strong>."
+      }
+    ]
   },
 
   "secondLine": {
@@ -564,7 +597,7 @@
     }
   },
   "deco": {
-    "title": "¿Cómo es la experiencia de TV sin decodificador?",
+    "title": "¿Cómo es la experiencia de TV con decodificador HD y 4K?",
     "description": "Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.",
     "img": [
       {
