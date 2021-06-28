@@ -339,7 +339,7 @@
                             <li>
                                                 <p>TVP</p>
                             </li>
-                        </ul><h3>¿Cómo es la experiencia de TV sin decodificador?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
+                        </ul><h3>¿Cómo es la experiencia de TV con decodificador HD y 4K?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>

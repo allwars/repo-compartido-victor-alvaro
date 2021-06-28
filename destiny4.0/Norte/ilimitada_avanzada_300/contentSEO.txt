@@ -1,8 +1,8 @@
-<span>Fibra + Móvil <strong>50% dto. 6 meses</strong></span><h2>Fibra y datos para ser ilimitable</h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><span>
+<span>Fibra + Móvil <strong>50% dto. 6 meses</strong></span><h2><strong>Fibra y datos para ser ilimitable</strong></h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><span>
               
               <span>Mejor Precio Vodafone</span>
             </span><h2>
-            Vodafone One Ilimitada Avanzada 300Mbps
+            Vodafone One ilimitada Avanzada 300Mbps
           </h2><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                   <li>
                                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -55,13 +55,13 @@
                                               Pack TV Universal GRATIS
                                           </p>
                                           <p>
-                                              con más de 30 canales internacionales
+                                              AMC, Eurosport 1 y hasta 30 canales
                                           </p>
                                       </div>
                                   </li>
                               </ul><legend>
                                           ¿Cómo quieres la línea móvil principal?
-                                      </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
+                                      </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine" data-js-vf-value="portability">
                                                   Portabilidad
                                               </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
                                                   Nuevo Número
@@ -118,60 +118,52 @@
                             <a data-backdrop="TvUniversal300" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-0003391249299">
                                 Ver todos los canales incluidos
                             </a>
-                        </p><p style="left: 0">(*) Puedes añadir más packs de TV en el proceso de compra.</p><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
-                        dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
-                        una experiencia online.
-                        Consultar dispositivos compatibles
-                    </p><p>
-                            <a data-backdrop="dispositivos-compatibles-300" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
+                        </p><p style="left: 0">(*) Puedes añadir más packs de TV en el proceso de compra.</p><h3></h3><p></p><p>
+                            <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>
-                        </p><p>Más de <strong>50.000 contenidos disponibles</strong>
-                                bajo demanda.</p><p>No te pierdas nada, todo el <strong>contenido desde
-                                el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong>
-                                con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>2 reproducciones simultáneas</strong> en
-                                diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos
-                                estés donde estés y cuando quieras.</p><button aria-hidden="false">
+                        </p><ul>
+                        </ul><button aria-hidden="false">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                         <title>Close</title>
                                         <use xlink:href="#icon-close"></use>
                                     </svg>
                                 </button><p>
                                     Dispositivos compatibles</p><ul>
-                                    <li>
-                                        <svg style="width: 60px; height: 60px;">
-                                            <title>icon-tv-mid</title>
-                                            <use xlink:href="#icon-mobile-mid"></use>
-                                        </svg>
-                                        <p>Móvil / Tablet iOS y Android.</p>
-                                    </li>
-                                    <li>
-                                        <svg style="width: 60px; height: 60px;">
-                                            <title>icon-tv-mid</title>
-                                            <use xlink:href="#icon-tv-mid"></use>
-                                        </svg>
-                                        <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
-                                        </p>
-                                    </li>
-                                    <li>
-                                        <svg style="width: 60px; height: 60px;">
-                                            <title>icon-connected-devices-mid</title>
-                                            <use xlink:href="#icon-connected-devices-mid"></use>
-                                        </svg>
-                                        <p>Chromecast.</p>
-                                    </li>
-                                    <li>
-                                        <svg style="width: 60px;">
-                                            <title>icon-desktop-mid</title>
-                                            <use xlink:href="#icon-desktop-mid"></use>
-                                        </svg>
-                                        <p>PC/Mac.</p>
-                                    </li>
-                                    <li>
-                                        
-                                        <p>Fire TV Stick.</p>
-                                    </li>
-                                </ul><h3>Fibra óptica simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><p>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-tv-mid</title>
+                                                <use xlink:href="#icon-mobile-mid"></use>
+                                            </svg>
+                                            <p>Móvil / Tablet iOS y Android.</p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-tv-mid</title>
+                                                <use xlink:href="#icon-tv-mid"></use>
+                                            </svg>
+                                            <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
+                                            </p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-connected-devices-mid</title>
+                                                <use xlink:href="#icon-connected-devices-mid"></use>
+                                            </svg>
+                                            <p>Chromecast.</p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px;">
+                                                <title>icon-desktop-mid</title>
+                                                <use xlink:href="#icon-desktop-mid"></use>
+                                            </svg>
+                                            <p>PC/Mac.</p>
+                                        </li>
+                                        <li>
+                                            
+                                            <p>Fire TV Stick.</p>
+                                        </li>
+                                    </ul><h3>Fibra óptica simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><p>
                             <strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez.
                           </p><p>
                             <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
@@ -248,8 +240,7 @@
                             <title>Flecha derecha</title>
                             <use xlink:href="#icon-chevron-right"></use>
                         </svg>
-                    </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Avanzada
-                            300Mbps?</strong></h3><ul>
+                    </a><h3><strong>¿Cómo contrato Vodafone One ilimitada Avanzada 300Mbps?</strong></h3><ul>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                                 <title>Business</title>
