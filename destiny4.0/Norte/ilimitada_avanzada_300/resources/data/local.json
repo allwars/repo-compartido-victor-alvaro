@@ -1,13 +1,13 @@
 {
     "header": {
         "title": "Fibra + Móvil <strong>50% dto. 6 meses</strong>",
-        "title2": "Fibra y datos para ser ilimitable",
+        "title2": "<strong>Fibra y datos para ser ilimitable</strong>",
         "badge": "Oferta para Navarra, Euskadi, Asturias y Galicia",
         "icon": "img/banner/icono-bestprice.svg",
         "label": "Mejor Precio Vodafone"
     },
     "cardRates": {
-        "title": "Vodafone One Ilimitada Avanzada 300Mbps",
+        "title": "Vodafone One ilimitada Avanzada 300Mbps",
         "description": [
             {
                 "icon": "icon-mobile",
@@ -17,8 +17,8 @@
                 "color": "ws10-c-card-rate__product-txt--primary"
             }, {
                 "icon": "icon-sim",
-                "title": "Segunda línea GRATIS 1 año",
-                "subtitle": "Datos y minutos ilimitados",
+                "title": "Datos y minutos ilimitados GRATIS",
+                "subtitle": "Segunda línea GRATIS 1 año",
                 "js-vf": "_secondLine"
             }, {
                 "icon": "icon-broadband-or-wifi",
@@ -27,7 +27,7 @@
             }, {
                 "icon": "icon-tv",
                 "title": "Pack TV Universal GRATIS",
-                "subtitle": "con más de 30 canales internacionales"
+                "subtitle": "AMC, Eurosport 1 y hasta 30 canales"
             }
         ],
         "rates": [
