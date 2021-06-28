@@ -15,19 +15,18 @@
 
 
   <!----PRICE-TAB-->
-
-  <div class="ws10-c-price-bar-group ws10-u--mt4x ws10-u--mb4x">
+<div class="ws10-c-price-bar-group ws10-u--mt4x ws10-u--mb4x">
     <div class="ws10-c-price-bar">
-        <span
-          class="ws10-c-price-bar__text ws10-u--mb4x"
-          data-js-vf="_portability"
-        >
+      <span
+        class="ws10-c-price-bar__text ws10-u--mb4x"
+        data-js-vf="_portability"
+      >
           {{ sinSorpresas.bar.[0].bar1 }}</span>
-        <span
-          class="ws10-c-price-bar__text ws10-u--mb4x ws10-u--hidden"
-          data-js-vf="_newNumber"
-        >
-          Los primeros 3 meses</span>
+      <span
+        class="ws10-c-price-bar__text ws10-u--mb4x ws10-u--hidden"
+        data-js-vf="_newNumber"
+      >
+          {{ sinSorpresas.bar.[1].bar1 }}</span>
       <span
         class="ws10-c-price-bar__hr ws10-c-price-bar__hr--start ws10-c-price-bar__hr--separator-end ws10-c-price-bar__hr--bg-lemon-yellow"
       ></span>
@@ -35,7 +34,7 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
         data-js-vf="_portability"
       >
-        <span class="ws10-c-price__amount">30,49</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[0].price1 }}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
@@ -43,16 +42,14 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop ws10-u--hidden"
         data-js-vf="_newNumber"
       >
-        <span
-          class="ws10-c-price__amount">30,49</span>
+        <span class="ws10-c-price__amount">{{ sinSorpresas.bar.[1].price1 }}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
     <div class="ws10-c-price-bar" data-js-vf="_portability">
       <span class="ws10-c-price-bar__text ws10-u--mb4x">
-        Del mes 4 al
-        <span data-js-vf="_portability"> 12</span>
+        {{ sinSorpresas.bar.[0].bar2}}
       </span>
       <span
         class="ws10-c-price-bar__hr ws10-c-price-bar__hr--none ws10-c-price-bar__hr--separator-end ws10-c-price-bar__hr--bg-turquoise"
@@ -60,7 +57,22 @@
       <div
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
       >
-        <span class="ws10-c-price__amount">52,69</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[0].price2}}</span>
+        <span class="ws10-c-price__currency">€</span>
+        <sub class="ws10-c-price__recurrence">/mes</sub>
+      </div>
+    </div>
+     <div class="ws10-c-price-bar ws10-u--hidden" data-js-vf="_newNumber">
+      <span class="ws10-c-price-bar__text ws10-u--mb4x">
+        {{ sinSorpresas.bar.[1].bar2}}
+      </span>
+      <span
+        class="ws10-c-price-bar__hr ws10-c-price-bar__hr--none ws10-c-price-bar__hr--separator-end ws10-c-price-bar__hr--bg-turquoise"
+      ></span>
+      <div
+        class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
+      >
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[1].price2}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
@@ -69,11 +81,11 @@
       <span
         class="ws10-c-price-bar__text ws10-u--mb4x"
         data-js-vf="_portability"
-        >Del mes 13 al 27</span>
+        >  {{ sinSorpresas.bar.[0].bar3}}</span>
       <span
         class="ws10-c-price-bar__text ws10-u--mb4x ws10-u--hidden"
         data-js-vf="_newNumber"
-        >Del mes 4 al 27</span>
+        >  {{ sinSorpresas.bar.[1].bar3}}</span>
       <span
         class="ws10-c-price-bar__hr ws10-c-price-bar__hr--none ws10-c-price-bar__hr--bg-fresh-orange"
       ></span>
@@ -81,7 +93,7 @@
         data-js-vf="_portability"
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
       >
-        <span class="ws10-c-price__amount">70,19</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[0].price3}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
@@ -89,14 +101,14 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop ws10-u--hidden"
         data-js-vf="_newNumber"
       >
-        <span class="ws10-c-price__amount">52,69</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[1].price3}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
-    <div class="ws10-c-price-bar">
+    <div class="ws10-c-price-bar"  data-js-vf="_portability">
       <span class="ws10-c-price-bar__text ws10-u--mb4x">
-        Del mes 28 en adelante
+         {{ sinSorpresas.bar.[0].bar4}}
       </span>
       <span
         class="ws10-c-price-bar__hr ws10-c-price-bar__hr--end ws10-c-price-bar__hr--separator-start ws10-c-price-bar__hr--bg-dark-grey"
@@ -105,23 +117,33 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
         data-js-vf="_portability"
       >
-        <span class="ws10-c-price__amount">79,49</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[0].price4}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
+    </div>
+    <div class="ws10-c-price-bar ws10-u--hidden"  data-js-vf="_newNumber">
+      <span class="ws10-c-price-bar__text ws10-u--mb4x">
+         {{ sinSorpresas.bar.[1].bar4}}
+      </span>
+      <span
+        class="ws10-c-price-bar__hr ws10-c-price-bar__hr--end ws10-c-price-bar__hr--separator-start ws10-c-price-bar__hr--bg-dark-grey"
+      ></span>
       <div
-        class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop ws10-u--hidden"
+        class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
         data-js-vf="_newNumber"
       >
-        <span class="ws10-c-price__amount">79,49</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[1].price4}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
   </div>
 
-    {{{sinSorpresas.instalacion}}}
-  {{{sinSorpresas.benefits}}}
+  {{{sinSorpresas.instalacion}}}
+  <p data-js-vf="_portability">
+    {{{sinSorpresas.benefits}}}
+  </p>
   
   {{>cta sinSorpresas.cta}}
 </section>

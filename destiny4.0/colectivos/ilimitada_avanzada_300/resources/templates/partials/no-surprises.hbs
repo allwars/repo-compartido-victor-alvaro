@@ -62,6 +62,21 @@
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
+     <div class="ws10-c-price-bar ws10-u--hidden" data-js-vf="_newNumber">
+      <span class="ws10-c-price-bar__text ws10-u--mb4x">
+        {{ sinSorpresas.bar.[1].bar2}}
+      </span>
+      <span
+        class="ws10-c-price-bar__hr ws10-c-price-bar__hr--none ws10-c-price-bar__hr--separator-end ws10-c-price-bar__hr--bg-turquoise"
+      ></span>
+      <div
+        class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop"
+      >
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[1].price2}}</span>
+        <span class="ws10-c-price__currency">€</span>
+        <sub class="ws10-c-price__recurrence">/mes</sub>
+      </div>
+    </div>
     <div class="ws10-c-price-bar">
       <span
         class="ws10-c-price-bar__text ws10-u--mb4x"
@@ -86,12 +101,12 @@
         class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop ws10-u--hidden"
         data-js-vf="_newNumber"
       >
-        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[1].bar3}}</span>
+        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[1].price3}}</span>
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
     </div>
-    <div class="ws10-c-price-bar">
+    <div class="ws10-c-price-bar"  data-js-vf="_portability">
       <span class="ws10-c-price-bar__text ws10-u--mb4x">
          {{ sinSorpresas.bar.[0].bar4}}
       </span>
@@ -106,19 +121,13 @@
         <span class="ws10-c-price__currency">€</span>
         <sub class="ws10-c-price__recurrence">/mes</sub>
       </div>
-      <div
-        class="ws10-c-price ws10-c-price--x-small ws10-c-price--default@tablet ws10-c-price--default@desktop ws10-u--hidden"
-        data-js-vf="_newNumber"
-      >
-        <span class="ws10-c-price__amount">  {{ sinSorpresas.bar.[1].price3}}</span>
-        <span class="ws10-c-price__currency">€</span>
-        <sub class="ws10-c-price__recurrence">/mes</sub>
-      </div>
     </div>
   </div>
 
   {{{sinSorpresas.instalacion}}}
+  <p data-js-vf="_portability">
   {{{sinSorpresas.benefits}}}
+  </p>
   
   {{>cta sinSorpresas.cta}}
 
