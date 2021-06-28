@@ -1,5 +1,5 @@
 <h2>Fibra + Móvil</h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><p>
-                <span><strong>Ahora 2 líneas ilimitadas</strong>, fibra óptica y TV al 50% dto. 6 meses</span>
+                <span><strong>Ahora 2 líneas ilimitadas</strong>, fibra óptica y TV al <strong>50% dto. 6 meses</strong></span>
             </p><div>
             
           </div><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 6 meses" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
@@ -161,6 +161,9 @@
                                                 </p>
                                                 <p>
                                                     Segunda línea: Velocidad máxima 5G
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                        <use xlink:href="#icon-thunder-3"></use>
+                                                    </svg>
                                                 </p>
                                             </div>
                                         </li>

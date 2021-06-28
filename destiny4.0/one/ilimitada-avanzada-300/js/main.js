@@ -1,5 +1,9 @@
 /**
+<<<<<<< Updated upstream
  * Vodafone Reboot Framework: Version 2.17.0. Generation Date: 2021-06-28T12:45:02.386Z
+=======
+ * Vodafone Reboot Framework: Version 2.15.0. Generation Date: 2021-06-28T12:54:19.152Z
+>>>>>>> Stashed changes
  */
 
 /******/ (function(modules) { // webpackBootstrap

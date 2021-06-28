@@ -83,8 +83,6 @@
 		                                                        </p><p>
 		                                                                    Permanencia 1 año
 		                                                                </p><p>
-		                                                                    <del>56,99€/mes</del>
-		                                                                </p><p>
 		                                                                    28,49€/<sub>mes</sub>
 		                                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-3/" target="_self" name="Más info" title="Más info" data-analytics-id="-7498449761489">
 		                                                            Más info
@@ -148,8 +146,6 @@
 		                                                            50% dto. 3 meses + después 15% dto. durante 2 años
 		                                                        </p><p>
 		                                                                    Permanencia 1 año
-		                                                                </p><p>
-		                                                                    <del>69,99€/mes</del>
 		                                                                </p><p>
 		                                                                    34,99€/<sub>mes</sub>
 		                                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-4/" target="_self" name="Más info" title="Más info" data-analytics-id="-3827639703071">
@@ -217,8 +213,6 @@
 		                                                            50% dto. 3 meses +  después 15% dto. durante 2 años
 		                                                        </p><p>
 		                                                                    Permanencia 1 año
-		                                                                </p><p>
-		                                                                    <del>74,99€/mes</del>
 		                                                                </p><p>
 		                                                                    44,99€/<sub>mes</sub>
 		                                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/" target="_self" name="Más info" title="Más info" data-analytics-id="-8477551683805">
