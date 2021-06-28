@@ -64,8 +64,11 @@
                                   </li>
                               </ul><legend>
                                           
-                                      </legend><div>
-                                      </div><p>
+                                      </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine" data-js-vf-value="portability">
+                                                  
+                                              </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
+                                                  
+                                              </label><p>
                                                       50% dto. 3 meses
                                                   </p><p>
                                                       Permanencia 1 año

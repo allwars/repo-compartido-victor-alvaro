@@ -38,21 +38,29 @@
                                 {{ form.title }}
                             </legend>
                             <div class="ws10-c-card-rate__w-form-select">
-                                {{#each form.inputs }}
                                 <div class="vf-form__box ws10-c-form__box">
                                     <input type="radio" name="rate-1-card-rate" id="rate-1-card-rate-option-1" class="ws10-c-form__radio"
-                                        data-analytics-element="{{ element }}"
-                                        data-analytics-context="{{ context }}"
-                                        data-analytics-category="{{ category }}"
+                                        data-analytics-element="{{ form.inputs.0.element }}"
+                                        data-analytics-context="{{ form.inputs.0.context }}"
+                                        data-analytics-category="{{ form.inputs.0.category }}"
                                         checked/>
-                                    <label for="rate-1-card-rate-option-1" class="ws10-c-card-rate__form-label ws10-c-form__label" data-js-vf="_buttonTypeLine">
-                                        {{ label }}
+                                    <label for="rate-1-card-rate-option-1" class="ws10-c-card-rate__form-label ws10-c-form__label" data-js-vf="_buttonTypeLine"
+                                        data-js-vf-value="portability">
+                                        {{ form.inputs.0.label }}
                                     </label>
                                 </div>
-                                {{/each }}
+                                <div class="vf-form__box ws10-c-form__box">
+                                    <input type="radio" name="rate-1-card-rate" id="rate-1-card-rate-option-2" class="ws10-c-form__radio"
+                                        data-analytics-element="{{ form.inputs.1.element }}"
+                                        data-analytics-context="{{ form.inputs.1.context }}"
+                                        data-analytics-category="{{ form.inputs.1.category }}" />
+                                    <label for="rate-1-card-rate-option-2" class="ws10-c-card-rate__form-label ws10-c-form__label" data-js-vf="_buttonTypeLine"
+                                        data-js-vf-value="newNumber">
+                                        {{ form.inputs.1.label }}
+                                    </label>
+                                </div>
                             </div>
                         </fieldset>
-
                         {{#each rates }}
                             <div class="ws10-c-card-rate__w-cta {{ hidden }}" data-js-vf="{{ js-vf }}">
                                 <div class="ws10-c-card-rate__w-offers">
