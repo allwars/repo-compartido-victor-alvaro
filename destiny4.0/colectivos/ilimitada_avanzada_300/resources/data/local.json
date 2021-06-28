@@ -17,7 +17,7 @@
       }
   },
   "cardRates": {
-      "title": "Vodafone One Ilimitada Avanzada 300Mbps",
+      "title": "Vodafone One ilimitada Avanzada 300Mbps",
       "description": [
           {
               "icon": "icon-mobile",
@@ -37,7 +37,7 @@
           }, {
               "icon": "icon-tv",
               "title": "Pack TV Universal GRATIS",
-              "subtitle": "con más de 30 canales internacionales"
+              "subtitle": "AMC, Eurosport 1 y hasta 30 canales"
           }
       ],
       "rates": [
@@ -48,7 +48,7 @@
                   "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                   "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
                   "label": "Permanencia 1 año",
-                  "finalPrice": "<del>66,98€/mes</del>",
+                  "finalPrice": "<del>56,99€/mes</del>",
                   "discountPrice": "28,49€/<sub>mes</sub>"
               },
               "cta": {
@@ -68,7 +68,7 @@
                   "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                   "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
                   "label": "Permanencia 1 año",
-                  "finalPrice": "<del>66,98€/mes</del>",
+                  "finalPrice": "<del>56,99€/mes</del>",
                   "discountPrice": "28,49€/<sub>mes</sub>"
               },
               "cta": {
