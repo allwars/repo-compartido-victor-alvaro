@@ -1,7 +1,7 @@
 {
     "banner": {
         "title": "Fibra + Móvil",
-        "title2": "<strong>Ahora 2 líneas ilimitadas</strong>, fibra óptica y TV al 50% dto. 6 meses</strong>",
+        "title2": "<strong>Ahora 2 líneas ilimitadas</strong>, fibra óptica y TV al <strong>50% dto. 6 meses</strong>",
         "badge": "Oferta para Navarra, Euskadi, Asturias y Galicia"
     },
     "cardRates": {
@@ -96,6 +96,7 @@
                     "icon": "icon-sim",
                     "title": "Datos y minutos ilimitados GRATIS",
                     "subtitle": "Segunda línea: Velocidad máxima 5G",
+                    "secondIcon": "icon-thunder-3",
                     "color": "ws10-c-card-rate__product-txt--primary"
                 }, {
                     "icon": "icon-broadband-or-wifi",
