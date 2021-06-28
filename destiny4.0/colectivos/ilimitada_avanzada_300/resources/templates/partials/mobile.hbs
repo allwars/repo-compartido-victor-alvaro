@@ -1,147 +1,34 @@
 <section class="vf-mobile ws10-u--pt12x">
   <p class="ws10-u-heading--4 ws10-u--mb2x ws10-u-heading--4-lt">
-      {{ mobile.title.[0] }}
+    {{mobile.section}}
   </p>
-  <p class="ws10-u-heading--3">
-      <strong>{{ mobile.title.[1] }}</strong>
-  </p>
+  <h3>
+    {{mobile.title}}
+  </h3>
   <div class="vf-mobile__animation">
     <div class="vf-mobile__apps ws10-u--mt+">
     </div>
     <picture>
       <source
         class="vf-mobile__animation--img"
-        srcset="img/section-mobile/mobile-apps.webp"
+        srcset="{{mobile.mobile}}.webp"
         type="image/webp"
       />
       <source
         class="vf-mobile__animation--img"
-        srcset="img/section-mobile/mobile-apps.png"
+        srcset="{{mobile.mobile}}.png"
         type="image/png"
       />
       <img
         class="vf-mobile__animation--img"
-        src="img/section-mobile/mobile-apps.png"
+        src="{{mobile.mobile}}.png"
         alt="Algunas de las aplicaciones que podrás usar con tu móvil si tienes Vodafone One Ilimitada"
       />
     </picture>
   </div>
   <ul class="vf-mobile__details ws10-flex ws10-flex__wrap">
-    <li
-      class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x ws10-u--1/2@desktop"
-    >
-      <svg
-        class="ws10-c-product-detail__icon"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        width="24px"
-        height="24px"
-      >
-        <use class="icon-v3" xlink:href="#icon-thunder-2grey"></use>
-      </svg>
-      <p class="ws10-c-product-detail__text">
-        {{ mobile.details.0.[0] }}
-        <strong>{{ mobile.details.0.[1] }}</strong>
-      </p>
-    </li>
-    <li
-      class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x ws10-u--1/2@desktop"
-    >
-      <svg
-        class="ws10-c-product-detail__icon"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        width="24px"
-        height="24px"
-      >
-        <use
-          class="icon-v3"
-          xlink:href="#icon-music-and-movies-mid"
-        ></use>
-      </svg>
-      <p class="ws10-c-product-detail__text">
-          {{ mobile.details.1.[0] }}
-      </p>
-    </li>
-    <li
-      class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x ws10-u--1/2@desktop"
-    >
-      <svg
-        class="ws10-c-product-detail__icon"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        width="24px"
-        height="24px"
-      >
-        <use class="icon-v3" xlink:href="#icon-video-mid"></use>
-      </svg>
-      <p class="ws10-c-product-detail__text">
-        {{ mobile.details.2.[0] }}
-      </p>
-    </li>
-    <li
-      class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x ws10-u--1/2@desktop"
-    >
-      <svg
-        class="ws10-c-product-detail__icon"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        width="24px"
-        height="24px"
-      >
-        <use class="icon-v3" xlink:href="#icon-play-mid"></use>
-      </svg>
-      <p class="ws10-c-product-detail__text">
-          {{ mobile.details.3.[0] }}
-      </p>
-    </li>
-    <li
-      class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x ws10-u--1/2@desktop"
-    >
-      <svg
-        class="ws10-c-product-detail__icon"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        width="24px"
-        height="24px"
-      >
-        <use
-          class="icon-v3"
-          xlink:href="#icon-unified-communication-mid"
-        ></use>
-      </svg>
-      <p class="ws10-c-product-detail__text">
-          <strong>{{ mobile.details.4.[0] }}</strong>
-          {{ mobile.details.4.[1] }}
-      </p>
-    </li>
-    <li
-      class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x ws10-u--1/2@desktop"
-    >
-      <img
-        class="ws10-c-product-detail__icon"
-        src="img/section-mobile/roaming.svg"
-        alt="icono roaming"
-        style="padding: 0.8rem;"
-      />
-      <p class="ws10-c-product-detail__text">
-          <strong>{{ mobile.details.5.[0] }}</strong>
-          {{ mobile.details.5.[1] }}
-      </p>
-    </li>
-    <li
-      class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x ws10-u--1/2@desktop"
-    >
-      <svg
-        class="ws10-c-product-detail__icon"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        width="24px"
-        height="24px"
-      >
-        <use class="icon-v3" xlink:href="#icon-5G_esp-mid"></use>
-      </svg>
-      <p class="ws10-c-product-detail__text">{{ mobile.details.6.[0] }}</p>
-    </li>
+    {{#each mobile.productDetail}}
+      {{> productDetail this}}
+    {{/each}}
   </ul>
 </section>
