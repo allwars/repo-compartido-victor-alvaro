@@ -185,7 +185,7 @@
                         <strong>Pack TV Universal GRATIS</strong>
                     </span>
                   </h3><p>
-                      AMC, Eurosport 1 y hasta 30 canales
+                      AMC, Eurosport 1 y hasta 30
                   </p><p>
                       El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
                   </p><ul>
@@ -401,8 +401,8 @@
                    <span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50%dto. 3 meses</span> <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span><span>Paquete de TV: GRATIS</span>
                   </p><span>
                         Los primeros 3 meses
-                      </span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">A partir del mes 4
-                      </span><span></span><span data-js-vf="_portability">56,99</span><span data-js-vf="_newNumber">56,99</span><span>€</span><sub>/mes</sub><span>
+                      </span><span></span><span></span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">A partir del mes 4
+                      </span><span></span><span data-js-vf="_portability"></span><span data-js-vf="_newNumber"></span><span>€</span><sub>/mes</sub><span>
                         A partir del año
                       </span><span></span><span></span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
                     autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
