@@ -30,6 +30,22 @@
                 "subtitle": "con HBO España y 60 canales más"
             }
         ],
+        "form": {
+            "title": "¿Cómo quieres la línea móvil principal?",
+            "inputs": [
+                {
+                    "element": "cardrate",
+                    "context": "portabilidad",
+                    "category": "cta",
+                    "label": "Portabilidad"
+                }, {
+                    "element": "cardrate",
+                    "context": "alta nueva",
+                    "category": "cta",
+                    "label": "Nuevo Número"
+                }
+            ]
+        },
         "rates": [
             {
                 "js-vf": "_newNumber",
