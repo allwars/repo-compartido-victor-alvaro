@@ -73,8 +73,9 @@
                                                         <del>56,99€/mes</del>
                                                     </p><p>
                                                         28,49€/<sub>mes</sub>
-                                                    </p><a aria-haspopup="" data-backdrop="" data-analytics-id="-7498449761489">
+                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
                                                 Lo quiero
+                                                <span></span>
                                               </a><p>
                                                         50% dto. 3 meses
                                                     </p><p>
@@ -83,8 +84,9 @@
                                                         <del>56,99€/mes</del>
                                                     </p><p>
                                                         28,49€/<sub>mes</sub>
-                                                    </p><a aria-haspopup="" data-backdrop="" data-analytics-id="-7498449761489">
+                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
                                                 Lo quiero
+                                                <span></span>
                                               </a><p>
                     Móvil
                   </p><h3>
@@ -196,39 +198,11 @@
                         <a aria-haspopup="dialog" data-backdrop="seriefans" data-analytics-id="-6241792886380">
                           Ver todos los canales incluidos
                         </a>
-                      <a aria-haspopup="dialog" data-backdrop="seriefans" data-analytics-id="-6241792886380">
-                        Ver todos los canales incluidos
-                      </a>
+                      
+                
                       
                     </p><span style="left: 0; position:relative;">
                     (*) Puedes añadir más packs de TV en el proceso de compra.
-                    </span><h3>
-                    <span>
-                      Pack TV Universal GRATIS
-                    </span>
-                    <span>
-                      <strong></strong>
-                    </span>
-                  </h3><p>
-                    
-                  </p><p>
-                    El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
-                  </p><ul>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                      <li>
-                        
-                      </li>
-                    </ul><p>
-                      <a aria-haspopup="dialog" data-backdrop="seriefans" data-analytics-id="-6241792886380">
-                        Ver todos los canales incluidos
-                      </a>
-                    </p><span style="left: 0; position:relative;">
-                      
                     </span><button aria-hidden="false">
                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <title>Close</title>
@@ -353,78 +327,78 @@
                                 Consultar dispositivos compatibles
                             </a>
                         </p><ul>
-                  <li>
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
-                        <use xlink:href="#icon-portals-for-videos-mid"></use>
-                      </svg>
-                    <p>
-                      Más de <strong>50.000 contenidos disponibles</strong> bajo demanda.
-                    </p>
-                  </li>  <li>
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
-                        <use xlink:href="#icon-play-mid"></use>
-                      </svg>
-                    <p>
-                      No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo.
-                    </p>
-                  </li>  <li>
-                      
-                    <p>
-                      Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días, Grabación, Ver Ahora y Descarga.
-                    </p>
-                  </li>  <li>
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
-                        <use xlink:href="#icon-connected-devices-mid"></use>
-                      </svg>
-                    <p>
-                      <strong>2 reproducciones simultáneas</strong> en diferentes dispositivos.
-                    </p>
-                  </li>  <li>
-                      
-                    <p>
-                      Descarga tus contenidos para verlos estés donde estés y cuando quieras.
-                    </p>
-                  </li>  </ul><button aria-hidden="false">
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-portals-for-videos-mid"></use>
+                                    </svg>
+                                  <p>
+                                    Más de <strong>50.000 contenidos disponibles</strong> bajo demanda.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-play-mid"></use>
+                                    </svg>
+                                  <p>
+                                    No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días, Grabación, Ver Ahora y Descarga.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-connected-devices-mid"></use>
+                                    </svg>
+                                  <p>
+                                    <strong>2 reproducciones simultáneas</strong> en diferentes dispositivos.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    Descarga tus contenidos para verlos estés donde estés y cuando quieras.
+                                  </p>
+                                </li>        </ul><button aria-hidden="false">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                         <title>Close</title>
                                         <use xlink:href="#icon-close"></use>
                                     </svg>
                                 </button><p>
                                     Dispositivos compatibles</p><ul>
-                                    <li>
-                                        <svg style="width: 60px; height: 60px;">
-                                            <title>icon-tv-mid</title>
-                                            <use xlink:href="#icon-mobile-mid"></use>
-                                        </svg>
-                                        <p>Móvil / Tablet iOS y Android.</p>
-                                    </li>
-                                    <li>
-                                        <svg style="width: 60px; height: 60px;">
-                                            <title>icon-tv-mid</title>
-                                            <use xlink:href="#icon-tv-mid"></use>
-                                        </svg>
-                                        <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
-                                        </p>
-                                    </li>
-                                    <li>
-                                        <svg style="width: 60px; height: 60px;">
-                                            <title>icon-connected-devices-mid</title>
-                                            <use xlink:href="#icon-connected-devices-mid"></use>
-                                        </svg>
-                                        <p>Chromecast.</p>
-                                    </li>
-                                    <li>
-                                        <svg style="width: 60px;">
-                                            <title>icon-desktop-mid</title>
-                                            <use xlink:href="#icon-desktop-mid"></use>
-                                        </svg>
-                                        <p>PC/Mac.</p>
-                                    </li>
-                                    <li>
-                                        
-                                        <p>Fire TV Stick.</p>
-                                    </li>
-                                </ul><h3>Fibra óptica simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><p>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-tv-mid</title>
+                                                <use xlink:href="#icon-mobile-mid"></use>
+                                            </svg>
+                                            <p>Móvil / Tablet iOS y Android.</p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-tv-mid</title>
+                                                <use xlink:href="#icon-tv-mid"></use>
+                                            </svg>
+                                            <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
+                                            </p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-connected-devices-mid</title>
+                                                <use xlink:href="#icon-connected-devices-mid"></use>
+                                            </svg>
+                                            <p>Chromecast.</p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px;">
+                                                <title>icon-desktop-mid</title>
+                                                <use xlink:href="#icon-desktop-mid"></use>
+                                            </svg>
+                                            <p>PC/Mac.</p>
+                                        </li>
+                                        <li>
+                                            
+                                            <p>Fire TV Stick.</p>
+                                        </li>
+                                    </ul><h3>Fibra óptica simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><p>
                             <strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez.
                           </p><p>
                             <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>

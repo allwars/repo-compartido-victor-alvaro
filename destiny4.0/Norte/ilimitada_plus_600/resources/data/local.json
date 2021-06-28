@@ -17,8 +17,8 @@
                 "color": "ws10-c-card-rate__product-txt--primary"
             }, {
                 "icon": "icon-sim",
-                "title": "Segunda línea GRATIS 1 año",
-                "subtitle": "Datos y minutos ilimitados",
+                "title": "Datos y minutos ilimitados GRATIS",
+                "subtitle": "Segunda línea GRATIS 1 año",
                 "js-vf": "_secondLine"
             }, {
                 "icon": "icon-broadband-or-wifi",

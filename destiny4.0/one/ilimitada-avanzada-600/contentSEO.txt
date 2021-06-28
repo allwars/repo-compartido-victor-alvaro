@@ -2,7 +2,7 @@
               
               <span>Mejor Precio Vodafone</span>
             </span><h2>
-            Vodafone One Ilimitada Avanzada 600Mbps
+            Vodafone One ilimitada Plus 300Mbps
           </h2><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                   <li>
                                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -13,9 +13,9 @@
                                               Datos y minutos ilimitados
                                           </p>
                                           <p>
-                                              Velocidad alta
+                                              Velocidad máxima 5G
                                               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                  <use xlink:href="#icon-thunder-2grey"></use>
+                                                  <use xlink:href="#icon-thunder-3"></use>
                                               </svg>
                                           </p>
                                       </div>
@@ -26,10 +26,10 @@
                                       </svg>
                                       <div>
                                           <p>
-                                              Segunda línea GRATIS 1 año
+                                              Datos y minutos ilimitados GRATIS
                                           </p>
                                           <p>
-                                              Datos y minutos ilimitados
+                                              Segunda línea GRATIS 1 año
                                           </p>
                                       </div>
                                   </li>
@@ -39,7 +39,7 @@
                                       </svg>
                                       <div>
                                           <p>
-                                              600Mbps Fibra Óptica
+                                              300Mbps Fibra Óptica
                                           </p>
                                           <p>
                                               + llamadas ilimitadas en fijo
@@ -52,10 +52,10 @@
                                       </svg>
                                       <div>
                                           <p>
-                                              Pack TV Universal GRATIS
+                                              Pack TV Seriefans GRATIS 1 año
                                           </p>
                                           <p>
-                                              con más de 30 canales internacionales
+                                              con HBO España y 60 canales más
                                           </p>
                                       </div>
                                   </li>
@@ -70,10 +70,10 @@
                                                     </p><p>
                                                         Permanencia 1 año
                                                     </p><p>
-                                                        <del>61,99€/mes</del>
+                                                        <del>69,99€/mes</del>
                                                     </p><p>
-                                                        30,49€/<sub>mes</sub>
-                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285769&amp;tcli=0&amp;tta=1" target="_self" name="Lo quiero" title="Lo quiero" data-analytics-id="-7498449761489">
+                                                        34,99€/<sub>mes</sub>
+                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285769&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
                                                 Lo quiero
                                                 <span></span>
                                             </a><p>
@@ -81,10 +81,10 @@
                                                     </p><p>
                                                         Permanencia 1 año
                                                     </p><p>
-                                                        <del>61,99€/mes</del>
+                                                        <del>69,99€/mes</del>
                                                     </p><p>
-                                                        30,49€/<sub>mes</sub>
-                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285751&amp;tcli=0&amp;tta=1" target="_self" name="Lo quiero" title="Lo quiero" data-analytics-id="-7498449761489">
+                                                        34,49€/<sub>mes</sub>
+                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285751&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
                                                 Lo quiero
                                                 <span></span>
                                             </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
@@ -355,53 +355,9 @@
                           </p><p>
                             <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
                           </p><h3>
-                        <strong>También incluido en Vodafone One ilimitada Avanzada 300Mbps</strong>
+                        <strong></strong>
                     </h3><ul aria-labelledby="idList">
-                         <li>
-                            <div>
-                                <div>
-                                <div>
-                                    
-                                    <h3><strong>Secure Net</strong></h3>
-                                </div>
-                                <p>Para que <strong>navegues sin riesgos en Internet por la red móvil y de acceso fijo de Vodafone</strong>, protegiéndote de virus (malware) y páginas fraudulentas (phishing).</p>
-                                <p><strong>GRATIS</strong> durante 3 meses, después 1€/mes.</p>
-                                </div>
-                            </div>
-                            </li>         <li>
-                            <div>
-                                <div>
-                                <div>
-                                    
-                                    <h3><strong>OneNumber</strong></h3>
-                                </div>
-                                <p><strong>Mismo número de teléfono y misma tarifa de voz y datos en todos tus dispositivos</strong> sin necesidad de tener el móvil cerca y sin cambiar la SIM.</p>
-                                <p><strong>GRATIS</strong> durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono secundario y 1€/mes para Smart speaker con Alexa.</p>
-                                </div>
-                            </div>
-                            </li>         <li>
-                            <div>
-                                <div>
-                                <div>
-                                    
-                                    <h3><strong>Secure Net Family</strong></h3>
-                                </div>
-                                <p><strong>Secure Net Family</strong> te protege de <strong>virus (malware) y páginas fraudulentas (phishing)</strong>, permitiendo además aplicar políticas de control parental en todos slos dispositivos de tu hogar.</p>
-                                <p><strong>GRATIS</strong> durante 3 meses, después 5€/mes (IVA incluido).</p>
-                                </div>
-                            </div>
-                            </li>         <li>
-                            <div>
-                                <div>
-                                <div>
-                                    
-                                    <h3><strong>TIDAL</strong></h3>
-                                </div>
-                                <p>Plataforma de música en streaming para que disfrutes de tu música con la mejor calidad de audio.</p>
-                                <p><strong>GRATIS</strong> durante 3 meses, después 7,99€/mes.</p>
-                                </div>
-                            </div>
-                            </li>    </ul><span style="left: 0;">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
+                    </ul><span style="left: 0;"></span><p>
                     <span><strong>Sin sorpresas.</strong></span>
                     <span><strong>No escondemos nada</strong></span>
                   </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: €/mes durante 3 meses, después €/mes</strong></p><p>
