@@ -57,7 +57,7 @@
                     "discount": "50% dto. 6 meses",
                     "label": "Permanencia 6 meses",
                     "finalPrice": "<del>89,99€/mes</del>",
-                    "discountPrice": "44,99€/<sub>mes</sub>"
+                    "discountPrice": "44,99€<sub>/mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -77,7 +77,7 @@
                     "discount": "50% dto. 6 meses",
                     "label": "Permanencia 6 meses",
                     "finalPrice": "<del>89,99€/mes</del>",
-                    "discountPrice": "44,99€/<sub>mes</sub>"
+                    "discountPrice": "44,99€<sub>/mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",

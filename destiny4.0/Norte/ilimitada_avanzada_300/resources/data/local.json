@@ -55,7 +55,7 @@
                     "discount": "50% dto. 6 meses",
                     "label": "Permanencia 6 meses",
                     "finalPrice": "<del>56,99€/mes</del>",
-                    "discountPrice": "28,49€/<sub>mes</sub>"
+                    "discountPrice": "28,49€<sub>/mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -76,7 +76,7 @@
                     "discount": "50% dto. 6 meses",
                     "label": "Permanencia 6 meses",
                     "finalPrice": "<del>56,99€/mes</del>",
-                    "discountPrice": "28,49€/<sub>mes</sub>"
+                    "discountPrice": "28,49€<sub>/mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -154,13 +154,13 @@
       ],
       "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra."
     },
-  
+
     "tv": {
       "section": "Televisión",
       "title": "Pack TV Universal GRATIS",
       "subtitle": "AMC, Eurosport 1 y hasta 30 canales",
       "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
-  
+
       "carousel": {
         "show": false,
         "img": [
@@ -250,7 +250,7 @@
         "id": "-6241792886380",
         "label": "Ver todos los canales incluidos"
       },
-  
+
       "allChannels": "Ver todos los canales incluidos",
       "legal": "(*) Puedes añadir más packs de TV en el proceso de compra",
       "popup": {
@@ -483,7 +483,7 @@
         ]
       }
     },
-  
+
   "deco": {
     "title": "¿Cómo es la experiencia de TV sin decodificador?",
     "description": "Vodafone TV con <strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como móvil, tablet, PC, Fire TV Stick y Chromecast</strong> para disfrutar de una experiencia online. Consultar dispositivos compatibles.",
@@ -522,7 +522,7 @@
       }
     ]
   },
-  
+
 
 
 
