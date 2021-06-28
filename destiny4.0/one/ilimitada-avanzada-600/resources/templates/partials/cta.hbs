@@ -17,7 +17,7 @@
   <a
     href="{{url}}"
     data-cta="{{dataCTA}}"
-    target="_self"
+    target="{{#if targetBlank}}_blank{{else}}_self{{/if}}"
     name="{{label}}"
     title="{{label}}"
     class="{{classCta}}"

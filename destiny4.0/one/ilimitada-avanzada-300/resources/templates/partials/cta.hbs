@@ -16,10 +16,10 @@
   <a
     href="{{url}}"
     data-cta="{{dataCTA}}"
-    target="_self"
+    target="{{#if targetBlank}}_blank{{else}}_self{{/if}}"
     name="{{label}}"
     title="{{label}}"
-    class="{{class}}"
+    class="{{classCta}}"
     onmousedown="{{onmousedown}}"
     data-analytics-context="{{context}}"
     data-analytics-element="{{element}}"

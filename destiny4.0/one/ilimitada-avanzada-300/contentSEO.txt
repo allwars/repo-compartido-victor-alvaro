@@ -75,7 +75,8 @@
                                                         28,49€/<sub>mes</sub>
                                                     </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
                                                 Lo quiero
-                                                <span></span>
+                                            
+                                                  <span></span>
                                               </a><p>
                                                         50% dto. 3 meses
                                                     </p><p>
@@ -86,7 +87,8 @@
                                                         28,49€/<sub>mes</sub>
                                                     </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
                                                 Lo quiero
-                                                <span></span>
+                                            
+                                                  <span></span>
                                               </a><p>
                     Móvil
                   </p><h3>
@@ -140,7 +142,7 @@
                             <use xlink:href="#icon-5G_esp-mid"></use>
                           </svg>
                         <p>
-                          Todo con la nueva red 5G.
+                          Todo con la <strong>nueva red 5G</strong>.
                         </p>
                       </li>  </ul><h3>
                     Llévate la 2ª Línea GRATIS 1 año
@@ -183,7 +185,7 @@
                         <strong>Pack TV Universal GRATIS</strong>
                     </span>
                   </h3><p>
-                      AMC, Eurosport 1 y hasta 30
+                      AMC, Eurosport 1 y hasta 30 canales
                   </p><p>
                       El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
                   </p><ul>
@@ -194,7 +196,6 @@
                         <li>
                                   </li>
                       </ul><p>
-                      
                         <a aria-haspopup="dialog" data-backdrop="seriefans" data-analytics-id="-6241792886380">
                           Ver todos los canales incluidos
                         </a>
@@ -202,7 +203,7 @@
                 
                       
                     </p><span style="left: 0; position:relative;">
-                    (*) Puedes añadir más packs de TV en el proceso de compra.
+                    (*) Puedes añadir más packs de TV en el proceso de compra
                     </span><button aria-hidden="false">
                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <title>Close</title>
@@ -322,7 +323,7 @@
                             <li>
                                                 <p>TVP</p>
                             </li>
-                        </ul><h3>¿Cómo es la experiencia de TV sin decodificador?</h3><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de una experiencia online. Consultar dispositivos compatibles</p><p>
+                        </ul><h3>¿Cómo es la experiencia de TV sin decodificador?</h3><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de una experiencia online. Consultar dispositivos compatibles.</p><p>
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>
@@ -403,29 +404,24 @@
                           </p><p>
                             <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
                           </p><p>
-                    <span>&lt;strong&gt;Sin sorpresas.&lt;/strong&gt;</span>
-                    <span>&lt;strong&gt;No escondemos nada&lt;/strong&gt;</span>
-                  </p><p></p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: €/mes durante 3 meses, después €/mes</strong></p><p>
-                    <span>Otras promociones:</span>
-                    <span>Llévate el paquete de Fibra + Móvil al </span>
-                    <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
-                      después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span>
-                    <span>Paquete de TV: GRATIS</span>
+                    <span><strong>Sin sorpresas</strong></span>
+                    <span><strong>No escondemos nada</strong></span>
+                  </p><p>Impuestos y cuota de línea incluidos</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: 28,49€/mes durante 3 meses, después 56,99€/mes</strong></p><p>
+                   <span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50%dto. 3 meses</span> <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span><span>Paquete de TV: GRATIS</span>
                   </p><span>
                         Los primeros 3 meses
-                      </span><span></span><span></span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">A partir del mes 4
-                      </span><span></span><span data-js-vf="_portability"></span><span data-js-vf="_newNumber"></span><span>€</span><sub>/mes</sub><span>
+                      </span><span></span><span>28,49</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">Del mes 4 al mes 12</span><span data-js-vf="_newNumber">A partir del mes 4
+                      </span><span></span><span data-js-vf="_portability">56,99</span><span data-js-vf="_newNumber">56,99</span><span>€</span><sub>/mes</sub><span>
                         A partir del año
-                      </span><span></span><span></span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea
-                    autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
-                    en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-analytics-id="-5460257368589">
-                    Ver condiciones legales
-                    <span> color #E60000</span>
-                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
-                      <title>Flecha derecha</title>
-                      <use xlink:href="#icon-chevron-right"></use>
-                    </svg>
-                  </a><h3><strong>¿Cómo contrato ?</strong></h3><ul>
+                      </span><span></span><span>74,49</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-cta="" target="_blank" name="Ver condiciones legales" title="Ver condiciones legales" onmousedown="" data-analytics-id="-5460257368589">
+                      Ver condiciones legales
+                  
+                        <span> color #E60000</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                          <title>Flecha derecha</title>
+                          <use xlink:href="#icon-chevron-right"></use>
+                        </svg>
+                    </a><h3><strong>¿Cómo contrato ?</strong></h3><ul>
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                         <title>Business</title>
