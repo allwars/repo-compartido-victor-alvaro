@@ -7,27 +7,6 @@
 "dispositivos":"25",
 "velocidad":"600Mbps",
 "price_secondline":"17,50",
-  "ticket": {
-      "form": {
-          "legend": "¿Cómo quieres la línea móvil principal?",
-          "portability": {
-              "category": "cta",
-              "id": "",
-              "element": "cardrate",
-              "context": "portabilidad",
-              "label": "Portabilidad"
-          },
-          "newNumber": {
-              "category": "cta",
-              "id": "-6727909503211",
-              "element": "cardrate",
-              "context": "alta nueva",
-              "label": "Nuevo Número"
-          }
-      }
-  },
-
-
 
   "header": {
       "title": "Fibra + Móvil <strong>50% dto. 3 meses + después 15% dto. 2 años</strong>",
@@ -91,7 +70,6 @@
                   "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                   "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
                   "label": "Permanencia 1 año",
-                  "finalPrice": "<del>89,99€/mes</del>",
                   "discountPrice": "44,99€/<sub>mes</sub>"
               },
               "cta": {
@@ -111,7 +89,6 @@
                   "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                   "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
                   "label": "Permanencia 1 año",
-                  "finalPrice": "<del>89,99€/mes</del>",
                   "discountPrice": "44,99€/<sub>mes</sub>"
               },
               "cta": {
