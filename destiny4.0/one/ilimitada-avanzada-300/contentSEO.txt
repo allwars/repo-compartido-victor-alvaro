@@ -63,33 +63,33 @@
                                           ¿Cómo quieres la línea móvil principal?
                                       </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
                                                   Portabilidad
-                                              </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
-                                                    Nuevo Número
-                                                </label><p>
-                                                        50% dto. 3 meses
-                                                    </p><p>
-                                                        Permanencia 1 año
-                                                    </p><p>
-                                                        <del>56,99€/mes</del>
-                                                    </p><p>
-                                                        28,49€/<sub>mes</sub>
-                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
-                                                Lo quiero
-                                            
-                                                  <span></span>
-                                              </a><p>
-                                                        50% dto. 3 meses
-                                                    </p><p>
-                                                        Permanencia 1 año
-                                                    </p><p>
-                                                        <del>56,99€/mes</del>
-                                                    </p><p>
-                                                        28,49€/<sub>mes</sub>
-                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
-                                                Lo quiero
-                                            
-                                                  <span></span>
-                                              </a><p>
+                                              </label><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
+                                                  Nuevo Número
+                                              </label><p>
+                                                      50% dto. 3 meses
+                                                  </p><p>
+                                                      Permanencia 1 año
+                                                  </p><p>
+                                                      <del>56,99€/mes</del>
+                                                  </p><p>
+                                                      28,49€/<sub>mes</sub>
+                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
+                                              Lo quiero
+                                          
+                                                <span></span>
+                                            </a><p>
+                                                      50% dto. 3 meses
+                                                  </p><p>
+                                                      Permanencia 1 año
+                                                  </p><p>
+                                                      <del>56,99€/mes</del>
+                                                  </p><p>
+                                                      28,49€/<sub>mes</sub>
+                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
+                                              Lo quiero
+                                          
+                                                <span></span>
+                                            </a><p>
                     Móvil
                   </p><h3>
                     Datos ilimitados para no perderte nada

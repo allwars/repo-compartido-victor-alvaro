@@ -1,6 +1,6 @@
-{{#if button}}
+ {{#if button}}
   <a
-    class="{{class}}"
+    class="{{classCta}}"
     aria-haspopup="{{haspopup}}"
     data-backdrop="{{backdrop}}"
     data-analytics-context="{{context}}"
@@ -9,6 +9,7 @@
     data-analytics-id="{{id}}"
   >
     {{label}}
+
   </a>
 
 {{else}}
@@ -19,7 +20,7 @@
     target="_self"
     name="{{label}}"
     title="{{label}}"
-    class="{{class}}"
+    class="{{classCta}}"
     onmousedown="{{onmousedown}}"
     data-analytics-context="{{context}}"
     data-analytics-element="{{element}}"
