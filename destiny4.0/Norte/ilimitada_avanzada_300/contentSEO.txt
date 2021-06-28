@@ -1,8 +1,8 @@
-<span>Fibra + Móvil <strong>50% dto. 6 meses</strong></span><h2>Fibra y datos para ser ilimitable</h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><span>
+<span>Fibra + Móvil <strong>50% dto. 6 meses</strong></span><h2><strong>Fibra y datos para ser ilimitable</strong></h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><span>
               
               <span>Mejor Precio Vodafone</span>
             </span><h2>
-            Vodafone One Ilimitada Avanzada 300Mbps
+            Vodafone One ilimitada Avanzada 300Mbps
           </h2><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                   <li>
                                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -55,13 +55,13 @@
                                               Pack TV Universal GRATIS
                                           </p>
                                           <p>
-                                              con más de 30 canales internacionales
+                                              AMC, Eurosport 1 y hasta 30 canales
                                           </p>
                                       </div>
                                   </li>
                               </ul><legend>
                                           ¿Cómo quieres la línea móvil principal?
-                                      </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine">
+                                      </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine" data-js-vf-value="portability">
                                                   Portabilidad
                                               </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
                                                   Nuevo Número
@@ -248,8 +248,7 @@
                             <title>Flecha derecha</title>
                             <use xlink:href="#icon-chevron-right"></use>
                         </svg>
-                    </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Avanzada
-                            300Mbps?</strong></h3><ul>
+                    </a><h3><strong>¿Cómo contrato Vodafone One ilimitada Avanzada 300Mbps?</strong></h3><ul>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                                 <title>Business</title>

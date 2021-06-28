@@ -62,7 +62,7 @@
                     "discount": "50% dto. 3 meses",
                     "label": "Permanencia 1 año",
                     "finalPrice": "<del>56,99€/mes</del>",
-                    "discountPrice": "28,49€/<sub>mes</sub>"
+                    "discountPrice": "28,49€<sub>/mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -83,7 +83,7 @@
                     "discount": "50% dto. 3 meses",
                     "label": "Permanencia 1 año",
                     "finalPrice": "<del>56,99€/mes</del>",
-                    "discountPrice": "28,49€/<sub>mes</sub>"
+                    "discountPrice": "28,49€<sub>/mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -586,7 +586,7 @@
   ],
   "legal": "(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone"
 },
- 
+
   "sinSorpresas": {
     "section": "<strong>Sin sorpresas</strong>",
     "title": "<strong>No escondemos nada</strong>",
