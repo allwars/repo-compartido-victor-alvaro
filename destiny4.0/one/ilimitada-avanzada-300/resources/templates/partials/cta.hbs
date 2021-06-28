@@ -1,4 +1,3 @@
-
 {{#if button}}
   <a
     class="{{class}}"
@@ -10,6 +9,25 @@
     data-analytics-id="{{id}}"
   >
     {{label}}
+  </a>
+
+{{else}}
+
+  <a
+    href="{{url}}"
+    data-cta="{{dataCTA}}"
+    target="_self"
+    name="{{label}}"
+    title="{{label}}"
+    class="{{class}}"
+    onmousedown="{{onmousedown}}"
+    data-analytics-context="{{context}}"
+    data-analytics-element="{{element}}"
+    data-analytics-category="{{category}}"
+    data-analytics-id="{{id}}"
+  >
+    {{label}}
+
     {{#if svg}}
       <span class="ws10-u--hidden-visually"> color #E60000</span>
       <svg
@@ -22,26 +40,9 @@
         <title>Flecha derecha</title>
         <use class="icon-v3" xlink:href="#icon-chevron-right"></use>
       </svg>
+    {{else}}
+      <span class="ws10-u--hidden-visually"></span>
     {{/if}}
-  </a>
-
-{{else}}
-
-  <a
-    href="{{url}}"
-    data-cta="{{dataCTA}}"
-    target="_self"
-    name="{{label}}"
-    title="{{label}}"
-    class="ws10-c-button ws10-c-button--auto vf-button--mobile"
-    onmousedown="{{onmousedown}}"
-    data-analytics-context="{{context}}"
-    data-analytics-element="{{element}}"
-    data-analytics-category="{{category}}"
-    data-analytics-id="{{id}}"
-  >
-    {{label}}
-    <span class="ws10-u--hidden-visually"></span>
   </a>
 
 {{/if}}
