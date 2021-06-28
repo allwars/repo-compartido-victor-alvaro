@@ -63,9 +63,11 @@
                                         <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--label">
                                             {{ offers.label }}
                                         </p>
+                                        {{#if offers.finalPrice }}
                                         <p class="ws10-c-card-rate__dto ws10-c-card-rate__dto--price">
                                             {{{ offers.finalPrice }}}
                                         </p>
+                                        {{/if }}
                                         <p class="ws10-c-card-rate__price ws10-u-color--black">
                                             {{{ offers.discountPrice }}}
                                         </p>

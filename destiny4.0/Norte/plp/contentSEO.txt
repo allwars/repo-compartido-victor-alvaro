@@ -1,5 +1,5 @@
 <h2>Fibra + Móvil</h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><p>
-                <span>Llévate <strong> 2 líneas ilimitadas</strong> y fibra <strong> al 50% dto. 6 meses</strong></span>
+                <span><strong>Ahora 2 líneas ilimitadas</strong>, fibra óptica y TV al <strong>50% dto. 6 meses</strong></span>
             </p><div>
             
           </div><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 6 meses" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
@@ -54,7 +54,7 @@
                                                     Pack TV Universal GRATIS
                                                 </p>
                                                 <p>
-                                                    con más de 30 canales internacionales
+                                                    AMC, Eurosport 1 y hasta 30 canales
                                                 </p>
                                             </div>
                                         </li>
@@ -78,9 +78,9 @@
                                                     Datos y minutos ilimitados
                                                 </p>
                                                 <p>
-                                                    Velocidad alta
+                                                    Velocidad máxima 5G
                                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                        <use xlink:href="#icon-thunder-2grey"></use>
+                                                        <use xlink:href="#icon-thunder3"></use>
                                                     </svg>
                                                 </p>
                                             </div>
@@ -104,7 +104,7 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    600Mbps Fibra Óptica
+                                                    300Mbps Fibra Óptica
                                                 </p>
                                                 <p>
                                                     + llamadas ilimitadas en fijo
@@ -117,10 +117,10 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Pack TV Universal GRATIS
+                                                    Pack TV Seriefans GRATIS 1 año
                                                 </p>
                                                 <p>
-                                                    con más de 30 canales internacionales
+                                                    con HBO España y 60 canales más
                                                 </p>
                                             </div>
                                         </li>
@@ -129,9 +129,9 @@
                                                 </p><p>
                                                     Permanencia 6 meses
                                                 </p><p>
-                                                    <del>61,99€/mes</del>
+                                                    <del>69,99€/mes</del>
                                                 </p><p>
-                                                    30,49€/<sub>mes</sub>
+                                                    34,49€/<sub>mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-2/" target="_self" name="Más info" title="Más info" data-analytics-id="-4725875160583">
                                             Más info
                                         </a><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
@@ -160,7 +160,10 @@
                                                     Datos y minutos ilimitados GRATIS
                                                 </p>
                                                 <p>
-                                                    Segunda línea GRATIS 1 año
+                                                    Segunda línea: Velocidad máxima 5G
+                                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                        <use xlink:href="#icon-thunder-3"></use>
+                                                    </svg>
                                                 </p>
                                             </div>
                                         </li>
@@ -183,10 +186,10 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Pack TV Seriefans GRATIS 1 año
+                                                    Pack TV Plus x2 Series
                                                 </p>
                                                 <p>
-                                                    con HBO España y 60 canales más
+                                                    con HBO España, Amazon Prime y 50 canales más + deco incl.
                                                 </p>
                                             </div>
                                         </li>
@@ -195,9 +198,9 @@
                                                 </p><p>
                                                     Permanencia 6 meses
                                                 </p><p>
-                                                    <del>74,99€/mes</del>
+                                                    <del>89,99€/mes</del>
                                                 </p><p>
-                                                    37,49€/<sub>mes</sub>
+                                                    44,99€/<sub>mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-3/" target="_self" name="Más info" title="Más info" data-analytics-id="-4725875160583">
                                             Más info
                                         </a><h2><strong>Vodafone One las tarifas de Fibra y Móvil pensadas para ti</strong></h2><ul>

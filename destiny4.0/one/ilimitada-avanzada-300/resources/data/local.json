@@ -38,7 +38,7 @@
             }
         ],
         "form": {
-            "title": "¿Cómo quieres la línea móvil principal?",
+            "title": "¿Cómo quieres la línea móvil principal?!!",
             "inputs": [
                 {
                     "element": "cardrate",
