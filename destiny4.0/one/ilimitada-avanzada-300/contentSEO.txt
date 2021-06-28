@@ -142,7 +142,7 @@
                             <use xlink:href="#icon-5G_esp-mid"></use>
                           </svg>
                         <p>
-                          Todo con la nueva red 5G.
+                          Todo con la <strong>nueva red 5G</strong>.
                         </p>
                       </li>  </ul><h3>
                     Llévate la 2ª Línea GRATIS 1 año
@@ -176,7 +176,7 @@
                       <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.
                     </p>
                   </li>  </ul><p>
-                    (*) Podrás añadir más Líneas adicionales en el proceso de compra.
+                    (*)Podrás añadir más Líneas adicionales en el proceso de compra.
                   </p><h3>
                     <span>
                         Televisión
@@ -185,22 +185,20 @@
                         <strong>Pack TV Universal GRATIS</strong>
                     </span>
                   </h3><p>
-                      AMC, Eurosport 1 y hasta 30
+                      AMC, Eurosport 1 y hasta 30 canales
                   </p><p>
                       El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
                   </p><ul>
                       </ul><p>
+                        <a aria-haspopup="dialog" data-backdrop="seriefans" data-analytics-id="-6241792886380">
+                          Ver todos los canales incluidos
                       
-                        <a href="" data-cta="" target="_self" name="" title="" onmousedown="" data-analytics-id="">
-                          
-                      
-                            <span></span>
                         </a>
                       
                 
                       
                     </p><span style="left: 0; position:relative;">
-                    
+                    (*) Puedes añadir más packs de TV en el proceso de compra
                     </span><button aria-hidden="false">
                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <title>Close</title>
@@ -320,38 +318,41 @@
                             <li>
                                                 <p>TVP</p>
                             </li>
-                        </ul><h3>Llévate la 2ª Línea GRATIS 1 año</h3><p></p><p>
+                        </ul><h3>¿Cómo es la experiencia de TV sin decodificador?</h3><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de una experiencia online. Consultar dispositivos compatibles.</p><p>
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>
                         </p><ul>
                                 <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
-                                      <use xlink:href="#icon-thunder-1grey"></use>
+                                      <use xlink:href="#icon-portals-for-videos-mid"></use>
                                     </svg>
                                   <p>
-                                    Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong>
-                                  </p>
-                                </li>                <li>
-                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
-                                      <use xlink:href="#icon-chat-mid"></use>
-                                    </svg>
-                                  <p>
-                                    Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.
+                                    Más de <strong>50.000 contenidos disponibles</strong> bajo demanda.
                                   </p>
                                 </li>                <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
                                       <use xlink:href="#icon-play-mid"></use>
                                     </svg>
                                   <p>
-                                    Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
+                                    No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días, Grabación, Ver Ahora y Descarga.
                                   </p>
                                 </li>                <li>
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
-                                      <use xlink:href="#icon-unified-communication-mid"></use>
+                                      <use xlink:href="#icon-connected-devices-mid"></use>
                                     </svg>
                                   <p>
-                                    <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.
+                                    <strong>2 reproducciones simultáneas</strong> en diferentes dispositivos.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    Descarga tus contenidos para verlos estés donde estés y cuando quieras.
                                   </p>
                                 </li>        </ul><button aria-hidden="false">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -393,8 +394,11 @@
                                             
                                             <p>Fire TV Stick.</p>
                                         </li>
-                                    </ul><h3></h3><h3></h3><div>
-                    </div><p>
+                                    </ul><h3>Fibra óptica simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><p>
+                            <strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez.
+                          </p><p>
+                            <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
+                          </p><p>
                     <span><strong>Sin sorpresas.</strong></span>
                     <span><strong>No escondemos nada</strong></span>
                   </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: €/mes durante 3 meses, después €/mes</strong></p><p>
