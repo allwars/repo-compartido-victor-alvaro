@@ -1,6 +1,6 @@
 {
   "banner": {
-      "title": "Ahora <strong>2 líneas ilimitadas</strong>,</br> fibra óptica y TV al <strong>50%</br> dto. 3 meses</strong>"
+      "title": "Ahora <strong>2 líneas ilimitadas</strong>, fibra óptica y TV al <strong>50% dto. 3 meses</strong>"
   },
   "cardRates": {
       "avanzada300": {
@@ -30,7 +30,7 @@
               "discount": "50% dto. 3 meses",
               "label": "Permanencia 1 año",
               "finalPrice": "<del>56,99€/mes</del>",
-              "discountPrice": "28,49€/<sub>mes</sub>"
+              "discountPrice": "28,49€<sub>/mes</sub>"
           },
           "cta": {
               "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-3/",
@@ -68,7 +68,7 @@
               "discount": "50% dto. 3 meses",
               "label": "Permanencia 1 año",
               "finalPrice": "<del>69,99€/mes</del>",
-              "discountPrice": "34,99€/<sub>mes</sub>"
+              "discountPrice": "34,99€<sub>/mes</sub>"
           },
           "cta": {
               "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-4/",
@@ -108,7 +108,7 @@
               "discount": "50% dto. 3 meses",
               "label": "Permanencia 1 año",
               "finalPrice": "<del>89,99€/mes</del>",
-              "discountPrice": "44,99€/<sub>mes</sub>"
+              "discountPrice": "44,99€<sub>/mes</sub>"
           },
           "cta": {
               "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/",
