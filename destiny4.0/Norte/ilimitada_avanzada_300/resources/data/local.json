@@ -120,6 +120,25 @@
             }
         ]
     },
+    "secondLine": {
+        "title": "Llévate la 2ª Línea GRATIS 1 año",
+        "productDetail": [
+            {
+                "icon": "#icon-thunder-1grey",
+                "description": "Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong>"
+            }, {
+                "icon": "#icon-chat-mid",
+                "description": "Consulta tus redes sociales y usa aplicaciones de mensajería instantánea."
+            }, {
+                "icon": "#icon-play-mid",
+                "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
+            }, {
+                "icon": "#icon-unified-communication-mid",
+                "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+            }
+        ],
+        "legal": "(*) Podrás añadir más Líneas adicionales en el proceso de compra."
+    },
 
   "fibra": {
     "section": "Fibra óptica simétrica",

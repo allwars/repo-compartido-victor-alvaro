@@ -122,6 +122,25 @@
             }
         ]
     },
+    "secondLine": {
+        "title": "Llévate también una 2ª línea",
+        "productDetail": [
+            {
+                "icon": "#icon-thunder-3",
+                "description": "Datos ilimitados a <strong>máxima velocidad (1Gbps de bajada y de subida).</strong>"
+            }, {
+                "icon": "#icon-chat-mid",
+                "description": "Consulta tus redes sociales y usa aplicaciones de mensajería instantánea."
+            }, {
+                "icon": "#icon-play-mid",
+                "description": "Descarga y sube todos los archivos que quieras."
+            }, {
+                "icon": "#icon-unified-communication-mid",
+                "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+            }
+        ],
+        "legal": "(*) Podrás añadir más Líneas adicionales en el proceso de compra."
+    },
 
   "fibra":{
     "section":"Fibra óptica simétrica",

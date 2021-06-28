@@ -1,0 +1,14 @@
+<section class="vf-mobile ws10-u--pt12x" data-js-vf="_secondLine2">
+  <h3>
+    {{secondLine.title}}
+  </h3>
+  <ul class="vf-mobile__details ws10-flex ws10-flex__wrap">
+    {{#each secondLine.productDetail}}
+  {{> productDetail this}}
+    {{/each}}
+  </ul>
+  <p class="ws10-u--pt4x wfms__legal">
+    {{secondLine.legal}}
+  </p>
+{{{secondLine.test}}}
+</section>
