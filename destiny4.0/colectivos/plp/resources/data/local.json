@@ -33,7 +33,7 @@
                 "discountPrice": "28,49€<sub>/mes</sub>"
             },
             "cta": {
-                "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-3/",
+                "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-3/",
                 "context": "300mbps",
                 "element": "cardrate:one ilimitada avanzada",
                 "category": "cta",
@@ -70,7 +70,7 @@
                 "discountPrice": "34,99€<sub>/mes</sub>"
             },
             "cta": {
-                "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-4/",
+                "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-4/",
                 "context": "600mbps",
                 "element": "cardrate:one ilimitada avanzada 600 mbps",
                 "category": "cta",
@@ -109,7 +109,7 @@
                 "discountPrice": "44,99€<sub>/mes</sub>"
             },
             "cta": {
-                "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/",
+                "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-5/",
                 "context": "600mbps",
                 "element": "cardrate:one ilimitada plus",
                 "category": "cta",
