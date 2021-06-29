@@ -2,26 +2,18 @@
   <p
     class="ws10-u-heading--4 ws10-u--mb2x ws10-flex ws10-flex__direction--column"
   >
-    <span><strong>Sin sorpresas.</strong></span>
-    <span><strong>No escondemos nada</strong></span>
-  </p>
-  <p>Impuestos y cuota de línea incluidos.</p>
-  <p><strong>{{ permanencia }}</strong></p>
-  <p>¿Cuánto voy a pagar?</p>
-  <p><strong>{{ fibra-movil }} (49,99€/mes) + decodificador (3€/mes): {{ price.[0].precio_conpromo }}€/mes durante 1 año, después {{ price.[0].precio_sinpromo }}€/mes.</strong></p>
-  <p class="ws10-flex ws10-flex__direction--column">
-    <span>Promociones:</span>
-    <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
-      después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span>
-    <span>Paquete de TV: GRATIS</span>
-  </p>
-
+      <span>{{{sinSorpresas.section}}}</span>
+      <span>{{{sinSorpresas.title}}}</span>
+    </p>
+    <p>{{{sinSorpresas.conditions}}}</p>
+    <p><strong>{{{ permanencia }}}</strong></p>
+    <p>{{{sinSorpresas.question}}}</p>
+    <p>{{{sinSorpresas.paquete}}}</p>
+    <p class="ws10-flex ws10-flex__direction--column">
+     {{{sinSorpresas.promociones}}}
+    </p>
+    
   <!----PRICE-TAB-->
-
-
-
-
-
 
 
   <!------------->
