@@ -232,114 +232,88 @@
                   <title>Close</title>
                   <use xlink:href="#icon-close"></use>
                 </svg>
-              </button><p>Canales Pack Seriefans</p><ul>
-                <li>
-                  
-                  <p>HBO España</p>
-                </li>
-                <li>
-                  
-                  <p>FOXNOW</p>
-                </li>
-                <li>
-                  
-                  <p>AXN Now</p>
-                </li>
-                <li>
-                  
-                  <p>TNT</p>
-                </li>
-                <li>
-                  
-                  <p>FOX</p>
-                </li>
-                <li>
-                  
-                  <p>AMC SELEKT Series</p>
-                </li>
-                <li>
-                  
-                  <p>SYFY</p>
-                </li>
-                <li>
-                  
-                  <p>Calle 13</p>
-                </li>
-                <li>
-                  
-                  <p>AXN</p>
-                </li>
-                <li>
-                  
-                  <p>AXN White</p>
-                </li>
-              </ul><p>Y además todos los Packs
-                incluyen estos canales:</p><ul>
-                <li>
-                  
-                  <p>AMC</p>
-                </li>
-                <li>
-                  
-                  <p>FOX Life</p>
-                </li>
-                <li>
-                  
-                  <p>Cosmo</p>
-                </li>
-                <li>
-                  
-                  <p>Comedy Central</p>
-                </li>
-                <li>
-                  
-                  <p>XTRM</p>
-                </li>
-                <li>
-                  
-                  <p>TCM</p>
-                </li>
-                <li>
-                  
-                  <p>Sundance TV</p>
-                </li>
-                <li>
-                  
-                  <p>National Geographic</p>
-                </li>
-                <li>
-                  
-                  <p>National Geographic Now</p>
-                </li>
-                <li>
-                  
-                  <p>Cocina</p>
-                </li>
-                <li>
-                  
-                  <p>Decasa</p>
-                </li>
-                <li>
-                  
-                  <p>MTV</p>
-                </li>
-                <li>
-                  
-                  <p>MyMTV Music</p>
-                </li>
-                <li>
-                  
-                  <p>SOL Música</p>
-                </li>
-        
-                <li>
-                  
-                  <p>Eurosport 1</p>
-                </li>
-                <li>
-                  
-                  <p>Selekt</p>
-                </li>
+              </button><p>
+                  Canales Pack Seriefans
+              </p><ul>
+                  <li>
+                                    <p>HBO España</p>
+                  </li>
+                  <li>
+                                    <p>FOXNOW</p>
+                  </li>
+                  <li>
+                                    <p>AXN Now</p>
+                  </li>
+                  <li>
+                                    <p>TNT</p>
+                  </li>
+                  <li>
+                                    <p>FOX</p>
+                  </li>
+                  <li>
+                                    <p>AMC SELEKT Series</p>
+                  </li>
+                  <li>
+                                    <p>SYFY</p>
+                  </li>
+                  <li>
+                                    <p>Calle 13</p>
+                  </li>
+                  <li>
+                                    <p>AXN</p>
+                  </li>
+                  <li>
+                                    <p>AXN White</p>
+                  </li>
+              </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                  <li>
+                                    <p>AMC</p>
+                  </li>
+                  <li>
+                                    <p>FOX Life</p>
+                  </li>
+                  <li>
+                                    <p>Cosmo</p>
+                  </li>
+                  <li>
+                                    <p>Comedy Central</p>
+                  </li>
+                  <li>
+                                    <p>XTRM</p>
+                  </li>
+                  <li>
+                                    <p>TCM</p>
+                  </li>
+                  <li>
+                                    <p>Sundance TV</p>
+                  </li>
+                  <li>
+                                    <p>National Geographic</p>
+                  </li>
+                  <li>
+                                    <p>National Geographic Now</p>
+                  </li>
+                  <li>
+                                    <p>Cocina</p>
+                  </li>
+                  <li>
+                                    <p>Decasa</p>
+                  </li>
+                  <li>
+                                    <p>MTV</p>
+                  </li>
+                  <li>
+                                    <p>MyMTV Music</p>
+                  </li>
+                  <li>
+                                    <p>SOL Música</p>
+                  </li>
+                  <li>
+                                    <p>Eurosport 1</p>
+                  </li>
+                  <li>
+                                    <p>Selekt</p>
+                  </li>
               </ul><h3>¿Cómo es la experiencia de TV sin decodificador?</h3><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de una experiencia online. Consultar dispositivos compatibles.</p><p>
                     <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                         Consultar dispositivos compatibles
