@@ -75,25 +75,21 @@
                                             </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
                                                 Nuevo Número
                                             </label><p>
-                                                    50% dto. 3 meses + después 15% dto. durante 2 años
-                                                </p><p>
+                                            50% dto. 3 meses + después 15% dto. durante 2 años
+                                        </p><p>
                                                     Permanencia 1 año
                                                 </p><p>
-                                                    <del>56,99€/mes</del>
-                                                </p><p>
-                                                    28,49€/<sub>mes</sub>
+                                                    28,49€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
                                             Lo quiero
                                         
                                               <span></span>
                                           </a><p>
-                                                    50% dto. 3 meses + después 15% dto. durante 2 años
-                                                </p><p>
+                                            50% dto. 3 meses + después 15% dto. durante 2 años
+                                        </p><p>
                                                     Permanencia 1 año
                                                 </p><p>
-                                                    <del>56,99€/mes</del>
-                                                </p><p>
-                                                    28,49€/<sub>mes</sub>
+                                                    28,49€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285867&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725875100583">
                                             Lo quiero
                                         
@@ -151,7 +147,7 @@
                     <use xlink:href="#icon-5G_esp-mid"></use>
                   </svg>
                 <p>
-                  Todo con la <strong>nueva red 5G</strong>.
+                  Todo con la nueva red 5G.
                 </p>
               </li>  </ul><h3>
             Llévate la 2ª Línea GRATIS 1 año
@@ -185,7 +181,7 @@
               <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.
             </p>
           </li>  </ul><p>
-            (*)Podrás añadir más Líneas adicionales en el proceso de compra.
+            (*) Podrás añadir más Líneas adicionales en el proceso de compra.
           </p><h3>
             <span>
                 Televisión
@@ -196,7 +192,7 @@
           </h3><p>
               AMC, Eurosport 1 y hasta 30 canales
           </p><p>
-              El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
+              El <strong>Pack Universal</strong> incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
           </p><ul>
                 <li>
                           </li>
@@ -211,7 +207,7 @@
                 </a>
               
         
-              
+        
             </p><span style="left: 0; position:relative;">
             (*) Puedes añadir más packs de TV en el proceso de compra
             </span><button aria-hidden="false">
@@ -367,7 +363,7 @@
                         </li>                <li>
                             
                           <p>
-                            Descarga tus contenidos para verlos estés donde estés y cuando quieras.
+                            <strong>Descarga tus contenidos</strong> para verlos estés donde estés y cuando quieras.
                           </p>
                         </li>        </ul><button aria-hidden="false">
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -475,8 +471,8 @@
                  Del mes 28 en adelante
               </span><span></span><span>  74,49</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><p data-js-vf="_portability">
           Los beneficios especiales que ofrece Vodafone son únicamente para empleados, por lo que si continuas declaras que cumples tal condición y te comprometes a acreditarlo en caso de que Vodafone te lo solicitara. De no acreditarlo Vodafone podrá cancelar la aplicación de estos beneficios en cualquier momento, de acuerdo con las condiciones acordadas con la empresa.
-          </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/" data-cta="" target="_blank" name="Ver condiciones legales" title="Ver condiciones legales" onmousedown="" data-analytics-id="-5460257368589">
-              Ver condiciones legales
+          </p><a href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/legales/" data-cta="" target="_blank" name="Ver Condiciones Legales" title="Ver Condiciones Legales" onmousedown="" data-analytics-id="-5460257368589">
+              Ver Condiciones Legales
           
                 <span> color #E60000</span>
                 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">

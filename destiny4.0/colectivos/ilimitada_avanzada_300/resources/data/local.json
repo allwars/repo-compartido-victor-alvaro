@@ -67,7 +67,7 @@
                     "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                     "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
                     "label": "Permanencia 1 año",
-                    "discountPrice": "28,49€/<sub>mes</sub>"
+                    "discountPrice": "28,49€<sub>/mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -89,7 +89,7 @@
                     "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                     "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
                     "label": "Permanencia 1 año",
-                    "discountPrice": "28,49€/<sub>mes</sub>"
+                    "discountPrice": "28,49€<sub>/mes</sub>"
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
@@ -604,7 +604,7 @@
             "price1":"28,49",
             "bar2": "Del mes 4 al mes 12",
             "price2":"48,44",
-            "bar3": "Del mes 13 al 17",
+            "bar3": "Del mes 13 al 27",
             "price3":"65,94",
             "bar4": "Del mes 28 en adelante",
             "price4":"74,49"
@@ -630,7 +630,7 @@
           "element": "card addons",
           "category": "cta",
           "id": "-5460257368589",
-          "label": "Ver condiciones legales"
+          "label": "Ver Condiciones Legales"
         }
       }
 }

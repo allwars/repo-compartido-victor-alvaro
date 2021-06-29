@@ -84,7 +84,7 @@
 		                                                                    Permanencia 1 año
 		                                                                </p><p>
 		                                                                    28,49€<sub>/mes</sub>
-		                                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-3/" target="_self" name="Más info" title="Más info" data-analytics-id="-7498449761489">
+		                                                                </p><a href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-3/" target="_self" name="Más info" title="Más info" data-analytics-id="-7498449761489">
 		                                                            Más info
 		                                                        </a><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
 		                                                        <li>
@@ -148,7 +148,7 @@
 		                                                                    Permanencia 1 año
 		                                                                </p><p>
 		                                                                    34,99€<sub>/mes</sub>
-		                                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-4/" target="_self" name="Más info" title="Más info" data-analytics-id="-3827639703071">
+		                                                                </p><a href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-4/" target="_self" name="Más info" title="Más info" data-analytics-id="-3827639703071">
 		                                                            Más info
 		                                                        </a><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
 		                                                        <li>
@@ -215,7 +215,7 @@
 		                                                                    Permanencia 1 año
 		                                                                </p><p>
 		                                                                    44,99€<sub>/mes</sub>
-		                                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/paquete-one-5/" target="_self" name="Más info" title="Más info" data-analytics-id="-8477551683805">
+		                                                                </p><a href="https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-5/" target="_self" name="Más info" title="Más info" data-analytics-id="-8477551683805">
 		                                                            Más info
 		                                                        </a><ul>
 		                    <li>
