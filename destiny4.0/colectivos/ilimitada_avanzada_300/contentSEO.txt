@@ -154,19 +154,38 @@
                   Todo con la <strong>nueva red 5G</strong>.
                 </p>
               </li>  </ul><h3>
-              <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
-          </h3><p>
-                  
-                  <strong></strong>
-              </p><p>
-                    
-                </p><p>
-                  
-              </p><p>
-                  <strong></strong>
-                  
-              </p><p>
-              (*)Podrás añadir más Líneas adicionales en el proceso de compra.
+            Llévate la 2ª Línea GRATIS 1 año
+          </h3><ul>
+          <li>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                <use xlink:href="#icon-thunder-1grey"></use>
+              </svg>
+            <p>
+              Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong>
+            </p>
+          </li>  <li>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                <use xlink:href="#icon-chat-mid"></use>
+              </svg>
+            <p>
+              Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.
+            </p>
+          </li>  <li>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                <use xlink:href="#icon-play-mid"></use>
+              </svg>
+            <p>
+              Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
+            </p>
+          </li>  <li>
+              <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                <use xlink:href="#icon-unified-communication-mid"></use>
+              </svg>
+            <p>
+              <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.
+            </p>
+          </li>  </ul><p>
+            (*)Podrás añadir más Líneas adicionales en el proceso de compra.
           </p><h3>
             <span>
                 Televisión
@@ -204,152 +223,115 @@
                     ¿Qué incluye el Pack Universal?
                 </p><p>El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.</p><p>Contenidos incluidos:</p><ul>
                     <li>
-                        
-                        <p>AMC</p>
+                                        <p>AMC</p>
                     </li>
                     <li>
-                        
-                        <p>FOX Life</p>
+                                        <p>FOX Life</p>
                     </li>
                     <li>
-                        
-                        <p>COSMO Life</p>
+                                        <p>COSMO Life</p>
                     </li>
                     <li>
-                        
-                        <p>Comedy Central</p>
+                                        <p>Comedy Central</p>
                     </li>
                     <li>
-                        
-                        <p>XTRM</p>
+                                        <p>XTRM</p>
                     </li>
                     <li>
-                        
-                        <p>TCM</p>
+                                        <p>TCM</p>
                     </li>
                     <li>
-                        
-                        <p>Sundance TV</p>
+                                        <p>Sundance TV</p>
                     </li>
                     <li>
-                        
-                        <p>National Geographic</p>
+                                        <p>National Geographic</p>
                     </li>
                     <li>
-                        
-                        <p>National Geographic Now</p>
+                                        <p>National Geographic Now</p>
                     </li>
                     <li>
-                        
-                        <p>Cocina</p>
+                                        <p>Cocina</p>
                     </li>
                     <li>
-                        
-                        <p>Decasa</p>
+                                        <p>Decasa</p>
                     </li>
                     <li>
-                        
-                        <p>MTV</p>
+                                        <p>MTV</p>
                     </li>
                     <li>
-                        
-                        <p>MyMTV Music</p>
+                                        <p>MyMTV Music</p>
                     </li>
                     <li>
-                        
-                        <p>SOL Música</p>
+                                        <p>SOL Música</p>
                     </li>
                     <li>
-                        
-                        <p>Eurosport 1</p>
+                                        <p>Eurosport 1</p>
                     </li>
                     <li>
-                        
-                        <p>SELEKT</p>
+                                        <p>SELEKT</p>
                     </li>
                     <li>
-                        
-                        <p>Euronews</p>
+                                        <p>Euronews</p>
                     </li>
                     <li>
-                        
-                        <p>CNN International</p>
+                                        <p>CNN International</p>
                     </li>
                     <li>
-                        
-                        <p>Az Corazón</p>
+                                        <p>Az Corazón</p>
                     </li>
                     <li>
-                        
-                        <p>CNBC</p>
+                                        <p>CNBC</p>
                     </li>
                     <li>
-                        
-                        <p>El Trece TV</p>
+                                        <p>El Trece TV</p>
                     </li>
                     <li>
-                        
-                        <p>Cubavisión Internacional</p>
+                                        <p>Cubavisión Internacional</p>
                     </li>
                     <li>
-                        
-                        <p>BBC HD</p>
+                                        <p>BBC HD</p>
                     </li>
                     <li>
-                        
-                        <p>BLOOMERANG</p>
+                                        <p>BLOOMERANG</p>
                     </li>
                     <li>
-                        
-                        <p>Ve Plus TV</p>
+                                        <p>Ve Plus TV</p>
                     </li>
                     <li>
-                        
-                        <p>TV Chile</p>
+                                        <p>TV Chile</p>
                     </li>
                     <li>
-                        
-                        <p>Caracol</p>
+                                        <p>Caracol</p>
                     </li>
                     <li>
-                        
-                        <p>Aljazeera</p>
+                                        <p>Aljazeera</p>
                     </li>
                     <li>
-                        
-                        <p>CGTN</p>
+                                        <p>CGTN</p>
                     </li>
                     <li>
-                        
-                        <p>RT</p>
+                                        <p>RT</p>
                     </li>
                     <li>
-                        
-                        <p>Canal Parlamento</p>
+                                        <p>Canal Parlamento</p>
                     </li>
                     <li>
-                        
-                        <p>France 24</p>
+                                        <p>France 24</p>
                     </li>
                     <li>
-                        
-                        <p>PRO TV</p>
+                                        <p>PRO TV</p>
                     </li>
                     <li>
-                        
-                        <p>TV5 Monde</p>
+                                        <p>TV5 Monde</p>
                     </li>
                     <li>
-                        
-                        <p>EWTN</p>
+                                        <p>EWTN</p>
                     </li>
                     <li>
-                        
-                        <p>DW</p>
+                                        <p>DW</p>
                     </li>
                     <li>
-                        
-                        <p>TVP</p>
+                                        <p>TVP</p>
                     </li>
                 </ul><h3>¿Cómo es la experiencia de TV sin decodificador?</h3><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de una experiencia online. Consultar dispositivos compatibles.</p><p>
                     <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">

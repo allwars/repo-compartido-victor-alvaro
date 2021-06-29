@@ -94,46 +94,190 @@
                                           
                                                 <span></span>
                                             </a><p>
-                    
+                    Móvil
                   </p><h3>
-                    Móvil,Datos ilimitados para que no te pierdas nada
+                    Datos ilimitados en tu móvil para TODO
                   </h3><div>
                     </div><ul>
-                  </ul><h3>
-                    Llévate la 2ª Línea GRATIS 1 año
+                      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-thunder-3"></use>
+                          </svg>
+                        <p>
+                          Datos ilimitados <strong>a máxima velocidad  (1Gbps de bajada y de subida).</strong>
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-game-console-mid"></use>
+                          </svg>
+                        <p>
+                          <strong>Juega sin límites con una calidad extrema y sin cortes.</strong>
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-cloud-download-mid"></use>
+                          </svg>
+                        <p>
+                          Descarga y sube todos los archivos que quieras.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-play-mid"></use>
+                          </svg>
+                        <p>
+                          Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-unified-communication-mid"></use>
+                          </svg>
+                        <p>
+                          <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-roaming-mid"></use>
+                          </svg>
+                        <p>
+                          <strong>Roaming incluido en la Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.
+                        </p>
+                      </li>      <li>
+                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                            <use xlink:href="#icon-5G_esp-mid"></use>
+                          </svg>
+                        <p>
+                          Todo con la <strong>nueva red 5G</strong>.
+                        </p>
+                      </li>  </ul><h3>
+                    Llévate también una 2ª línea
                   </h3><ul>
-                  </ul><p>
-                    (*)Podrás añadir más Líneas adicionales en el proceso de compra
+                  <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                        <use xlink:href="#icon-thunder-3"></use>
+                      </svg>
+                    <p>
+                      Datos ilimitados <strong>a máxima velocidad (1Gbps de bajada y de subida).</strong>
+                    </p>
+                  </li>  <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                        <use xlink:href="#icon-cloud-download-mid"></use>
+                      </svg>
+                    <p>
+                      Descarga y sube todos los archivos que quieras.
+                    </p>
+                  </li>  <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                        <use xlink:href="#icon-play-mid"></use>
+                      </svg>
+                    <p>
+                      Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.
+                    </p>
+                  </li>  <li>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                        <use xlink:href="#icon-unified-communication-mid"></use>
+                      </svg>
+                    <p>
+                      <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.
+                    </p>
+                  </li>  </ul><p>
+                    (*) Podrás añadir más Líneas adicionales en el proceso de compra
                   </p><b>Exclusivo de esta tarifa</b><h3>
                     <span>
-                        
+                        Televisión
                     </span>
                     <span>
-                        <strong></strong>
+                        <strong>Pack TV Plus x2 Series</strong>
                     </span>
                   </h3><p>
-                      
-                  </p><p>
-                      
+                      incluye HBO España, Amazon Prime y 50 canales más
                   </p><ul>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                      <li>
+                                </li>
+                    </ul><p>
+                      <strong>Pack TV Plus x2 Series GRATIS</strong>, este Pack incluye  <strong>HBO España, Amazon Prime con Prime Video,</strong> 50 canales más y miles de contenidos (cine, serie, documentales, música y deportes) con el decodificador 4K.
+                  </p><ul>
+                        <li>
+                                  </li>
+                        <li>
+                                  </li>
+                        <li>
+                                  </li>
                       </ul><p>
+                        <a aria-haspopup="dialog" data-backdrop="seriefans" data-analytics-id="-6241792886380">
+                          Ver todos los canales incluidos
                       
-                        <a href="" data-cta="" target="_self" name="" title="" onmousedown="" data-analytics-id="">
-                          
-                      
-                            <span></span>
                         </a>
                       
                 
                       
                     </p><span style="left: 0; position:relative;">
-                    
-                    </span><h3></h3><p></p><p>
+                    (*) Puedes añadir más packs de TV en el proceso de compra
+                    </span><h3>¿Cómo es la experiencia de TV con decodificador HD y 4K?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
                            <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                Consultar dispositivos compatibles
                            </a>
                        </p><ul>
-                       </ul><button aria-hidden="false">
+                               <li>
+                                   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                     <use xlink:href="#icon-portals-for-videos-mid"></use>
+                                   </svg>
+                                 <p>
+                                   Accede a <strong>HBO España, Amazon Prime Video</strong>, YouTube, National Geographic Now, y más apps desde el menú de tu decodificador.
+                                 </p>
+                               </li>                <li>
+                                   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                     <use xlink:href="#icon-play-mid"></use>
+                                   </svg>
+                                 <p>
+                                   No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo.
+                                 </p>
+                               </li>                <li>
+                                   
+                                 <p>
+                                   Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días y Ver Ahora, Grabación en la nube y Descarga tus contenidos.
+                                 </p>
+                               </li>                <li>
+                                   
+                                 <p>
+                                   La televisión aprende de tus gustos, <strong>te recomienda y encuentra contenido</strong> que estás buscando.
+                                 </p>
+                               </li>                <li>
+                                   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                     <use xlink:href="#icon-alexa-mid"></use>
+                                   </svg>
+                                 <p>
+                                   Compatibilidad con el <strong>Control por Voz:</strong> mando para Control por Voz y altavoz inteligente Átika.
+                                 </p>
+                               </li>                <li>
+                                   <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                     <use xlink:href="#icon-connected-devices-mid"></use>
+                                   </svg>
+                                 <p>
+                                   Con el servicio multidispositivo puedes ver tus contenidos en tu smartphone, tablet, PC, Fire TC Stick, Chromecast y Smart TV. <strong>Tres reproducciones simultáneas</strong> (2 dispositivos + decodificador).
+                                 </p>
+                               </li>        </ul><button aria-hidden="false">
                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                        <title>Close</title>
                                        <use xlink:href="#icon-close"></use>
@@ -318,161 +462,158 @@
           Lo quiero
           <span></span>
         </a><button aria-hidden="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                          <title>Close</title>
-                          <use xlink:href="#icon-close"></use>
-                      </svg>
-                  </button><p>Canales
-                      Pack Seriefans</p><ul>
-                      <li>
-                          
-                          <p>HBO España</p>
-                      </li>
-                      <li>
-                          
-                          <p>FOXNOW</p>
-                      </li>
-                      <li>
-                          
-                          <p>AXN Now</p>
-                      </li>
-                      <li>
-                          
-                          <p>TNT</p>
-                      </li>
-                      <li>
-                          
-                          <p>FOX</p>
-                      </li>
-                      <li>
-                          
-                          <p>AMC SELEKT Series</p>
-                      </li>
-                      <li>
-                          
-                          <p>SYFY</p>
-                      </li>
-                      <li>
-                          
-                          <p>Calle 13</p>
-                      </li>
-                      <li>
-                          
-                          <p>AXN</p>
-                      </li>
-                      <li>
-                          
-                          <p>AXN White</p>
-                      </li>
-                  </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
-                      <li>
-                          
-                          <p>AMC</p>
-                      </li>
-                      <li>
-                          
-                          <p>FOX Life</p>
-                      </li>
-                      <li>
-                          
-                          <p>Cosmo</p>
-                      </li>
-                      <li>
-                          
-                          <p>Comedy Central</p>
-                      </li>
-                      <li>
-                          
-                          <p>XTRM</p>
-                      </li>
-                      <li>
-                          
-                          <p>TCM</p>
-                      </li>
-                      <li>
-                          
-                          <p>Sundance TV</p>
-                      </li>
-                      <li>
-                          
-                          <p>National Geographic</p>
-                      </li>
-                      <li>
-                          
-                          <p>National Geographic Now</p>
-                      </li>
-                      <li>
-                          
-                          <p>Cocina</p>
-                      </li>
-                      <li>
-                          
-                          <p>Decasa</p>
-                      </li>
-                      <li>
-                          
-                          <p>MTV</p>
-                      </li>
-                      <li>
-                          
-                          <p>MyMTV Music</p>
-                      </li>
-                      <li>
-                          
-                          <p>SOL Música</p>
-                      </li>
-  
-                      <li>
-                          
-                          <p>Eurosport 1</p>
-                      </li>
-                      <li>
-                          
-                          <p>Selekt</p>
-                      </li>
-                  </ul><button aria-hidden="false">
-                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                          <title>Close</title>
-                          <use xlink:href="#icon-close"></use>
-                      </svg>
-                  </button><p>
-                      Dispositivos compatibles</p><ul>
-                      <li>
-                          <svg style="width: 60px; height: 60px;">
-                              <title>icon-tv-mid</title>
-                              <use xlink:href="#icon-mobile-mid"></use>
-                          </svg>
-                          <p>Móvil / Tablet iOS y Android.</p>
-                      </li>
-                      <li>
-                          <svg style="width: 60px; height: 60px;">
-                              <title>icon-tv-mid</title>
-                              <use xlink:href="#icon-tv-mid"></use>
-                          </svg>
-                          <p>Modelos de smart TV Samsung (a partir de
-                              2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con
-                              Android TV.
-                          </p>
-                      </li>
-                      <li>
-                          <svg style="width: 60px; height: 60px;">
-                              <title>icon-connected-devices-mid</title>
-                              <use xlink:href="#icon-connected-devices-mid"></use>
-                          </svg>
-                          <p>Chromecast.</p>
-                      </li>
-                      <li>
-                          <svg style="width: 60px;">
-                              <title>icon-desktop-mid</title>
-                              <use xlink:href="#icon-desktop-mid"></use>
-                          </svg>
-                          <p>PC/Mac.</p>
-                      </li>
-                      <li>
-                          
-                          <p>Fire TV Stick.</p>
-                      </li>
-                  </ul><button aria-hidden="false">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+              <title>Close</title>
+              <use xlink:href="#icon-close"></use>
+            </svg>
+          </button><p>
+              ¿Qué incluye el Pack Universal?
+          </p><p>El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.</p><p>Contenidos incluidos:</p><ul>
+              <li>
+                                  <p>logo HBO</p>
+              </li>
+              <li>
+                                  <p>logo amazon</p>
+              </li>
+              <li>
+                                  <p>logo foxnow</p>
+              </li>
+              <li>
+                                  <p>logo FOX</p>
+              </li>
+              <li>
+                                  <p>logo TNT</p>
+              </li>
+              <li>
+                                  <p>logo syfy</p>
+              </li>
+              <li>
+                                  <p>logo amc series</p>
+              </li>
+              <li>
+                                  <p>logo calle 13</p>
+              </li>
+              <li>
+                                  <p>logo AXN NOW</p>
+              </li>
+              <li>
+                                  <p>logo AXN</p>
+              </li>
+              <li>
+                                  <p>logo AXN White</p>
+              </li>
+              <li>
+                                  <p>AMC</p>
+              </li>
+              <li>
+                                  <p>FOX Life</p>
+              </li>
+              <li>
+                                  <p>COSMO Life</p>
+              </li>
+              <li>
+                                  <p>Comedy Central</p>
+              </li>
+              <li>
+                                  <p>XTRM</p>
+              </li>
+              <li>
+                                  <p>TCM</p>
+              </li>
+              <li>
+                                  <p>Sundance TV</p>
+              </li>
+              <li>
+                                  <p>National Geographic</p>
+              </li>
+              <li>
+                                  <p>National Geographic Now</p>
+              </li>
+              <li>
+                                  <p>Cocina</p>
+              </li>
+              <li>
+                                  <p>Decasa</p>
+              </li>
+              <li>
+                                  <p>MTV</p>
+              </li>
+              <li>
+                                  <p>MyMTV Music</p>
+              </li>
+              <li>
+                                  <p>SOL Música</p>
+              </li>
+              <li>
+                                  <p>Eurosport 1</p>
+              </li>
+              <li>
+                                  <p>SELEKT</p>
+              </li>
+              <li>
+                                  <p>Euronews</p>
+              </li>
+              <li>
+                                  <p>CNN International</p>
+              </li>
+              <li>
+                                  <p>Az Corazón</p>
+              </li>
+              <li>
+                                  <p>CNBC</p>
+              </li>
+              <li>
+                                  <p>El Trece TV</p>
+              </li>
+              <li>
+                                  <p>Cubavisión Internacional</p>
+              </li>
+              <li>
+                                  <p>BBC HD</p>
+              </li>
+              <li>
+                                  <p>BLOOMERANG</p>
+              </li>
+              <li>
+                                  <p>Ve Plus TV</p>
+              </li>
+              <li>
+                                  <p>TV Chile</p>
+              </li>
+              <li>
+                                  <p>Caracol</p>
+              </li>
+              <li>
+                                  <p>Aljazeera</p>
+              </li>
+              <li>
+                                  <p>CGTN</p>
+              </li>
+              <li>
+                                  <p>RT</p>
+              </li>
+              <li>
+                                  <p>Canal Parlamento</p>
+              </li>
+              <li>
+                                  <p>France 24</p>
+              </li>
+              <li>
+                                  <p>PRO TV</p>
+              </li>
+              <li>
+                                  <p>TV5 Monde</p>
+              </li>
+              <li>
+                                  <p>EWTN</p>
+              </li>
+              <li>
+                                  <p>DW</p>
+              </li>
+              <li>
+                                  <p>TVP</p>
+              </li>
+          </ul><button aria-hidden="false">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>Close</title>
                         <use xlink:href="#icon-close"></use>

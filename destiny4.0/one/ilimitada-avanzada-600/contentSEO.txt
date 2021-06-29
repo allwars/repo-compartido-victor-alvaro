@@ -72,7 +72,7 @@
                                                   </p><p>
                                                       <del>69,99€/mes</del>
                                                   </p><p>
-                                                      34,99€/<sub>mes</sub>
+                                                      34,99€<sub>/mes</sub>
                                                   </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285769&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
                                               Lo quiero
                                           
@@ -84,7 +84,7 @@
                                                   </p><p>
                                                       <del>69,99€/mes</del>
                                                   </p><p>
-                                                      34,49€/<sub>mes</sub>
+                                                      34,49€<sub>/mes</sub>
                                                   </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285751&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
                                               Lo quiero
                                           
@@ -97,7 +97,7 @@
                     </div><ul>
                       <li>
                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
-                            <use xlink:href="#icon-thunder-2grey"></use>
+                            <use xlink:href="#icon-thunder-3"></use>
                           </svg>
                         <p>
                           Datos ilimitados <strong>a máxima velocidad  (1Gbps de bajada y de subida).</strong>
@@ -371,7 +371,7 @@
                                 </li>                <li>
                                     
                                   <p>
-                                    Descarga tus contenidos para verlos estés donde estés y cuando quieras.
+                                    <strong>Descarga tus contenidos</strong> para verlos estés donde estés y cuando quieras.
                                   </p>
                                 </li>        </ul><button aria-hidden="false">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
