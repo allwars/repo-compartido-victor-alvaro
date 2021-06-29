@@ -93,7 +93,7 @@
         {
           "icon": "icon-sim",
           "title": "Datos y minutos ilimitados GRATIS",
-          "subtitle": "Segunda línea GRATIS 1 año"
+          "subtitle": "Segunda línea con -17,50€/mes dto. durante 1 año"
         },
         {
           "icon": "icon-broadband-or-wifi",
@@ -109,8 +109,8 @@
       "offers": {
         "discount": "35% dto. 1 año",
         "label": "Permanencia 1 año",
-        "finalPrice": "<del>92,49€/mes</del>",
-        "discountPrice": "49,49€<sub>/mes</sub>"
+        "finalPrice": "<del>94,49€/mes</del>",
+        "discountPrice": "51,49€<sub>/mes</sub>"
       },
       "cta": {
         "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-3/",
