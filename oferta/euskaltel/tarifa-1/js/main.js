@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.11.4. Generation Date: 2021-05-14T12:24:37.522Z
+ * Vodafone Reboot Framework: Version 2.17.0. Generation Date: 2021-06-29T18:20:53.250Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -85,28 +85,28 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/oferta/euskaltel/tarifa-1/resources/scripts/main.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/euskaltel/tarifa-1/resources/scripts/main.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/oferta/euskaltel/tarifa-1/resources/scripts/main.js":
-/*!************************************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/oferta/euskaltel/tarifa-1/resources/scripts/main.js ***!
-  \************************************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/euskaltel/tarifa-1/resources/scripts/main.js":
+/*!**********************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/euskaltel/tarifa-1/resources/scripts/main.js ***!
+  \**********************************************************************************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/oferta/euskaltel/tarifa-1/resources/scripts/tools.js");
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/euskaltel/tarifa-1/resources/scripts/tools.js");
 function _toConsumableArray(arr) { return _arrayWithoutHoles(arr) || _iterableToArray(arr) || _unsupportedIterableToArray(arr) || _nonIterableSpread(); }
 
 function _nonIterableSpread() { throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method."); }
 
 function _unsupportedIterableToArray(o, minLen) { if (!o) return; if (typeof o === "string") return _arrayLikeToArray(o, minLen); var n = Object.prototype.toString.call(o).slice(8, -1); if (n === "Object" && o.constructor) n = o.constructor.name; if (n === "Map" || n === "Set") return Array.from(o); if (n === "Arguments" || /^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(n)) return _arrayLikeToArray(o, minLen); }
 
-function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && Symbol.iterator in Object(iter)) return Array.from(iter); }
+function _iterableToArray(iter) { if (typeof Symbol !== "undefined" && iter[Symbol.iterator] != null || iter["@@iterator"] != null) return Array.from(iter); }
 
 function _arrayWithoutHoles(arr) { if (Array.isArray(arr)) return _arrayLikeToArray(arr); }
 
@@ -126,6 +126,8 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
   var infosNewNumber = document.querySelectorAll('[data-js-vf="_newNumber"]');
   var secondLine = document.querySelector('[data-js-vf="_secondLine"]');
   var secondLine2 = document.querySelector('[data-js-vf="_secondLine2"]');
+  /*const terminalesPorta = document.querySelector('[data-js-vf="_terminales"]');*/
+
   var showSticky = document.querySelector('[data-js-vf="_showOrHideSticky"]');
   var stickyRate = document.querySelector('[data-js-vf="_stickyRate"]');
   var banner = document.querySelector('[data-js="_banner"]');
@@ -135,6 +137,31 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
   var width = document.documentElement.clientWidth;
   var isDesktop = width > 1024;
   var isTablet = width <= 1024 && width >= 768;
+  /**
+   * Bloque de inicialización de la página
+   */
+
+  if (window.matchMedia('(min-width: 768px)').matches) {
+    positionOfTicket();
+    document.addEventListener('scroll', function () {
+      positionOfTicket();
+      ticketOpacity();
+      showStickyRate();
+      hideStickyRate();
+    });
+  } else {
+    document.addEventListener('scroll', function () {
+      showStickyRate();
+      hideStickyRate();
+    });
+  }
+
+  _toConsumableArray(typeOfLineButton).forEach(function (label) {
+    label.addEventListener('click', function () {
+      return actionsType(label);
+    });
+  }); // Line Selector
+
 
   _toConsumableArray(typeOfLineButton).forEach(function (label) {
     label.addEventListener('click', function () {
@@ -153,24 +180,33 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
   }
 
   function portability() {
-    secondLine.classList.remove('ws10-u--hidden');
-    secondLine2.classList.remove('ws10-u--hidden');
+    secondLine.classList.remove("ws10-u--hidden");
+    secondLine2.classList.remove("ws10-u--hidden");
+    /*terminalesPorta.classList.remove('ws10-u--hidden');*/
 
     _toConsumableArray(infosPortability).forEach(function (infoPortability, index) {
-      infoPortability.classList.remove('ws10-u--hidden');
-      infosNewNumber[index].classList.add('ws10-u--hidden');
+      infoPortability.classList.remove("ws10-u--hidden"); //infosNewNumber[index].classList.add("ws10-u--hidden");
+    });
+
+    _toConsumableArray(infosNewNumber).forEach(function (infoNewNumber) {
+      infoNewNumber.classList.add("ws10-u--hidden");
     });
   }
 
   function newNumber() {
     _toConsumableArray(infosNewNumber).forEach(function (infoNewNumber, index) {
-      infoNewNumber.classList.remove('ws10-u--hidden');
-      infosPortability[index].classList.add('ws10-u--hidden');
+      infoNewNumber.classList.remove("ws10-u--hidden"); //infosPortability[index].classList.add("ws10-u--hidden");
     });
 
-    secondLine.classList.add('ws10-u--hidden');
-    secondLine2.classList.add('ws10-u--hidden');
-  }
+    _toConsumableArray(infosPortability).forEach(function (infoPortability) {
+      infoPortability.classList.add("ws10-u--hidden");
+    });
+
+    secondLine.classList.add("ws10-u--hidden");
+    secondLine2.classList.add("ws10-u--hidden");
+    /*terminalesPorta.classList.add('ws10-u--hidden');*/
+  } // Sticky
+
 
   document.addEventListener('scroll', showStickyRate);
   document.addEventListener('scroll', hideStickyRate);
@@ -181,9 +217,9 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
   }
 
   function showStickyRate() {
-    var showStickyHeight = showSticky.getBoundingClientRect();
+    var infoBanner = banner.getBoundingClientRect();
 
-    if (showStickyHeight.top <= 0) {
+    if (infoBanner.bottom - 80 < 0) {
       stickyRate.classList.remove('ws10-u--hidden');
     } else {
       stickyRate.classList.add('ws10-u--hidden');
@@ -216,9 +252,9 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
     console.log(infoBanner);
 
     if (infoBanner.top < 0) {
-      ticket.setAttribute('style', 'position:fixed; top: 50px;');
+      ticket.setAttribute('style', 'position:fixed; top: 70px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;');
+      ticket.setAttribute('style', 'position:absolute;  top: 0;');
     }
   }
 };
@@ -229,15 +265,68 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onStylesReady = function () {
 
 
 _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
-  console.log("Site functionality ready"); // DO SOMETHING
+  console.log("Site functionality ready"); // Speed Selector
+
+  var typeOfSpeedButton = document.querySelectorAll('[data-js-vf="_buttonSpeed"]');
+  var infoRegular = document.querySelectorAll('[data-js-vf="_regularRate"]');
+  var infoRecommended = document.querySelectorAll('[data-js-vf="_recommendedRate"]');
+  var recommededCheck = document.querySelector('[data-js-vf="recommendedRateCheck"]');
+  var regularCheck = document.querySelector('[data-js-vf="regularRateCheck"]');
+  var queryString = window.location.search;
+  console.log(queryString);
+
+  if (queryString === "?300mbps" || queryString === "?300mbps=") {
+    regularRate();
+  } else {
+    recommendedRate();
+  }
+
+  _toConsumableArray(typeOfSpeedButton).forEach(function (label) {
+    label.addEventListener('click', function () {
+      return typeSpeed(label);
+    });
+  });
+
+  function typeSpeed(label) {
+    var speedType = label.getAttribute("data-js-vf-value");
+
+    if (speedType === "recommendedRate") {
+      recommendedRate();
+    } else {
+      regularRate();
+    }
+  }
+
+  function regularRate() {
+    _toConsumableArray(infoRegular).forEach(function (infoRegular, index) {
+      infoRegular.classList.remove('ws10-u--hidden');
+      infoRecommended[index].classList.add('ws10-u--hidden');
+      recommededCheck.removeAttribute("checked", "");
+      regularCheck.setAttribute("checked", "");
+      infoRegular.removeAttribute("aria-hidden", "true");
+      infoRecommended[index].setAttribute("aria-hidden", "true");
+    });
+  }
+
+  function recommendedRate() {
+    _toConsumableArray(infoRecommended).forEach(function (infoRecommended, index) {
+      infoRecommended.classList.remove('ws10-u--hidden');
+      infoRegular[index].classList.add('ws10-u--hidden');
+      regularCheck.removeAttribute("checked", "");
+      recommededCheck.setAttribute("checked", "");
+      infoRecommended.removeAttribute("aria-hidden", "true");
+      infoRegular[index].setAttribute("aria-hidden", "true");
+    });
+  } // DO SOMETHING
+
 };
 
 /***/ }),
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/oferta/euskaltel/tarifa-1/resources/scripts/tools.js":
-/*!*************************************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/IDG-VFESFRONT-MICROSITES-cbu/01-particulares/01-convergente/oferta/euskaltel/tarifa-1/resources/scripts/tools.js ***!
-  \*************************************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/euskaltel/tarifa-1/resources/scripts/tools.js":
+/*!***********************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/euskaltel/tarifa-1/resources/scripts/tools.js ***!
+  \***********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
