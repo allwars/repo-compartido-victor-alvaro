@@ -1,4 +1,4 @@
-<span>Fibra + Móvil <strong>40% dto. 1 año</strong></span><h2><strong>Todo lo que necesitas</strong> para estar <strong>conectado fuera y dentro</strong> de casa </h2><span><span>Mejor Precio Vodafone</span></span><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="26,99" data-vfes-seo-empathy-price="54,99">
+<span>Fibra + Móvil <strong>40% dto. 1 año</strong></span><h2>Fibra y dos líneas datos<br> para ser ilimitable</h2><span><span>Mejor Precio Vodafone</span></span><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="26,99" data-vfes-seo-empathy-price="54,99">
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <use xlink:href="#icon-mobile"></use>
@@ -9,9 +9,9 @@
                                                     Datos y minutos ilimitados
                                                 </p>
                                                 <p>
-                                                    Velocidad media
+                                                    Velocidad alta
                                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                        <use xlink:href="#icon-thunder-1grey"></use>
+                                                        <use xlink:href="#icon-thunder-2grey"></use>
                                                     </svg>
                                                 </p>
                                             </div>
@@ -22,10 +22,10 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Datos y min. ilimitados
+                                                    Datos y minutos ilimitados GRATIS
                                                 </p>
                                                 <p>
-                                                    línea con -10€/mes dto. durante 1 año
+                                                    Segunda línea GRATIS 1 año
                                                 </p>
                                             </div>
                                         </li>
@@ -35,7 +35,7 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    600Mbps Fibra
+                                                    600Mbps Fibra Óptica
                                                 </p>
                                                 <p>
                                                     + llamadas ilimitadas en fijo
@@ -47,16 +47,16 @@
                                                 </p><p>
                                                     Permanencia 1 año
                                                 </p><p>
-                                                    <del>81,49€/mes</del>
+                                                    <del>79,49€/mes</del>
                                                 </p><p>
                                                     46,49€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1357920&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-0747927856028">
                                             Lo quiero
                                         </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
-                        </div><p>Datos ilimitados a <strong>alta velocidad (2Mbps de bajada y de subida).</strong></p><p> <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p>Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.</p><p>Escucha música online.</p><p> Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p> Todo con la nueva red 5G.</p><p> <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.</p><p><strong>Llévate la 2ª línea con -10€/mes de dto. durante 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong></p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional 24 horas, establecimiento de llamada incluido</p><p><strong>Chatea y usa tus redes sociales</strong> con
-                                la conexión 5G.</p><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
+                        </div><p>Datos ilimitados a <strong>alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad extrema y sin cortes.</p><p>Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.</p><p> Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.</p><p> Todo con la nueva red 5G.</p><p><strong>Llévate la 2ª línea GRATIS 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong></p><p>Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.</p><p> Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional 24 horas, establecimiento de llamada incluido</p><p>(*) Podrás añadir más Líneas adicionales en el proceso de compra
+                  </p><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
                                     
-                                </div><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 35 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong> </p><h3><strong>También incluido en Vodafone One ilimitada 600Mbps</strong></h3><ul aria-labelledby="idList">
+                                </div><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong> </p><h3><strong>También incluido en Vodafone One ilimitada Avanzada 600Mbps</strong></h3><ul aria-labelledby="idList">
                             <li>
                                 <div>
                                     <div>
@@ -93,17 +93,21 @@
                                     </div>
                                 </div>
                             </li>
-                        </ul><span style="left: 0;">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
+                        </ul><span style="left: 0;">(*) Todos los servicios podrás gestionarlos en la app de Mi Vodafone</span><p>
                     <span><strong>Sin sorpresas.</strong></span>
                     <span><strong>No escondemos nada</strong></span>
-                  </p><p>Impuestos y cuota de línea incluidos.</p><p>Permanencia 1 año</p><p>¿Cúanto voy a pagar?</p><p><strong>Paquete Móvil + Fibra: 46,49€/mes durante 1 año, después
-                      81,49€/mes.</strong></p><p>Promociones:</p><p>Línea adicional: -10€/mes dto. Durante 1 año, después 16,50€/mes.</p><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene
+                  </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cúanto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: 46,49€/mes durante 1 año, después
+                      79,49€/mes.</strong></p><p>Promociones:</p><p>Llévate el paquete de Fibra + Móvil al 40% dto. durante 1 año</p><p>Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado)</p><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene
                     un coste para el cliente de 150 euros. Vodafone renuncia al cobro de este
                     coste si el cliente se mantiene activo en el servicio durante, al menos, 1
-                    año desde la fecha de instalación.</p><p>
-                    ⚠️ El precio indicado en esta oferta incrementará +3€/mes en la línea móvil
-                    principal y +1,5€/mes en las líneas adicionales a partir del próximo 15/7
-                  </p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/mm1/" title="Ver condiciones legales">Ver condiciones legales</a><h3><strong>¿Cómo contrato Vodafone One Ilimitada 600Mbps?</strong></h3><ul>
+                    año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/mm1/" title="Ver condiciones legales">Ver condiciones legales
+                  
+                   <span> color #E60000</span>
+                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                        <title>Flecha derecha</title>
+                        <use xlink:href="#icon-chevron-right"></use>
+                      </svg>
+                  </a><h3><strong>¿Cómo contrato Vodafone One ilimitada Avanzada 600Mbps?</strong></h3><ul>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"><title>Business</title><use xlink:href="#icon-shopping-trolley-mid"></use></svg>
                             <p>Compra online</p>
