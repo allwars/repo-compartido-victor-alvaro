@@ -1,15 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
-    <g fill="none" fill-rule="evenodd">
-        <g>
-            <g>
-                <g>
-                    <g>
-                        <path fill="#D8D8D8" fill-opacity="0" d="M0 0L48 0 48 48 0 48z" transform="translate(-30 -1115) translate(20 572) translate(0 533) translate(10 10)"/>
-                        <path stroke="#666" stroke-linejoin="round" d="M41.097 14c.653-.678 1.903-.695 2.403.705V33.5c-.43 1.29-1.75 1.153-2.403.485L34.5 27.5V34h0c0 1.933-1.567 3.5-3.5 3.5H8h0c-1.933 0-3.5-1.567-3.5-3.5 0 0 0 0 0 0V14h0c0-1.933 1.567-3.5 3.5-3.5h23c1.933 0 3.5 1.567 3.5 3.5v6.5l6.597-6.5z" transform="translate(-30 -1115) translate(20 572) translate(0 533) translate(10 10)"/>
-                        <path stroke="#E60000" stroke-linejoin="round" d="M13.768 16.232c.976.977.976 2.56 0 3.536-.977.976-2.56.976-3.536 0-.976-.977-.976-2.56 0-3.536.977-.976 2.56-.976 3.536 0" transform="translate(-30 -1115) translate(20 572) translate(0 533) translate(10 10)"/>
-                    </g>
-                </g>
-            </g>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><g fill="none" fill-rule="evenodd"><path fill="#D8D8D8" fill-opacity="0" d="M0 0h48v48H0z"/><path stroke="#666" stroke-linejoin="round" d="M41.097 14c.653-.678 1.903-.695 2.403.705V33.5c-.43 1.29-1.75 1.153-2.403.485L34.5 27.5V34h0a3.5 3.5 0 01-3.5 3.5H8h0A3.5 3.5 0 014.5 34s0 0 0 0V14h0A3.5 3.5 0 018 10.5h23a3.5 3.5 0 013.5 3.5v6.5l6.597-6.5z"/><path stroke="#E60000" stroke-linejoin="round" d="M13.768 16.232a2.501 2.501 0 11-3.538 3.536 2.501 2.501 0 013.538-3.536"/></g></svg>
