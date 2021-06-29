@@ -1,4 +1,6 @@
-<span>Fibra + Móvil <strong>50% dto. 1 año</strong></span><h2><strong>Todo lo que necesitas</strong> para estar <strong>conectado fuera y dentro</strong> de casa </h2><span><span>Mejor Precio Vodafone</span></span><ul>
+<span>Fibra + Móvil <strong>35% dto. 1 año</strong></span><h2><strong> Fibra, dos líneas de datos y TV para ser ilimitable </strong></h2><span><span>Mejor Precio Vodafone</span></span><h2>
+                Vodafone One ilimitada Avanzada 600Mbps
+              </h2><ul>
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <use xlink:href="#icon-mobile"></use>
@@ -22,10 +24,10 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Datos y min. ilimitados
+                                                    Datos y min. ilimitados GRATIS
                                                 </p>
                                                 <p>
-                                                    línea con -10€/mes dto. durante 1 año
+                                                    Segunda línea con -17,50€/mes dto. durante 1 año
                                                 </p>
                                             </div>
                                         </li>
@@ -35,7 +37,7 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    600Mbps Fibra
+                                                    600Mbps Fibra Óptica
                                                 </p>
                                                 <p>
                                                     + llamadas ilimitadas en fijo
@@ -51,25 +53,25 @@
                                                     Pack TV Seriefans GRATIS 1 año
                                                 </p>
                                                 <p>
-                                                    con HBO España y 60 canales más
+                                                    con HBO España y 60 canales más + deco incl.
                                                 </p>
                                             </div>
                                         </li>
                                     </ul><p>
-                                                    50% dto. 1 año
+                                                    35% dto. 1 año
                                                 </p><p>
                                                     Permanencia 1 año
                                                 </p><p>
-                                                    <del>107,49€/mes</del>
+                                                    <del>94,49€/mes</del>
                                                 </p><p>
-                                                    53,49€<sub>/mes</sub>
+                                                    51,49€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1059031&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-4214110269173">
                                             Lo quiero
                                         </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
-                        </div><p>Datos ilimitados a <strong>alta velocidad (2Mbps de bajada y de subida).</strong></p><p> <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p>Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.</p><p>Escucha música online.</p><p> Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p> Todo con la nueva red 5G.</p><p> <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.</p><p><strong>Llévate la 2ª línea con -10€/mes de dto. durante 1 año</strong></p><p>Datos ilimitados <strong>a alta velocidad (10Mbps de bajada y de subida)</strong></p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional 24 horas, establecimiento de llamada incluido</p><p><strong>Chatea y usa tus redes sociales</strong> con
-                                la conexión 5G.</p><h3>
+                        </div><p>Datos ilimitados <strong>a alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad extrema y sin cortes.</p><p>Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.</p><p>Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.</p><p> Todo con la <strong>nueva red 5G.</strong></p><p><strong>Llévate la 2ª línea GRATIS 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (10Mbps de bajada y de subida).</strong></p><p>Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.</p><p>Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p>(*) Podrás añadir más Líneas adicionales en el proceso de compra
+                          </p><h3>
                         <span>Televisión</span>
-                        <span><strong>Pack TV Seriefans GRATIS</strong></span>
+                        <span><strong>Pack TV Seriefans GRATIS 1 año</strong></span>
                     </h3><p>incluye HBO y 60 canales más
                     </p><ul>
                             <li>
@@ -246,20 +248,14 @@
                                         
                                         <p>Selekt</p>
                                     </li>
-                                </ul><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
-                        dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
-                        una experiencia online.
-                        Consultar dispositivos compatibles
+                                </ul><p><strong>¿Cómo es la experiencia de TV con decodificador HD y 4K?</strong></p><p>Vodafone TV en el&nbsp;<strong>decodificador con calidad HD y 4K, en tus dispositivos</strong>(también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada.</strong>
                     </p><p>
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>
-                        </p><p>Más de <strong>50.000 contenidos disponibles</strong>
-                                bajo demanda.</p><p>No te pierdas nada, todo el <strong>contenido desde
+                        </p><p>Accede a <strong> HBO España, Amazon Prime Video,</strong> YouTube, National Geographic Now, y más apps desde el menú de tu decodificador.</p><p>No te pierdas nada, todo el <strong>contenido desde
                                 el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong>
-                                con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>2 reproducciones simultáneas</strong> en
-                                diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos
-                                estés donde estés y cuando quieras.</p><button aria-hidden="false">
+                                con Últimos 7 días y Ver Ahora, Grabación en la nube y Descarga tus contenidos.</p><p>La televisión aprende de tus gustos, <strong>te recomienda y encuentra contenido</strong> que estás buscando.</p><p>Compatibilidad con el <strong>Control por Voz</strong>: mando para Control por Voz y altavoz inteligente Átika.</p><p>Con el servicio multidispositivo puedes ver tus contenidos en tu smartphone, tablet, PC, Fire TC Stick, Chromecast y Smart TV. <strong>Tres reproducciones simultáneas</strong> (2 dispositivos + decodificador).</p><button aria-hidden="false">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                         <title>Close</title>
                                         <use xlink:href="#icon-close"></use>
@@ -301,47 +297,63 @@
                                     </li>
                                 </ul><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
                                     
-                                </div><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 35 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong> </p><h3><strong>También incluido en Vodafone One ilimitada Maxi</strong></h3><ul aria-labelledby="idList">
-                            <li>
+                                </div><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong> </p><h3>
+                        <strong>También incluido en Vodafone One ilimitada Avanzada 600Mbps</strong>
+                    </h3><ul aria-labelledby="idList">
+                         <li>
+                            <div>
                                 <div>
-                                    <div>
-                                        <div>
-                                            
-                                            <h3><strong>Secure Net</strong></h3>
-                                        </div>
-                                        <p>Mantén seguro completamente tu smartphone ante amenazas externas con el antivirus integrado en el servicio Secure Net. Navega sin preocupaciones en todos tus dispositivos.</p>
-                                        <p><strong>GRATIS</strong> durante 3 meses, después 1€/mes.</p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
                                 <div>
-                                    <div>
-                                        <div>
-                                            
-                                            <h3><strong>TIDAL</strong></h3>
-                                        </div>
-                                        <p>Plataforma de música en streaming para que disfrutes de tu música con la mejor calidad de audio.</p>
-                                        <p><strong>GRATIS</strong> durante 3 meses, después 7,99€/mes.</p>
-                                    </div>
+                                    
+                                    <h3><strong>Secure Net</strong></h3>
                                 </div>
-                            </li>
-                            <li>
+                                <p>Para que <strong>navegues sin riesgos en Internet por la red móvil y de acceso fijo de Vodafone</strong>, protegiéndote de virus (malware) y páginas fraudulentas (phishing).</p>
+                                <p><strong>GRATIS</strong> durante 3 meses, después 1€/mes.</p>
+                                </div>
+                            </div>
+                        </li>         <li>
+                            <div>
                                 <div>
-                                    <div>
-                                        <div>
-                                            
-                                            <h3><strong>OneNumber</strong></h3>
-                                        </div>
-                                        <p>Servicio MultiSIM, sal de casa sin tu smartphone y sigue disfrutando de él, ya que recibirás todas las notificaciones, mensajes y llamadas a un dispositivo secundario.
-                                        </p><p><strong>GRATIS</strong> durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono secundario y 1€/mes para Smart speaker con Alexa..</p>
-                                    </div>
+                                <div>
+                                    
+                                    <h3><strong>OneNumber</strong></h3>
                                 </div>
-                            </li>
-                        </ul><span style="left: 0;">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
+                                <p><strong>Mismo número de teléfono y misma tarifa de voz y datos en todos tus dispositivos</strong> sin necesidad de tener el móvil cerca y sin cambiar la SIM.</p>
+                                <p><strong>GRATIS</strong> durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono secundario y 1€/mes para Smart speaker con Alexa.</p>
+                                </div>
+                            </div>
+                        </li>         <li>
+                            <div>
+                                <div>
+                                <div>
+                                    
+                                    <h3><strong>Secure Net Family</strong></h3>
+                                </div>
+                                <p><strong>Secure Net Family</strong> te protege de <strong>virus (malware) y páginas fraudulentas (phishing)</strong>, permitiendo además aplicar políticas de control parental en todos slos dispositivos de tu hogar.</p>
+                                <p><strong>GRATIS</strong> durante 3 meses, después 5€/mes (IVA incluido).</p>
+                                </div>
+                            </div>
+                        </li>         <li>
+                            <div>
+                                <div>
+                                <div>
+                                    
+                                    <h3><strong>TIDAL</strong></h3>
+                                </div>
+                                <p>Plataforma de música en streaming para que disfrutes de tu música con la mejor calidad de audio.</p>
+                                <p><strong>GRATIS</strong> durante 3 meses, después 7,99€/mes.</p>
+                                </div>
+                            </div>
+                        </li>    </ul><span style="left: 0;">(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
                         <span><strong>Sin sorpresas.</strong></span>
                         <span><strong>No escondemos nada</strong></span>
-                    </p><p>Impuestos y cuota de línea incluidos.</p><p>Permanencia 1 año</p><p>¿Cúanto voy a pagar?</p><p><strong>Paquete Móvil + Fibra: 53,49€/mes durante 1 año, después 107,49€/mes.</strong></p><p>Promociones:</p><p>Paquete de TV: GRATIS durante 1 año, después 10€/mes.</p><p>Línea adicional: -10€/mes dto. Durante 1 año, después 18,50€/mes.</p><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150 euros. Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><p>⚠️	El precio indicado en esta oferta incrementará +3€/mes en la línea móvil principal y +1,5€/mes en las líneas adicionales a partir del próximo 15/7</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/e1/" title="Ver condiciones legales">Ver condiciones legales</a><h3><strong>¿Cómo contrato Vodafone One ilimitada Maxi?</strong></h3><ul>
+                    </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cúanto voy a pagar?</p><p><strong>Paquete Móvil + Fibra (49,49€/mes) + línea adicional (2€/mes): 51,49€/mes durante 1 año, después 94,49€/mes</strong></p><p>Promociones:</p><p>Llévate el paquete de Fibra + Móvil al 35% durante 1 año</p><p>Línea adicional: -17,50€/mes dto. durante 1 año, después con un 50% dto. por solo 19,50€/mes (dto. ya aplicado)</p><p>Paquete de TV: GRATIS durante 1 año, después 10€/mes</p><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150 euros. Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/e1/" title="Ver condiciones legales">
+                    Ver condiciones legales
+                    <span> color #E60000</span>
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                      <title>Flecha derecha</title>
+                      <use xlink:href="#icon-chevron-right"></use>
+                    </svg></a><h3><strong>¿Cómo contrato Vodafone One ilimitada Maxi?</strong></h3><ul>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"><title>Business</title><use xlink:href="#icon-shopping-trolley-mid"></use></svg>
                             <p>Compra online</p>
