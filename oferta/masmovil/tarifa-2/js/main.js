@@ -1,5 +1,5 @@
 /**
- * Vodafone Reboot Framework: Version 2.11.4. Generation Date: 2021-06-29T14:08:39.212Z
+ * Vodafone Reboot Framework: Version 2.17.0. Generation Date: 2021-06-29T14:29:25.332Z
  */
 
 /******/ (function(modules) { // webpackBootstrap
@@ -85,21 +85,21 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/main.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/main.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/main.js":
-/*!***********************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/main.js ***!
-  \***********************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/main.js":
+/*!*********************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/main.js ***!
+  \*********************************************************************************************************************/
 /*! no exports provided */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/tools.js");
+/* harmony import */ var _tools__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./tools */ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/tools.js");
 
 /*
 *   Método que se dispara cuando el ws2r.vX.css
@@ -180,10 +180,10 @@ _tools__WEBPACK_IMPORTED_MODULE_0__["default"].onFrameworkReady = function () {
 
 /***/ }),
 
-/***/ "../../../../../../Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/tools.js":
-/*!************************************************************************************************************************************************!*\
-  !*** /Users/alvaro.martin/Documents/repos/compartida-victor/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/tools.js ***!
-  \************************************************************************************************************************************************/
+/***/ "../../../../../../Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/tools.js":
+/*!**********************************************************************************************************************!*\
+  !*** /Users/palomaelena/Documents/repo-compartido-victor-alvaro/oferta/masmovil/tarifa-2/resources/scripts/tools.js ***!
+  \**********************************************************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
