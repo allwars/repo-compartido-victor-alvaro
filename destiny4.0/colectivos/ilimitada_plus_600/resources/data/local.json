@@ -144,7 +144,7 @@
       },
       {
         "icon": "#icon-5G_esp-mid",
-        "description": "Todo con la <strong>nueva red 5G</strong>."
+        "description": "Todo con la nueva red 5G."
       }
     ]
   },
@@ -699,7 +699,7 @@
     "legal": "(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone"
 },
 "sinSorpresas": {
-    "section": "<strong>Sin sorpresas</strong>",
+    "section": "<strong>Sin sorpresas.</strong>",
     "title": "<strong>No escondemos nada</strong>",
     "conditions": "Impuestos y cuota de línea incluidos",
     "permanency": "<strong>Permanencia 1 año</strong>",
@@ -731,12 +731,12 @@
       "targetBlank": true,
       "svg":true,
       "classCta": "ws10-c-link-chevron ws10-c-link-chevron--primary",
-      "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/",
+      "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/legales/",
       "context": "condiciones legales",
       "element": "card addons",
       "category": "cta",
       "id": "-5460257368589",
-      "label": "Ver condiciones legales"
+      "label": "Ver Condiciones Legales"
     }
   }
 }
