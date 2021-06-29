@@ -264,7 +264,7 @@
                                                     Datos y minutos ilimitados GRATIS
                                                 </p>
                                                 <p>
-                                                    Segunda línea GRATIS 1 año
+                                                    Segunda línea con -17,50€/mes dto. durante 1 año
                                                 </p>
                                             </div>
                                         </li>
@@ -299,9 +299,9 @@
                                                 </p><p>
                                                     Permanencia 1 año
                                                 </p><p>
-                                                    <del>92,49€/mes</del>
+                                                    <del>94,49€/mes</del>
                                                 </p><p>
-                                                    49,49€<sub>/mes</sub>
+                                                    51,49€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-3/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-34247585015073">
                                             Más info
                                         

@@ -39,7 +39,7 @@
                                                     <del>56,99€/mes</del>
                                                 </p><p>
                                                     39,49€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-1/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-0974351278005">
+                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-1/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-7515870759291">
                                             Más info
                                         
                                               <span></span>
@@ -164,7 +164,7 @@
                                                     <del>79,49€/mes</del>
                                                 </p><p>
                                                     46,49€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-2/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-3939800656561">
+                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-2/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-3976052093347">
                                             Más info
                                         
                                               <span></span>
@@ -264,7 +264,7 @@
                                                     Datos y minutos ilimitados GRATIS
                                                 </p>
                                                 <p>
-                                                    Segunda línea GRATIS 1 año
+                                                    Segunda línea con -17,50€/mes dto. durante 1 año
                                                 </p>
                                             </div>
                                         </li>
@@ -299,10 +299,10 @@
                                                 </p><p>
                                                     Permanencia 1 año
                                                 </p><p>
-                                                    <del>92,49€/mes</del>
+                                                    <del>94,49€/mes</del>
                                                 </p><p>
-                                                    49,49€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-3/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-34247585015073">
+                                                    51,49€<sub>/mes</sub>
+                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-3/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-1411181351186">
                                             Más info
                                         
                                               <span></span>
