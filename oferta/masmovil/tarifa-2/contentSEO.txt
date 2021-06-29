@@ -1,4 +1,6 @@
-<span>Fibra + Móvil <strong>40% dto. 1 año</strong></span><h2>Fibra y dos líneas datos<br> para ser ilimitable</h2><span><span>Mejor Precio Vodafone</span></span><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="26,99" data-vfes-seo-empathy-price="54,99">
+<span>Fibra + Móvil <strong>40% dto. 1 año</strong></span><h2>Fibra y dos líneas datos<br> para ser ilimitable</h2><span><span>Mejor Precio Vodafone</span></span><h2>
+                Vodafone One ilimitada Avanzada 600Mbps
+              </h2><ul data-vfes-seo-empathy-promoperiod="50% dto. 3 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="26,99" data-vfes-seo-empathy-price="54,99">
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <use xlink:href="#icon-mobile"></use>
