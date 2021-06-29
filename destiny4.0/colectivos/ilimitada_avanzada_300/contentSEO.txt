@@ -77,24 +77,24 @@
                                             </label><p>
                                             50% dto. 3 meses + después 15% dto. durante 2 años
                                         </p><p>
-                                                    Permanencia 1 año
-                                                </p><p>
-                                                    28,49€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
-                                            Lo quiero
-                                        
-                                              <span></span>
-                                          </a><p>
+                                                        Permanencia 1 año
+                                                    </p><p>
+                                                        28,49€<sub>/mes</sub>
+                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
+                                                Lo quiero
+                                            
+                                                  <span></span>
+                                              </a><p>
                                             50% dto. 3 meses + después 15% dto. durante 2 años
                                         </p><p>
-                                                    Permanencia 1 año
-                                                </p><p>
-                                                    28,49€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285867&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725875100583">
-                                            Lo quiero
-                                        
-                                              <span></span>
-                                          </a><p>
+                                                        Permanencia 1 año
+                                                    </p><p>
+                                                        28,49€<sub>/mes</sub>
+                                                    </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285867&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725875100583">
+                                                Lo quiero
+                                            
+                                                  <span></span>
+                                              </a><p>
             Móvil
           </p><h3>
             Datos ilimitados para que no te pierdas nada
@@ -467,7 +467,7 @@
                 Del mes 4 al mes 12
               </span><span></span><span>  48,44</span><span>€</span><sub>/mes</sub><span>
                 Del mes 4 al 27
-              </span><span></span><span>  48,44</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">  Del mes 13 al 17</span><span data-js-vf="_newNumber">  Del mes 28 en adelante</span><span></span><span>  65,94</span><span>€</span><sub>/mes</sub><span>  56,99</span><span>€</span><sub>/mes</sub><span>
+              </span><span></span><span>  48,44</span><span>€</span><sub>/mes</sub><span data-js-vf="_portability">  Del mes 13 al 27</span><span data-js-vf="_newNumber">  Del mes 28 en adelante</span><span></span><span>  65,94</span><span>€</span><sub>/mes</sub><span>  56,99</span><span>€</span><sub>/mes</sub><span>
                  Del mes 28 en adelante
               </span><span></span><span>  74,49</span><span>€</span><sub>/mes</sub><p>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><p data-js-vf="_portability">
           Los beneficios especiales que ofrece Vodafone son únicamente para empleados, por lo que si continuas declaras que cumples tal condición y te comprometes a acreditarlo en caso de que Vodafone te lo solicitara. De no acreditarlo Vodafone podrá cancelar la aplicación de estos beneficios en cualquier momento, de acuerdo con las condiciones acordadas con la empresa.
@@ -545,17 +545,17 @@
           una de las nuevas tarifas tendrás que cambiarte a una de ellas.
         </p><a href="mailto:ofertaempleados@vodafone.com" data-analytics-id="-5504488699476">
           Enviar correo
-        </a><del>54,99€/mes</del><span>
+        </a><span>
               <span>28,49€</span>
               <span>/mes</span>
-            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=&amp;tcli=0&amp;tta=2" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="">
-            
+            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285850&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
+            Lo quiero
             <span data-cta-a11y=""></span>
-          </a><del>54,99€/mes</del><span>
+          </a><span>
               <span>28,49€</span>
               <span>/mes</span>
-            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=&amp;tcli=0&amp;tta=2" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="">
-            
+            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285867&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725875100583">
+            Lo quiero
             <span data-cta-a11y=""></span>
           </a><button aria-hidden="false">
           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
