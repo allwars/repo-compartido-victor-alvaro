@@ -65,7 +65,7 @@
                                                 </p><p>
                                                     <del>56,99€/mes</del>
                                                 </p><p>
-                                                    28,49€/<sub>mes</sub>
+                                                    28,49€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-1/" target="_self" name="Más info" title="Más info" data-analytics-id="-4725875160583">
                                             Más info
                                         </a><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
@@ -131,7 +131,7 @@
                                                 </p><p>
                                                     <del>69,99€/mes</del>
                                                 </p><p>
-                                                    34,49€/<sub>mes</sub>
+                                                    34,49€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-2/" target="_self" name="Más info" title="Más info" data-analytics-id="-4725875160583">
                                             Más info
                                         </a><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
@@ -200,7 +200,7 @@
                                                 </p><p>
                                                     <del>89,99€/mes</del>
                                                 </p><p>
-                                                    44,99€/<sub>mes</sub>
+                                                    44,99€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-3/" target="_self" name="Más info" title="Más info" data-analytics-id="-4725875160583">
                                             Más info
                                         </a><h2><strong>Vodafone One las tarifas de Fibra y Móvil pensadas para ti</strong></h2><ul>
