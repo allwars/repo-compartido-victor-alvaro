@@ -1,5 +1,70 @@
 {
   "mismakey": "Yo soy el JSON local del microsite",
   "title": "Ejemplo de contenido cargado desde el JSON",
-  "url": "microsite/[ruta_del_microsite]/resource/data/local.json"
+  "url": "microsite/[ruta_del_microsite]/resource/data/local.json",
+  "secondLine": {
+    "title": "Llévate también una 2ª línea",
+
+    "productDetail": [
+      {
+        "icon": "#icon-thunder-3",
+        "description": "Datos ilimitados <strong>a máxima velocidad (1Gbps de bajada y de subida).</strong>"
+      },
+      {
+        "icon": "#icon-cloud-download-mid",
+        "description": "Descarga y sube todos los archivos que quieras."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos."
+      },
+      {
+        "icon": "#icon-unified-communication-mid",
+        "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
+      }
+    ],
+    "legal": "(*) Podrás añadir más Líneas adicionales en el proceso de compra"
+  },
+  "deco": {
+    "title": "¿Cómo es la experiencia de TV con decodificador HD y 4K?",
+    "description": "Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.",
+    "img": [
+      {
+        "imgJpg": "",
+        "imgPng": "img/section-deco/contenido-tv",
+        "alt": "interfaz de tv Vodafone, sin decodificador",
+        "class": "ws10-u--1/1"
+      }
+    ],
+    "productDetail": [
+      {
+        "icon": "#icon-portals-for-videos-mid",
+        "description": "Accede a <strong>HBO España, Amazon Prime Video</strong>, YouTube, National Geographic Now, y más apps desde el menú de tu decodificador."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo."
+      },
+      {
+        "icon": "",
+        "url": "img/section-deco/icon-control",
+        "name": "control",
+        "description": "Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días y Ver Ahora, Grabación en la nube y Descarga tus contenidos."
+      },
+      {
+        "url": "img/section-deco/icons-indicators-mid-render-icons-prepare",
+        "name": "render",
+        "icon": "",
+        "description": "La televisión aprende de tus gustos, <strong>te recomienda y encuentra contenido</strong> que estás buscando."
+      },
+      {
+        "icon": "#icon-alexa-mid",
+        "description": "Compatibilidad con el <strong>Control por Voz:</strong> mando para Control por Voz y altavoz inteligente Átika."
+      },
+      {
+        "icon": "#icon-connected-devices-mid",
+        "description": "Con el servicio multidispositivo puedes ver tus contenidos en tu smartphone, tablet, PC, Fire TC Stick, Chromecast y Smart TV. <strong>Tres reproducciones simultáneas</strong> (2 dispositivos + decodificador)."
+      }
+    ]
+  }
 }

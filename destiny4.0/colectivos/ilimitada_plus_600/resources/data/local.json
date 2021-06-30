@@ -273,17 +273,20 @@
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/hbo-logo",
-          "alt": "logo HBO"
+          "alt": "logo HBO",
+          "classImg":"ws10-c-logo-list__logo"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/amazon",
-          "alt": "logo amazon"
+          "alt": "logo amazon",
+          "classImg":"ws10-c-logo-list__logo"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/foxnow",
-          "alt": "logo foxnow"
+          "alt": "logo foxnow",
+          "classImg":"ws10-c-logo-list__logo"
         }
       ]
     },
