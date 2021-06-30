@@ -4,19 +4,13 @@
 >
   <div class="ws10-c-card ws10-c-card--no-borders-bottom-radius">
     <div class="ws10-c-card-rate-sticky__w-cta">
-      <div
-        class="ws10-c-card-rate-sticky__offer ws10-flex ws10-flex__direction--column"
-      >
-        <del
-          class="ws10-c-card-rate-sticky__dto-price"
-        >{{price.0.precio_sinpromo}}€/mes</del>
-        <span class="ws10-c-card-rate-sticky__final-price">
-          <span
-            class="ws10-c-card-rate-sticky__final-price-value"
-          >{{price.0.precio_conpromo}}€</span>
-          <span class="ws10-c-card-rate-sticky__final-price-date">/mes</span>
-        </span>
-      </div>
+        <div class="ws10-c-card-rate-sticky__offer ws10-flex ws10-flex__direction--column">
+          <del class="ws10-c-card-rate-sticky__dto-price">{{ sinSorpresas.bar.0.price2 }}€/mes</del>
+          <span class="ws10-c-card-rate-sticky__final-price">
+            <span class="ws10-c-card-rate-sticky__final-price-value">{{ sinSorpresas.bar.1.price1 }}€</span>
+            <span class="ws10-c-card-rate-sticky__final-price-date">/mes</span>
+          </span>
+        </div>
       <a
                       type="submit"
                       name="cta"

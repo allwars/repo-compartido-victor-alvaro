@@ -7,41 +7,20 @@
     </p>
     <p>{{{sinSorpresas.conditions}}}</p>
     <p><strong>{{{ permanencia }}}</strong></p>
-    <p>{{{sinSorpresas.question}}}</p>
+    <p class="ws10-u--mb0">{{{sinSorpresas.question}}}</p>
     <p>{{{sinSorpresas.paquete}}}</p>
     <p class="ws10-flex ws10-flex__direction--column">
      {{{sinSorpresas.promociones}}}
     </p>
-    
+
   <!----PRICE-TAB-->
 
 
   <!------------->
   <p class="ws10-u--mb1x">La instalación del servicio de fibra, salvo que sea
-    autoinstalable, tiene un coste para el cliente de 150€.</p>
-  <p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
+    autoinstalable, tiene un coste para el cliente de 150€.
+    Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
     en el servicio durante, al menos, 1 año desde la fecha de instalación.</p>
 
-  <a
-    class="ws10-c-link-chevron ws10-c-link-chevron--primary"
-    target="_blank"
-    href={{ cta.condicioneslegales }}
-    data-analytics-element="card addons"
-    data-analytics-context="condiciones legales"
-    data-analytics-category="cta"
-    data-analytics-id="-5460257368589"
-  >
-    Ver condiciones legales
-    <span class="ws10-u--hidden-visually"> color #E60000</span>
-    <svg
-      class="ws10-c-link-chevron__icon"
-      xmlns="http://www.w3.org/2000/svg"
-      xmlns:xlink="http://www.w3.org/1999/xlink"
-      width="24px"
-      height="24px"
-    >
-      <title>Flecha derecha</title>
-      <use class="icon-v3" xlink:href="#icon-chevron-right"></use>
-    </svg>
-  </a>
+  {{>cta sinSorpresas.cta}}
 </section>
