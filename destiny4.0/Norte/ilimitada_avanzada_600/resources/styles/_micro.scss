@@ -122,6 +122,7 @@
     @media screen and (min-width: 970px) {
       background-image: url("../img/banner/bg-banner-desktop.jpg");
       background-attachment: fixed;
+      background-size: cover;
       background-position-y: -150px;
     }
     &__textcontainer {

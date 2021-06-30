@@ -464,7 +464,8 @@
           "imgJpg": "",
           "imgPng": "img/section-deco/contenido-tv",
           "alt": "interfaz de tv Vodafone, sin decodificador",
-          "class": "ws10-u--1/1"
+          "class": "ws10-u--1/1",
+          "classImg": "ws10-u--1/1"
         }
       ],
       "productDetail": [
@@ -560,7 +561,7 @@
     "title": "<strong>No escondemos nada</strong>",
     "conditions": "Impuestos y cuota de línea incluidos",
     "permanency": "<strong>Permanencia 6 meses</strong>",
-    "permanency2": "<strong>Permanencia 1 año</strong>",
+    "permanency2": "<strong>Permanencia 6 meses</strong>",
     "question": "¿Cuánto voy a pagar?",
     "paquete": "<strong>Paquete Fibra + Móvil: 44,99€/mes durante 6 meses, después 89,99€/mes</strong>",
     "promociones": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil + TV al 50% dto. 3 meses</span>",

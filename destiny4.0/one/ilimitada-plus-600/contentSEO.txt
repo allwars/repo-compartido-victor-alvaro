@@ -73,9 +73,9 @@
                                                   </p><p>
                                                       Permanencia 1 año
                                                   </p><p>
-                                                      <del>74,99€/mes</del>
+                                                      <del>89,99€/mes</del>
                                                   </p><p>
-                                                      37,49€<sub>/mes</sub>
+                                                      44,99€<sub>/mes</sub>
                                                   </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
                                               Lo quiero
                                           
@@ -239,153 +239,88 @@
                             <use xlink:href="#icon-close"></use>
                           </svg>
                         </button><p>
-                            ¿Qué incluye el Pack Universal?
-                        </p><p>El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.</p><p>Contenidos incluidos:</p><ul>
-                            <li>
-                                                <p>logo HBO</p>
-                            </li>
-                            <li>
-                                                <p>logo amazon</p>
-                            </li>
-                            <li>
-                                                <p>logo foxnow</p>
-                            </li>
-                            <li>
-                                                <p>logo FOX</p>
-                            </li>
-                            <li>
-                                                <p>logo TNT</p>
-                            </li>
-                            <li>
-                                                <p>logo syfy</p>
-                            </li>
-                            <li>
-                                                <p>logo amc series</p>
-                            </li>
-                            <li>
-                                                <p>logo calle 13</p>
-                            </li>
-                            <li>
-                                                <p>logo AXN NOW</p>
-                            </li>
-                            <li>
-                                                <p>logo AXN</p>
-                            </li>
-                            <li>
-                                                <p>logo AXN White</p>
-                            </li>
-                            <li>
-                                                <p>AMC</p>
-                            </li>
-                            <li>
-                                                <p>FOX Life</p>
-                            </li>
-                            <li>
-                                                <p>COSMO Life</p>
-                            </li>
-                            <li>
-                                                <p>Comedy Central</p>
-                            </li>
-                            <li>
-                                                <p>XTRM</p>
-                            </li>
-                            <li>
-                                                <p>TCM</p>
-                            </li>
-                            <li>
-                                                <p>Sundance TV</p>
-                            </li>
-                            <li>
-                                                <p>National Geographic</p>
-                            </li>
-                            <li>
-                                                <p>National Geographic Now</p>
-                            </li>
-                            <li>
-                                                <p>Cocina</p>
-                            </li>
-                            <li>
-                                                <p>Decasa</p>
-                            </li>
-                            <li>
-                                                <p>MTV</p>
-                            </li>
-                            <li>
-                                                <p>MyMTV Music</p>
-                            </li>
-                            <li>
-                                                <p>SOL Música</p>
-                            </li>
-                            <li>
-                                                <p>Eurosport 1</p>
-                            </li>
-                            <li>
-                                                <p>SELEKT</p>
-                            </li>
-                            <li>
-                                                <p>Euronews</p>
-                            </li>
-                            <li>
-                                                <p>CNN International</p>
-                            </li>
-                            <li>
-                                                <p>Az Corazón</p>
-                            </li>
-                            <li>
-                                                <p>CNBC</p>
-                            </li>
-                            <li>
-                                                <p>El Trece TV</p>
-                            </li>
-                            <li>
-                                                <p>Cubavisión Internacional</p>
-                            </li>
-                            <li>
-                                                <p>BBC HD</p>
-                            </li>
-                            <li>
-                                                <p>BLOOMERANG</p>
-                            </li>
-                            <li>
-                                                <p>Ve Plus TV</p>
-                            </li>
-                            <li>
-                                                <p>TV Chile</p>
-                            </li>
-                            <li>
-                                                <p>Caracol</p>
-                            </li>
-                            <li>
-                                                <p>Aljazeera</p>
-                            </li>
-                            <li>
-                                                <p>CGTN</p>
-                            </li>
-                            <li>
-                                                <p>RT</p>
-                            </li>
-                            <li>
-                                                <p>Canal Parlamento</p>
-                            </li>
-                            <li>
-                                                <p>France 24</p>
-                            </li>
-                            <li>
-                                                <p>PRO TV</p>
-                            </li>
-                            <li>
-                                                <p>TV5 Monde</p>
-                            </li>
-                            <li>
-                                                <p>EWTN</p>
-                            </li>
-                            <li>
-                                                <p>DW</p>
-                            </li>
-                            <li>
-                                                <p>TVP</p>
-                            </li>
-                        </ul><h3>¿Cómo es la experiencia de TV con decodificador HD y 4K?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
+                              Canales Pack Seriefans
+                          </p><ul>
+                              <li>
+                                                    <p>HBO España</p>
+                              </li>
+                              <li>
+                                                    <p>FOXNOW</p>
+                              </li>
+                              <li>
+                                                    <p>AXN Now</p>
+                              </li>
+                              <li>
+                                                    <p>TNT</p>
+                              </li>
+                              <li>
+                                                    <p>FOX</p>
+                              </li>
+                              <li>
+                                                    <p>AMC SELEKT Series</p>
+                              </li>
+                              <li>
+                                                    <p>SYFY</p>
+                              </li>
+                              <li>
+                                                    <p>Calle 13</p>
+                              </li>
+                              <li>
+                                                    <p>AXN</p>
+                              </li>
+                              <li>
+                                                    <p>AXN White</p>
+                              </li>
+                          </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                              <li>
+                                                    <p>AMC</p>
+                              </li>
+                              <li>
+                                                    <p>FOX Life</p>
+                              </li>
+                              <li>
+                                                    <p>Cosmo</p>
+                              </li>
+                              <li>
+                                                    <p>Comedy Central</p>
+                              </li>
+                              <li>
+                                                    <p>XTRM</p>
+                              </li>
+                              <li>
+                                                    <p>TCM</p>
+                              </li>
+                              <li>
+                                                    <p>Sundance TV</p>
+                              </li>
+                              <li>
+                                                    <p>National Geographic</p>
+                              </li>
+                              <li>
+                                                    <p>National Geographic Now</p>
+                              </li>
+                              <li>
+                                                    <p>Cocina</p>
+                              </li>
+                              <li>
+                                                    <p>Decasa</p>
+                              </li>
+                              <li>
+                                                    <p>MTV</p>
+                              </li>
+                              <li>
+                                                    <p>MyMTV Music</p>
+                              </li>
+                              <li>
+                                                    <p>SOL Música</p>
+                              </li>
+                              <li>
+                                                    <p>Eurosport 1</p>
+                              </li>
+                              <li>
+                                                    <p>Selekt</p>
+                              </li>
+                          </ul><h3>¿Cómo es la experiencia de TV con decodificador HD y 4K?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>
@@ -520,7 +455,7 @@
                                 </div>
                             </div>
                             </li>    </ul><span style="left: 0;">(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
-                     <span><strong>Sin sorpresas</strong></span>
+                     <span><strong>Sin sorpresas.</strong></span>
                     <span><strong>No escondemos nada</strong></span>
                   </p><p>Impuestos y cuota de línea incluidos</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: 44,99€/mes durante 3 meses, después 89,99€/mes</strong></p><p>
                      <span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil + TV al 50% dto. 3 meses</span>

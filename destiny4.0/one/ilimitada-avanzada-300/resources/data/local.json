@@ -157,7 +157,7 @@
         "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
       }
     ],
-    "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra."
+    "legal": "(*) Podrás añadir más Líneas adicionales en el proceso de compra"
   },
 
   "tv": {
@@ -553,7 +553,7 @@
       "description": "<strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>"
     }
   ],
-  "legal": "(*)Podrás añadir más Líneas adicionales en el proceso de compra."
+  "legal": "(*) Podrás añadir más Líneas adicionales en el proceso de compra"
 },
 "alsoIncluded": {
   "title": "También incluido en Vodafone One ilimitada Avanzada 300Mbps",
@@ -587,11 +587,11 @@
       "conditions": "<strong>GRATIS</strong> durante 3 meses, después 7,99€/mes."
     }
   ],
-  "legal": "(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone"
+  "legal": "(*) Todos los servicios podrás gestionarlos en la app Mi Vodafone"
 },
 
   "sinSorpresas": {
-    "section": "<strong>Sin sorpresas</strong>",
+    "section": "<strong>Sin sorpresas.</strong>",
     "title": "<strong>No escondemos nada</strong>",
     "conditions": "Impuestos y cuota de línea incluidos",
     "question": "¿Cuánto voy a pagar?",
