@@ -32,5 +32,47 @@
         }
     ],
     "legal": "(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone"
-}
+},
+"deco": {
+    "title": "¿Cómo es la experiencia de TV con decodificador HD y 4K?",
+    "description": "Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.",
+    "img": [
+      {
+        "imgJpg": "",
+        "imgPng": "img/section-deco/contenido-tv",
+        "alt": "interfaz de tv Vodafone, sin decodificador",
+        "class": "ws10-u--1/1"
+      }
+    ],
+    "productDetail": [
+      {
+        "icon": "#icon-portals-for-videos-mid",
+        "description": "Accede a <strong>HBO España, Amazon Prime Video</strong>, YouTube, National Geographic Now, y más apps desde el menú de tu decodificador."
+      },
+      {
+        "icon": "#icon-play-mid",
+        "description": "No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo."
+      },
+      {
+        "icon": "",
+        "url": "img/section-deco/icon-control",
+        "name": "control",
+        "description": "Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días y Ver Ahora, Grabación en la nube y Descarga tus contenidos."
+      },
+      {
+        "url": "img/section-deco/icons-indicators-mid-render-icons-prepare",
+        "name": "render",
+        "icon": "",
+        "description": "La televisión aprende de tus gustos, <strong>te recomienda y encuentra contenido</strong> que estás buscando."
+      },
+      {
+        "icon": "#icon-alexa-mid",
+        "description": "Compatibilidad con el <strong>Control por Voz:</strong> mando para Control por Voz y altavoz inteligente Átika."
+      },
+      {
+        "icon": "#icon-connected-devices-mid",
+        "description": "Con el servicio multidispositivo puedes ver tus contenidos en tu smartphone, tablet, PC, Fire TC Stick, Chromecast y Smart TV. <strong>Tres reproducciones simultáneas</strong> (2 dispositivos + decodificador)."
+      }
+    ]
+  }
 }

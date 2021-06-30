@@ -246,60 +246,90 @@
                                         
                                         <p>Selekt</p>
                                     </li>
-                                </ul><p><strong>¿Cómo es la experiencia de TV sin decodificador?</strong></p><p>Vodafone TV con&nbsp;<strong>calidad HD en tu Smart TV (a través de la App Vodafone TV) y en tus
-                        dispositivos como&nbsp;móvil, tablet, PC, Fire TV Stick y Chromecast</strong>&nbsp;para disfrutar de
-                        una experiencia online.
-                        Consultar dispositivos compatibles
-                    </p><p>
+                                </ul><h3>¿Cómo es la experiencia de TV con decodificador HD y 4K?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                 Consultar dispositivos compatibles
                             </a>
-                        </p><p>Más de <strong>50.000 contenidos disponibles</strong>
-                                bajo demanda.</p><p>No te pierdas nada, todo el <strong>contenido desde
-                                el principio</strong> y con control del directo.</p><p>Los contenidos <strong>siempre disponibles</strong>
-                                con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>2 reproducciones simultáneas</strong> en
-                                diferentes dispositivos.</p><p><strong>Descarga tus contenidos</strong> para verlos
-                                estés donde estés y cuando quieras.</p><button aria-hidden="false">
+                        </p><ul>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-portals-for-videos-mid"></use>
+                                    </svg>
+                                  <p>
+                                    Accede a <strong>HBO España, Amazon Prime Video</strong>, YouTube, National Geographic Now, y más apps desde el menú de tu decodificador.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-play-mid"></use>
+                                    </svg>
+                                  <p>
+                                    No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días y Ver Ahora, Grabación en la nube y Descarga tus contenidos.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    La televisión aprende de tus gustos, <strong>te recomienda y encuentra contenido</strong> que estás buscando.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-alexa-mid"></use>
+                                    </svg>
+                                  <p>
+                                    Compatibilidad con el <strong>Control por Voz:</strong> mando para Control por Voz y altavoz inteligente Átika.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-connected-devices-mid"></use>
+                                    </svg>
+                                  <p>
+                                    Con el servicio multidispositivo puedes ver tus contenidos en tu smartphone, tablet, PC, Fire TC Stick, Chromecast y Smart TV. <strong>Tres reproducciones simultáneas</strong> (2 dispositivos + decodificador).
+                                  </p>
+                                </li>        </ul><button aria-hidden="false">
                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                         <title>Close</title>
                                         <use xlink:href="#icon-close"></use>
                                     </svg>
                                 </button><p>
                                     Dispositivos compatibles</p><ul>
-                                    <li>
-                                        <svg style="width: 60px; height: 60px;">
-                                            <title>icon-tv-mid</title>
-                                            <use xlink:href="#icon-mobile-mid"></use>
-                                        </svg>
-                                        <p>Móvil / Tablet iOS y Android.</p>
-                                    </li>
-                                    <li>
-                                        <svg style="width: 60px; height: 60px;">
-                                            <title>icon-tv-mid</title>
-                                            <use xlink:href="#icon-tv-mid"></use>
-                                        </svg>
-                                        <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
-                                        </p>
-                                    </li>
-                                    <li>
-                                        <svg style="width: 60px; height: 60px;">
-                                            <title>icon-connected-devices-mid</title>
-                                            <use xlink:href="#icon-connected-devices-mid"></use>
-                                        </svg>
-                                        <p>Chromecast.</p>
-                                    </li>
-                                    <li>
-                                        <svg style="width: 60px;">
-                                            <title>icon-desktop-mid</title>
-                                            <use xlink:href="#icon-desktop-mid"></use>
-                                        </svg>
-                                        <p>PC/Mac.</p>
-                                    </li>
-                                    <li>
-                                        
-                                        <p>Fire TV Stick.</p>
-                                    </li>
-                                </ul><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-tv-mid</title>
+                                                <use xlink:href="#icon-mobile-mid"></use>
+                                            </svg>
+                                            <p>Móvil / Tablet iOS y Android.</p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-tv-mid</title>
+                                                <use xlink:href="#icon-tv-mid"></use>
+                                            </svg>
+                                            <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
+                                            </p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-connected-devices-mid</title>
+                                                <use xlink:href="#icon-connected-devices-mid"></use>
+                                            </svg>
+                                            <p>Chromecast.</p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px;">
+                                                <title>icon-desktop-mid</title>
+                                                <use xlink:href="#icon-desktop-mid"></use>
+                                            </svg>
+                                            <p>PC/Mac.</p>
+                                        </li>
+                                        <li>
+                                            
+                                            <p>Fire TV Stick.</p>
+                                        </li>
+                                    </ul><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
                                     
                                 </div><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 35 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong> </p><h3><strong>También incluido en Vodafone One ilimitada 600Mbps</strong></h3><ul aria-labelledby="idList">
                             <li>
