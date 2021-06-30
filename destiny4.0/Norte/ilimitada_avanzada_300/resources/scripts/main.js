@@ -143,9 +143,9 @@ tools.onStylesReady = () => {
     console.log(infoBanner)
 
     if(infoBanner.top < 0){
-      ticket.setAttribute('style', 'position:fixed; top: 70px;');
+      ticket.setAttribute('style', 'position:fixed; top: 40px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;  top: 40px;');
+      ticket.setAttribute('style', 'position:absolute; top: 10px;');
     }
   }
 };
