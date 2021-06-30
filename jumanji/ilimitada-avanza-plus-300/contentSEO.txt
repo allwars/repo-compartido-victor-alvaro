@@ -3,7 +3,7 @@
               
               <span>Mejor Precio Vodafone</span>
             </span><h2>
-                Vodafone One Ilimitada Plus 300Mbps
+                Vodafone One ilimitada Plus 300Mbps
               </h2><ul data-vfes-seo-empathy-promoperiod="35% dto. 1 año Permanencia 1 año" data-vfes-seo-empathy-promoprice="64,49" data-vfes-seo-empathy-price="100,49">
                       <li>
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -253,7 +253,7 @@
                             simétrica</strong>
                           para tu hogar, podrás conectar hasta 12 dispositivos a la vez.</p><p><strong>Fijo con llamadas
                             ilimitadas a fijos y móviles.</strong>
-                        </p><h3><strong>También incluido en Vodafone One Ilimitada Plus 300Mbps</strong></h3><ul aria-labelledby="idList">
+                        </p><h3><strong>También incluido en Vodafone One ilimitada Plus 300Mbps</strong></h3><ul aria-labelledby="idList">
                       <li>
                         <div>
                           <div>
@@ -277,9 +277,9 @@
                               
                               <h3><strong>OneNumber</strong></h3>
                             </div>
-                            <p>Mismo número
+                            <p><strong>Mismo número
                               de teléfono y misma tarifa de voz y datos en todos tus
-                              dispositivos sin necesidad de tener el móvil cerca y sin cambiar
+                              dispositivos</strong> sin necesidad de tener el móvil cerca y sin cambiar
                               la SIM.</p>
                             <p><strong>GRATIS</strong>
                               durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono
@@ -321,7 +321,7 @@
                           </div>
                         </div>
                       </li>
-                    </ul><span style="left: 0;">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
+                    </ul><span style="left: 0;">(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
                     <span><strong>Sin sorpresas.</strong></span>
                     <span><strong>No escondemos nada</strong></span>
                   </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Fibra + Móvil (61,49€/mes) + decodificador (3€/mes): 64,49€/mes durante 1 año, después 100,49€/mes.</strong></p><p>
@@ -338,7 +338,7 @@
                       <title>Flecha derecha</title>
                       <use xlink:href="#icon-chevron-right"></use>
                     </svg>
-                  </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Plus 300Mbps?</strong></h3><ul>
+                  </a><h3><strong>¿Cómo contrato Vodafone One ilimitada Plus 300Mbps?</strong></h3><ul>
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                         <title>Business</title>
