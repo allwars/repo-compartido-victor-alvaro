@@ -1,7 +1,7 @@
 {
     "banner": {
         "title": "Fibra + Móvil",
-        "title2": "<strong>Ahora 2 líneas ilimitadas</strong>, fibra óptica y TV al <strong>50% dto. 6 meses</strong>",
+        "title2": "Ahora <strong>2 líneas ilimitadas</strong>, fibra óptica y TV al <strong>50% dto. 6 meses</strong>",
         "badge": "Oferta para Navarra, Euskadi, Asturias y Galicia"
     },
     "cardRates": {
@@ -51,7 +51,7 @@
                     "icon": "icon-mobile",
                     "title": "Datos y minutos ilimitados",
                     "subtitle": "Velocidad máxima 5G",
-                    "secondIcon": "icon-thunder3",
+                    "secondIcon": "icon-thunder-3",
                     "color": "ws10-c-card-rate__product-txt--primary"
                 }, {
                     "icon": "icon-sim",
@@ -72,7 +72,7 @@
                 "discount": "50% dto. 6 meses",
                 "label": "Permanencia 6 meses",
                 "finalPrice": "<del>69,99€/mes</del>",
-                "discountPrice": "34,49€<sub>/mes</sub>"
+                "discountPrice": "34,99€<sub>/mes</sub>"
             },
             "cta": {
                 "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-2/",
@@ -94,7 +94,7 @@
                     "color": "ws10-c-card-rate__product-txt--primary"
                 }, {
                     "icon": "icon-sim",
-                    "title": "Datos y minutos ilimitados GRATIS",
+                    "title": "Datos y minutos ilimitados",
                     "subtitle": "Segunda línea: Velocidad máxima 5G",
                     "secondIcon": "icon-thunder-3",
                     "color": "ws10-c-card-rate__product-txt--primary"

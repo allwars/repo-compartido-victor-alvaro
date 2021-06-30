@@ -97,7 +97,7 @@
   .ws10-c-form__radio:checked+.ws10-c-form__label::after {
     background-color: #007c92;
   }
-  
+
   .wfms__legal{
     font-size: 14px;
   }
@@ -207,7 +207,7 @@
     }
   }
 
- 
+
   .vf-superWifi{
     &__img{
       max-width: 350px;
@@ -248,7 +248,7 @@
     z-index: 100;
     bottom: 0;
     width: 100%;
-   
+
     @media screen and (min-width: 970px) {
       display: none;
     }

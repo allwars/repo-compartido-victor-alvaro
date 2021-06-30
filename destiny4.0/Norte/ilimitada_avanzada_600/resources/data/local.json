@@ -12,7 +12,7 @@
       {
         "icon": "icon-mobile",
         "title": "Datos y minutos ilimitados",
-        "subtitle": "Velocidad alta 5G",
+        "subtitle": "Velocidad máxima 5G",
         "secondIcon": "icon-thunder-3",
         "color": "ws10-c-card-rate__product-txt--primary"
       },
@@ -131,7 +131,7 @@
       },
       {
         "icon": "#icon-5G_esp-mid",
-        "description": "Todo con la <strong>nueva red 5G</strong>."
+        "description": "Todo con la nueva red 5G."
       }
     ]
   },
@@ -237,17 +237,20 @@
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/hbo-logo",
-          "alt": "logo HBO"
+          "alt": "logo HBO",
+          "classImg": "ws10-c-logo-list__logo"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/foxnow",
-          "alt": "logo foxnow"
+          "alt": "logo foxnow",
+          "classImg": "ws10-c-logo-list__logo"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/axnnow",
-          "alt": "logo TCM"
+          "alt": "logo TCM",
+          "classImg": "ws10-c-logo-list__logo"
         }
       ]
     },
@@ -535,7 +538,7 @@
   },
   "fibra": {
     "section": "Fibra óptica simétrica",
-    "title": "<strong>600Mbps de velocidad para tu hogar</strong>",
+    "title": "<strong>300Mbps de velocidad para tu hogar</strong>",
     "img": [
       {
         "imgJpg": "",
@@ -547,7 +550,7 @@
       {
         "thirdWidht": "ws10-u--2/3@desktop",
         "icon": "#icon-multiscreen-mid",
-        "description": "<strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
+        "description": "<strong>300Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar hasta 12 dispositivos a la vez."
       },
       {
         "thirdWidht": "ws10-u--2/3@desktop",
@@ -588,17 +591,17 @@
         "conditions": "<strong>GRATIS</strong> durante 3 meses, después 7,99€/mes."
       }
     ],
-    "legal": "(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone"
+    "legal": "(*) Todos los servicios podrás gestionarlos en la app Mi Vodafone"
   },
   "sinSorpresas": {
-    "section": "<strong>Sin sorpresas</strong>",
+    "section": "<strong>Sin sorpresas.</strong>",
     "title": "<strong>No escondemos nada</strong>",
     "conditions": "Impuestos y cuota de línea incluidos",
     "permanency": "<strong>Permanencia 6 meses</strong>",
     "permanency2": "<strong>Permanencia 1 año</strong>",
     "question": "¿Cuánto voy a pagar?",
     "paquete": "<strong>Paquete Fibra + Móvil: 34,99€/mes durante 6 meses, después 69,99€/mes</strong>",
-    "promociones": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50% dto. 6 meses</span><span data-js-vf='_portability'>Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span><span>Paquete de TV: GRATIS GRATIS durante 1 año, después 10€/mes</span>",
+    "promociones": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50% dto. 6 meses</span><span data-js-vf='_portability'>Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado)</span><span>Paquete de TV: GRATIS durante 1 año, después 10€/mes</span>",
     "bar": [
       {
         "bar1": "Los primeros 6 meses",
@@ -611,24 +614,24 @@
       {
         "bar1": "Los primeros 6 meses",
         "price1":"34,99",
-        "bar2": "A partir del mes 7 al 12",
+        "bar2": "Del mes 7 al 12",
         "price2":"69,99",
         "bar3": "A partir del año",
         "price3":"79,99"
       }
     ],
-    "instalacion": "<p class='ws10-u--mb1x'>La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€.</p> <p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.</p>",
+    "instalacion": "La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€. Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.",
     "cta": {
       "button": false,
       "targetBlank": true,
       "svg":true,
       "classCta": "ws10-c-link-chevron ws10-c-link-chevron--primary",
-      "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/",
+      "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/n/",
       "context": "condiciones legales",
       "element": "card addons",
       "category": "cta",
       "id": "-5460257368589",
-      "label": "Ver condiciones legales"
+      "label": "Ver Condiciones Legales"
     }
   }
 }
