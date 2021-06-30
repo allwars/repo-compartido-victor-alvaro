@@ -62,13 +62,7 @@
                                           </p>
                                       </div>
                                   </li>
-                              </ul><legend>
-                                          ¿Cómo quieres la línea móvil principal?
-                                      </legend><input type="radio" name="rate-1-card-rate" checked=""><label for="rate-1-card-rate-option-1" data-js-vf="_buttonTypeLine" data-js-vf-value="portability">
-                                                  Portabilidad
-                                              </label><input type="radio" name="rate-1-card-rate"><label for="rate-1-card-rate-option-2" data-js-vf="_buttonTypeLine" data-js-vf-value="newNumber">
-                                                  Nuevo Número
-                                              </label><p>
+                              </ul><p>
                                                       50% dto. 6 meses
                                                   </p><p>
                                                       Permanencia 6 meses
