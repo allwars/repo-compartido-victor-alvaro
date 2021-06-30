@@ -235,17 +235,20 @@
             {
               "imgJpg": "",
               "imgPng": "img/section-tv/amc-desktop",
-              "alt": "logo amc"
+              "alt": "logo amc",
+              "classImg":"ws10-c-logo-list__logo"
             },
             {
               "imgJpg": "",
               "imgPng": "img/section-tv/eurosport-desktop",
-              "alt": "logo Eurosport"
+              "alt": "logo Eurosport",
+              "classImg":"ws10-c-logo-list__logo"
             },
             {
               "imgJpg": "",
               "imgPng": "img/section-tv/tcm-desktop",
-              "alt": "logo TCM"
+              "alt": "logo TCM",
+              "classImg":"ws10-c-logo-list__logo"
             }
           ]
         },

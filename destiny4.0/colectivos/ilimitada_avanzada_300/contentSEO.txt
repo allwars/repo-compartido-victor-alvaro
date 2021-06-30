@@ -457,7 +457,7 @@
                         </div>
                     </div>
                     </li>    </ul><span style="left: 0;">(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
-            <span><strong>Sin sorpresas</strong></span>
+            <span><strong>Sin sorpresas.</strong></span>
             <span><strong>No escondemos nada</strong></span>
           </p><p>Impuestos y cuota de línea incluidos</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: 28,49€/mes durante 3 meses, después 48,44€/mes durante 2 años</strong></p><p>
              <span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50%dto. 3 meses, despúes al 15% durante 2 años.</span> <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span><span>Paquete de TV: GRATIS</span>
