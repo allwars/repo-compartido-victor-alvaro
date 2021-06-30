@@ -328,7 +328,7 @@
                     <span>Promociones:</span>
                     <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
                       después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span>
-                    <span>Paquete de TV: GRATIS</span>
+                    <span>Paquete de TV: GRATIS durante 1 año, después 10€/mes</span>
                   </p><p>La instalación del servicio de fibra, salvo que sea
                     autoinstalable, tiene un coste para el cliente de 150€.</p><p>Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
                     en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a target="_blank" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/" data-analytics-id="-5460257368589">
