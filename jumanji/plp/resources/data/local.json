@@ -94,7 +94,7 @@
                     "subtitle": "Segunda línea GRATIS 1 año"
                 }, {
                     "icon": "icon-broadband-or-wifi",
-                    "title": "600Mbps Fibra Óptica",
+                    "title": "300Mbps Fibra Óptica",
                     "subtitle": "+ llamadas ilimitadas en fijo"
                 }, {
                     "icon": "icon-tv",
@@ -103,11 +103,11 @@
                 }
             ],
             "offers": {
-                "promoPeriod": "34% dto. 1 año Permanencia 1 año",
-                "discount": "34% dto. 1 año",
+                "promoPeriod": "35% dto. 1 año Permanencia 1 año",
+                "discount": "35% dto. 1 año",
                 "label": "Permanencia 1 año",
-                "finalPrice": "<del>107,49€/mes</del>",
-                "discountPrice": "70,99€<sub>/mes</sub>"
+                "finalPrice": "<del>100,49€/mes</del>",
+                "discountPrice": "64,49€<sub>/mes</sub>"
             },
             "cta": {
                 "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-5/",
