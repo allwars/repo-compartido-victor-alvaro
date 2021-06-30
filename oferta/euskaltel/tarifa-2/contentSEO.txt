@@ -65,7 +65,7 @@
                                                     <del>79,49€/mes</del>
                                                 </p><p>
                                                     46,49€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1357891&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-4744117674253">
+                                                </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1211102&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-4744117674253">
                                             Lo quiero
                                         </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
                         </div><p>Datos ilimitados <strong>a alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad extrema y sin cortes.</p><p>Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.</p><p>Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.</p><p> Todo con la <strong>nueva red 5G.</strong></p><p><strong>Llévate la 2ª línea GRATIS 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong></p><p>Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.</p><p>Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p> <strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p>(*) Podrás añadir más Líneas adicionales en el proceso de compra
@@ -294,7 +294,7 @@
                                         </li>
                                     </ul><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
                                     
-                                </div><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 35 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong> </p><h3>
+                                </div><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong> </p><h3>
                         <strong>También incluido en Vodafone One ilimitada Avanzada 600Mbps</strong>
                     </h3><ul aria-labelledby="idList">
                          <li>
@@ -378,6 +378,6 @@
                     </ul><del>81,49€/mes</del><span>
                                   <span>46,49€</span>
                                   <span>/mes</span>
-                                </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1357891&amp;tcli=0&amp;tta=1" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-3207837130858">
+                                </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1211102&amp;tcli=0&amp;tta=1" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-3207837130858">
                     Lo quiero
                 </a>
