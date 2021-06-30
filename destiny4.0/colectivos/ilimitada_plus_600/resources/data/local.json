@@ -46,22 +46,6 @@
               "subtitle": "con HBO España, Amazon Prime y 50 canales más + deco incl."
           }
       ],
-      "form": {
-          "title": "¿Cómo quieres la línea móvil principal?",
-          "inputs": [
-              {
-                  "element": "cardrate",
-                  "context": "portabilidad",
-                  "category": "cta",
-                  "label": "Portabilidad"
-              }, {
-                  "element": "cardrate",
-                  "context": "alta nueva",
-                  "category": "cta",
-                  "label": "Nuevo Número"
-              }
-          ]
-      },
       "rates": [
           {
               "js-vf": "_newNumber",

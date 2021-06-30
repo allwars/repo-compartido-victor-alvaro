@@ -111,7 +111,7 @@
                             <use xlink:href="#icon-game-console-mid"></use>
                           </svg>
                         <p>
-                          <strong>Juega sin límites con una calidad extrema y sin cortes.</strong>
+                          <strong>Juega sin límites los juegos online con una calidad extrema y sin cortes.</strong>
                         </p>
                       </li>      <li>
                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
@@ -234,7 +234,7 @@
                 
                     </p><span style="left: 0; position:relative;">
                     (*) Puedes añadir más packs de TV en el proceso de compra
-                    </span><h3>¿Cómo es la experiencia de TV con decodificador HD y 4K?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
+                    </span><h3>¿Cómo es la experiencia de TV con decodificador HD y 4K?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la app Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
                            <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
                                Consultar dispositivos compatibles
                            </a>
@@ -251,7 +251,7 @@
                                      <use xlink:href="#icon-play-mid"></use>
                                    </svg>
                                  <p>
-                                   No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo.
+                                   No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con Control del directo.
                                  </p>
                                </li>                <li>
                                    
@@ -322,7 +322,7 @@
                           </p><p>
                             <strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong>
                           </p><h3>
-                        <strong>También incluido en Vodafone One ilimitada Plus 300Mbps</strong>
+                        <strong>También incluido en Vodafone One ilimitada Plus x2 600Mbps</strong>
                     </h3><ul aria-labelledby="idList">
                          <li>
                             <div>
