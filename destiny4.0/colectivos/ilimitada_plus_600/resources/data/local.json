@@ -122,7 +122,7 @@
       },
       {
         "icon": "#icon-game-console-mid",
-        "description": "<strong>Juega sin límites con una calidad extrema y sin cortes.</strong>"
+        "description": "<strong>Juega sin límites los juegos online con una calidad extrema y sin cortes.</strong>"
       },
       {
         "icon": "#icon-cloud-download-mid",
@@ -603,7 +603,7 @@
   },
   "deco": {
     "title": "¿Cómo es la experiencia de TV con decodificador HD y 4K?",
-    "description": "Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.",
+    "description": "Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la app Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.",
     "img": [
       {
         "imgJpg": "",
@@ -620,7 +620,7 @@
       },
       {
         "icon": "#icon-play-mid",
-        "description": "No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo."
+        "description": "No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con Control del directo."
       },
       {
         "icon": "",
@@ -668,7 +668,7 @@
     ]
   },
   "alsoIncluded": {
-    "title": "También incluido en Vodafone One ilimitada Plus 300Mbps",
+    "title": "También incluido en Vodafone One ilimitada Plus x2 600Mbps",
     "carousel-list": [
         {
             "src": "img/section-addons/secureNet.svg",
