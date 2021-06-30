@@ -55,7 +55,7 @@
                                                 </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1357920&amp;tcli=0&amp;tta=1" type="submit" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-0747927856028">
                                             Lo quiero
                                         </a><p>Móvil</p><p><strong>Datos ilimitados para que no te pierdas nada</strong></p><div>
-                        </div><p>Datos ilimitados a <strong>alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad extrema y sin cortes.</p><p>Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.</p><p> Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.</p><p> Todo con la nueva red 5G.</p><p><strong>Llévate la 2ª línea GRATIS 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong></p><p>Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.</p><p> Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional 24 horas, establecimiento de llamada incluido</p><p>(*) Podrás añadir más Líneas adicionales en el proceso de compra
+                        </div><p>Datos ilimitados a <strong>alta velocidad (10Mbps de bajada y de subida).</strong></p><p>Disfruta de música sin límites con una calidad extrema y sin cortes.</p><p>Consume vídeo en streaming en calidad 4K sin cortes ni interrupciones.</p><p> Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional 24 horas, establecimiento incluido.</p><p> <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong> Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones también en EEUU.</p><p> Todo con la <strong>nueva red 5G.</strong></p><p><strong>Llévate la 2ª línea GRATIS 1 año</strong></p><p>Datos ilimitados <strong>a media velocidad (2Mbps de bajada y de subida).</strong></p><p>Consulta tus redes sociales y usa aplicaciones de mensajería instantánea.</p><p> Disfruta de streaming sin necesidad de conectarte al WiFi, tú y tus datos.</p><p><strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional 24 horas, establecimiento de llamada incluido</p><p>(*) Podrás añadir más Líneas adicionales en el proceso de compra
                   </p><h3>
                     <span>
                         Televisión
@@ -162,44 +162,54 @@
                                         </li>
                                     </ul><h3>Fibra óptica simétrica</h3><h3><strong>600Mbps de velocidad para tu hogar</strong></h3><div>
                                     
-                                </div><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong> </p><h3><strong>También incluido en Vodafone One ilimitada Avanzada 600Mbps</strong></h3><ul aria-labelledby="idList">
-                            <li>
+                                </div><p><strong>600Mbps de fibra óptica simétrica</strong> para tu hogar, podrás conectar más de 25 dispositivos a la vez.</p><p><strong>Fijo con llamadas ilimitadas a fijos y móviles.</strong> </p><h3>
+                        <strong>También incluido en Vodafone One ilimitada Avanzada 300Mbps</strong>
+                    </h3><ul aria-labelledby="idList">
+                         <li>
+                            <div>
                                 <div>
-                                    <div>
-                                        <div>
-                                            
-                                            <h3><strong>Secure Net</strong></h3>
-                                        </div>
-                                        <p>Mantén seguro completamente tu smartphone ante amenazas externas con el antivirus integrado en el servicio Secure Net. Navega sin preocupaciones en todos tus dispositivos.</p>
-                                        <p><strong>GRATIS</strong> durante 3 meses, después 1€/mes.</p>
-                                    </div>
-                                </div>
-                            </li>
-                            <li>
                                 <div>
-                                    <div>
-                                        <div>
-                                            
-                                            <h3><strong>TIDAL</strong></h3>
-                                        </div>
-                                        <p>Plataforma de música en streaming para que disfrutes de tu música con la mejor calidad de audio.</p>
-                                        <p><strong>GRATIS</strong> durante 3 meses, después 7,99€/mes.</p>
-                                    </div>
+                                    
+                                    <h3><strong>Secure Net</strong></h3>
                                 </div>
-                            </li>
-                            <li>
+                                <p>Para que <strong>navegues sin riesgos en Internet por la red móvil y de acceso fijo de Vodafone</strong>, protegiéndote de virus (malware) y páginas fraudulentas (phishing).</p>
+                                <p><strong>GRATIS</strong> durante 3 meses, después 1€/mes.</p>
+                                </div>
+                            </div>
+                        </li>         <li>
+                            <div>
                                 <div>
-                                    <div>
-                                        <div>
-                                            
-                                            <h3><strong>OneNumber</strong></h3>
-                                        </div>
-                                        <p>Servicio MultiSIM, sal de casa sin tu smartphone y sigue disfrutando de él, ya que recibirás todas las notificaciones, mensajes y llamadas a un dispositivo secundario.
-                                        </p><p><strong>GRATIS</strong> durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono secundario y 1€/mes para Smart speaker con Alexa..</p>
-                                    </div>
+                                <div>
+                                    
+                                    <h3><strong>OneNumber</strong></h3>
                                 </div>
-                            </li>
-                        </ul><span style="left: 0;">(*) Todos los servicios podrás gestionarlos en la app de Mi Vodafone</span><p>
+                                <p><strong>Mismo número de teléfono y misma tarifa de voz y datos en todos tus dispositivos</strong> sin necesidad de tener el móvil cerca y sin cambiar la SIM.</p>
+                                <p><strong>GRATIS</strong> durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono secundario y 1€/mes para Smart speaker con Alexa.</p>
+                                </div>
+                            </div>
+                        </li>         <li>
+                            <div>
+                                <div>
+                                <div>
+                                    
+                                    <h3><strong>Secure Net Family</strong></h3>
+                                </div>
+                                <p><strong>Secure Net Family</strong> te protege de <strong>virus (malware) y páginas fraudulentas (phishing)</strong>, permitiendo además aplicar políticas de control parental en todos slos dispositivos de tu hogar.</p>
+                                <p><strong>GRATIS</strong> durante 3 meses, después 5€/mes (IVA incluido).</p>
+                                </div>
+                            </div>
+                        </li>         <li>
+                            <div>
+                                <div>
+                                <div>
+                                    
+                                    <h3><strong>TIDAL</strong></h3>
+                                </div>
+                                <p>Plataforma de música en streaming para que disfrutes de tu música con la mejor calidad de audio.</p>
+                                <p><strong>GRATIS</strong> durante 3 meses, después 7,99€/mes.</p>
+                                </div>
+                            </div>
+                        </li>    </ul><span style="left: 0;">(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
                     <span><strong>Sin sorpresas.</strong></span>
                     <span><strong>No escondemos nada</strong></span>
                   </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cúanto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: 46,49€/mes durante 1 año, después

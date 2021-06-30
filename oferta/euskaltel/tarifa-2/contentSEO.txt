@@ -349,7 +349,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
                       <title>Flecha derecha</title>
                       <use xlink:href="#icon-chevron-right"></use>
-                    </svg></a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Avanzada 600Mbps?</strong></h3><ul>
+                    </svg></a><h3><strong>¿Cómo contrato Vodafone One ilimitada Avanzada 600Mbps?</strong></h3><ul>
                         <li>
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"><title>Business</title><use xlink:href="#icon-shopping-trolley-mid"></use></svg>
                             <p>Compra online</p>
