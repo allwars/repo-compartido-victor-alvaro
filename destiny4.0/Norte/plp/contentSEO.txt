@@ -1,5 +1,5 @@
 <h2>Fibra + Móvil</h2><b>Oferta para Navarra, Euskadi, Asturias y Galicia</b><p>
-                <span><strong>Ahora 2 líneas ilimitadas</strong>, fibra óptica y TV al <strong>50% dto. 6 meses</strong></span>
+                <span>Ahora <strong>2 líneas ilimitadas</strong>, fibra óptica y TV al <strong>50% dto. 6 meses</strong></span>
             </p><div>
             
           </div><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 6 meses" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
@@ -80,7 +80,7 @@
                                                 <p>
                                                     Velocidad máxima 5G
                                                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                        <use xlink:href="#icon-thunder3"></use>
+                                                        <use xlink:href="#icon-thunder-3"></use>
                                                     </svg>
                                                 </p>
                                             </div>
@@ -131,7 +131,7 @@
                                                 </p><p>
                                                     <del>69,99€/mes</del>
                                                 </p><p>
-                                                    34,49€<sub>/mes</sub>
+                                                    34,99€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/n/paquete-one-2/" target="_self" name="Más info" title="Más info" data-analytics-id="-4725875160583">
                                             Más info
                                         </a><ul data-vfes-seo-empathy-promoperiod="50% dto. 6 meses Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
@@ -157,7 +157,7 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    Datos y minutos ilimitados GRATIS
+                                                    Datos y minutos ilimitados
                                                 </p>
                                                 <p>
                                                     Segunda línea: Velocidad máxima 5G
