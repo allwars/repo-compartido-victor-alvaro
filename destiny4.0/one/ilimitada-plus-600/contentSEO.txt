@@ -233,8 +233,8 @@
                             <use xlink:href="#icon-close"></use>
                           </svg>
                         </button><p>
-                              ¿Qué incluye el Pack Universal?
-                          </p><p>El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.</p><p>Contenidos incluidos:</p><ul>
+                              ¿Qué incluye el Pack Plus x2 Series?
+                          </p><p>TV Plus x2 Series con &lt;strong&gt;HBO España y Amazon Prime&lt;/strong&gt; con Prime Video, &lt;strong&gt;+50 canales y miles de contenidos&lt;/strong&gt; (cine, serie, documentales, música y deportes) con el &lt;strong&gt;decodificador 4K.&lt;/strong&gt;</p><p>Contenidos incluidos:</p><ul>
                               <li>
                                                     <p>logo HBO</p>
                               </li>
@@ -586,8 +586,8 @@
            Lo quiero
        
              <span></span>
-         </a><del>89,99€/mes</del><span>
-              <span>44,99€<sub>/mes</sub>€</span>
+         </a><del>89,99</del><span>
+              <span>44,99€</span>
               <span>/mes</span>
             </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
            Lo quiero
