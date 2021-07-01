@@ -3,74 +3,24 @@
   data-js-vf="_stickyRate"
 >
   <div class="ws10-c-card ws10-c-card--no-borders-bottom-radius">
-    <div class="ws10-c-card-rate-sticky__w-cta" data-js-vf="_portability">
+     {{#each sticky.rates }}
+    <div class="ws10-c-card-rate-sticky__w-cta {{ hidden }}" data-js-vf="{{ js-vf }}">
       <div
         class="ws10-c-card-rate-sticky__offer ws10-flex ws10-flex__direction--column"
       >
         <del
           class="ws10-c-card-rate-sticky__dto-price"
-        >{{price.0.precio_sinpromo}}€/mes</del>
+        >{{{ offers.finalPrice }}}€/mes</del>
         <span class="ws10-c-card-rate-sticky__final-price">
           <span
             class="ws10-c-card-rate-sticky__final-price-value"
-          >{{price.0.precio_conpromo}}€</span>
+          >{{{ offers.discountPrice }}}€</span>
           <span class="ws10-c-card-rate-sticky__final-price-date">/mes</span>
         </span>
       </div>
-      <a
-                        data-cta="300:port:card"
-                        type="submit"
-                        title="{{cta.title}}"
-                        class="ws10-c-button ws10-c-button--auto"
-                        href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id={{ cta.loquiero.[0] }}&tcli=0&tta=1"
-                        onmousedown="addtocart(utag_data.plans_add2cart[0])"
-                        data-analytics-element="stiky inferior"
-                        data-analytics-context="{{cta.context}}"
-                        data-analytics-category="{{cta.category}}"
-                        data-analytics-id="{{cta.id}}"
-                      >
-                        {{cta.title}}
-                        <span
-                          class="ws10-u--hidden-visually"
-
-                        ></span>
-                      </a>
+   {{>cta cta}}
     </div>
-    <div
-      class="ws10-c-card-rate-sticky__w-cta ws10-u--hidden"
-      data-js-vf="_newNumber"
-    >
-      <div
-        class="ws10-c-card-rate-sticky__offer ws10-flex ws10-flex__direction--column"
-      >
-        <del
-          class="ws10-c-card-rate-sticky__dto-price"
-        >{{price.1.precio_sinpromo}}€/mes</del>
-        <span class="ws10-c-card-rate-sticky__final-price">
-          <span
-            class="ws10-c-card-rate-sticky__final-price-value"
-          >{{price.1.precio_conpromo}}€</span>
-          <span class="ws10-c-card-rate-sticky__final-price-date">/mes</span>
-        </span>
-      </div>
-      <a
-                        data-cta="300:port:card"
-                        type="submit"
-                        title="{{cta.title}}"
-                        class="ws10-c-button ws10-c-button--auto"
-                        href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id={{ cta.loquiero.[1] }}&tcli=0&tta=1"
-                        onmousedown="addtocart(utag_data.plans_add2cart[1])"
-                        data-analytics-element="stiky inferior"
-                        data-analytics-context="{{cta.context}}"
-                        data-analytics-category="{{cta.category}}"
-                        data-analytics-id="{{cta.id}}"
-                      >
-                        {{cta.title}}
-                        <span
-                          class="ws10-u--hidden-visually"
+    {{/each }}
 
-                        ></span>
-                      </a>
-    </div>
   </div>
 </section>

@@ -90,7 +90,54 @@
       }
     ]
   },
-
+  "sticky": {
+    "rates": [
+      {
+        "js-vf": "_newNumber",
+        "hidden": "ws10-u--hidden",
+        "offers": {
+          "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+          "discount": "50% dto. 3 meses",
+          "label": "Permanencia 1 año",
+          "finalPrice": "<del>89,99</del>",
+          "discountPrice": "44,99"
+        },
+        "cta": {
+          "dataCTA": "300:port:card",
+          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&tcli=0&tta=1",
+          "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
+          "context": "lo quiero",
+          "element": "cardrate",
+          "category": "cta",
+          "id": "-7498449761489",
+          "label": "Lo quiero",
+          "classCta": "ws10-c-button ws10-c-button--auto"
+        }
+      },
+      {
+        "js-vf": "_portability",
+        "hidden": "",
+        "offers": {
+          "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+          "discount": "50% dto. 3 meses",
+          "label": "Permanencia 1 año",
+          "finalPrice": "<del>89,99€/mes</del>",
+          "discountPrice": "44,99€<sub>/mes</sub>"
+        },
+        "cta": {
+          "dataCTA": "300:port:card",
+          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&tcli=0&tta=1",
+          "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
+          "context": "lo quiero",
+          "element": "cardrate",
+          "category": "cta",
+          "id": "-7498449761489",
+          "label": "Lo quiero",
+          "classCta": "ws10-c-button ws10-c-button--auto"
+        }
+      }
+    ]
+},
   "mobile": {
     "section": "Móvil",
     "title": "Datos ilimitados en tu móvil para TODO",
@@ -460,7 +507,8 @@
         "imgJpg": "",
         "imgPng": "img/section-deco/contenido-tv",
         "alt": "interfaz de tv Vodafone, sin decodificador",
-        "class": "ws10-u--1/1"
+        "class": "ws10-u--1/1",
+      "classImg": "ws10-u--1/1"
       }
     ],
     "productDetail": [
