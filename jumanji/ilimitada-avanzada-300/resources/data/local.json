@@ -49,9 +49,33 @@
                   "context": "lo quiero",
                   "element": "cardrate",
                   "category": "cta",
-                  "id": "-7498449761489",
+                  "id": "-168446368",
                   "label": "Lo quiero",
                   "classCta": "ws10-c-button ws10-c-button--auto"
+              }
+          }
+      ]
+  },
+  "sticky": {
+      "rates": [
+          {
+              "offers": {
+                  "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+                  "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
+                  "label": "Permanencia 1 año",
+                  "finalPrice": "77,49€/mes",
+                  "discountPrice": "52,99"
+              },
+              "cta": {
+                  "dataCTA": "300:port:card",
+                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260377&tcli=0&tta=1",
+                  "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
+                  "context": "lo quiero",
+                  "element": "cardrate",
+                  "category": "cta",
+                  "id": "-168446368",
+                  "label": "Lo quiero",
+                  "classCta":"ws10-c-button ws10-c-button--auto vf-button--mobile"
               }
           }
       ]

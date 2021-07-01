@@ -66,7 +66,7 @@
                                                     <del>77,49€/mes</del>
                                                 </p><p>
                                                     52,99€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-3/" target="_self" name="Más info" title="Más info" data-analytics-id="-4725875160583">
+                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-3/" target="_self" name="Más info" title="Más info" data-analytics-id="-168446368">
                                             Más info
                                         </a><ul data-vfes-seo-empathy-promoperiod="28% dto. 1 año Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                         <li>
@@ -132,9 +132,9 @@
                                                     <del>87,49€/mes</del>
                                                 </p><p>
                                                     62,99€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-4/" target="_self" name="Más info" title="Más info" data-analytics-id="-4725875160583">
+                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-4/" target="_self" name="Más info" title="Más info" data-analytics-id="-168446368">
                                             Más info
-                                        </a><ul data-vfes-seo-empathy-promoperiod="34% dto. 1 año Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
+                                        </a><ul data-vfes-seo-empathy-promoperiod="35% dto. 1 año Permanencia 1 año" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <use xlink:href="#icon-mobile"></use>
@@ -170,7 +170,7 @@
                                             </svg>
                                             <div>
                                                 <p>
-                                                    600Mbps Fibra Óptica
+                                                    300Mbps Fibra Óptica
                                                 </p>
                                                 <p>
                                                     + llamadas ilimitadas en fijo
@@ -191,14 +191,14 @@
                                             </div>
                                         </li>
                                     </ul><p>
-                                                    34% dto. 1 año
+                                                    35% dto. 1 año
                                                 </p><p>
                                                     Permanencia 1 año
                                                 </p><p>
-                                                    <del>107,49€/mes</del>
+                                                    <del>100,49€/mes</del>
                                                 </p><p>
-                                                    70,99€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-5/" target="_self" name="Más info" title="Más info" data-analytics-id="-4725875160583">
+                                                    64,49€<sub>/mes</sub>
+                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-5/" target="_self" name="Más info" title="Más info" data-analytics-id="-168446420">
                                             Más info
                                         </a><b>¡Nuevo!</b><h4>¿Necesitas más líneas?
                     Ahora llegan las tarifas para familias</h4><p>Descubre las tarifas de Hogar ilimitable y disfruta de datos y minutos ilimitados en todas tus líneas de móvil con 5G, la mejor fibra de Vodafone, máxima conexión WiFi con Super WiFi, una extensa selección de cine y series con HBO España y Amazon Prime y la seguridad que necesita tu familia.</p><a data-analytics-id="-5349132379100" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/tarifas-familiares/" target="_self">
