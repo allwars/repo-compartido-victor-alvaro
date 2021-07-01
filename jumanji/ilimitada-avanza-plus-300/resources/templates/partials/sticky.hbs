@@ -1,3 +1,20 @@
+<section class="vf-sticky ws10-c-card-rate-sticky ws10-u--hidden" data-js-vf="_stickyRate">
+  <div class="ws10-c-card ws10-c-card--no-borders-bottom-radius">
+     {{#each sticky.rates }}
+     <div class="ws10-c-card-rate-sticky__w-cta {{ hidden }}" data-js-vf="{{ js-vf }}">
+         <div class="ws10-c-card-rate-sticky__offer ws10-flex ws10-flex__direction--column">
+            <del class="ws10-c-card-rate-sticky__dto-price">{{{ offers.finalPrice }}}</del>
+            <span class="ws10-c-card-rate-sticky__final-price">
+                <span class="ws10-c-card-rate-sticky__final-price-value">{{{ offers.discountPrice }}}€</span>
+                <span class="ws10-c-card-rate-sticky__final-price-date">/mes</span>
+            </span>
+        </div>
+        {{>cta cta}}
+    </div>
+    {{/each }}
+  </div>
+</section>
+
 <section
   class="vf-sticky ws10-c-card-rate-sticky ws10-u--hidden"
   data-js-vf="_stickyRate"

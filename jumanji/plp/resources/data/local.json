@@ -38,7 +38,7 @@
                 "context": "mas info:vodafone one ilimitada avanzada 300mbps",
                 "element": "cardrate",
                 "category": "cta",
-                "id": "-4725875160583",
+                "id": "-168446368",
                 "label": "Más info"
             }
         },
@@ -76,7 +76,7 @@
                 "context": "mas info:vodafone one ilimitada avanzada 600mbps",
                 "element": "cardrate",
                 "category": "cta",
-                "id": "-4725875160583",
+                "id": "-168446368",
                 "label": "Más info"
             }
         },
@@ -114,7 +114,7 @@
                 "context": "mas info:vodafone one ilimitada plus 600mbps",
                 "element": "cardrate",
                 "category": "cta",
-                "id": "-4725875160583",
+                "id": "-168446420",
                 "label": "Más info"
             }
         }

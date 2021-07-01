@@ -118,7 +118,6 @@ tools.onStylesReady = () => {
     }
   }
 
-
   function positionOfTicket() {
     let infoBanner = banner.getBoundingClientRect();
     console.log(infoBanner)
@@ -127,6 +126,24 @@ tools.onStylesReady = () => {
     } else {
       ticket.setAttribute('style', 'position:absolute; top: 10px;');
     }
+  }
+
+  /**
+   * Bloque de inicialización de la página
+   */
+  if (window.matchMedia('(min-width: 768px)').matches) {
+      positionOfTicket();
+      document.addEventListener('scroll', () => {
+          positionOfTicket();
+          ticketOpacity();
+          showStickyRate();
+          hideStickyRate();
+      });
+  } else {
+      document.addEventListener('scroll', () => {
+          showStickyRate();
+          hideStickyRate();
+      });
   }
 };
 
@@ -191,26 +208,6 @@ tools.onFrameworkReady = () => {
      });
    }
 
-
-
   // DO SOMETHING
 
 };
-/**
-   * Bloque de inicialización de la página
-   */
-
- if (window.matchMedia('(min-width: 768px)').matches) {
-  positionOfTicket();
-  document.addEventListener('scroll', () => {
-    positionOfTicket();
-    ticketOpacity();
-    showStickyRate();
-    hideStickyRate();
-  });
-} else {
-  document.addEventListener('scroll', () => {
-    showStickyRate();
-    hideStickyRate();
-  });
-}
