@@ -1,0 +1,24 @@
+<li
+  class="ws10-c-product-detail ws10-u--mt2x ws10-u--mb2x ws10-u--pr3x {{#if thirdWidht }} {{ thirdWidht }} {{else}} ws10-u--1/2@desktop {{/if}}"
+>
+  {{#if icon}}
+    <svg
+      class="ws10-c-product-detail__icon"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      width="24px"
+      height="24px"
+    >
+      <use class="icon-v3" xlink:href="{{icon}}"></use>
+    </svg>
+  {{else}}
+    <img
+      class="ws10-c-product-detail__icon"
+      src="{{url}}.svg"
+      alt="{{name}}"
+    />
+  {{/if}}
+  <p class="ws10-c-product-detail__text">
+    {{{description}}}
+  </p>
+</li>

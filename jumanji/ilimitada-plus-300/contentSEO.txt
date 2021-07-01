@@ -1,10 +1,10 @@
 <span>Fibra + Móvil
-              <strong>30% dto. 1 año</strong></span><h2>Fibra, dos líneas de datos y TV para ser ilimitable</h2><span>
+              <strong>28% dto. 1 año</strong></span><h2>Fibra, dos líneas de datos y TV para ser ilimitable</h2><span>
               
               <span>Mejor Precio Vodafone</span>
             </span><h2>
-                Vodafone One Ilimitada Plus 300Mbps
-              </h2><ul data-vfes-seo-empathy-promoperiod="30% dto. 1 año Permanencia 1 año" data-vfes-seo-empathy-promoprice="64,49" data-vfes-seo-empathy-price="100,49">
+                Vodafone One Ilimitada Avanzada 300Mbps
+              </h2><ul data-vfes-seo-empathy-promoperiod="28% dto. 1 año Permanencia 1 año" data-vfes-seo-empathy-promoprice="62,99" data-vfes-seo-empathy-price="87,49">
                       <li>
                         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                           <use xlink:href="#icon-mobile"></use>
@@ -15,7 +15,7 @@
                             Datos y minutos ilimitados
                           </p>
                           <p>
-                            Velocidad máxima 5G
+                            Velocidad alta
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                               <use xlink:href="#icon-thunder-3"></use>
                             </svg>
@@ -31,7 +31,7 @@
                             Segunda línea GRATIS 1 año
                           </p>
                           <p>
-                            Datos y minutos ilimitados
+                            Datos y minutos ilimitados GRATIS
                           </p>
                         </div>
                       </li>
@@ -56,7 +56,7 @@
                         </svg>
                         <div>
                           <p>
-                            Pack TV Seriefans GRATIS 1 año
+                            Pack TV Seriefans
                           </p>
                           <p style="font-size: 17px;">
                             con HBO España y 60 canales más con deco incl.
@@ -65,19 +65,19 @@
                       </li>
     
                     </ul><p>
-                              30% dto. 1 año
+                              28% dto. 1 año
                             </p><p>
                               Permanencia 1 año
                             </p><p>
-                              <del>100,49€/mes</del>
+                              <del>87,49€/mes</del>
                             </p><p>
-                              64,49€<sub>/mes</sub>
+                              62,99€<sub>/mes</sub>
                             </p><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260688&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="#">
                           Lo quiero
                           <span data-cta-a11y="">
                           </span>
                         </a><p>
-                              30% dto. 1 año
+                              28% dto. 1 año
                             </p><p>
                               Permanencia 1 año
                             </p><p>
@@ -89,16 +89,16 @@
                           <span data-cta-a11y="">
                           </span>
                         </a><p>Móvil</p><p><strong>Datos ilimitados en tu móvil para TODO</strong></p><div>
-                    </div><p>Datos ilimitados a
-                        <strong>máxima velocidad (1Gbps de bajada y de subida).</strong></p><p><strong>Juega sin límites con una calidad extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos
+                    </div><p>Datos ilimitados 
+                        <strong>a máxima velocidad (10Mbps de bajada y de subida).</strong></p><p><strong>Juega sin límites con una calidad extrema y sin cortes.</strong></p><p>Descarga y sube todos los archivos
                         que quieras.</p><p>Disfruta de streaming sin necesidad
                         de conectarte al WiFi, tú y tus datos.</p><p>
                         <strong>Llamadas y SMS ilimitados</strong>
                         con cualquier operador nacional las 24 horas, establecimiento incluido.</p><p>
                         <strong>Roaming incluido en Unión Europea, Reino Unido y EEUU.</strong>
                         Disfruta con las mismas condiciones de tu tarifa, sin preocupaciones
-                        también en EEUU.</p><p> Todo con la  nueva red 5G.</p><h3>
-                              <strong>Llévate la 2ª Línea GRATIS 1 año</strong>
+                        también en EEUU.</p><p> Todo con la  <strong>nueva red 5G.</strong></p><h3>
+                              <strong>Llévate la 2ª línea GRATIS 1 año</strong>
                           </h3><p>
                                   Datos ilimitados
                                   <strong> a media velocidad (2Mbps de bajada y de subida).</strong>
@@ -110,12 +110,12 @@
                                   <strong>Llamadas y SMS ilimitados</strong>
                                   con cualquier operador nacional las 24 horas, establecimiento incluido.
                               </p><p>
-                              (*)Podrás añadir más Líneas adicionales en el proceso de compra
+                              (*) Podrás añadir más Líneas adicionales en el proceso de compra
                           </p><h3>
                     <span>Televisión</span>
                     <span><strong>Pack de TV Seriefans
-                        GRATIS</strong></span>
-                  </h3><p>incluye HBO y 60 canales más
+                        </strong></span>
+                  </h3><p>incluye HBO España y 60 canales más
                   </p><ul>
                       <li>
                         
@@ -163,74 +163,97 @@
                       <a data-backdrop="Seriefans" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-0003391249299">
                         Ver todos los canales incluidos
                       </a>
-                    </p><p><strong>¿Cómo es la experiencia de TV con decodificador HD y 4K?</strong></p><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong>
-                    (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia
-                    completa e integrada.</strong>
-                  </p><p>
-                      <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
-                        Consultar dispositivos compatibles
-                      </a>
-                    </p><p>Más de
-                        <strong>50.000 contenidos disponibles</strong>
-                        bajo demanda.</p><p>No te pierdas nada, todo el
-                        <strong>contenido desde el principio</strong>
-                        y con control del directo.</p><p>Los contenidos
-                        <strong>siempre disponibles</strong>
-                        con Últimos 7 días, Grabación, Ver Ahora y Descarga.</p><p><strong>3 reproducciones
-                          simultáneas</strong>
-                        (2 dispositivos + decodificador)</p><p><strong>HBO España, Amazon Prime Video, Filmin, Netflix,
-                        Youtube, National Geographic+, TIDAL, Modo niños</strong> y más apps desde el
-                        menú y búsquedas <strong>desde tu decodificador.</strong></p><button aria-hidden="false">
-                          <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                            <title>Close</title>
-                            <use xlink:href="#icon-close"></use>
-                          </svg>
-                        </button><p>
-                          Dispositivos compatibles</p><ul>
-                          <li>
-                            <svg style="width: 60px; height: 60px;">
-                              <title>icon-tv-mid</title>
-                              <use xlink:href="#icon-mobile-mid"></use>
-                            </svg>
-                            <p>Móvil / Tablet iOS y
-                              Android.</p>
-                          </li>
-                          <li>
-                            <svg style="width: 60px; height: 60px;">
-                              <title>icon-tv-mid</title>
-                              <use xlink:href="#icon-tv-mid"></use>
-                            </svg>
-                            <p>Modelos de smart
-                              TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde
-                              2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
-                            </p>
-                          </li>
-                          <li>
-                            <svg style="width: 60px; height: 60px;">
-                              <title>icon-connected-devices-mid</title>
-                              <use xlink:href="#icon-connected-devices-mid"></use>
-                            </svg>
-                            <p>Chromecast.</p>
-                          </li>
-                          <li>
-                            <svg style="width: 60px;">
-                              <title>icon-desktop-mid</title>
-                              <use xlink:href="#icon-desktop-mid"></use>
-                            </svg>
-                            <p>PC/Mac.</p>
-                          </li>
-                          <li>
-                            
-                            <p>Fire TV Stick.</p>
-                          </li>
-                        </ul><h3>Fibra óptica
+                    </p><h3>¿Cómo es la experiencia de TV con decodificador HD y 4K?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
+                            <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">
+                                Consultar dispositivos compatibles
+                            </a>
+                        </p><ul>
+                                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-portals-for-videos-mid"></use>
+                                    </svg>
+                                  <p>
+                                    Accede a <strong>HBO España, Amazon Prime Video</strong>, YouTube, National Geographic Now, y más apps desde el menú de tu decodificador.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-play-mid"></use>
+                                    </svg>
+                                  <p>
+                                    No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días y Ver Ahora, Grabación en la nube y Descarga tus contenidos.
+                                  </p>
+                                </li>                <li>
+                                    
+                                  <p>
+                                    La televisión aprende de tus gustos, <strong>te recomienda y encuentra contenido</strong> que estás buscando.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-alexa-mid"></use>
+                                    </svg>
+                                  <p>
+                                    Compatibilidad con el <strong>Control por Voz:</strong> mando para Control por Voz y altavoz inteligente Átika.
+                                  </p>
+                                </li>                <li>
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
+                                      <use xlink:href="#icon-connected-devices-mid"></use>
+                                    </svg>
+                                  <p>
+                                    Con el servicio multidispositivo puedes ver tus contenidos en tu smartphone, tablet, PC, Fire TC Stick, Chromecast y Smart TV. <strong>Tres reproducciones simultáneas</strong> (2 dispositivos + decodificador).
+                                  </p>
+                                </li>        </ul><button aria-hidden="false">
+                                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                        <title>Close</title>
+                                        <use xlink:href="#icon-close"></use>
+                                    </svg>
+                                </button><p>
+                                    Dispositivos compatibles</p><ul>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-tv-mid</title>
+                                                <use xlink:href="#icon-mobile-mid"></use>
+                                            </svg>
+                                            <p>Móvil / Tablet iOS y Android.</p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-tv-mid</title>
+                                                <use xlink:href="#icon-tv-mid"></use>
+                                            </svg>
+                                            <p>Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
+                                            </p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px; height: 60px;">
+                                                <title>icon-connected-devices-mid</title>
+                                                <use xlink:href="#icon-connected-devices-mid"></use>
+                                            </svg>
+                                            <p>Chromecast.</p>
+                                        </li>
+                                        <li>
+                                            <svg style="width: 60px;">
+                                                <title>icon-desktop-mid</title>
+                                                <use xlink:href="#icon-desktop-mid"></use>
+                                            </svg>
+                                            <p>PC/Mac.</p>
+                                        </li>
+                                        <li>
+                                            
+                                            <p>Fire TV Stick.</p>
+                                        </li>
+                                    </ul><h3>Fibra óptica
                     simétrica</h3><h3><strong>300Mbps de velocidad para tu hogar</strong></h3><div>
                           
                         </div><p><strong>300Mbps de fibra óptica
                             simétrica</strong>
                           para tu hogar, podrás conectar hasta 12 dispositivos a la vez.</p><p><strong>Fijo con llamadas
                             ilimitadas a fijos y móviles.</strong>
-                        </p><h3><strong>También incluido en Vodafone One Ilimitada Plus 300Mbps</strong></h3><ul aria-labelledby="idList">
+                        </p><h3><strong>También incluido en Vodafone One Ilimitada Avanzada 300Mbps</strong></h3><ul aria-labelledby="idList">
                       <li>
                         <div>
                           <div>
@@ -301,7 +324,7 @@
                     </ul><span style="left: 0;">(*)Todos los servicios podrás gestionarlos en la App Mi Vodafone</span><p>
                     <span><strong>Sin sorpresas.</strong></span>
                     <span><strong>No escondemos nada</strong></span>
-                  </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Fibra + Móvil (61,49€/mes) + decodificador (3€/mes): 64,49€/mes durante 1 año, después 100,49€/mes.</strong></p><p>
+                  </p><p>Impuestos y cuota de línea incluidos.</p><p><strong>Permanencia 1 año</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Fibra + Móvil (61,49€/mes) + decodificador (3€/mes): 62,99€/mes durante 1 año, después 87,49€/mes.</strong></p><p>
                     <span>Promociones:</span>
                     <span data-js-vf="_portability">Línea adicional: GRATIS durante 1 año,
                       después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span>
@@ -315,7 +338,7 @@
                       <title>Flecha derecha</title>
                       <use xlink:href="#icon-chevron-right"></use>
                     </svg>
-                  </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Plus 300Mbps?</strong></h3><ul>
+                  </a><h3><strong>¿Cómo contrato Vodafone One Ilimitada Avanzada 300Mbps?</strong></h3><ul>
                     <li>
                       <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px">
                         <title>Business</title>
@@ -520,8 +543,8 @@
                                         
                                         <p>Fire TV Stick.</p>
                                     </li>
-                                </ul><del>100,49€/mes</del><span>
-              <span>64,49€</span>
+                                </ul><del>87,49€/mes</del><span>
+              <span>62,99€</span>
               <span>/mes</span>
             </span><a type="submit" name="cta" title="Lo quiero" data-cta="300:port:card" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1260688&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="#">
                           Lo quiero
