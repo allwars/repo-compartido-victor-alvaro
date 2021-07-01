@@ -233,39 +233,41 @@
                             <use xlink:href="#icon-close"></use>
                           </svg>
                         </button><p>
-                              Canales Pack Seriefans
-                          </p><ul>
+                              ¿Qué incluye el Pack Universal?
+                          </p><p>El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.</p><p>Contenidos incluidos:</p><ul>
                               <li>
-                                                    <p>HBO España</p>
+                                                    <p>logo HBO</p>
                               </li>
                               <li>
-                                                    <p>FOXNOW</p>
+                                                    <p>logo amazon</p>
                               </li>
                               <li>
-                                                    <p>AXN Now</p>
+                                                    <p>logo foxnow</p>
                               </li>
                               <li>
-                                                    <p>TNT</p>
+                                                    <p>logo FOX</p>
                               </li>
                               <li>
-                                                    <p>FOX</p>
+                                                    <p>logo TNT</p>
                               </li>
                               <li>
-                                                    <p>AMC SELEKT Series</p>
+                                                    <p>logo syfy</p>
                               </li>
                               <li>
-                                                    <p>SYFY</p>
+                                                    <p>logo amc series</p>
                               </li>
                               <li>
-                                                    <p>Calle 13</p>
+                                                    <p>logo calle 13</p>
                               </li>
                               <li>
-                                                    <p>AXN</p>
+                                                    <p>logo AXN NOW</p>
                               </li>
                               <li>
-                                                    <p>AXN White</p>
+                                                    <p>logo AXN</p>
                               </li>
-                          </ul><p>Y además todos los Packs incluyen estos canales:</p><ul>
+                              <li>
+                                                    <p>logo AXN White</p>
+                              </li>
                               <li>
                                                     <p>AMC</p>
                               </li>
@@ -273,7 +275,7 @@
                                                     <p>FOX Life</p>
                               </li>
                               <li>
-                                                    <p>Cosmo</p>
+                                                    <p>COSMO Life</p>
                               </li>
                               <li>
                                                     <p>Comedy Central</p>
@@ -312,7 +314,70 @@
                                                     <p>Eurosport 1</p>
                               </li>
                               <li>
-                                                    <p>Selekt</p>
+                                                    <p>SELEKT</p>
+                              </li>
+                              <li>
+                                                    <p>Euronews</p>
+                              </li>
+                              <li>
+                                                    <p>CNN International</p>
+                              </li>
+                              <li>
+                                                    <p>Az Corazón</p>
+                              </li>
+                              <li>
+                                                    <p>CNBC</p>
+                              </li>
+                              <li>
+                                                    <p>El Trece TV</p>
+                              </li>
+                              <li>
+                                                    <p>Cubavisión Internacional</p>
+                              </li>
+                              <li>
+                                                    <p>BBC HD</p>
+                              </li>
+                              <li>
+                                                    <p>BLOOMERANG</p>
+                              </li>
+                              <li>
+                                                    <p>Ve Plus TV</p>
+                              </li>
+                              <li>
+                                                    <p>TV Chile</p>
+                              </li>
+                              <li>
+                                                    <p>Caracol</p>
+                              </li>
+                              <li>
+                                                    <p>Aljazeera</p>
+                              </li>
+                              <li>
+                                                    <p>CGTN</p>
+                              </li>
+                              <li>
+                                                    <p>RT</p>
+                              </li>
+                              <li>
+                                                    <p>Canal Parlamento</p>
+                              </li>
+                              <li>
+                                                    <p>France 24</p>
+                              </li>
+                              <li>
+                                                    <p>PRO TV</p>
+                              </li>
+                              <li>
+                                                    <p>TV5 Monde</p>
+                              </li>
+                              <li>
+                                                    <p>EWTN</p>
+                              </li>
+                              <li>
+                                                    <p>DW</p>
+                              </li>
+                              <li>
+                                                    <p>TVP</p>
                               </li>
                           </ul><h3>¿Cómo es la experiencia de TV con decodificador HD y 4K?</h3><p>Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada</strong>.</p><p>
                             <a data-backdrop="dispositivos-compatibles" data-analytics-id="-3060846269077" data-backdrop-close="" aria-haspopup="dialog">

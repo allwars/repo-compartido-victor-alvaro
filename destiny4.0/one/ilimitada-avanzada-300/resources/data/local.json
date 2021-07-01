@@ -116,7 +116,7 @@
                     "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&tcli=0&tta=1",
                     "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                     "context": "lo quiero",
-                    "element": "cardrate",
+                    "element": "stiky inferior",
                     "category": "cta",
                     "id": "-7498449761489",
                     "label": "Lo quiero",

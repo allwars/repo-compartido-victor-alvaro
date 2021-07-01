@@ -89,7 +89,8 @@
         "imgJpg": "",
         "imgPng": "img/section-deco/contenido-tv",
         "alt": "interfaz de tv Vodafone, sin decodificador",
-        "class": "ws10-u--1/1"
+        "class": "ws10-u--1/1",
+        "classImg": "ws10-u--1/1"
       }
     ],
     "productDetail": [

@@ -121,7 +121,7 @@
           "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285769&tcli=0&tta=1",
           "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
           "context": "lo quiero",
-          "element": "cardrate",
+          "element": "stiky inferior",
           "category": "cta",
           "id": "-7498449761489",
           "label": "Lo quiero",
@@ -135,8 +135,8 @@
           "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
           "discount": "50% dto. 3 meses",
           "label": "Permanencia 1 año",
-          "finalPrice": "<del>69,99€/mes</del>",
-          "discountPrice": "34,99€<sub>/mes</sub>"
+          "finalPrice": "<del>69,99</del>",
+          "discountPrice": "34,99€"
         },
         "cta": {
           "dataCTA": "300:port:card",

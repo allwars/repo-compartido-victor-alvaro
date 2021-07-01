@@ -107,7 +107,7 @@
           "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&tcli=0&tta=1",
           "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
           "context": "lo quiero",
-          "element": "cardrate",
+          "element": "stiky inferior",
           "category": "cta",
           "id": "-7498449761489",
           "label": "Lo quiero",
@@ -121,8 +121,8 @@
           "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
           "discount": "50% dto. 3 meses",
           "label": "Permanencia 1 año",
-          "finalPrice": "<del>89,99€/mes</del>",
-          "discountPrice": "44,99€<sub>/mes</sub>"
+          "finalPrice": "<del>89,99</del>",
+          "discountPrice": "44,99"
         },
         "cta": {
           "dataCTA": "300:port:card",
@@ -333,170 +333,300 @@
     "allChannels": "Ver todos los canales incluidos",
     "legal": "(*) Puedes añadir más packs de TV en el proceso de compra",
     "popup": {
-        "title": "Canales Pack Seriefans",
-        "description": false,
-        "included": false,
-        "alsoIncluded": "Y además todos los Packs incluyen estos canales:",
-        "img": [
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/hbo",
-            "alt": "HBO España",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/foxnow",
-            "alt": "FOXNOW",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/axnnow",
-            "alt": "AXN Now",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/tnt",
-            "alt": "TNT",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/fox",
-            "alt": "FOX",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/amcseries-desktop",
-            "alt": "AMC SELEKT Series",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/syfy",
-            "alt": "SYFY",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/calle13",
-            "alt": "Calle 13",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/axn",
-            "alt": "AXN",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/axnwhite",
-            "alt": "AXN White",
-            "class": "ws10-u--pr1x"
-          }
-        ],
-        "img2": [
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/seriefans/amc_desktop",
-            "alt": "AMC",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/foxlife",
-            "alt": "FOX Life",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/cosmo",
-            "alt": "Cosmo",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/comedy",
-            "alt": "Comedy Central",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/xtrm",
-            "alt": "XTRM",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/tcm",
-            "alt": "TCM",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/sundance",
-            "alt": "Sundance TV",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/natgeo",
-            "alt": "National Geographic",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/natgeonow",
-            "alt": "National Geographic Now",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/cocina",
-            "alt": "Cocina",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/decasa",
-            "alt": "Decasa",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/mtv",
-            "alt": "MTV",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/mymtv",
-            "alt": "MyMTV Music",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/solmusica",
-            "alt": "SOL Música",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/eurosport",
-            "alt": "Eurosport 1",
-            "class": "ws10-u--pr1x"
-          },
-          {
-            "imgJpg": "",
-            "imgPng": "img/section-tv/popup/comunes/selekt",
-            "alt": "Selekt",
-            "class": "ws10-u--pr1x"
-          }
-        ]
+      "title": "¿Qué incluye el Pack Plus x2 Series?",
+      "description": "TV Plus x2 Series con <strong>HBO España y Amazon Prime</strong> con Prime Video, <strong>+50 canales y miles de contenidos</strong> (cine, serie, documentales, música y deportes) con el <strong>decodificador 4K.</strong>",
+      "included": "Contenidos incluidos:",
+      "img": [
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/hbo",
+          "alt": "logo HBO",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/amazon",
+          "alt": "logo amazon",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/foxnow",
+          "alt": "logo foxnow",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/fox",
+          "alt": "logo FOX",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/tnt",
+          "alt": "logo TNT",
+          "class": "ws10-u--pr1x"
+        },
+
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/syfy",
+          "alt": "logo syfy",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/amcseries",
+          "alt": "logo amc series",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/calle13",
+          "alt": "logo calle 13",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/axnnow",
+          "alt": "logo AXN NOW",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/axn",
+          "alt": "logo AXN",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/axnwhite",
+          "alt": "logo AXN White",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/amc-desktop",
+          "alt": "AMC",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/foxlife-desktop",
+          "alt": "FOX Life",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cosmo-desktop",
+          "alt": "COSMO Life",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/comedy-desktop",
+          "alt": "Comedy Central",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/xtrm-desktop",
+          "alt": "XTRM",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/tcm-desktop",
+          "alt": "TCM",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/sundance-desktop",
+          "alt": "Sundance TV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/natgeo-desktop",
+          "alt": "National Geographic",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/natgeoplus-desktop",
+          "alt": "National Geographic Now",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cocina-desktop",
+          "alt": "Cocina",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/decasa-desktop",
+          "alt": "Decasa",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/mtv-desktop",
+          "alt": "MTV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/mymtv-desktop",
+          "alt": "MyMTV Music",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/solmusica-desktop",
+          "alt": "SOL Música",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/eurosport-desktop",
+          "alt": "Eurosport 1",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/selekt-desktop",
+          "alt": "SELEKT",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/euronews-desktop",
+          "alt": "Euronews",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cnn-international-desktop",
+          "alt": "CNN International",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/comedy-central-desktop",
+          "alt": "Az Corazón",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cnbc-desktop",
+          "alt": "CNBC",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/el-trece-tv-desktop",
+          "alt": "El Trece TV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cubavisio-n-internacional-desktop",
+          "alt": "Cubavisión Internacional",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/bbc-hd-desktop",
+          "alt": "BBC HD",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/bloomberg-desktop",
+          "alt": "BLOOMERANG",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/ve-plus-tv-desktop",
+          "alt": "Ve Plus TV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/tv-chile-desktop",
+          "alt": "TV Chile",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/caracol-desktop",
+          "alt": "Caracol",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/aljazeera-desktop",
+          "alt": "Aljazeera",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/cgtn-desktop",
+          "alt": "CGTN",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/rt-desktop",
+          "alt": "RT",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/canal-parlamento-desktop",
+          "alt": "Canal Parlamento",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/france-24-desktop",
+          "alt": "France 24",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/pro-tv-desktop",
+          "alt": "PRO TV",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/tv-5-monde-desktop",
+          "alt": "TV5 Monde",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/ewtn-desktop",
+          "alt": "EWTN",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/dw-desktop",
+          "alt": "DW",
+          "class": "ws10-u--pr1x"
+        },
+        {
+          "imgJpg": "",
+          "imgPng": "img/section-tv/popup/universal/tvp-desktop",
+          "alt": "TVP",
+          "class": "ws10-u--pr1x"
+        }
+      ]
     }
   },
   "deco": {
