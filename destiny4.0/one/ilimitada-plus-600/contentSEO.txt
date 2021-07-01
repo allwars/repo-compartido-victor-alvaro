@@ -234,39 +234,39 @@
                           </svg>
                         </button><p>
                               ¿Qué incluye el Pack Plus x2 Series?
-                          </p><p>TV Plus x2 Series con &lt;strong&gt;HBO España y Amazon Prime&lt;/strong&gt; con Prime Video, &lt;strong&gt;+50 canales y miles de contenidos&lt;/strong&gt; (cine, serie, documentales, música y deportes) con el &lt;strong&gt;decodificador 4K.&lt;/strong&gt;</p><p>Contenidos incluidos:</p><ul>
+                          </p><p>TV Plus x2 Series con <strong>HBO España y Amazon Prime</strong> con Prime Video, <strong>+50 canales y miles de contenidos</strong> (cine, serie, documentales, música y deportes) con el <strong>decodificador 4K.</strong></p><p>Contenidos incluidos:</p><ul>
                               <li>
-                                                    <p>logo HBO</p>
+                                                    <p>HBO</p>
                               </li>
                               <li>
-                                                    <p>logo amazon</p>
+                                                    <p>amazon</p>
                               </li>
                               <li>
-                                                    <p>logo foxnow</p>
+                                                    <p>foxnow</p>
                               </li>
                               <li>
-                                                    <p>logo FOX</p>
+                                                    <p>FOX</p>
                               </li>
                               <li>
-                                                    <p>logo TNT</p>
+                                                    <p>TNT</p>
                               </li>
                               <li>
-                                                    <p>logo syfy</p>
+                                                    <p>syfy</p>
                               </li>
                               <li>
-                                                    <p>logo amc series</p>
+                                                    <p>amc series</p>
                               </li>
                               <li>
-                                                    <p>logo calle 13</p>
+                                                    <p>calle 13</p>
                               </li>
                               <li>
-                                                    <p>logo AXN NOW</p>
+                                                    <p>AXN NOW</p>
                               </li>
                               <li>
-                                                    <p>logo AXN</p>
+                                                    <p>AXN</p>
                               </li>
                               <li>
-                                                    <p>logo AXN White</p>
+                                                    <p>AXN White</p>
                               </li>
                               <li>
                                                     <p>AMC</p>
@@ -582,14 +582,14 @@
                   </ul><del>89,99</del><span>
               <span>44,99€</span>
               <span>/mes</span>
-            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
+            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1347873&amp;tcli=0&amp;tta=13" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
            Lo quiero
        
              <span></span>
          </a><del>89,99</del><span>
               <span>44,99€</span>
               <span>/mes</span>
-            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
+            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1347873&amp;tcli=0&amp;tta=13" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
            Lo quiero
        
              <span></span>

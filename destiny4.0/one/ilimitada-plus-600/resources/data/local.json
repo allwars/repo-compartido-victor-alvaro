@@ -104,7 +104,7 @@
         },
         "cta": {
           "dataCTA": "300:port:card",
-          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285784&tcli=0&tta=1",
+          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1347873&tcli=0&tta=13",
           "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
           "context": "lo quiero",
           "element": "stiky inferior",
@@ -126,7 +126,7 @@
         },
         "cta": {
           "dataCTA": "300:port:card",
-          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285831&tcli=0&tta=1",
+          "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1347873&tcli=0&tta=13",
           "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
           "context": "lo quiero",
           "element": "cardrate",
@@ -340,68 +340,68 @@
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/hbo",
-          "alt": "logo HBO",
+          "alt": "HBO",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
-          "imgPng": "img/section-tv/popup/amazon",
-          "alt": "logo amazon",
+          "imgPng": "img/section-tv/popup/comunes/amazon",
+          "alt": "amazon",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/foxnow",
-          "alt": "logo foxnow",
+          "alt": "foxnow",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/fox",
-          "alt": "logo FOX",
+          "alt": "FOX",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/tnt",
-          "alt": "logo TNT",
+          "alt": "TNT",
           "class": "ws10-u--pr1x"
         },
 
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/syfy",
-          "alt": "logo syfy",
+          "alt": "syfy",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/amcseries",
-          "alt": "logo amc series",
+          "alt": "amc series",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/calle13",
-          "alt": "logo calle 13",
+          "alt": "calle 13",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/axnnow",
-          "alt": "logo AXN NOW",
+          "alt": "AXN NOW",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/axn",
-          "alt": "logo AXN",
+          "alt": "AXN",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/axnwhite",
-          "alt": "logo AXN White",
+          "alt": "AXN White",
           "class": "ws10-u--pr1x"
         },
         {
