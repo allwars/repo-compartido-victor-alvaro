@@ -401,19 +401,21 @@
                             <p>Podrás registrarte y hacer seguimiento de tu pedido y
                                 gestionar tus servicios de Vodafone.</p>
                         </li>
-                    </ul><del>56,99€/mes</del><span>
-                <span>28,49€</span>
-                <span>/mes</span>
-              </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285772&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
-              Lo quiero
-              <span data-cta-a11y=""></span>
-            </a><del>56,99€/mes</del><span>
-                <span>28,49€</span>
-                <span>/mes</span>
-              </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285753&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4545656976521">
-              Lo quiero
-              <span data-cta-a11y=""></span>
-            </a><button aria-hidden="false">
+                    </ul><del>56,99</del><span>
+              <span>28,49€</span>
+              <span>/mes</span>
+            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285772&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
+           Lo quiero
+       
+             <span></span>
+         </a><del>56,99</del><span>
+              <span>28,49€</span>
+              <span>/mes</span>
+            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285753&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4545656976521">
+           Lo quiero
+       
+             <span></span>
+         </a><button aria-hidden="false">
               <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                 <title>Close</title>
                 <use xlink:href="#icon-close"></use>
