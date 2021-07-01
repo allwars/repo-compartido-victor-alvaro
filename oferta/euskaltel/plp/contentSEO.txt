@@ -1,7 +1,6 @@
-<h2>Móvil + Fibra</h2><h1>
+<h2>Fibra + Móvil</h2><h1>
                         <span>Llévate <strong>datos ilimitados + fibra óptica</strong> con hasta <strong>40% dto. durante 1 año</strong></span>
-                    </h1><div>
-                                </div><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
+                    </h1><ul data-vfes-seo-empathy-promoperiod="" data-vfes-seo-empathy-promoprice="" data-vfes-seo-empathy-price="">
                                         <li>
                                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                                                 <use xlink:href="#icon-mobile"></use>
@@ -28,6 +27,19 @@
                                                 </p>
                                                 <p>
                                                     + llamadas ilimitadas en fijo
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-tv"></use>
+                                            </svg>
+                                            <div>
+                                                <p>
+                                                    Pack TV Universal GRATIS
+                                                </p>
+                                                <p>
+                                                    AMC, Eurosport 1 y hasta 30 canales
                                                 </p>
                                             </div>
                                         </li>
@@ -153,6 +165,19 @@
                                                 </p>
                                                 <p>
                                                     + llamadas ilimitadas en fijo
+                                                </p>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                                <use xlink:href="#icon-tv"></use>
+                                            </svg>
+                                            <div>
+                                                <p>
+                                                    Pack TV Universal GRATIS
+                                                </p>
+                                                <p>
+                                                    AMC, Eurosport 1 y hasta 30 canales
                                                 </p>
                                             </div>
                                         </li>
@@ -290,12 +315,12 @@
                                                     Pack TV Seriefans GRATIS 1 año
                                                 </p>
                                                 <p>
-                                                    con HBO España y 60 canales más
+                                                    con HBO España y 60 canales más + deco incl.
                                                 </p>
                                             </div>
                                         </li>
                                     </ul><p>
-                                                    35% dto. 1 año
+                                                    25% dto. 1 año
                                                 </p><p>
                                                     Permanencia 1 año
                                                 </p><p>
