@@ -73,7 +73,7 @@
                                                           Permanencia 1 año
                                                       </p><p>
                                                           44,99€<sub>/mes</sub>
-                                                      </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&amp;tcli=0&amp;tta=2" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
+                                                      </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1347798&amp;tcli=0&amp;tta=13" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
                                                   Lo quiero
                                               
                                                     <span></span>
@@ -105,7 +105,7 @@
                             <use xlink:href="#icon-game-console-mid"></use>
                           </svg>
                         <p>
-                          <strong>Juega sin límites los juegos online con una calidad extrema y sin cortes.</strong>
+                          <strong>Juega sin límites con una calidad extrema y sin cortes.</strong>
                         </p>
                       </li>      <li>
                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
@@ -463,153 +463,153 @@
               <use xlink:href="#icon-close"></use>
             </svg>
           </button><p>
-              ¿Qué incluye el Pack Universal?
-          </p><p>El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.</p><p>Contenidos incluidos:</p><ul>
-              <li>
-                                  <p>logo HBO</p>
-              </li>
-              <li>
-                                  <p>logo amazon</p>
-              </li>
-              <li>
-                                  <p>logo foxnow</p>
-              </li>
-              <li>
-                                  <p>logo FOX</p>
-              </li>
-              <li>
-                                  <p>logo TNT</p>
-              </li>
-              <li>
-                                  <p>logo syfy</p>
-              </li>
-              <li>
-                                  <p>logo amc series</p>
-              </li>
-              <li>
-                                  <p>logo calle 13</p>
-              </li>
-              <li>
-                                  <p>logo AXN NOW</p>
-              </li>
-              <li>
-                                  <p>logo AXN</p>
-              </li>
-              <li>
-                                  <p>logo AXN White</p>
-              </li>
-              <li>
-                                  <p>AMC</p>
-              </li>
-              <li>
-                                  <p>FOX Life</p>
-              </li>
-              <li>
-                                  <p>COSMO Life</p>
-              </li>
-              <li>
-                                  <p>Comedy Central</p>
-              </li>
-              <li>
-                                  <p>XTRM</p>
-              </li>
-              <li>
-                                  <p>TCM</p>
-              </li>
-              <li>
-                                  <p>Sundance TV</p>
-              </li>
-              <li>
-                                  <p>National Geographic</p>
-              </li>
-              <li>
-                                  <p>National Geographic Now</p>
-              </li>
-              <li>
-                                  <p>Cocina</p>
-              </li>
-              <li>
-                                  <p>Decasa</p>
-              </li>
-              <li>
-                                  <p>MTV</p>
-              </li>
-              <li>
-                                  <p>MyMTV Music</p>
-              </li>
-              <li>
-                                  <p>SOL Música</p>
-              </li>
-              <li>
-                                  <p>Eurosport 1</p>
-              </li>
-              <li>
-                                  <p>SELEKT</p>
-              </li>
-              <li>
-                                  <p>Euronews</p>
-              </li>
-              <li>
-                                  <p>CNN International</p>
-              </li>
-              <li>
-                                  <p>Az Corazón</p>
-              </li>
-              <li>
-                                  <p>CNBC</p>
-              </li>
-              <li>
-                                  <p>El Trece TV</p>
-              </li>
-              <li>
-                                  <p>Cubavisión Internacional</p>
-              </li>
-              <li>
-                                  <p>BBC HD</p>
-              </li>
-              <li>
-                                  <p>BLOOMERANG</p>
-              </li>
-              <li>
-                                  <p>Ve Plus TV</p>
-              </li>
-              <li>
-                                  <p>TV Chile</p>
-              </li>
-              <li>
-                                  <p>Caracol</p>
-              </li>
-              <li>
-                                  <p>Aljazeera</p>
-              </li>
-              <li>
-                                  <p>CGTN</p>
-              </li>
-              <li>
-                                  <p>RT</p>
-              </li>
-              <li>
-                                  <p>Canal Parlamento</p>
-              </li>
-              <li>
-                                  <p>France 24</p>
-              </li>
-              <li>
-                                  <p>PRO TV</p>
-              </li>
-              <li>
-                                  <p>TV5 Monde</p>
-              </li>
-              <li>
-                                  <p>EWTN</p>
-              </li>
-              <li>
-                                  <p>DW</p>
-              </li>
-              <li>
-                                  <p>TVP</p>
-              </li>
-          </ul><button aria-hidden="false">
+                ¿Qué incluye el Pack Plus x2 Series?
+            </p><p>TV Plus x2 Series con <strong>HBO España y Amazon Prime</strong> con Prime Video, <strong>+50 canales y miles de contenidos</strong> (cine, serie, documentales, música y deportes) con el <strong>decodificador 4K.</strong></p><p>Contenidos incluidos:</p><ul>
+                <li>
+                                      <p>logo HBO</p>
+                </li>
+                <li>
+                                      <p>logo amazon</p>
+                </li>
+                <li>
+                                      <p>logo foxnow</p>
+                </li>
+                <li>
+                                      <p>logo FOX</p>
+                </li>
+                <li>
+                                      <p>logo TNT</p>
+                </li>
+                <li>
+                                      <p>logo syfy</p>
+                </li>
+                <li>
+                                      <p>logo amc series</p>
+                </li>
+                <li>
+                                      <p>logo calle 13</p>
+                </li>
+                <li>
+                                      <p>logo AXN NOW</p>
+                </li>
+                <li>
+                                      <p>logo AXN</p>
+                </li>
+                <li>
+                                      <p>logo AXN White</p>
+                </li>
+                <li>
+                                      <p>AMC</p>
+                </li>
+                <li>
+                                      <p>FOX Life</p>
+                </li>
+                <li>
+                                      <p>COSMO Life</p>
+                </li>
+                <li>
+                                      <p>Comedy Central</p>
+                </li>
+                <li>
+                                      <p>XTRM</p>
+                </li>
+                <li>
+                                      <p>TCM</p>
+                </li>
+                <li>
+                                      <p>Sundance TV</p>
+                </li>
+                <li>
+                                      <p>National Geographic</p>
+                </li>
+                <li>
+                                      <p>National Geographic Now</p>
+                </li>
+                <li>
+                                      <p>Cocina</p>
+                </li>
+                <li>
+                                      <p>Decasa</p>
+                </li>
+                <li>
+                                      <p>MTV</p>
+                </li>
+                <li>
+                                      <p>MyMTV Music</p>
+                </li>
+                <li>
+                                      <p>SOL Música</p>
+                </li>
+                <li>
+                                      <p>Eurosport 1</p>
+                </li>
+                <li>
+                                      <p>SELEKT</p>
+                </li>
+                <li>
+                                      <p>Euronews</p>
+                </li>
+                <li>
+                                      <p>CNN International</p>
+                </li>
+                <li>
+                                      <p>Az Corazón</p>
+                </li>
+                <li>
+                                      <p>CNBC</p>
+                </li>
+                <li>
+                                      <p>El Trece TV</p>
+                </li>
+                <li>
+                                      <p>Cubavisión Internacional</p>
+                </li>
+                <li>
+                                      <p>BBC HD</p>
+                </li>
+                <li>
+                                      <p>BLOOMERANG</p>
+                </li>
+                <li>
+                                      <p>Ve Plus TV</p>
+                </li>
+                <li>
+                                      <p>TV Chile</p>
+                </li>
+                <li>
+                                      <p>Caracol</p>
+                </li>
+                <li>
+                                      <p>Aljazeera</p>
+                </li>
+                <li>
+                                      <p>CGTN</p>
+                </li>
+                <li>
+                                      <p>RT</p>
+                </li>
+                <li>
+                                      <p>Canal Parlamento</p>
+                </li>
+                <li>
+                                      <p>France 24</p>
+                </li>
+                <li>
+                                      <p>PRO TV</p>
+                </li>
+                <li>
+                                      <p>TV5 Monde</p>
+                </li>
+                <li>
+                                      <p>EWTN</p>
+                </li>
+                <li>
+                                      <p>DW</p>
+                </li>
+                <li>
+                                      <p>TVP</p>
+                </li>
+            </ul><button aria-hidden="false">
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <title>Close</title>
                         <use xlink:href="#icon-close"></use>

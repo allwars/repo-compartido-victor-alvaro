@@ -48,8 +48,8 @@
       ],
       "rates": [
           {
-              "js-vf": "_newNumber",
-              "hidden": "ws10-u--hidden",
+              "js-vf": "_portability",
+              "hidden": "",
               "offers": {
                   "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                   "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
@@ -58,7 +58,7 @@
               },
               "cta": {
                   "dataCTA": "300:port:card",
-                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&tcli=0&tta=2",
+                  "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1347798&tcli=0&tta=13",
                   "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                   "context": "lo quiero",
                   "element": "cardrate",
@@ -69,8 +69,8 @@
 
               }
           }, {
-              "js-vf": "_portability",
-              "hidden": "",
+              "js-vf": "_newNumber",
+              "hidden": "ws10-u--hidden",
               "offers": {
                   "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                   "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
@@ -153,7 +153,7 @@
       },
       {
         "icon": "#icon-game-console-mid",
-        "description": "<strong>Juega sin límites los juegos online con una calidad extrema y sin cortes.</strong>"
+        "description": "<strong>Juega sin límites con una calidad extrema y sin cortes.</strong>"
       },
       {
         "icon": "#icon-cloud-download-mid",
@@ -336,8 +336,8 @@
     "allChannels": "Ver todos los canales incluidos",
     "legal": "(*) Puedes añadir más packs de TV en el proceso de compra",
     "popup": {
-      "title": "¿Qué incluye el Pack Universal?",
-      "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+      "title": "¿Qué incluye el Pack Plus x2 Series?",
+      "description": "TV Plus x2 Series con <strong>HBO España y Amazon Prime</strong> con Prime Video, <strong>+50 canales y miles de contenidos</strong> (cine, serie, documentales, música y deportes) con el <strong>decodificador 4K.</strong>",
       "included": "Contenidos incluidos:",
       "img": [
         {

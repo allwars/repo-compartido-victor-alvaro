@@ -29,20 +29,39 @@
       <div
         class="ws10-c-backdrop__content js-backdrop-content ws10-u--pt0 ws10-u--mt0"
       >
-        <p class="ws10-u-heading--4 ws10-u-heading--4-lt ws10-align--center ws10-u--pt0 ws10-u--mt0">
-            {{ tv.popup.title }}
-        </p>
-        <p class="ws10-align--center">{{ tv.popup.description }}</p>
-        <p class="ws10-align--center">{{ tv.popup.included }}</p>
+          <p class="ws10-u-heading--4 ws10-u-heading--4-lt ws10-align--center ws10-u--pt0 ws10-u--mt0">
+              {{ tv.popup.title }}
+          </p>
+          {{#if tv.popup.description }}
+          <p class="ws10-align--center">{{{ tv.popup.description }}}</p>
+          {{/if }}
+          {{#if tv.popup.included }}
+          <p class="ws10-align--center">{{{ tv.popup.included }}}</p>
+          {{/if }}
 
-        <ul class="ws10-flex ws10-flex__wrap ws10-u--ml0">
-          {{#each tv.popup.img}}
-            <li class="ws10-o-layout__item ws10-u--1/4 ws10-u--1/7@tablet ws10-align--center ws10-u--pl0">
-                {{> picture params=this}}
-                <p class="ws10-c-paragraph ws10-u--mb0 ws10-u--mt2x">{{alt}}</p>
-            </li>
-            {{/each}}
-        </ul>
+          <ul class="ws10-flex ws10-flex__wrap ws10-u--ml0">
+            {{#each tv.popup.img}}
+              <li class="ws10-o-layout__item ws10-u--1/4 ws10-u--1/7@tablet ws10-align--center ws10-u--pl0">
+                  {{> picture params=this}}
+                  <p class="ws10-c-paragraph ws10-u--mb0 ws10-u--mt2x">{{alt}}</p>
+              </li>
+              {{/each}}
+          </ul>
+
+          {{#if tv.popup.alsoIncluded }}
+            <p class="ws10-align--center">{{ tv.popup.alsoIncluded }}</p>
+          {{/if }}
+
+          {{#if tv.popup.img2 }}
+          <ul class="ws10-flex ws10-flex__wrap ws10-u--ml0">
+            {{#each tv.popup.img2 }}
+              <li class="ws10-o-layout__item ws10-u--1/4 ws10-u--1/7@tablet ws10-align--center ws10-u--pl0">
+                  {{> picture params=this}}
+                  <p class="ws10-c-paragraph ws10-u--mb0 ws10-u--mt2x">{{alt}}</p>
+              </li>
+              {{/each}}
+          </ul>
+          {{/if }}
 
       </div>
     </section>
