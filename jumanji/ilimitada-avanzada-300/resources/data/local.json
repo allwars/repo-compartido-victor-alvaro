@@ -88,7 +88,7 @@
       },
       {
         "icon": "#icon-5G_esp-mid",
-        "description": "Todo con la <strong>nueva red 5G</strong>."
+        "description": "Todo con la nueva red 5G."
       }
     ]
   },
@@ -112,14 +112,14 @@
         "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
       }
     ],
-    "legal": "(*) Podrás añadir más Líneas adicionales en el proceso de compra."
+    "legal": "(*) Podrás añadir más Líneas adicionales en el proceso de compra"
   },
 
   "tv": {
     "section": "Televisión",
     "title": "Pack TV Universal GRATIS",
     "subtitle": "AMC, Eurosport 1 y hasta 30 canales",
-    "description": "El Pack Universal incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
+    "description": "El <strong>Pack Universal</strong> incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.",
 
     "carousel": {
       "show": false,
@@ -185,17 +185,20 @@
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/amc-desktop",
-          "alt": "logo amc"
+          "alt": "logo amc",
+          "classImg": "ws10-c-logo-list__logo"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/eurosport-desktop",
-          "alt": "logo Eurosport"
+          "alt": "logo Eurosport",
+          "classImg": "ws10-c-logo-list__logo"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/tcm-desktop",
-          "alt": "logo TCM"
+          "alt": "logo TCM",
+          "classImg": "ws10-c-logo-list__logo"
         }
       ]
     },
@@ -446,13 +449,14 @@
 
   "deco": {
     "title": "¿Cómo es la experiencia de TV con decodificador HD y 4K?",
-    "description": "Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la App Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada.</strong>",
+    "description": "Vodafone TV en el <strong>decodificador con calidad HD y 4K, en tus dispositivos</strong> (también a través de la app Vodafone TV) para disfrutar de una <strong>experiencia completa e integrada.</strong>",
     "img": [
       {
         "imgJpg": "",
         "imgPng": "img/section-deco/contenido-tv",
         "alt": "interfaz de tv Vodafone, sin decodificador",
-        "class": "ws10-u--1/1"
+        "class": "ws10-u--1/1",
+        "classImg": "ws10-u--1/1"
       }
     ],
     "productDetail": [
@@ -547,11 +551,41 @@
     "legal": "(*) Todos los servicios podrás gestionarlos en la App Mi Vodafone"
   },
   "sinSorpresas": {
-    "section": "<strong>Sin sorpresas</strong>",
+    "section": "<strong>Sin sorpresas.</strong>",
     "title": "<strong>No escondemos nada</strong>",
     "conditions": "Impuestos y cuota de línea incluidos",
     "question": "¿Cuánto voy a pagar?",
     "paquete": "<strong>Fibra + Móvil (49,99€/mes) + decodificador (3€/mes): 52,99€/mes durante 1 año, después 77,49€/mes.</strong>",
-    "promociones": "<span>Promociones:</span><span data-js-vf='_portability'>Línea adicional: GRATIS durante 1 año,después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span><span>Paquete de TV: GRATIS</span>"
+    "promociones": "<span>Promociones:</span><span data-js-vf='_portability'>Línea adicional: GRATIS durante 1 año,después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado).</span><span>Paquete de TV: GRATIS</span>",
+    "bar": [
+      {
+        "bar1": "Los primeros 6 meses",
+        "price1":"28,49",
+        "bar2": "Del mes 7 al 12",
+        "price2":"56,99",
+        "bar3": "A partir del año",
+        "price3":"74,49"
+      },
+      {
+        "bar1": "Los primeros 6 meses",
+        "price1":"28,49",
+        "bar2": "A partir del mes 7",
+        "price2":"56,99"
+      }
+    ],
+    "instalacion": "La instalación del servicio de fibra, salvo que sea autoinstalable, tiene un coste para el cliente de 150€. Vodafone renuncia al cobro de este coste si el cliente se mantiene activo en el servicio durante, al menos, 1 año desde la fecha de instalación.",
+    "cta": {
+      "button": false,
+      "targetBlank": true,
+      "svg":true,
+      "classCta": "ws10-c-link-chevron ws10-c-link-chevron--primary",
+      "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/n/",
+      "context": "condiciones legales",
+      "element": "card addons",
+      "category": "cta",
+      "id": "-5460257368589",
+      "label": "Ver Condiciones Legales"
+    }
+
   }
 }

@@ -531,18 +531,20 @@
           una de las nuevas tarifas tendrás que cambiarte a una de ellas.</p><a href="mailto:ofertaempleados@vodafone.com" data-analytics-id="-5504488699476">
           Enviar correo
         </a><span>
-              <span>34,99€</span>
-              <span>/mes</span>
-            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285869&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
-            Lo quiero
-            <span></span>
-          </a><span>
-              <span>34,99€</span>
-              <span>/mes</span>
-            </span><a data-cta="300:port:card" type="submit" href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285873&amp;tcli=0&amp;tta=1" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725875160593">
-            Lo quiero
-            <span></span>
-          </a><button aria-hidden="false">
+            <span>34,99€</span>
+            <span>/mes</span>
+          </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285869&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725602956266">
+         Lo quiero
+     
+           <span></span>
+       </a><span>
+            <span>34,99€</span>
+            <span>/mes</span>
+          </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285873&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4725875160593">
+         Lo quiero
+     
+           <span></span>
+       </a><button aria-hidden="false">
           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
             <title>Close</title>
             <use xlink:href="#icon-close"></use>

@@ -30,7 +30,7 @@ tools.onStylesReady = () => {
   let isTablet = width <= 1024 && width >= 768;
 
 
- 
+
 
 
  // Line Selector
@@ -124,10 +124,25 @@ tools.onStylesReady = () => {
     let infoBanner = banner.getBoundingClientRect();
     console.log(infoBanner)
     if(infoBanner.top < 0){
-      ticket.setAttribute('style', 'position:fixed; top: 70px;');
+      ticket.setAttribute('style', 'position:fixed; top: 50px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;  top: 40px;');
+      ticket.setAttribute('style', 'position:absolute; top: 10px;');
     }
+  }
+
+  if (window.matchMedia('(min-width: 768px)').matches) {
+      positionOfTicket();
+      document.addEventListener('scroll', () => {
+          positionOfTicket();
+          ticketOpacity();
+          showStickyRate();
+          hideStickyRate();
+      });
+  } else {
+      document.addEventListener('scroll', () => {
+          showStickyRate();
+          hideStickyRate();
+      });
   }
 };
 
@@ -150,9 +165,9 @@ tools.onFrameworkReady = () => {
  console.log(queryString);
  if(queryString==="?600mbps" || queryString==="?600mbps=" ){
    regularRate()
-   
+
  } else {
-   recommendedRate()   
+   recommendedRate()
  }
 
 
@@ -163,7 +178,7 @@ tools.onFrameworkReady = () => {
    function typeSpeed(label) {
      const speedType = label.getAttribute("data-js-vf-value");
      if(speedType==="recommendedRate"){
-       recommendedRate() 
+       recommendedRate()
      } else {
        regularRate()
      }
@@ -177,7 +192,7 @@ tools.onFrameworkReady = () => {
 
        infoRegular.removeAttribute("aria-hidden", "true");
        infoRecommended[index].setAttribute("aria-hidden", "true");
-       
+
      });
    }
    function recommendedRate() {
@@ -191,26 +206,8 @@ tools.onFrameworkReady = () => {
        infoRegular[index].setAttribute("aria-hidden", "true");
      });
    }
- 
-  
+
+
   // DO SOMETHING
 
 };
-/**
-   * Bloque de inicialización de la página
-   */
-
- if (window.matchMedia('(min-width: 768px)').matches) {
-  positionOfTicket();
-  document.addEventListener('scroll', () => {
-    positionOfTicket();
-    ticketOpacity();
-    showStickyRate();
-    hideStickyRate();
-  });
-} else {
-  document.addEventListener('scroll', () => {
-    showStickyRate();
-    hideStickyRate();
-  });
-}

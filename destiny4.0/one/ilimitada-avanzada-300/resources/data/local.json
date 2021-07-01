@@ -55,8 +55,8 @@
         },
         "rates": [
             {
-                "js-vf": "_newNumber",
-                "hidden": "ws10-u--hidden",
+                "js-vf": "_portability",
+                "hidden": "",
                 "offers": {
                     "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                     "discount": "50% dto. 3 meses",
@@ -76,8 +76,8 @@
                     "classCta": "ws10-c-button ws10-c-button--auto"
                 }
             }, {
-                "js-vf": "_portability",
-                "hidden": "",
+                "js-vf": "_newNumber",
+                "hidden": "ws10-u--hidden",
                 "offers": {
                     "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
                     "discount": "50% dto. 3 meses",
