@@ -30,7 +30,24 @@ tools.onStylesReady = () => {
   let isTablet = width <= 1024 && width >= 768;
 
 
- 
+ /**
+   * Bloque de inicialización de la página
+   */
+
+ if (window.matchMedia('(min-width: 768px)').matches) {
+  positionOfTicket();
+  document.addEventListener('scroll', () => {
+    positionOfTicket();
+    ticketOpacity();
+    showStickyRate();
+    hideStickyRate();
+  });
+} else {
+  document.addEventListener('scroll', () => {
+    showStickyRate();
+    hideStickyRate();
+  });
+}
 
 
  // Line Selector
@@ -124,9 +141,9 @@ tools.onStylesReady = () => {
     let infoBanner = banner.getBoundingClientRect();
     console.log(infoBanner)
     if(infoBanner.top < 0){
-      ticket.setAttribute('style', 'position:fixed; top: 70px;');
+      ticket.setAttribute('style', 'position:fixed; top:10px;');
     } else {
-      ticket.setAttribute('style', 'position:absolute;  top: 40px;');
+      ticket.setAttribute('style', 'position:absolute; top:10px;');
     }
   }
 };
@@ -195,21 +212,3 @@ tools.onFrameworkReady = () => {
   // DO SOMETHING
 
 };
-/**
-   * Bloque de inicialización de la página
-   */
-
- if (window.matchMedia('(min-width: 768px)').matches) {
-  positionOfTicket();
-  document.addEventListener('scroll', () => {
-    positionOfTicket();
-    ticketOpacity();
-    showStickyRate();
-    hideStickyRate();
-  });
-} else {
-  document.addEventListener('scroll', () => {
-    showStickyRate();
-    hideStickyRate();
-  });
-}
