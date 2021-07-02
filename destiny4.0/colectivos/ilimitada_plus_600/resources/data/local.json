@@ -107,7 +107,7 @@
           "cta": {
               "dataCTA": "300:port:card",
               "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=910427&tcli=0&tta=2",
-              "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
+              "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
               "context": "lo quiero",
               "element": "cardrate",
               "category": "cta",
@@ -123,12 +123,12 @@
               "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
               "discount": "50% dto. 3 meses + después 15% dto. durante 2 años",
               "label": "Permanencia 1 año",
-              "discountPrice": "44,99€"
+              "discountPrice": "44,99"
           },
           "cta": {
               "dataCTA": "300:port:card",
               "url": " https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1347798&tcli=0&tta=13",
-              "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
+              "onmousedown": "addtocart(utag_data.plans_add2cart[0'])",
               "context": "lo quiero",
               "element": "cardrate",
               "category": "cta",

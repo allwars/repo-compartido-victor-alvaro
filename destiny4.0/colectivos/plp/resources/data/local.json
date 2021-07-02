@@ -71,8 +71,8 @@
             },
             "cta": {
                 "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-4/",
-                "context": "600mbps",
-                "element": "cardrate:one ilimitada avanzada 600 mbps",
+                "context": "300mbps",
+                "element": "cardrate:one ilimitada plus",
                 "category": "cta",
                 "id": "-3827639703071",
                 "label": "Más info"
@@ -111,7 +111,7 @@
             "cta": {
                 "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-5/",
                 "context": "600mbps",
-                "element": "cardrate:one ilimitada plus",
+                "element": "cardrate:one ilimitada plus x2",
                 "category": "cta",
                 "id": "-8477551683805",
                 "label": "Más info"
