@@ -305,4 +305,17 @@
       display: none;
     }
   }
+
+  /*Fix alineación barras sin sorpresa cuando son solo 2*/
+  .ws10-c-price-bar-group{
+    justify-content: flex-start;
+  }
+
+  /*Fix ancho 100% barras sin sopresas en mobile*/
+  .ws10-c-price-bar{
+    max-width: 100%;
+    @media screen and (min-width: 768px) {
+      max-width: 10.25rem;
+    }
+  }
 }
