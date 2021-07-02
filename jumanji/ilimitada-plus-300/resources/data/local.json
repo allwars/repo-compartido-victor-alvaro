@@ -14,8 +14,8 @@
       "datos": "Datos y minutos ilimitados",
       "velocidad": "Velocidad alta",
       "icon-velocidad": "#icon-thunder-2",
-      "segundalinea": "Segunda línea GRATIS 1 año",
-      "segundalinea_subtitle": "Datos y minutos ilimitados GRATIS",
+      "segundalinea": "Datos y minutos ilimitados GRATIS",
+      "segundalinea_subtitle": "Segunda línea GRATIS 1 año",
       "velocidad_fibra_subtitle": "+ llamadas ilimitadas en fijo",
       "tv": "Pack TV Seriefans",
       "subtitle-tv": "con HBO España y 60 canales más con deco incl."
@@ -43,7 +43,7 @@
     "category": "cta",
     "title": "Lo quiero",
     "condicioneslegales": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/j/",
-    "loquiero": ["1260688", "1260688"]
+    "loquiero": ["1345289", "1260688"]
   },
 
   "movil": {

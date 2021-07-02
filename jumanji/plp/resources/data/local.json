@@ -1,7 +1,7 @@
 {
     "banner": {
         "title": "Fibra + Móvil",
-        "title2": "Llévate <strong>2 líneas ilimitadas, fibra y TV</strong> con hasta <strong>34% dto. durante 1 año</strong>"
+        "title2": "Llévate <strong>2 líneas ilimitadas, fibra y TV</strong> con hasta <strong>35% dto. durante 1 año</strong>"
     },
     "cardRates": {
         "avanzada300": {
@@ -60,7 +60,7 @@
                     "subtitle": "+ llamadas ilimitadas en fijo"
                 }, {
                     "icon": "icon-tv",
-                    "title": "Pack TV Seriefans GRATIS 1 año",
+                    "title": "Pack TV Seriefans",
                     "subtitle": "con HBO España y 60 canales más + deco incl."
                 }
             ],
