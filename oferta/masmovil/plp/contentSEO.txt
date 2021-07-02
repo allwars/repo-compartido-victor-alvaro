@@ -39,7 +39,7 @@
                                                     <del>56,99€/mes</del>
                                                 </p><p>
                                                     39,49€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-1/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-7515870759291">
+                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/mm/paquete-one-1/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-7515870759291">
                                             Más info
                                         
                                               <span></span>
@@ -164,7 +164,7 @@
                                                     <del>79,49€/mes</del>
                                                 </p><p>
                                                     46,49€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-2/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-3976052093347">
+                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/mm/paquete-one-2/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-3976052093347">
                                             Más info
                                         
                                               <span></span>
@@ -302,7 +302,7 @@
                                                     <del>94,49€/mes</del>
                                                 </p><p>
                                                     51,49€<sub>/mes</sub>
-                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-3/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-1411181351186">
+                                                </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/mm/paquete-one-3/" data-cta="" target="_self" name="Más info" title="Más info" onmousedown="" data-analytics-id="-1411181351186">
                                             Más info
                                         
                                               <span></span>
@@ -414,4 +414,4 @@
                         </article>
                     </li>
             </ul><div>
-                      </div><h2>¡Con <strong>Vodafone One</strong> tendrás acceso a las mejores <strong>ofertas de tarifas de fibra y móvil!</strong></h2><p>Habla, navega o disfruta de vídeos en streaming sin ataduras y a la máxima velocidad con nuestras tarifas de <strong>datos ilimitados</strong>. Con la instalación de nuestro modem, gratuita y rápida, podrás conectar varios dispositivos al mismo tiempo. En Vodafone hemos incluído el <strong>5G en todas nuestras tarifas</strong> para que toda la familia pueda disfrutar del mejor entretenimiento con la máxima velocidad y estabilidad.</p>
+                      </div><h2>¡Con <strong>Vodafone One</strong> tendrás acceso a las mejores <strong>ofertas de tarifas de fibra y móvil!</strong></h2><p>Habla, navega o disfruta de vídeos en streaming sin ataduras y a la máxima velocidad con nuestras tarifas de <strong>datos ilimitados</strong>. Con la instalación de nuestro módem, gratuita y rápida, podrás conectar varios dispositivos al mismo tiempo. En Vodafone hemos incluído el <strong>5G en todas nuestras tarifas</strong> para que toda la familia pueda disfrutar del mejor entretenimiento con la máxima velocidad y estabilidad.</p>
