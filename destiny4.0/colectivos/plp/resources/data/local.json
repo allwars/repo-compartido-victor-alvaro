@@ -71,7 +71,7 @@
             },
             "cta": {
                 "url": "https://www.vodafone.es/c/particulares/es/colectivos-vodafone/vodafone-one/paquete-one-4/",
-                "context": "600mbps",
+                "context": "300mbps",
                 "element": "cardrate:one ilimitada plus",
                 "category": "cta",
                 "id": "-3827639703071",
