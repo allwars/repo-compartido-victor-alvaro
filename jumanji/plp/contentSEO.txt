@@ -200,12 +200,8 @@
                                                     64,49€<sub>/mes</sub>
                                                 </p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-5/" target="_self" name="Más info" title="Más info" data-analytics-id="-168446420">
                                             Más info
-                                        </a><div>
-                  
-                </div><b>¡Nuevo!</b><h4>¿Necesitas más líneas?
-                    Ahora llegan las tarifas para familias</h4><p>Descubre las tarifas de Hogar ilimitable y disfruta de datos y minutos ilimitados en
-                    todas tus líneas de móvil con 5G, la mejor fibra de Vodafone, máxima conexión WiFi con Super WiFi, una
-                    extensa selección de cine y series con HBO España y Amazon Prime y la seguridad que necesita tu familia.</p><a data-analytics-id="-5349132379100" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/tarifas-familiares/" target="_self">
+                                        </a><b>¡Nuevo!</b><h4>¿Necesitas más líneas?
+                    Ahora llegan las tarifas para familias</h4><p>Descubre las tarifas de Hogar ilimitable y disfruta de datos y minutos ilimitados en todas tus líneas de móvil con 5G, la mejor fibra de Vodafone, máxima conexión WiFi con Super WiFi, una extensa selección de cine y series con HBO España y Amazon Prime y la seguridad que necesita tu familia.</p><a data-analytics-id="-5349132379100" href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/tarifas-familiares/" target="_self">
                     Más info
                     <span> color #E60000</span>
                     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">

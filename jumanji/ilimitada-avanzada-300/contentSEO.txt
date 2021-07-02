@@ -169,7 +169,7 @@
                   </h3><p>
                       AMC, Eurosport 1 y hasta 30 canales
                   </p><p>
-                      El &lt;strong&gt;Pack Universal&lt;/strong&gt; incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
+                      El <strong>Pack Universal</strong> incluye programas, magazines, películas, series, música, documentales, informativos… todo el entretenimiento de una selección de canales internacionales.
                   </p><ul>
                         <li>
                           
@@ -488,7 +488,7 @@
                     </p><p>La instalación del servicio de fibra, salvo que sea
                     autoinstalable, tiene un coste para el cliente de 150€.
                     Vodafone renuncia al cobro de este coste si el cliente se mantiene activo
-                    en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/n/" data-cta="" target="_blank" name="Ver Condiciones Legales" title="Ver Condiciones Legales" onmousedown="" data-analytics-id="-5460257368589">
+                    en el servicio durante, al menos, 1 año desde la fecha de instalación.</p><a href="https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/legales/alt/e1/" data-cta="" target="_blank" name="Ver Condiciones Legales" title="Ver Condiciones Legales" onmousedown="" data-analytics-id="-5460257368589">
                       Ver Condiciones Legales
                   
                         <span> color #E60000</span>
