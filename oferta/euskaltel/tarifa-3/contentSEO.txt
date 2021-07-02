@@ -415,9 +415,9 @@
                             <p>Mi Vodafone</p>
                             <p>Podrás registrarte y hacer seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
                         </li>
-                    </ul><del>107,49€/mes</del><span>
-                      <span>53,49€</span>
-                      <span>/mes</span>
+                    </ul><del>94,49€/mes</del><span>
+                        <span>51,49€</span>
+                        <span>/mes</span>
                     </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1211324&amp;tcli=0&amp;tta=1" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-2202137082395">
                     Lo quiero
                 </a>

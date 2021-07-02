@@ -1,14 +1,7 @@
 {
   "banner": {
     "offer": "Fibra + Móvil",
-    "title": "<span>Llévate <strong>datos ilimitados + fibra óptica</strong> con hasta <strong>40% dto. durante 1 año</strong></span>",
-    "img": [
-      {
-        "imgJpg": "",
-        "imgPng": "img/bodegon-desktop",
-        "alt": ""
-      }
-    ]
+    "title": "<span>Llévate <strong>datos ilimitados + fibra óptica</strong> con hasta <strong>40% dto. durante 1 año</strong></span>"
   },
   "cardRates": {
     "avanzada300": {
@@ -157,7 +150,7 @@
   },
   "banner50":{
     "title":"¡Con <strong>Vodafone One</strong> tendrás acceso a las mejores <strong>ofertas de tarifas de fibra y móvil!</strong>",
-    "description":"Habla, navega o disfruta de vídeos en streaming sin ataduras y a la máxima velocidad con nuestras tarifas de <strong>datos ilimitados</strong>. Con la instalación de nuestro modem, gratuita y rápida, podrás conectar varios dispositivos al mismo tiempo. En Vodafone hemos incluído el <strong>5G en todas nuestras tarifas</strong> para que toda la familia pueda disfrutar del mejor entretenimiento con la máxima velocidad y estabilidad.",
+    "description":"Habla, navega o disfruta de vídeos en streaming sin ataduras y a la máxima velocidad con nuestras tarifas de <strong>datos ilimitados</strong>. Con la instalación de nuestro módem, gratuita y rápida, podrás conectar varios dispositivos al mismo tiempo. En Vodafone hemos incluido el <strong>5G en todas nuestras tarifas</strong> para que toda la familia pueda disfrutar del mejor entretenimiento con la máxima velocidad y estabilidad.",
     "img": [
       {
         "imgJpg": "img/section-vodafone-one/mama-hija",
