@@ -117,7 +117,7 @@
           "cta": {
               "dataCTA": "300:port:card",
               "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1351117&tcli=0&tta=1",
-              "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
+              "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
               "context": "lo quiero",
               "element": "cardrate",
               "category": "cta",
@@ -138,7 +138,7 @@
           "cta": {
               "dataCTA": "300:port:card",
               "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1351136&tcli=0&tta=1",
-              "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
+              "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
               "context": "lo quiero",
               "element": "cardrate",
               "category": "cta",
