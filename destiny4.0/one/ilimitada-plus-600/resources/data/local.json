@@ -93,8 +93,8 @@
   "sticky": {
     "rates": [
       {
-        "js-vf": "_newNumber",
-        "hidden": "ws10-u--hidden",
+        "js-vf": "_portability",
+        "hidden": "",
         "offers": {
           "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
           "discount": "50% dto. 3 meses",
@@ -115,8 +115,8 @@
         }
       },
       {
-        "js-vf": "_portability",
-        "hidden": "",
+        "js-vf": "_newNumber",
+        "hidden": "ws10-u--hidden",
         "offers": {
           "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
           "discount": "50% dto. 3 meses",
@@ -129,7 +129,7 @@
           "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1347873&tcli=0&tta=13",
           "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
           "context": "lo quiero",
-          "element": "cardrate",
+          "element": "stiky inferior",
           "category": "cta",
           "id": "-7498449761489",
           "label": "Lo quiero",

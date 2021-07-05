@@ -102,27 +102,6 @@
     "sticky": {
         "rates": [
             {
-                "js-vf": "_newNumber",
-                "hidden": "ws10-u--hidden",
-                "offers": {
-                    "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
-                    "discount": "50% dto. 3 meses",
-                    "label": "Permanencia 1 año",
-                    "finalPrice": "<del>56,99</del>",
-                    "discountPrice": "28,49"
-                },
-                "cta": {
-                    "dataCTA": "300:port:card",
-                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&tcli=0&tta=1",
-                    "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
-                    "context": "lo quiero",
-                    "element": "stiky inferior",
-                    "category": "cta",
-                    "id": "-7498449761489",
-                    "label": "Lo quiero",
-                    "classCta": "ws10-c-button ws10-c-button--auto"
-                }
-            }, {
                 "js-vf": "_portability",
                 "hidden": "",
                 "offers": {
@@ -135,9 +114,31 @@
                 "cta": {
                     "dataCTA": "300:port:card",
                     "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285747&tcli=0&tta=1",
+                    "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
+                    "context": "lo quiero",
+                    "element": "stiky inferior",
+                    "category": "cta",
+                    "id": "-7498449761489",
+                    "label": "Lo quiero",
+                    "classCta": "ws10-c-button ws10-c-button--auto"
+                }
+            },
+            {
+                "js-vf": "_newNumber",
+                "hidden": "ws10-u--hidden",
+                "offers": {
+                    "promoPeriod": "50% dto. 3 meses Permanencia 1 año",
+                    "discount": "50% dto. 3 meses",
+                    "label": "Permanencia 1 año",
+                    "finalPrice": "<del>56,99</del>",
+                    "discountPrice": "28,49"
+                },
+                "cta": {
+                    "dataCTA": "300:port:card",
+                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285767&tcli=0&tta=1",
                     "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
                     "context": "lo quiero",
-                    "element": "cardrate",
+                    "element": "stiky inferior",
                     "category": "cta",
                     "id": "-7498449761489",
                     "label": "Lo quiero",

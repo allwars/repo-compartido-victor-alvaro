@@ -509,16 +509,16 @@
                         seguimiento de tu pedido y gestionar tus servicios de Vodafone.</p>
                     </li>
                   </ul><del>69,99</del><span>
-              <span>34,99€</span>
+              <span>34,99€€</span>
               <span>/mes</span>
-            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285829&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
+            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285826&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-7498449761489">
            Lo quiero
        
              <span></span>
          </a><del>69,99</del><span>
-              <span>34,99€€</span>
+              <span>34,99€</span>
               <span>/mes</span>
-            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285826&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
+            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285829&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-7498449761489">
            Lo quiero
        
              <span></span>
