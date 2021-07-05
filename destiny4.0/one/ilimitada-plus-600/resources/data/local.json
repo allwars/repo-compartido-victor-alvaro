@@ -162,9 +162,7 @@
       },
       {
         "icon": "#icon-unified-communication-mid",
-        "description": [
-          "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
-        ]
+        "description": "<strong>Llamadas y SMS ilimitados</strong> con cualquier operador nacional las 24 horas, establecimiento incluido."
       },
       {
         "icon": "#icon-roaming-mid",
@@ -179,7 +177,6 @@
 
   "secondLine": {
     "title": "Llévate también una 2ª línea",
-
     "productDetail": [
       {
         "icon": "#icon-thunder-3",
@@ -306,7 +303,7 @@
         },
         {
           "imgJpg": "",
-          "imgPng": "img/section-tv/amazon",
+          "imgPng": "img/section-tv/amazon-desktop",
           "alt": "logo amazon",
           "classImg":"ws10-c-logo-list__logo"
         },
@@ -346,13 +343,13 @@
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/comunes/amazon",
-          "alt": "amazon",
+          "alt": "Amazon Prime",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/foxnow",
-          "alt": "foxnow",
+          "alt": "FOXNOW",
           "class": "ws10-u--pr1x"
         },
         {
@@ -371,19 +368,19 @@
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/syfy",
-          "alt": "syfy",
+          "alt": "Syfy",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/amcseries",
-          "alt": "amc series",
+          "alt": "AMC Series",
           "class": "ws10-u--pr1x"
         },
         {
           "imgJpg": "",
           "imgPng": "img/section-tv/popup/calle13",
-          "alt": "calle 13",
+          "alt": "Calle 13",
           "class": "ws10-u--pr1x"
         },
         {
@@ -651,7 +648,6 @@
         "description": "No te pierdas nada, todo el <strong>contenido desde el principio</strong> y con control del directo."
       },
       {
-        "icon": "",
         "url": "img/section-deco/icon-control",
         "name": "control",
         "description": "Los contenidos <strong>siempre disponibles</strong> con Últimos 7 días y Ver Ahora, Grabación en la nube y Descarga tus contenidos."
@@ -659,7 +655,6 @@
       {
         "url": "img/section-deco/icons-indicators-mid-render-icons-prepare",
         "name": "render",
-        "icon": "",
         "description": "La televisión aprende de tus gustos, <strong>te recomienda y encuentra contenido</strong> que estás buscando."
       },
       {
@@ -712,6 +707,13 @@
             "title": "<strong>OneNumber</strong>",
             "description": "<strong>Mismo número de teléfono y misma tarifa de voz y datos en todos tus dispositivos</strong> sin necesidad de tener el móvil cerca y sin cambiar la SIM.",
             "conditions": "<strong>GRATIS</strong> durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono secundario y 1€/mes para Smart speaker con Alexa."
+        },
+        {
+          "svg": "#icon-accessories-mid",
+          "alt": "Audible de Amazon",
+          "title": "<strong>Audible de Amazon</strong>",
+          "description": "Disfruta de más de 90.000 audiolibros y podcast originales narrados por las mejores voces españolas para escuchar cuando y donde quieras, incluso sin conexión.",
+          "conditions": "<strong>GRATIS</strong> durante 4 meses, después 9,99€/mes por suscripción (puedes tener tantas como líneas móviles ilimitadas dispongas)."
         },
         {
             "src": "img/section-addons/securenet-family.svg",
