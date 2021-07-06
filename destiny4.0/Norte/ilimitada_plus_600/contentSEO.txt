@@ -70,7 +70,7 @@
                                                       <del>89,99€/mes</del>
                                                   </p><p>
                                                       44,99€<sub>/mes</sub>
-                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285761&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-268548269">
+                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1348686&amp;tcli=0&amp;tta=13" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-268548269">
                                               Lo quiero
                                           
                                                 <span></span>
@@ -82,7 +82,7 @@
                                                       <del>89,99€/mes</del>
                                                   </p><p>
                                                       44,99€<sub>/mes</sub>
-                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1223947&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4545656976521">
+                                                  </p><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1348686&amp;tcli=0&amp;tta=13" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4545656976521">
                                               Lo quiero
                                           
                                                 <span></span>
@@ -380,7 +380,7 @@
                     <span><strong>Sin sorpresas.</strong></span>
                     <span><strong>No escondemos nada</strong></span>
                   </p><p>Impuestos y cuota de línea incluidos</p><p data-js-vf="_portability"><strong>Permanencia 6 meses</strong></p><p data-js-vf="_newNumber"><strong>Permanencia 6 meses</strong></p><p>¿Cuánto voy a pagar?</p><p><strong>Paquete Fibra + Móvil: 44,99€/mes durante 6 meses, después 89,99€/mes</strong></p><p data-js-vf="_portability">
-                     <span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil + TV al 50% dto. 3 meses</span>
+                     <span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil + TV al 50% dto. 6 meses</span>
                   </p><p data-js-vf="_newNumber">
                      <span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil + TV al 50% dto. 6 meses</span>
                   </p><span data-js-vf="_portability">
@@ -447,14 +447,14 @@
                     </ul><del>89,99</del><span>
               <span>44,99€</span>
               <span>/mes</span>
-            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285761&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
+            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1348686&amp;tcli=0&amp;tta=13" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-4725875160583">
            Lo quiero
        
              <span></span>
          </a><del>89,99</del><span>
               <span>44,99€</span>
               <span>/mes</span>
-            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1223947&amp;tcli=0&amp;tta=1" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4545656976521">
+            </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1348686&amp;tcli=0&amp;tta=13" data-cta="300:port:card" target="_self" name="Lo quiero" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[1])" data-analytics-id="-4545656976521">
            Lo quiero
        
              <span></span>

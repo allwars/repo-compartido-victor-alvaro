@@ -45,7 +45,7 @@
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
-                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285761&tcli=0&tta=1",
+                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1348686&tcli=0&tta=13",
                     "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                     "context": "lo quiero",
                     "element": "cardrate",
@@ -67,7 +67,7 @@
                 },
                 "cta": {
                     "dataCTA": "300:port:card",
-                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1223947&tcli=0&tta=1",
+                    "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1348686&tcli=0&tta=13",
                     "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
                     "context": "lo quiero",
                     "element": "cardrate",
@@ -93,7 +93,7 @@
             },
             "cta": {
                 "dataCTA": "300:port:card",
-                "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285761&tcli=0&tta=1",
+                "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1348686&tcli=0&tta=13",
                 "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                 "context": "lo quiero",
                 "element": "cardrate",
@@ -115,7 +115,7 @@
             },
             "cta": {
                 "dataCTA": "300:port:card",
-                "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1223947&tcli=0&tta=1",
+                "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1348686&tcli=0&tta=13",
                 "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
                 "context": "lo quiero",
                 "element": "cardrate",
@@ -727,7 +727,7 @@
     "permanency2": "<strong>Permanencia 6 meses</strong>",
     "question": "¿Cuánto voy a pagar?",
     "paquete": "<strong>Paquete Fibra + Móvil: 44,99€/mes durante 6 meses, después 89,99€/mes</strong>",
-    "promociones": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil + TV al 50% dto. 3 meses</span>",
+    "promociones": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil + TV al 50% dto. 6 meses</span>",
     "promociones2": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil + TV al 50% dto. 6 meses</span>",
     "bar": [
       {
