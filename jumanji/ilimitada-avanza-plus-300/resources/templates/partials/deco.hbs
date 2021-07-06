@@ -9,12 +9,11 @@
             </a>
         </p>
     </div>
-        <ul class="vf-deco__details ws10-flex ws10-flex__wrap">
-            {{#each deco.productDetail}}
-                {{> productDetail this}}
-            {{/each}}
-        </ul>
-
+    <ul class="vf-deco__details ws10-flex ws10-flex__wrap">
+        {{#each deco.productDetail}}
+            {{> productDetail this}}
+        {{/each}}
+    </ul>
 
     {{!-- Pop Up --}}
     <div class="ws10-c-backdrop js-backdrop" data-ws10-js="backdrop" aria-hidden="true">
