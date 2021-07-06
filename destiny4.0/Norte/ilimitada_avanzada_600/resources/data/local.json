@@ -52,8 +52,8 @@
     },
     "rates": [
       {
-        "js-vf": "_newNumber",
-        "hidden": "ws10-u--hidden",
+        "js-vf": "_portability",
+        "hidden": "",
         "offers": {
           "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
           "discount": "50% dto. 6 meses",
@@ -74,8 +74,8 @@
         }
       },
       {
-        "js-vf": "_portability",
-        "hidden": "",
+        "js-vf": "_newNumber",
+        "hidden": "ws10-u--hidden",
         "offers": {
           "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
           "discount": "50% dto. 6 meses",
@@ -648,7 +648,7 @@
     "title": "<strong>No escondemos nada</strong>",
     "conditions": "Impuestos y cuota de línea incluidos",
     "permanency": "<strong>Permanencia 6 meses</strong>",
-    "permanency2": "<strong>Permanencia 1 año</strong>",
+    "permanency2": "<strong>Permanencia 6 meses</strong>",
     "question": "¿Cuánto voy a pagar?",
     "paquete": "<strong>Paquete Fibra + Móvil: 34,99€/mes durante 6 meses, después 69,99€/mes</strong>",
     "promociones": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50% dto. 6 meses</span><span data-js-vf='_portability'>Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado)</span><span>Paquete de TV: GRATIS durante 1 año, después 10€/mes</span>",

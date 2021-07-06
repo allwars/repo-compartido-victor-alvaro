@@ -48,8 +48,8 @@
         },
         "rates": [
             {
-                "js-vf": "_newNumber",
-                "hidden": "ws10-u--hidden",
+                "js-vf": "_portability",
+                "hidden": "",
                 "offers": {
                     "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
                     "discount": "50% dto. 6 meses",
@@ -69,8 +69,8 @@
                     "classCta":"ws10-c-button ws10-c-button--auto vf-button--mobile"
                 }
             }, {
-                "js-vf": "_portability",
-                "hidden": "",
+                "js-vf": "_newNumber",
+                "hidden": "ws10-u--hidden",
                 "offers": {
                     "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
                     "discount": "50% dto. 6 meses",
@@ -95,8 +95,8 @@
     "sticky": {
       "rates": [
         {
-            "js-vf": "_newNumber",
-            "hidden": "ws10-u--hidden",
+            "js-vf": "_portability",
+            "hidden": "",
             "offers": {
                 "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
                 "discount": "50% dto. 6 meses",
@@ -109,15 +109,15 @@
                 "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285772&tcli=0&tta=1",
                 "onmousedown": "addtocart(utag_data.plans_add2cart[0])",
                 "context": "lo quiero",
-                "element": "cardrate",
+                "element": "stiky inferior",
                 "category": "cta",
                 "id": "-4725875160583",
                 "label": "Lo quiero",
                 "classCta":"ws10-c-button ws10-c-button--auto vf-button--mobile"
             }
         }, {
-            "js-vf": "_portability",
-            "hidden": "",
+            "js-vf": "_newNumber",
+            "hidden": "ws10-u--hidden",
             "offers": {
                 "promoPeriod": "50% dto. 6 meses Permanencia 6 meses",
                 "discount": "50% dto. 6 meses",
@@ -130,7 +130,7 @@
                 "url": "https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1285753&tcli=0&tta=1",
                 "onmousedown": "addtocart(utag_data.plans_add2cart[1])",
                 "context": "lo quiero",
-                "element": "cardrate",
+                "element": "stiky inferior",
                 "category": "cta",
                 "id": "-4545656976521",
                 "label": "Lo quiero",
@@ -138,9 +138,7 @@
             }
         }
     ]
-  
   },
-
 
     "mobile": {
       "section": "Móvil",
@@ -636,7 +634,7 @@
     "title": "<strong>No escondemos nada</strong>",
     "conditions": "Impuestos y cuota de línea incluidos",
     "permanency": "<strong>Permanencia 6 meses</strong>",
-    "permanency2": "<strong>Permanencia 1 año</strong>",
+    "permanency2": "<strong>Permanencia 6 meses</strong>",
     "question": "¿Cuánto voy a pagar?",
     "paquete": "<strong>Paquete Fibra + Móvil: 28,49€/mes durante 6 meses, después 56,99€/mes</strong>",
     "promociones": "<span>Otras promociones:</span><span>Llévate el paquete de Fibra + Móvil al 50% dto. 6 meses</span></span><span data-js-vf='_portability'>Línea adicional: GRATIS durante 1 año, después con un 50% dto. por solo 17,50€/mes (dto. ya aplicado)</span><span>Paquete de TV: GRATIS</span>",
