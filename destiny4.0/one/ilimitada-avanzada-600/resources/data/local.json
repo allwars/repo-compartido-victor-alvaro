@@ -114,7 +114,7 @@
           "discount": "50% dto. 3 meses",
           "label": "Permanencia 1 año",
           "finalPrice": "<del>69,99</del>",
-          "discountPrice": "34,99€"
+          "discountPrice": "34,99"
         },
         "cta": {
           "dataCTA": "300:port:card",
@@ -152,7 +152,7 @@
         }
       ]
   },
-  
+
   "mobile": {
     "section": "Móvil",
     "title": "Datos ilimitados en tu móvil para TODO",
