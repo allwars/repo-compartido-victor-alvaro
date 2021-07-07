@@ -103,19 +103,17 @@
   }
 
   .vf-banner{
-    background: url('../img/bg-banner-mobile.jpg') no-repeat center;
-    background-size: contain;
-    position: relative;
-    min-height: 400px;
-    margin-bottom: -50px;
-    @media screen and (min-width: 970px) {
-      background: url('../img/bg-banner.png') no-repeat center;
-      background-position-x: 430px;
-      background-size: contain;
-      min-height: auto;
-      margin-bottom: -20px;
-    }
-
+      .vf-banner__container {
+          background: url('../img/bg-banner-mobile.jpg') no-repeat center;
+          background-size: contain;
+          min-height: 400px;
+          margin-bottom: -1rem;
+          @media screen and (min-width: 970px) {
+            background: url('../img/bg-banner.png') no-repeat center;
+            background-position: right;
+            background-size: contain;
+          }
+      }
     &__title{
       @media screen and (min-width: 970px){
         padding-right: 110px;
