@@ -423,6 +423,6 @@
                     </ul><del>56,99€/mes</del><span>
                         <span>39,49€</span>
                         <span>/mes</span>
-                    </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1211327&amp;tcli=0&amp;tta=1" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart[0])" data-analytics-id="-3529893674309">
+                    </span><a href="https://www.vodafone.es/c/tienda-online/particulares/contratacion?id=1211327&amp;tcli=0&amp;tta=1" name="cta" title="Lo quiero" onmousedown="addtocart(utag_data.plans_add2cart)" data-analytics-id="-3529893674309">
                     Lo quiero
                 </a>
