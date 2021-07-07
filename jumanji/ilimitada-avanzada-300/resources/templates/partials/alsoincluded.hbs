@@ -2,48 +2,38 @@
     <h3 class="ws10-u-heading--3">
         <strong>{{ alsoIncluded.title }}</strong>
     </h3>
-  <!-- CAROUSEL -->
-  <div
-    class="ws10-c-carousel ws10-c-carousel--secondary ws10-c-carousel--no-lateral-padding ws10-c-carousel--secondary-left ws10-c-carousel--align-bottom ws10-u--pl0"
-    data-ws10-js="carousel"
-    data-config='{
-                                    "responsive": {
-                                        "0": {
-                                            "breakpoint": 0,
-                                            "elements": 1,
-                                            "viewport": true
-                                        },
-                                        "1": {
-                                            "breakpoint": 640,
-                                            "elements": 1,
-                                            "viewport": true
-                                        },
-                                        "2": {
-                                            "breakpoint": 970,
-                                            "elements": 2,
-                                            "viewport": true
-                                        }
-                                    },
-                                    "build": {
-                                        "arrows": true,
-                                        "bullets": true,
-                                        "clickable_bullets": true
-                                    }
-                                }'
-  >
-    <ul
-      class="ws10-c-carousel__list js-carousel-list"
-      id="idUl"
-      aria-labelledby="idList"
-    >
-     {{#each alsoIncluded.carouselList}}
-        {{> carouselList params=this}}
-      {{/each}}
-    </ul>
-    <span
-      class="ws10-c-carousel__helperText"
-      id="idList"
-      style="left: 0;"
-    >{{alsoIncluded.legal}}</span>
-  </div>
+    <!-- CAROUSEL -->
+    <div class="ws10-c-carousel ws10-c-carousel--secondary ws10-c-carousel--no-lateral-padding ws10-c-carousel--secondary-left ws10-c-carousel--align-bottom ws10-u--pl0"
+        data-ws10-js="carousel"
+        data-config='{
+            "responsive": {
+                "0": {
+                    "breakpoint": 0,
+                    "elements": 1,
+                    "viewport": true
+                },
+                "1": {
+                    "breakpoint": 640,
+                    "elements": 1,
+                    "viewport": true
+                },
+                "2": {
+                    "breakpoint": 970,
+                    "elements": 2,
+                    "viewport": true
+                }
+            },
+            "build": {
+                "arrows": true,
+                "bullets": true,
+                "clickable_bullets": true
+            }
+        }'>
+        <ul class="ws10-c-carousel__list js-carousel-list" id="idUl" aria-labelledby="idList">
+            {{#each alsoIncluded.carouselList}}
+                {{> carouselList params=this}}
+            {{/each}}
+        </ul>
+        <span class="ws10-c-carousel__helperText" id="idList" style="left: 0;">{{alsoIncluded.legal}}</span>
+    </div>
 </section>
