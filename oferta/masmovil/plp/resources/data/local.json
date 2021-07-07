@@ -35,8 +35,8 @@
       },
       "cta": {
         "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/mm/paquete-one-1/",
-        "context": "vodafone one ilimitada:mas info",
-        "element": "card 1",
+        "context": "mas info:vodafone one ilimitada avanzada 300mbps",
+        "element": "cardrate",
         "category": "cta",
         "id": "-7515870759291",
         "label": "Más info",
@@ -72,8 +72,8 @@
       },
       "cta": {
         "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/mm/paquete-one-2/",
-        "context": "vodafone one ilimitada: mas info",
-        "element": "card 2",
+        "context": "mas info:vodafone one ilimitada avanzada 600mbps",
+        "element": "cardrate",
         "category": "cta",
         "id": "-3976052093347",
         "label": "Más info",
@@ -114,8 +114,8 @@
       },
       "cta": {
         "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/mm/paquete-one-3/",
-        "context": "vodafone one ilimitada total 600mb:mas info",
-        "element": "card 3",
+        "context": "mas info:vodafone one ilimitada avanzada 600 mbps + tv",
+        "element": "cardrate",
         "category": "cta",
         "id": "-1411181351186",
         "label": "Más info",
@@ -130,7 +130,7 @@
         "svg":"img/section-vodafone-one/icono-convergente.svg",
         "title":"Vodafone One",
         "description":"Móvil, fibra y fijo incluido. Y el pack de TV aparte para que puedas configurar tu televisión eligiendo tu contenido favorito."
-      },    
+      },
       {
         "svg":"img/section-vodafone-one/icono-fibra.svg",
         "title":"Fibra óptica",

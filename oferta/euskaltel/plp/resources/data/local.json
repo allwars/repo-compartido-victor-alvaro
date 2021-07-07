@@ -32,8 +32,8 @@
       },
       "cta": {
         "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-1/",
-        "context": "vodafone one ilimitada:mas info",
-        "element": "card 1",
+        "context": "mas info:vodafone one ilimitada avanzada 300mbps",
+        "element": "cardrate",
         "category": "cta",
         "id": "-0974351278005",
         "label": "Más info",
@@ -59,11 +59,11 @@
           "icon": "icon-broadband-or-wifi",
           "title": "600Mbps Fibra Óptica",
           "subtitle": "+ llamadas ilimitadas en fijo"
-        }
-        , {
-            "icon": "icon-tv",
-            "title": "Pack TV Universal GRATIS",
-            "subtitle": "AMC, Eurosport 1 y hasta 30 canales"
+        },
+        {
+          "icon": "icon-tv",
+          "title": "Pack TV Universal GRATIS",
+          "subtitle": "AMC, Eurosport 1 y hasta 30 canales"
         }
       ],
       "offers": {
@@ -74,8 +74,8 @@
       },
       "cta": {
         "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-2/",
-        "context": "vodafone one ilimitada: mas info",
-        "element": "card 2",
+        "context": "mas info:vodafone one ilimitada avanzada 600mbps",
+        "element": "cardrate",
         "category": "cta",
         "id": "-3939800656561",
         "label": "Más info",
@@ -116,8 +116,8 @@
       },
       "cta": {
         "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/e/paquete-one-3/",
-        "context": "vodafone one ilimitada total 600mb:mas info",
-        "element": "card 3",
+        "context": "mas info:vodafone one ilimitada avanzada 600 mbps + tv",
+        "element": "cardrate",
         "category": "cta",
         "id": "-34247585015073",
         "label": "Más info",
