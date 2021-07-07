@@ -296,7 +296,7 @@
           },
           {
             "imgJpg": "",
-            "imgPng": "img/section-tv/amazon",
+            "imgPng": "img/section-tv/amazon-desktop",
             "alt": "logo amazon",
             "classImg": "ws10-c-logo-list__logo"
           },
@@ -701,6 +701,13 @@
         "title": "<strong>OneNumber</strong>",
         "description": "<strong>Mismo número de teléfono y misma tarifa de voz y datos en todos tus dispositivos</strong> sin necesidad de tener el móvil cerca y sin cambiar la SIM.",
         "conditions": "<strong>GRATIS</strong> durante 1 mes, después 5€/mes para smartwatch, Tablet o teléfono secundario y 1€/mes para Smart speaker con Alexa."
+      },
+      {
+        "svg": "#icon-accessories-mid",
+        "alt": "Audible de Amazon",
+        "title": "<strong>Audible de Amazon</strong>",
+        "description": "Disfruta de más de 90.000 audiolibros y podcast originales narrados por las mejores voces españolas para escuchar cuando y donde quieras, incluso sin conexión.",
+        "conditions": "<strong>GRATIS</strong> durante 4 meses, después 9,99€/mes por suscripción (puedes tener tantas como líneas móviles ilimitadas dispongas)."
       },
       {
         "src": "img/section-addons/securenet-family.svg",
