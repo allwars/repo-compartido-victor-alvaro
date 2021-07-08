@@ -35,8 +35,8 @@
             },
             "cta": {
                 "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-3/",
-                "context": "mas info:vodafone one ilimitada avanzada 300mbps",
-                "element": "cardrate",
+                "context": "300mbps",
+                "element": "cardrate:one ilimitada avanzada",
                 "category": "cta",
                 "id": "-168446368",
                 "label": "Más info"
@@ -73,8 +73,8 @@
             },
             "cta": {
                 "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-4/",
-                "context": "mas info:vodafone one ilimitada avanzada 600mbps",
-                "element": "cardrate",
+                "context": "300mbps",
+                "element": "cardrate:one ilimitada avanzada tv",
                 "category": "cta",
                 "id": "-168446368",
                 "label": "Más info"
@@ -111,8 +111,8 @@
             },
             "cta": {
                 "url": "https://www.vodafone.es/c/particulares/es/productos-y-servicios/vodafone-one/alt/j/paquete-one-5/",
-                "context": "mas info:vodafone one ilimitada plus 600mbps",
-                "element": "cardrate",
+                "context": "300mbps",
+                "element": "cardrate:one ilimitada plus",
                 "category": "cta",
                 "id": "-168446420",
                 "label": "Más info"
