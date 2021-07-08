@@ -1,4 +1,9 @@
-<p><strong>Si ya eres cliente</strong> y quieres beneficiarte de este descuento, <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-anaytics-element="cintillo" data-analytics-conext="informate aqui" data-analytics-id="-3753969986503">infórmate aquí</a></p><h2>Oferta para colectivos <strong>15% dto. 2 años</strong></h2><p>Elige una de las <strong>ofertas que</strong> tenemos <strong>para ti</strong></p><a href="#panel-1" role="tab">
+<p>
+		        <strong>Si ya eres cliente</strong> y quieres beneficiarte de este descuento,
+		        <a data-backdrop="icon-backdrop" data-backdrop-close="" aria-haspopup="dialog" data-analytics-id="-3753969986503">
+		            infórmate aquí
+		        </a>
+		    </p><h2>Oferta para colectivos <strong>15% dto. 2 años</strong></h2><p>Elige una de las <strong>ofertas que</strong> tenemos <strong>para ti</strong></p><a href="#panel-1" role="tab">
 		      <span data-analytics-id="-1971469830803">
 		        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px">
 		          <title>titulo</title>
