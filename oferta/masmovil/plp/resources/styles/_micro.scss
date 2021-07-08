@@ -107,11 +107,12 @@
           background: url('../img/bg-banner-mobile.jpg') no-repeat center;
           background-size: contain;
           min-height: 400px;
-          margin-bottom: -1rem;
+          margin-bottom: 1rem;
           @media screen and (min-width: 970px) {
             background: url('../img/bg-banner.png') no-repeat center;
             background-position: right;
             background-size: contain;
+            margin-bottom: -1rem;
           }
       }
     &__title{

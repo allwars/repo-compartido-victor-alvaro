@@ -44,6 +44,19 @@
                                                 </p>
                                             </div>
                                         </li>
+                                        <li>
+                                           <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                                               <use xlink:href="#icon-tv"></use>
+                                           </svg>
+                                           <div>
+                                               <p>
+                                                   Pack TV Universal GRATIS
+                                               </p>
+                                               <p>
+                                                   AMC, Eurosport 1 y hasta 30 canales
+                                               </p>
+                                           </div>
+                                       </li>
                                     </ul><p>
                                                     40% dto. 1 año
                                                 </p><p>

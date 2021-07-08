@@ -25,6 +25,10 @@
           "icon": "icon-broadband-or-wifi",
           "title": "300Mbps Fibra Óptica",
           "subtitle": "+ llamadas ilimitadas en fijo"
+        }, {
+            "icon": "icon-tv",
+            "title": "Pack TV Universal GRATIS",
+            "subtitle": "AMC, Eurosport 1 y hasta 30 canales"
         }
       ],
       "offers": {
@@ -62,6 +66,11 @@
           "icon": "icon-broadband-or-wifi",
           "title": "600Mbps Fibra Óptica",
           "subtitle": "+ llamadas ilimitadas en fijo"
+        },
+        {
+          "icon": "icon-tv",
+          "title": "Pack TV Universal GRATIS",
+          "subtitle": "AMC, Eurosport 1 y hasta 30 canales"
         }
       ],
       "offers": {
@@ -103,11 +112,11 @@
         {
           "icon": "icon-tv",
           "title": "Pack TV Seriefans GRATIS 1 año",
-          "subtitle": "con HBO España y 60 canales más"
+          "subtitle": "con HBO España y 60 canales más + deco incl."
         }
       ],
       "offers": {
-        "discount": "35% dto. 1 año",
+        "discount": "25% dto. 1 año",
         "label": "Permanencia 1 año",
         "finalPrice": "<del>94,49€/mes</del>",
         "discountPrice": "51,49€<sub>/mes</sub>"
