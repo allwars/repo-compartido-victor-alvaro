@@ -3,7 +3,7 @@ import {
   analyticsAndThirdURLForCta,
   keysCTAS
 } from './analyticsAndThirdURLForCta';
-import utad_data from './utag_data';
+import utag_data from './utag_data';
 
 
 /*

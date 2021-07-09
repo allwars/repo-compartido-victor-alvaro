@@ -1,88 +1,44 @@
 const utag_data = {
-    default_plan: "vodafone one ilimitada plus 300Mbps",
+    default_plan: "vodafone one ilimitada plus x2 600mbps",
     plans_add2cart: [{
-            "product_name": "vodafone one ilimitada plus 300Mbps",
-            "product_category": "movil+fibra",
-            "product_variant": "Datos y minutos ilimitados+300Mbps Fibra",
-            "promotion_price_name": "Promo colectivos + Promo 50% One Ilimitada Plus 300Mbps",
+        "product_name": "vodafone one ilimitada plus x2 600mbps",
+        "product_category": "movil+fibra",
+        "product_variant": "datos y minutos ilimitados+600mbps fibra optica",
+        "promotion_price_name": "promo colectivos hogar ilimitable - 50% dto. 3 meses",
+        "promotion_gift_name": "",
+        "product_id": "268548269",
+        "product_detail": "",
+        "product_sale_type": "yes:transactional",
+        "product_additional_lines": [{
+            "product_name": "",
+            "product_category": "",
+            "promotion_price_name": "",
+            "product_id": ""
+        }],
+        "product_packs_tv": [{
+            "product_name": "",
+            "product_category": "",
+            "promotion_price_name": "",
             "promotion_gift_name": "",
-            "product_id": "",
-            "product_detail": "",
-            "product_sale_type": "yes:transactional",
-            "product_additional_lines": [{
-                "product_name": "tarifa movil lite",
-                "product_variant": "4GB Datos móviles 5G",
-                "product_category": "movil",
-                "promotion_price_name": "2 x 1 lite",
-                "promotion_gift_name": "",
-                "product_id": ""
-            }],
-            "product_packs_tv": [{
-                "product_name": "pack seriefans",
-                "product_category": "tv",
-                "promotion_price_name": "seriefans incluido en ilimitada plus y one ilimitada plus",
-                "promotion_gift_name": "",
-                "product_id": ""
-            }]
-        }, {
-            "product_name": "vodafone one ilimitada plus 600Mbps",
-            "product_category": "movil+fibra",
-            "product_variant": "Datos y minutos ilimitados+600Mbps Fibra",
-            "promotion_price_name": "Promo colectivos + Promo 50% + T&P One Ilimitada Plus 600Mb",
+            "product_id":""
+        }]
+    }, {
+        "product_name": "vodafone one ilimitada plus x2 600mbps ilimitada total pack tv plus x2 series",
+        "product_category": "movil+fibra",
+        "product_variant": "datos y minutos ilimitados+600mbps fibra optica",
+        "promotion_price_name": "promo colectivos hogar ilimitable - 50% dto. 3 meses",
+        "promotion_gift_name": "",
+        "product_id": "268548269",
+        "product_detail": "",
+        "product_sale_type": "yes:transactional",
+        "product_packs_tv": [{
+            "product_name": "",
+            "product_category": "",
+            "promotion_price_name": "",
             "promotion_gift_name": "",
-            "product_id": "",
-            "product_detail": "",
-            "product_sale_type": "yes:transactional",
-            "product_additional_lines": [{
-                "product_name": "tarifa movil lite",
-                "product_category": "movil",
-                "product variant": "4GB Datos móviles 5G",
-                "promotion_price_name": "2 x 1 lite",
-                "promotion_gift_name": "",
-                "product_id": ""
-            }],
-            "product_packs_tv": [{
-                "product_name": "pack seriefans",
-                "product_category": "tv",
-                "promotion_price_name": "seriefans incluido en ilimitada plus y one ilimitada plus",
-                "promotion_gift_name": "",
-                "product_id": ""
-            }]
-        }, {
-            "product_name": "vodafone one ilimitada plus 300Mbps",
-            "product_category": "movil+fibra",
-            "product_variant": "Datos y minutos ilimitados+300Mbps Fibra",
-            "promotion_price_name": "Promo colectivos + Promo 50% One Ilimitada Plus 300Mbps",
-            "promotion_gift_name": "",
-            "product_id": "",
-            "product_detail": "",
-            "product_sale_type": "yes:transactional",
-            "product_packs_tv": [{
-                "product_name": "pack seriefans",
-                "product_category": "tv",
-                "promotion_price_name": "seriefans incluido en ilimitada plus y one ilimitada plus",
-                "promotion_gift_name": "",
-                "product_id": ""
-            }]
-        }, {
-            "product_name": "vodafone one ilimitada plus 600Mbps",
-            "product_category": "movil+fibra",
-            "product_variant": "Datos y minutos ilimitados+600Mbps Fibra",
-            "promotion_price_name": "Promo colectivos + Promo 50% + T&P One Ilimitada Plus 600Mb",
-            "promotion_gift_name": "",
-            "product_id": "",
-            "product_detail": "",
-            "product_sale_type": "yes:transactional",
-            "product_packs_tv": [{
-                "product_name": "pack seriefans",
-                "product_category": "tv",
-                "promotion_price_name": "seriefans incluido en ilimitada plus y one ilimitada plus",
-                "promotion_gift_name": "",
-                "product_id": ""
-            }]
-        }
-    ]
-
+            "product_id": ""
+        }]
+    }]
 }
 
 window.utag_data = {

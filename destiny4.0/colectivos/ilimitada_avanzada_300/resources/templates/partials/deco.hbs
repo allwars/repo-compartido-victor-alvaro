@@ -9,17 +9,15 @@
             </a>
         </p>
     </div>
-        <ul class="vf-deco__details ws10-flex ws10-flex__wrap">
-            {{#each deco.productDetail}}
-                {{> productDetail this}}
-            {{/each}}
-        </ul>
-
+    <ul class="vf-deco__details ws10-flex ws10-flex__wrap">
+        {{#each deco.productDetail}}
+            {{> productDetail this}}
+        {{/each}}
+    </ul>
 
     {{!-- Pop Up --}}
     <div class="ws10-c-backdrop js-backdrop" data-ws10-js="backdrop" aria-hidden="true">
-        <section id="dispositivos-compatibles" class="ws10-c-backdrop__item js-backdrop-item" aria-hidden="true"
-            role="dialog" aria-modal="true">
+        <section id="dispositivos-compatibles" class="ws10-c-backdrop__item js-backdrop-item" aria-hidden="true" role="dialog" aria-modal="true">
             <div class="ws10-c-backdrop__head">
                 <button class="ws10-c-backdrop__close js-backdrop-close" aria-hidden="false">
                     <svg class="ws10-c-backdrop__close-icon" xmlns="http://www.w3.org/2000/svg"
@@ -30,45 +28,43 @@
                 </button>
             </div>
             <div class="ws10-c-backdrop__content js-backdrop-content ws10-u--pt0 ws10-u--mt0">
-                <p
-                    class="ws10-u-heading--4 ws10-u-heading--4-lt ws10-align--center ws10-u--pt0 ws10-u--mt0 ws10-u--pb2x">
-                    Dispositivos compatibles</p>
-                    <ul class="ws10-flex ws10-flex__wrap">
-                        <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
-                            <svg class="ws10-u--pr1x" style="width: 60px; height: 60px;">
-                                <title>icon-tv-mid</title>
-                                <use xlink:href="#icon-mobile-mid" class="icon-v3"></use>
-                            </svg>
-                            <p class="ws10-c-paragraph ws10-u--mb0">Móvil / Tablet iOS y Android.</p>
-                        </li>
-                        <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
-                            <svg class="ws10-u--pr1x" style="width: 60px; height: 60px;">
-                                <title>icon-tv-mid</title>
-                                <use xlink:href="#icon-tv-mid" class="icon-v3"></use>
-                            </svg>
-                            <p class="ws10-c-paragraph ws10-u--mb0 ws10-u--4/5">Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
-                            </p>
-                        </li>
-                        <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
-                            <svg class="ws10-u--pr1x" style="width: 60px; height: 60px;">
-                                <title>icon-connected-devices-mid</title>
-                                <use xlink:href="#icon-connected-devices-mid" class="icon-v3"></use>
-                            </svg>
-                            <p class="ws10-c-paragraph ws10-u--mb0">Chromecast.</p>
-                        </li>
-                        <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
-                            <svg class="ws10-u--pr1x" style="width: 60px;">
-                                <title>icon-desktop-mid</title>
-                                <use xlink:href="#icon-desktop-mid" class="icon-v3"></use>
-                            </svg>
-                            <p class="ws10-c-paragraph ws10-u--mb0">PC/Mac.</p>
-                        </li>
-                        <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
-                            <img src="img/section-tv/icono-fire-tv.svg" alt="icono Fire TV Stick" class="ws10-u--pr1x"
-                                style="width: 60px; height: 60px;">
-                            <p class="ws10-c-paragraph ws10-u--mb0">Fire TV Stick.</p>
-                        </li>
-                    </ul>
+                <p class="ws10-u-heading--4 ws10-u-heading--4-lt ws10-align--center ws10-u--pt0 ws10-u--mt0 ws10-u--pb2x">Dispositivos compatibles</p>
+                <ul class="ws10-flex ws10-flex__wrap">
+                    <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
+                        <svg class="ws10-u--pr1x" style="width: 60px; height: 60px;">
+                            <title>icon-tv-mid</title>
+                            <use xlink:href="#icon-mobile-mid" class="icon-v3"></use>
+                        </svg>
+                        <p class="ws10-c-paragraph ws10-u--mb0">Móvil / Tablet iOS y Android.</p>
+                    </li>
+                    <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
+                        <svg class="ws10-u--pr1x" style="width: 60px; height: 60px;">
+                            <title>icon-tv-mid</title>
+                            <use xlink:href="#icon-tv-mid" class="icon-v3"></use>
+                        </svg>
+                        <p class="ws10-c-paragraph ws10-u--mb0 ws10-u--4/5">Modelos de smart TV Samsung (a partir de 2017). Modelos de smart TV Sony (desde 2015) , Philips (desde 2018) y Xiaomi y TCL con Android TV.
+                        </p>
+                    </li>
+                    <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
+                        <svg class="ws10-u--pr1x" style="width: 60px; height: 60px;">
+                            <title>icon-connected-devices-mid</title>
+                            <use xlink:href="#icon-connected-devices-mid" class="icon-v3"></use>
+                        </svg>
+                        <p class="ws10-c-paragraph ws10-u--mb0">Chromecast.</p>
+                    </li>
+                    <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
+                        <svg class="ws10-u--pr1x" style="width: 60px;">
+                            <title>icon-desktop-mid</title>
+                            <use xlink:href="#icon-desktop-mid" class="icon-v3"></use>
+                        </svg>
+                        <p class="ws10-c-paragraph ws10-u--mb0">PC/Mac.</p>
+                    </li>
+                    <li class="ws10-u--1/2 ws10-flex ws10-flex__align-items--center">
+                        <img src="img/section-tv/icono-fire-tv.svg" alt="icono Fire TV Stick" class="ws10-u--pr1x"
+                            style="width: 60px; height: 60px;">
+                        <p class="ws10-c-paragraph ws10-u--mb0">Fire TV Stick.</p>
+                    </li>
+                </ul>
             </div>
         </section>
     </div>

@@ -1,54 +1,33 @@
 <section class="vf-tv ws10-u--pt12x">
-  <h3 class="ws10-flex ws10-flex__direction--column ws10-u--mb0">
-    <span class="ws10-u-heading--4 ws10-u--mb0 ws10-u-heading--4-lt">
-        {{ tv.section }}
-    </span>
-    <span class="ws10-u-heading--3 ws10-u--mb0">
-        <strong>{{ tv.title }}</strong>
-    </span>
-  </h3>
-  <p class="ws10-u-heading--3 ws10-u-heading--3-lt">
-      {{ tv.subtitle }}
-  </p>
+    <h3 class="ws10-flex ws10-flex__direction--column ws10-u--mb0">
+        <span class="ws10-u-heading--4 ws10-u--mb0 ws10-u-heading--4-lt">{{ tv.section }}</span>
+        <span class="ws10-u-heading--3 ws10-u--mb0"><strong>{{ tv.title }}</strong></span>
+    </h3>
+    <p class="ws10-u-heading--3 ws10-u-heading--3-lt">{{ tv.subtitle }}</p>
 
-{{#if tv.carousel.show}}
-  <div
-    class="ws10-c-carousel-cover"
-    data-ws10-js="carousel-cover"
-    data-ws10-config='{"autoAnim": true}'
-  >
-    <ul class="ws10-c-carousel-cover__list">
-  {{#each tv.carousel.img}}
-      <li class="ws10-c-carousel-cover__item js-carousel-cover-item">
-          {{> picture this}}
-      </li>
-      {{/each}}
-    </ul>
-  </div>
-{{/if}}
+    {{#if tv.carousel.show}}
+        <div class="ws10-c-carousel-cover" data-ws10-js="carousel-cover" data-ws10-config='{"autoAnim": true}'>
+            <ul class="ws10-c-carousel-cover__list">
+                {{#each tv.carousel.img}}
+                <li class="ws10-c-carousel-cover__item js-carousel-cover-item">
+                    {{> picture this}}
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+    {{/if}}
 
-  <p class="ws10-u--pt5x">
-      {{{ tv.description }}}
-  </p>
-  <div class="ws10-c-logo-list ws10-c-logo-list--mini">
-      <ul class="ws10-c-logo-list__list">
-        {{#each tv.logos.img}}
-        <li class="ws10-c-logo-list__item@desktop">
-          {{> picture this}}
-        </li>
-        {{/each}}
-      </ul>
-    <p class="ws10-c-logo-list__w-show-all">
-      {{> cta tv.cta}}
+    <p class="ws10-u--pt5x">{{{ tv.description }}}</p>
 
-
-    </p>
-    <span
-      class="ws10-c-carousel__helperText"
-      id="idList"
-      style="left: 0; position:relative;"
-    >
-    {{ tv.legal }}
-    </span>
-  </div>
+    <div class="ws10-c-logo-list ws10-c-logo-list--mini">
+        <ul class="ws10-c-logo-list__list">
+            {{#each tv.logos.img}}
+            <li class="ws10-c-logo-list__item@desktop">
+                {{> picture this}}
+            </li>
+            {{/each}}
+        </ul>
+        <p class="ws10-c-logo-list__w-show-all">{{> cta tv.cta}}</p>
+        <span class="ws10-c-carousel__helperText" id="idList" style="left: 0; position:relative;">{{ tv.legal }}</span>
+    </div>
 </section>
